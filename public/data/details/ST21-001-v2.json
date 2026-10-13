@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/st21-p002.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/615565_200w.jpg",
-  "price_eur": 65,
+  "price_eur": 58,
   "price_usd": 156.14,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/MonkeyDLuffy-ST21-001-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Gear-5-Non-English/MonkeyDLuffy-ST21-001-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Monkey.D.Luffy (001)",
       "rarity": "L",
-      "price_eur": 65,
+      "price_eur": 58,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/MonkeyDLuffy-ST21-001-V1?language=2",
       "file": "ST21-001-v1.json"
     },
@@ -64,7 +64,7 @@
       "file": "ST21-001-v4.json"
     }
   ],
-  "price_min_eur": 65,
+  "price_min_eur": 58,
   "price_avg7_eur": 93.71,
   "price_avg30_eur": 109.25,
   "listings_count": 31

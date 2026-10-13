@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/st21-p020.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/615583_200w.jpg",
-  "price_eur": 5,
+  "price_eur": 5.49,
   "price_usd": 19.56,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Nico-Robin-ST21-010-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Gear-5-Non-English/Nico-Robin-ST21-010-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Nico Robin",
       "rarity": "C",
-      "price_eur": 5,
+      "price_eur": 5.49,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Nico-Robin-ST21-010-V1?language=2",
       "file": "ST21-010-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "ST21-010-v2.json"
     }
   ],
-  "price_min_eur": 5,
+  "price_min_eur": 5.49,
   "price_avg7_eur": 6.23,
   "price_avg30_eur": 6.96,
   "listings_count": 26
