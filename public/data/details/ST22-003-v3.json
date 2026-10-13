@@ -1,0 +1,59 @@
+{
+  "code": "ST22-003",
+  "variant_version": "v3",
+  "variant_index": 3,
+  "name": "Edward Newgate",
+  "variant_name": "Edward.Newgate (Premium Card Collection -6 assort vol.1-)",
+  "category": "CHARACTER",
+  "cost": 9,
+  "power": 10000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Quatre Empereurs/Équipage de Barbe Blanche",
+  "effect": "[Double attaque] (Les dégâts infligés par cette carte passent à 2.)\n[Jouée] Révélez 1 carte du dessus de votre deck ; si elle inclut «Équipage de Barbe Blanche» dans son type, piochez 2 cartes.",
+  "trigger": null,
+  "illust": "Yosuke Adachi",
+  "color": "Bleu",
+  "rarity": "C",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/pcc-6assort-p006.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649709_200w.jpg",
+  "price_eur": 4.98,
+  "price_usd": 6.26,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/EdwardNewgate-ST22-003?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/EdwardNewgate-ST22-003-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/649709",
+  "pricecharting_url": "https://www.pricecharting.com/game/10472481",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Edward.Newgate",
+      "rarity": "C",
+      "price_eur": 4.98,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/EdwardNewgate-ST22-003-V1?language=2",
+      "file": "ST22-003-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Edward.Newgate (Parallel)",
+      "rarity": "C",
+      "price_eur": 3.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/EdwardNewgate-ST22-003-V2?language=2",
+      "file": "ST22-003-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Edward.Newgate (Premium Card Collection -6 assort vol.1-)",
+      "rarity": "C",
+      "price_eur": 7.01,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/EdwardNewgate-ST22-003?language=2",
+      "file": "ST22-003-v3.json"
+    }
+  ],
+  "price_min_eur": 4.98
+}

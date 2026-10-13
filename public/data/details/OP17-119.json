@@ -1,0 +1,53 @@
+{
+  "code": "OP17-119",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Loki",
+  "variant_name": "Loki",
+  "category": "CHARACTER",
+  "cost": 6,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Géants/Erbaf",
+  "effect": "Ce Personnage gagne +12 de coût ; s'il s'agit du tour adverse, ce Personnage gagne +3000 de puissance.\n[Jouée] Mettez KO des Personnages adverses ayant un coût total combiné de 4 ou moins.",
+  "trigger": null,
+  "illust": "Akanegumo",
+  "color": "Noir",
+  "rarity": "SEC",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op17-p157.webp",
+  "image_url": "/img/cards-fr/op17-p157-sm.webp",
+  "price_eur": 18,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Loki-OP17-119-V1?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/710585",
+  "pricecharting_url": "https://www.pricecharting.com/game/14107670",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Loki",
+      "rarity": "SEC",
+      "price_eur": 18,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Loki-OP17-119-V1?language=2",
+      "file": "OP17-119-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Loki (Alternate Art)",
+      "rarity": "SEC",
+      "price_eur": 33,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Loki-OP17-119-V2?language=2",
+      "file": "OP17-119-v2.json"
+    }
+  ],
+  "price_min_eur": 18,
+  "price_avg7_eur": 25.52,
+  "price_avg30_eur": 25.12,
+  "listings_count": 42
+}

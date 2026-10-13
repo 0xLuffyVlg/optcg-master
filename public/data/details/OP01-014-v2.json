@@ -1,0 +1,53 @@
+{
+  "code": "OP01-014",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Jinbe",
+  "variant_name": "Jinbe (Premium Card Collection -ONE PIECE FILM RED Edition-)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": null,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Fish-Man/Straw Hat Crew",
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[DON!! x1] [On Block] Play up to 1 red Character card with a cost of 2 or less from your hand.",
+  "trigger": null,
+  "illust": null,
+  "color": "Rouge",
+  "rarity": "UC",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/pcc-film-red-p022.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/504469_200w.jpg",
+  "price_eur": 1.4,
+  "price_usd": 8.84,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Jinbe-OP01-014",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Jinbe-OP01-014",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/504469",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Jinbe (014)",
+      "rarity": "UC",
+      "price_eur": 1.4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Jinbe-OP01-014",
+      "file": "OP01-014-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Jinbe (Premium Card Collection -ONE PIECE FILM RED Edition-)",
+      "rarity": "UC",
+      "price_eur": 3.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Jinbe-OP01-014",
+      "file": "OP01-014-v2.json"
+    }
+  ],
+  "price_min_eur": 1.4,
+  "price_avg7_eur": 3.65,
+  "price_avg30_eur": 5.22,
+  "listings_count": 50
+}

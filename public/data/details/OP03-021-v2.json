@@ -1,0 +1,53 @@
+{
+  "code": "OP03-021",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Kuro",
+  "variant_name": "Kuro (Alternate Art)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Tranchant",
+  "types": "East Blue/Black Cat Pirates",
+  "effect": "\"[Activate: Main] ③ (You may rest the specified number of DON!! cards in your cost area.) You may rest 2 of your {East Blue",
+  "trigger": null,
+  "illust": null,
+  "color": "Vert",
+  "rarity": "L",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op03-p025.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/498039_200w.jpg",
+  "price_eur": 29.9,
+  "price_usd": 26.81,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Kuro-OP03-021-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/Kuro-OP03-021-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/498039",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Kuro",
+      "rarity": "L",
+      "price_eur": 29.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Kuro-OP03-021-V1",
+      "file": "OP03-021-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Kuro (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 30,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Kuro-OP03-021-V2",
+      "file": "OP03-021-v2.json"
+    }
+  ],
+  "price_min_eur": 29.9,
+  "price_avg7_eur": 34.41,
+  "price_avg30_eur": 40.1,
+  "listings_count": 50
+}

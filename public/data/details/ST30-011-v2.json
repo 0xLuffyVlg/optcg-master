@@ -1,0 +1,53 @@
+{
+  "code": "ST30-011",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Baggy",
+  "variant_name": "Buggy (Full Art)",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Impel Down/Bande à Baggy",
+  "effect": "Si un de vos Personnages ayant 6000 de puissance de base quitte le terrain à cause d'un effet adverse, vous pouvez épuiser ce Personnage à la place.\n[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
+  "trigger": null,
+  "illust": "Morechand",
+  "color": "Vert",
+  "rarity": "C",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st30-p022.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695436_200w.jpg",
+  "price_eur": 2,
+  "price_usd": 1.74,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/Buggy-ST30-011-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace-Asia-Region-Legal/Buggy-ST30-011-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/695436",
+  "pricecharting_url": "https://www.pricecharting.com/game/13426343",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Buggy",
+      "rarity": "C",
+      "price_eur": 2,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/Buggy-ST30-011-V1?language=2",
+      "file": "ST30-011-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Buggy (Full Art)",
+      "rarity": "C",
+      "price_eur": 2,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/Buggy-ST30-011-V2?language=2",
+      "file": "ST30-011-v2.json"
+    }
+  ],
+  "price_min_eur": 2,
+  "price_avg7_eur": 2.4,
+  "price_avg30_eur": 2.47,
+  "listings_count": 30
+}

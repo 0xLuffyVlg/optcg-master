@@ -1,0 +1,50 @@
+{
+  "code": "OP12-051",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Hina",
+  "variant_name": "Hina (Premium Card Collection -Best Selection Vol. 5-)",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 3000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Marine",
+  "effect": "[Activation : Principale] Vous pouvez épuiser ce Personnage et défausser 1 carte de votre main : Jusqu'à 1 Personnage adverse ayant un coût de base de 4 ou moins ne peut pas activer [Bloqueur] pour tout le tour.",
+  "trigger": null,
+  "illust": "SHINRA AGENCY Co. Ltd.",
+  "color": "Bleu",
+  "rarity": "UC",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op12-p063.webp",
+  "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-051.png",
+  "price_eur": 0.02,
+  "price_usd": 12.49,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Hina-OP12-051-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/Hina-OP12-051",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/657827",
+  "pricecharting_url": "https://www.pricecharting.com/game/10266427",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Hina",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Hina-OP12-051?language=2",
+      "file": "OP12-051-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Hina (Premium Card Collection -Best Selection Vol. 5-)",
+      "rarity": "UC",
+      "price_eur": 4.35,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Hina-OP12-051-V1?language=2",
+      "file": "OP12-051-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

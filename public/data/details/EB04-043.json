@@ -1,0 +1,53 @@
+{
+  "code": "EB04-043",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Kaku",
+  "variant_name": "Kaku",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 4000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Egg Head/CP-0",
+  "effect": "[Une fois par tour] Si un de vos Personnages noirs ayant un coût de base de 5 ou moins est mis KO par un effet adverse, vous pouvez placer 3 cartes de votre Défausse au-dessous de votre deck dans l'ordre de votre choix à la place. [Jouée] Placez dans votre Défausse 2 cartes du dessus de votre deck.",
+  "trigger": null,
+  "illust": "kankurou",
+  "color": "Noir",
+  "rarity": "R",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/eb04-p054.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685309_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.1,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Kaku-EB04-043-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal/Kaku-EB04-043-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/685309",
+  "pricecharting_url": "https://www.pricecharting.com/game/12427192",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Kaku",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Kaku-EB04-043-V1?language=2",
+      "file": "EB04-043-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Kaku (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 3.39,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Kaku-EB04-043-V2?language=2",
+      "file": "EB04-043-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.03,
+  "price_avg30_eur": 0.06,
+  "listings_count": 50
+}

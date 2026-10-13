@@ -1,0 +1,53 @@
+{
+  "code": "OP03-040",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Nami",
+  "variant_name": "Nami (040)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Sagesse",
+  "types": "East Blue",
+  "effect": "When your deck is reduced to 0, you win the game instead of losing, according to the rules.\n[DON!! x1] When this Leader's attack deals damage to your opponent's Life, you may trash 1 card from the top of your deck.",
+  "trigger": null,
+  "illust": null,
+  "color": "Bleu",
+  "rarity": "L",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op03-p047.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/498253_200w.jpg",
+  "price_eur": 0.05,
+  "price_usd": 1.06,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Nami-OP03-040-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/Nami-OP03-040-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/498253",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Nami (040)",
+      "rarity": "L",
+      "price_eur": 0.05,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Nami-OP03-040-V1",
+      "file": "OP03-040-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Nami (040) (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 230,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Nami-OP03-040-V2",
+      "file": "OP03-040-v2.json"
+    }
+  ],
+  "price_min_eur": 0.05,
+  "price_avg7_eur": 0.32,
+  "price_avg30_eur": 0.35,
+  "listings_count": 50
+}

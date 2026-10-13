@@ -1,0 +1,53 @@
+{
+  "code": "OP02-002",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Monkey.D.Garp",
+  "variant_name": "Monkey.D.Garp (002)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": "Frappe",
+  "types": "Navy",
+  "effect": "[Your Turn] When this Leader or any of your Characters is given a DON!! card, give up to 1 of your opponent's Characters with a cost of 7 or less −1 cost during this turn.",
+  "trigger": null,
+  "illust": null,
+  "color": "Rouge/Noir",
+  "rarity": "L",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op02-p003.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/482705_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.44,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/MonkeyDGarp-OP02-002-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War-Japanese/MonkeyDGarp-OP02-002-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/482705",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Monkey.D.Garp (002)",
+      "rarity": "L",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/MonkeyDGarp-OP02-002-V1",
+      "file": "OP02-002-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Monkey.D.Garp (002) (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 130,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/MonkeyDGarp-OP02-002-V2",
+      "file": "OP02-002-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.22,
+  "price_avg30_eur": 0.38,
+  "listings_count": 50
+}

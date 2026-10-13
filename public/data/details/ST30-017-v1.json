@@ -1,0 +1,53 @@
+{
+  "code": "ST30-017",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Tu fonces toujours tête baissée vers le danger !!",
+  "variant_name": "And You Get Yourself in Big Trouble!!",
+  "category": "EVENT",
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Équipage de Barbe Blanche",
+  "effect": "[Principale] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte Personnage ayant 6000 de puissance et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
+  "trigger": "Activez l'effet [Principale] de cette carte.",
+  "illust": null,
+  "color": "Rouge",
+  "rarity": "C",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st30-p033.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695446_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.15,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/And-You-Get-Yourself-in-Big-Trouble-ST30-017-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace-Asia-Region-Legal/And-You-Get-Yourself-in-Big-Trouble-ST30-017-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/695446",
+  "pricecharting_url": "https://www.pricecharting.com/game/13426352",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "And You Get Yourself in Big Trouble!!",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/And-You-Get-Yourself-in-Big-Trouble-ST30-017-V1?language=2",
+      "file": "ST30-017-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "And You Get Yourself in Big Trouble!! (Parallel)",
+      "rarity": "C",
+      "price_eur": 0.35,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/And-You-Get-Yourself-in-Big-Trouble-ST30-017-V2?language=2",
+      "file": "ST30-017-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.07,
+  "price_avg30_eur": 0.04,
+  "listings_count": 50
+}

@@ -1,0 +1,53 @@
+{
+  "code": "ST04-017",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Onigashima Island",
+  "variant_name": "Onigashima Island",
+  "category": "STAGE",
+  "cost": 3,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Animal Kingdom Pirates",
+  "effect": "\"[Activate: Main] You may rest this Stage: If your Leader has the {Animal Kingdom Pirates",
+  "trigger": null,
+  "illust": "Kazuyuki Hayashi",
+  "color": "Violet",
+  "rarity": "C",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/best-sel-2-p010.webp",
+  "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-017.png",
+  "price_eur": 1.4,
+  "price_usd": 0.27,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Animal-Kingdom-Pirates/Onigashima-Island-ST04-017-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Animal-Kingdom-Pirates-Non-English/Onigashima-Island-ST04-017",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/288299",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Onigashima Island",
+      "rarity": "C",
+      "price_eur": 1.4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Animal-Kingdom-Pirates/Onigashima-Island-ST04-017-V1",
+      "file": "ST04-017-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Onigashima Island (Premium Card Collection -Best Selection Vol. 2-)",
+      "rarity": "C",
+      "price_eur": 1.65,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Onigashima-Island-ST04-017",
+      "file": "ST04-017-v2.json"
+    }
+  ],
+  "price_min_eur": 1.4,
+  "price_avg7_eur": 0.99,
+  "price_avg30_eur": 0.96,
+  "listings_count": 50
+}

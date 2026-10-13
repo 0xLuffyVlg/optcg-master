@@ -1,0 +1,71 @@
+{
+  "code": "OP03-108",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Charlotte Cracker",
+  "variant_name": "Charlotte Cracker (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Big Mom Pirates",
+  "effect": "[DON!! x1] If you have less Life cards than your opponent, this Character gains [Double Attack] and +1000 power.\n(This card deals 2 damage.)",
+  "trigger": "You may trash 1 card from your hand: Play this card.",
+  "illust": "Misa Tsutsui",
+  "color": "Jaune",
+  "rarity": "SR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op03-p129.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/500079_200w.jpg",
+  "price_eur": 3.93,
+  "price_usd": 3.57,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Charlotte-Cracker-OP03-108-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/Charlotte-Cracker-OP03-108-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/500079",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Charlotte Cracker",
+      "rarity": "SR",
+      "price_eur": 3.93,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Charlotte-Cracker-OP03-108-V1",
+      "file": "OP03-108-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Charlotte Cracker (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 3.61,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Charlotte-Cracker-OP03-108-V2",
+      "file": "OP03-108-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Charlotte Cracker (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 0.04,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Cracker-OP03-108-V2",
+      "file": "OP03-108-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Charlotte Cracker (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 2.6,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Cracker-OP03-108-V2",
+      "file": "OP03-108-v4.json"
+    }
+  ],
+  "price_min_eur": 3.93,
+  "price_avg7_eur": 4.6,
+  "price_avg30_eur": 4.59,
+  "listings_count": 50
+}

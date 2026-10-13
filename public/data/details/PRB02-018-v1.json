@@ -1,0 +1,53 @@
+{
+  "code": "PRB02-018",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Portgas D. Ace",
+  "variant_name": "Portgas.D.Ace - PRB02-018",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Équipage de Barbe Blanche",
+  "effect": "[Jouée] S'il y a des cartes de votre Vie face visible, jouez jusqu'à 1 [Sabo], [Portgas D. Ace] ou [Monkey D. Luffy] de votre main ou votre Défausse ayant un coût de 2.",
+  "trigger": null,
+  "illust": "Matsumoto Akira",
+  "color": "Jaune",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/prb02-p244.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653862_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.75,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/PortgasDAce-PRB02-018-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/PortgasDAce-PRB02-018-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/653862",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Portgas.D.Ace - PRB02-018",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/PortgasDAce-PRB02-018-V1?language=2",
+      "file": "PRB02-018-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Portgas.D.Ace - PRB02-018 (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 6,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/PortgasDAce-PRB02-018-V2?language=2",
+      "file": "PRB02-018-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.31,
+  "price_avg30_eur": 0.43,
+  "listings_count": 50
+}

@@ -1,0 +1,9 @@
+dist
+node_modules
+.git
+.vercel/cache
+*.traineddata
+products_singles_*.json
+check_*.cjs
+test_*.cjs
+scratch_*.cjs

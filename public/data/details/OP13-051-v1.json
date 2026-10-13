@@ -1,0 +1,53 @@
+{
+  "code": "OP13-051",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Boa Hancock",
+  "variant_name": "Boa Hancock",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 5000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Sept grands corsaires/Équipage des Kuja",
+  "effect": "[En cas de KO] Si votre Leader est [Boa Hancock] ou multicolore, piochez 2 cartes.",
+  "trigger": null,
+  "illust": "Haru Miyajima",
+  "color": "Bleu",
+  "rarity": "R",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op13-p061.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657310_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.19,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Boa-Hancock-OP13-051-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/Boa-Hancock-OP13-051-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/657310",
+  "pricecharting_url": "https://www.pricecharting.com/game/11012024",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Boa Hancock",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Boa-Hancock-OP13-051-V1?language=2",
+      "file": "OP13-051-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Boa Hancock (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 10,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Boa-Hancock-OP13-051-V2?language=2",
+      "file": "OP13-051-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.08,
+  "price_avg30_eur": 0.09,
+  "listings_count": 50
+}

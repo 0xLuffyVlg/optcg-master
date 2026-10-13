@@ -1,0 +1,53 @@
+{
+  "code": "OP16-048",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Baggy",
+  "variant_name": "Buggy (048)",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Impel Down/Bande à Baggy",
+  "effect": "\"[Jouée] Si votre Leader est de type {Impel Down",
+  "trigger": null,
+  "illust": "Yuu Shimotsuki",
+  "color": "Bleu",
+  "rarity": "SR",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op16-p059.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/694644_200w.jpg",
+  "price_eur": 5,
+  "price_usd": 0.99,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Buggy-OP16-048-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Time-of-Battle-Asia-Region-Legal/Buggy-OP16-048-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/694644",
+  "pricecharting_url": "https://www.pricecharting.com/game/13335482",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Buggy (048)",
+      "rarity": "SR",
+      "price_eur": 5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Buggy-OP16-048-V1?language=2",
+      "file": "OP16-048-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Buggy (048) (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 6.8,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Buggy-OP16-048-V2?language=2",
+      "file": "OP16-048-v2.json"
+    }
+  ],
+  "price_min_eur": 5,
+  "price_avg7_eur": 0.48,
+  "price_avg30_eur": 0.6,
+  "listings_count": 50
+}

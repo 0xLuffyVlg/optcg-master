@@ -1,0 +1,53 @@
+{
+  "code": "OP12-039",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Luffy deviendra un jour le roi des pirates !!",
+  "variant_name": "Luffy Is the Man Who Will Become the King of Pirates!!!",
+  "category": "EVENT",
+  "cost": 3,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Équipage de Chapeau de paille",
+  "effect": "[Principale] Redressez votre Leader [Roronoa Zoro].",
+  "trigger": "Jusqu'à 1 de vos Leaders ou Personnages gagne +1000 de puissance pour tout le tour.",
+  "illust": null,
+  "color": "Vert",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op12-p048.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643771_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.28,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Luffy-Is-the-Man-Who-Will-Become-the-King-of-Pirates-OP12-039?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/Luffy-Is-the-Man-Who-Will-Become-the-King-of-Pirates-OP12-039",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/643771",
+  "pricecharting_url": "https://www.pricecharting.com/game/10266415",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Luffy Is the Man Who Will Become the King of Pirates!!!",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Luffy-Is-the-Man-Who-Will-Become-the-King-of-Pirates-OP12-039?language=2",
+      "file": "OP12-039-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Luffy Is the Man Who Will Become the King of Pirates!!! (Japanese Version 3rd Anniversary Set)",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Luffy-Is-the-Man-Who-Will-Become-the-King-of-Pirates-OP12-039?language=2",
+      "file": "OP12-039-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.04,
+  "price_avg30_eur": 0.06,
+  "listings_count": 20
+}

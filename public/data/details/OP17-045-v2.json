@@ -1,0 +1,53 @@
+{
+  "code": "OP17-045",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Kyo",
+  "variant_name": "Kyo (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 4000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Équipage de Rocks",
+  "effect": "Si un de vos Personnages devait quitter le terrain à cause d'un effet adverse, vous pouvez défausser 2 cartes de votre main à la place.\n[Jouée] Piochez 1 carte.",
+  "trigger": null,
+  "illust": "Studio Vigor Co. Ltd",
+  "color": "Bleu",
+  "rarity": "UC",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op17-p059.webp",
+  "image_url": "/img/cards-fr/op17-p058-sm.webp",
+  "price_eur": 4.7,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Kyo-OP17-045-V2?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/712616",
+  "pricecharting_url": "https://www.pricecharting.com/game/14107739",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Kyo",
+      "rarity": "UC",
+      "price_eur": 4.7,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Kyo-OP17-045-V1?language=2",
+      "file": "OP17-045-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Kyo (Alternate Art)",
+      "rarity": "UC",
+      "price_eur": 4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Kyo-OP17-045-V2?language=2",
+      "file": "OP17-045-v2.json"
+    }
+  ],
+  "price_min_eur": 4.7,
+  "price_avg7_eur": 3.98,
+  "price_avg30_eur": 3.81,
+  "listings_count": 12
+}

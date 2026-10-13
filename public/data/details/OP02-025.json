@@ -1,0 +1,53 @@
+{
+  "code": "OP02-025",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Kin'emon",
+  "variant_name": "Kin'emon",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Tranchant",
+  "types": "Land of Wano/The Akazaya Nine",
+  "effect": "\"[Activate: Main] [Once Per Turn] If you have 1 or less Characters, the next time you play a {Land of Wano",
+  "trigger": null,
+  "illust": null,
+  "color": "Vert",
+  "rarity": "L",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op02-p033.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/486345_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.22,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Kinemon-OP02-025-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War-Japanese/Kinemon-OP02-025-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/486345",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Kin'emon",
+      "rarity": "L",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Kinemon-OP02-025-V1",
+      "file": "OP02-025-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Kin'emon (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 31.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Kinemon-OP02-025-V2",
+      "file": "OP02-025-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.14,
+  "price_avg30_eur": 0.18,
+  "listings_count": 50
+}

@@ -1,0 +1,53 @@
+{
+  "code": "OP12-071",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Charlotte Pudding",
+  "variant_name": "Charlotte Pudding",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Sagesse",
+  "types": "Équipage de Big Mom",
+  "effect": "[Jouée] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 [Sanji] ou jusqu'à 1 Événement et ajoutez-le à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
+  "trigger": null,
+  "illust": "BISAI",
+  "color": "Violet",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op12-p088.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643811_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 1.36,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Charlotte-Pudding-OP12-071?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/Charlotte-Pudding-OP12-071",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/643811",
+  "pricecharting_url": "https://www.pricecharting.com/game/10266451",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Charlotte Pudding",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Charlotte-Pudding-OP12-071?language=2",
+      "file": "OP12-071-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Charlotte Pudding (Regional Participation Pack 2026 Vol.1)",
+      "rarity": "PR",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Charlotte-Pudding-OP12-071-V1?language=2",
+      "file": "OP12-071-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.91,
+  "price_avg30_eur": 0.76,
+  "listings_count": 50
+}

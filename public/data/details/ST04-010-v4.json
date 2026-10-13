@@ -1,0 +1,68 @@
+{
+  "code": "ST04-010",
+  "variant_version": "v4",
+  "variant_index": 4,
+  "name": "Who's.Who",
+  "variant_name": "Who's.Who (CS 2023 Celebration Pack)",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 3000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Animal Kingdom Pirates",
+  "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+  "trigger": "Play this card.",
+  "illust": null,
+  "color": "Violet",
+  "rarity": "C",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/pack-standard-battle-p008.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/525332_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 8.6,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/WhosWho-ST04-010",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/525332",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Who's.Who",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Animal-Kingdom-Pirates/WhosWho-ST04-010-V1",
+      "file": "ST04-010-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Who's.Who (Tournament Pack Vol. 3) [Participant]",
+      "rarity": "PR",
+      "price_eur": 0.23,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/WhosWho-ST04-010",
+      "file": "ST04-010-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Who's.Who (Tournament Pack Vol. 3) [Winner]",
+      "rarity": "PR",
+      "price_eur": 4.6,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/WhosWho-ST04-010-V2",
+      "file": "ST04-010-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Who's.Who (CS 2023 Celebration Pack)",
+      "rarity": "C",
+      "price_eur": 13.79,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/WhosWho-ST04-010",
+      "file": "ST04-010-v4.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

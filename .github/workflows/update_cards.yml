@@ -1,0 +1,51 @@
+name: Auto-Update One Piece TCG Cards Database
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-cards:
+    name: Scrape & Sync Official Bandai Cards
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "npm"
+
+      - name: Install Dependencies
+        run: npm ci || npm install
+
+      - name: Run Bandai Official Master Scraper
+        run: node scripts/scrape_master_database.cjs
+
+      - name: Synchronize Master Database & High-Res Variants
+        run: node scripts/sync_database.cjs
+
+      - name: Update Dynamic Sitemap
+        run: node scripts/generate-sitemap.cjs
+
+      - name: Test Build
+        run: npm run build
+
+      - name: Commit and Push Database Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/ public/sitemap.xml
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No database changes detected."
+          else
+            git commit -m "chore: auto-update official One Piece TCG cards database [skip ci]"
+            git push
+          fi

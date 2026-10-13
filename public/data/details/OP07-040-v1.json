@@ -1,0 +1,89 @@
+{
+  "code": "OP07-040",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Crocodile",
+  "variant_name": "Crocodile",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "The Seven Warlords of the Sea/Baroque Works",
+  "effect": "[On Play] ① (You may rest the specified number of DON!! cards in your cost area.): Return up to 1 Character with a cost of 2 or less to the owner's hand.",
+  "trigger": null,
+  "illust": "Koushi Rokushiro",
+  "color": "Bleu",
+  "rarity": "UC",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op07-p048.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545825_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.11,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Crocodile-OP07-040",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Crocodile-OP07-040-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/545825",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Crocodile",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Crocodile-OP07-040",
+      "file": "OP07-040-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Crocodile - OP07-040 (Pirate Foil)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Crocodile-OP07-040-V2",
+      "file": "OP07-040-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Crocodile - OP07-040 (Alternate Art)",
+      "rarity": "UC",
+      "price_eur": 1.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Crocodile-OP07-040-V3",
+      "file": "OP07-040-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Crocodile (Seven Warlords of the Sea Binder Set)",
+      "rarity": "UC",
+      "price_eur": 3.05,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Crocodile-OP07-040-V3",
+      "file": "OP07-040-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Crocodile - OP07-040 (Pirate Foil)",
+      "rarity": "UC",
+      "price_eur": 0.06,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Crocodile-OP07-040-V2",
+      "file": "OP07-040-v5.json"
+    },
+    {
+      "variant_index": 6,
+      "variant_version": "v6",
+      "name": "Crocodile - OP07-040 (Alternate Art)",
+      "rarity": "UC",
+      "price_eur": 3.15,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Crocodile-OP07-040-V3",
+      "file": "OP07-040-v6.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 3.46,
+  "price_avg30_eur": 3.56,
+  "listings_count": 50
+}

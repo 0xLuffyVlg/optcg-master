@@ -1,0 +1,71 @@
+{
+  "code": "OP09-051",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Buggy",
+  "variant_name": "Buggy",
+  "category": "CHARACTER",
+  "cost": 10,
+  "power": 12000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Quatre Empereurs/Cross Guild",
+  "effect": "[Jouée] Placez jusqu'à 1 Personnage adverse au-dessous du deck de son propriétaire. Puis, si vous n'avez pas 5 Personnages ayant un coût de 5 ou plus, placez ce Personnage au-dessous du deck de son propriétaire.",
+  "trigger": null,
+  "illust": "Studio Vigor Co. Ltd",
+  "color": "Bleu",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op09-p065.webp",
+  "image_url": "/img/cards-fr/op09-p065-sm.webp",
+  "price_eur": 0.02,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Buggy-OP09-051-V1?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/596983",
+  "pricecharting_url": "https://www.pricecharting.com/game/8091603",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Buggy",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Buggy-OP09-051-V1?language=2",
+      "file": "OP09-051-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Buggy (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 880,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Buggy-OP09-051-V2?language=2",
+      "file": "OP09-051-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Buggy (Alternate Art)",
+      "rarity": "SP",
+      "price_eur": 1200,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Buggy-OP09-051-V3?language=2",
+      "file": "OP09-051-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Buggy (Manga)",
+      "rarity": "R",
+      "price_eur": 149.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Buggy-OP09-051-V4?language=2",
+      "file": "OP09-051-v4.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.08,
+  "price_avg30_eur": 0.06,
+  "listings_count": 29
+}

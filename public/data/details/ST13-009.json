@@ -1,0 +1,53 @@
+{
+  "code": "ST13-009",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Shanks",
+  "variant_name": "Shanks",
+  "category": "CHARACTER",
+  "cost": 7,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "The Four Emperors/Red-Haired Pirates",
+  "effect": "[On Play] You may turn 1 of your face-up Life cards face-down: If your opponent has 7 or more cards in their hand, trash up to 1 card from the top of your opponent's Life cards.",
+  "trigger": null,
+  "illust": "phima",
+  "color": "Jaune",
+  "rarity": "C",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/st13-p017.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/543611_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.2,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/Shanks-ST13-009-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Brothers-Japanese/Shanks-ST13-009-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/543611",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Shanks",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/Shanks-ST13-009-V1",
+      "file": "ST13-009-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Shanks (Parallel)",
+      "rarity": "C",
+      "price_eur": 4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/Shanks-ST13-009-V2",
+      "file": "ST13-009-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.09,
+  "price_avg30_eur": 0.1,
+  "listings_count": 50
+}

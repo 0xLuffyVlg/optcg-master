@@ -1,0 +1,50 @@
+{
+  "code": "ST32-002",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Oden Kozuki",
+  "variant_name": "Kouzuki Oden",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Pays de Wano/Clan Kozuki",
+  "effect": "[Jouée] Piochez 1 carte et jusqu'à 1 Personnage adverse ayant un coût de base de 6 ou moins ne peut pas être épuisé jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
+  "trigger": null,
+  "illust": "Minato Sashima",
+  "color": "Vert",
+  "rarity": "SR",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op17-p164.webp",
+  "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-002.png",
+  "price_eur": 75,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Roronoa-Zoro/Kouzuki-Oden-ST32-002-V2?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/706324",
+  "pricecharting_url": "https://www.pricecharting.com/game/13768332",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Oden Kozuki (Alternate Art)",
+      "rarity": "SP",
+      "price_eur": 75,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Roronoa-Zoro/Kouzuki-Oden-ST32-002?language=2",
+      "file": "ST32-002-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Kouzuki Oden",
+      "rarity": "SR",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Roronoa-Zoro/Kouzuki-Oden-ST32-002-V2?language=2",
+      "file": "ST32-002-v2.json"
+    }
+  ],
+  "price_min_eur": 75
+}

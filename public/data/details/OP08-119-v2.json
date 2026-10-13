@@ -1,0 +1,53 @@
+{
+  "code": "OP08-119",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Kaido & Linlin",
+  "variant_name": "Kaido & Linlin (Parallel)",
+  "category": "CHARACTER",
+  "cost": 10,
+  "power": 12000,
+  "counter": null,
+  "life": null,
+  "attribute": "attribute/Strike-Special.png",
+  "types": "The Four Emperors/Animal Kingdom Pirates/Big Mom Pirates",
+  "effect": "[When Attacking] DON!! −10: K.O. all Characters other than this Character. Then, add up to 1 card from the top of your deck to the top of your Life cards and trash up to 1 card from the top of your opponent's Life cards.",
+  "trigger": null,
+  "illust": "K Akagishi",
+  "color": "Violet",
+  "rarity": "SEC",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op08-p144.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558164_200w.jpg",
+  "price_eur": 9,
+  "price_usd": 20.4,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Kaido-Linlin-OP08-119-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends-Non-English/Kaido-Linlin-OP08-119-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/558164",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Kaido & Linlin",
+      "rarity": "SEC",
+      "price_eur": 9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Kaido-Linlin-OP08-119-V1",
+      "file": "OP08-119-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Kaido & Linlin (Parallel)",
+      "rarity": "SEC",
+      "price_eur": 9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Kaido-Linlin-OP08-119-V2",
+      "file": "OP08-119-v2.json"
+    }
+  ],
+  "price_min_eur": 9,
+  "price_avg7_eur": 10.39,
+  "price_avg30_eur": 10.9,
+  "listings_count": 50
+}

@@ -1,0 +1,53 @@
+{
+  "code": "OP01-102",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Jack",
+  "variant_name": "Jack",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Animal Kingdom Pirates",
+  "effect": "[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent trashes 1 card from their hand.",
+  "trigger": null,
+  "illust": "Yamada Rokkaku.",
+  "color": "Violet",
+  "rarity": "R",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op01-p130.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454637_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.16,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Jack-OP01-102-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Jack-OP01-102-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/454637",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Jack",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Jack-OP01-102-V1",
+      "file": "OP01-102-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Jack (Parallel)",
+      "rarity": "R",
+      "price_eur": 8,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Jack-OP01-102-V2",
+      "file": "OP01-102-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.12,
+  "price_avg30_eur": 0.15,
+  "listings_count": 50
+}

@@ -1,0 +1,95 @@
+{
+  "code": "OP02-089",
+  "variant_version": "v7",
+  "variant_index": 7,
+  "name": "Judgment of Hell",
+  "variant_name": "Judgment of Hell (Alternate Art)",
+  "category": "EVENT",
+  "cost": 2,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Impel Down",
+  "effect": "[Counter] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to a total of 2 of your opponent's Leader or Character cards −3000 power during this turn.",
+  "trigger": "If your opponent has 6 or more DON!! cards on their field, your opponent returns 1 DON!! card from their field to their DON!! deck.",
+  "illust": null,
+  "color": "Violet",
+  "rarity": "R",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op02-p113.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/587189_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 5.64,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Judgment-of-Hell-OP02-089-V4",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/Judgment-of-Hell-OP02-089-V3",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/587189",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Judgment of Hell",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Judgment-of-Hell-OP02-089",
+      "file": "OP02-089-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Judgment of Hell (Jolly Roger Foil)",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Judgment-of-Hell-OP02-089-V1",
+      "file": "OP02-089-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Judgment of Hell (Textured Foil)",
+      "rarity": "R",
+      "price_eur": 0.1,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Judgment-of-Hell-OP02-089-V2",
+      "file": "OP02-089-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Judgment of Hell (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 0.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Judgment-of-Hell-OP02-089-V4",
+      "file": "OP02-089-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Judgment of Hell (Jolly Roger Foil)",
+      "rarity": "R",
+      "price_eur": 4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Judgment-of-Hell-OP02-089-V1",
+      "file": "OP02-089-v5.json"
+    },
+    {
+      "variant_index": 6,
+      "variant_version": "v6",
+      "name": "Judgment of Hell (Textured Foil)",
+      "rarity": "R",
+      "price_eur": 2.37,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Judgment-of-Hell-OP02-089-V2",
+      "file": "OP02-089-v6.json"
+    },
+    {
+      "variant_index": 7,
+      "variant_version": "v7",
+      "name": "Judgment of Hell (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 8.15,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Judgment-of-Hell-OP02-089-V4",
+      "file": "OP02-089-v7.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

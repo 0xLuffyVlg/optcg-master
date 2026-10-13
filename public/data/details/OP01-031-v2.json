@@ -1,0 +1,53 @@
+{
+  "code": "OP01-031",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Kouzuki Oden",
+  "variant_name": "Kouzuki Oden (Parallel)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Tranchant",
+  "types": "Land of Wano/Kouzuki Clan",
+  "effect": "\"[Activate: Main] [Once Per Turn] You can trash 1 {Land of Wano",
+  "trigger": null,
+  "illust": null,
+  "color": "Vert",
+  "rarity": "L",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op01-p040.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454552_200w.jpg",
+  "price_eur": 70,
+  "price_usd": 78.95,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Kouzuki-Oden-OP01-031-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Kouzuki-Oden-OP01-031-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/454552",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Kouzuki Oden",
+      "rarity": "L",
+      "price_eur": 70,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Kouzuki-Oden-OP01-031-V1",
+      "file": "OP01-031-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Kouzuki Oden (Parallel)",
+      "rarity": "L",
+      "price_eur": 72,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Kouzuki-Oden-OP01-031-V2",
+      "file": "OP01-031-v2.json"
+    }
+  ],
+  "price_min_eur": 70,
+  "price_avg7_eur": 81.3,
+  "price_avg30_eur": 89.79,
+  "listings_count": 50
+}

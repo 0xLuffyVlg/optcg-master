@@ -1,0 +1,53 @@
+{
+  "code": "OP10-072",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Don Quijote Rosinante",
+  "variant_name": "Donquixote Rosinante (Parallel)",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Marine/Équipage de Don Quijote",
+  "effect": "[Jouée] Vous pouvez défausser 1 Événement de votre main : Piochez 2 cartes.\n[Fin de votre tour] Si vous avez 7 cartes DON!! ou plus sur votre terrain, redressez jusqu'à 2 de vos cartes DON!!.",
+  "trigger": null,
+  "illust": "Bashikou",
+  "color": "Violet",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op10-p089.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617118_200w.jpg",
+  "price_eur": 10,
+  "price_usd": 14.25,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Donquixote-Rosinante-OP10-072-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Non-English/Donquixote-Rosinante-OP10-072-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/617118",
+  "pricecharting_url": "https://www.pricecharting.com/game/8828277",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Donquixote Rosinante",
+      "rarity": "SR",
+      "price_eur": 10,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Donquixote-Rosinante-OP10-072-V1?language=2",
+      "file": "OP10-072-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Donquixote Rosinante (Parallel)",
+      "rarity": "SR",
+      "price_eur": 8.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Donquixote-Rosinante-OP10-072-V2?language=2",
+      "file": "OP10-072-v2.json"
+    }
+  ],
+  "price_min_eur": 10,
+  "price_avg7_eur": 10.91,
+  "price_avg30_eur": 10.97,
+  "listings_count": 33
+}

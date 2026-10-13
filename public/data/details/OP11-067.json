@@ -1,0 +1,80 @@
+{
+  "code": "OP11-067",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Charlotte Katakuri",
+  "variant_name": "Charlotte Katakuri (067)",
+  "category": "CHARACTER",
+  "cost": 8,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Équipage de Big Mom",
+  "effect": "\"[Bloqueur]\n[Fin de votre tour] Redressez jusqu'à 2 de vos Personnages de type {Équipage de Big Mom",
+  "trigger": null,
+  "illust": "otton",
+  "color": "Violet",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op11-p082.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632436_200w.jpg",
+  "price_eur": 4.4,
+  "price_usd": 3.13,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Charlotte-Katakuri-OP11-067-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed-Non-English/Charlotte-Katakuri-OP11-067-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/632436",
+  "pricecharting_url": "https://www.pricecharting.com/game/9362344",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Charlotte Katakuri (067)",
+      "rarity": "SR",
+      "price_eur": 4.4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Charlotte-Katakuri-OP11-067-V1?language=2",
+      "file": "OP11-067-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Charlotte Katakuri (067) (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 10,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Charlotte-Katakuri-OP11-067-V2?language=2",
+      "file": "OP11-067-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Charlotte Katakuri (Japanese Version 3rd Anniversary Set)",
+      "rarity": "SR",
+      "price_eur": 117.68,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Charlotte-Katakuri-OP11-067?language=2",
+      "file": "OP11-067-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Charlotte Katakuri (SP)",
+      "rarity": "SR",
+      "price_eur": 123.66,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Charlotte-Katakuri-OP11-067?language=2",
+      "file": "OP11-067-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Charlotte Katakuri (SP)",
+      "rarity": "SP",
+      "price_eur": 88,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Charlotte-Katakuri-OP11-067-V5?language=2",
+      "file": "OP11-067-v5.json"
+    }
+  ],
+  "price_min_eur": 4.4,
+  "price_avg7_eur": 72.19,
+  "price_avg30_eur": 76.05,
+  "listings_count": 31
+}

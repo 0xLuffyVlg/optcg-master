@@ -1,0 +1,53 @@
+{
+  "code": "EB02-022",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Usopp",
+  "variant_name": "Usopp (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Distance",
+  "types": "East Blue/Équipage de Chapeau de paille",
+  "effect": "[Jouée] Si vous avez 2 Personnages ou moins ayant 5000 de puissance ou plus, jouez jusqu'à 1 carte Personnage de votre main ayant 6000 de puissance ou moins et n'ayant pas d'effet de base.",
+  "trigger": null,
+  "illust": null,
+  "color": "Bleu",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/eb02-p029.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629117_200w.jpg",
+  "price_eur": 14.9,
+  "price_usd": 38.38,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Usopp-EB02-022-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection-Japanese/Usopp-EB02-022-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/629117",
+  "pricecharting_url": "https://www.pricecharting.com/game/9361531",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Usopp",
+      "rarity": "R",
+      "price_eur": 14.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Usopp-EB02-022-V1?language=2",
+      "file": "EB02-022-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Usopp (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 16.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Usopp-EB02-022-V2?language=2",
+      "file": "EB02-022-v2.json"
+    }
+  ],
+  "price_min_eur": 14.9,
+  "price_avg7_eur": 18.17,
+  "price_avg30_eur": 20.12,
+  "listings_count": 16
+}

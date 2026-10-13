@@ -1,0 +1,53 @@
+{
+  "code": "OP01-067",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Crocodile",
+  "variant_name": "Crocodile (067)",
+  "category": "CHARACTER",
+  "cost": 7,
+  "power": 7000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "The Seven Warlords of the Sea/Baroque Works",
+  "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)\n[DON!! x1] Give blue Events in your hand −1 cost.",
+  "trigger": null,
+  "illust": null,
+  "color": "Bleu",
+  "rarity": "SR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op01-p085.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/453519_200w.jpg",
+  "price_eur": 0.3,
+  "price_usd": 0.97,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Crocodile-OP01-067-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Crocodile-OP01-067-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/453519",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Crocodile (067)",
+      "rarity": "SR",
+      "price_eur": 0.3,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Crocodile-OP01-067-V1",
+      "file": "OP01-067-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Crocodile (067) (Parallel)",
+      "rarity": "SR",
+      "price_eur": 11.95,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Crocodile-OP01-067-V2",
+      "file": "OP01-067-v2.json"
+    }
+  ],
+  "price_min_eur": 0.3,
+  "price_avg7_eur": 0.97,
+  "price_avg30_eur": 0.92,
+  "listings_count": 50
+}

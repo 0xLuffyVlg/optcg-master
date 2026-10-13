@@ -1,0 +1,59 @@
+{
+  "code": "OP05-086",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Nefeltari Vivi",
+  "variant_name": "Nefeltari Vivi (October Championship 2024 Store Regionals)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Sagesse",
+  "types": "Alabasta",
+  "effect": "If you have 10 or more cards in your trash, this Character gains [Blocker].\n(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger": null,
+  "illust": "yuu",
+  "color": "Noir",
+  "rarity": "R",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op05-p104.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/583773_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 2024.99,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Nefeltari-Vivi-OP05-086-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/Nefeltari-Vivi-OP05-086-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/583773",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Nefeltari Vivi",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Nefeltari-Vivi-OP05-086",
+      "file": "OP05-086-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Nefeltari Vivi (October Championship 2024 Store Regionals)",
+      "rarity": "R",
+      "price_eur": 1438.65,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Nefeltari-Vivi-OP05-086-V1",
+      "file": "OP05-086-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Nefeltari Vivi (Welcome Pack Vol. 2)",
+      "rarity": "R",
+      "price_eur": 1.32,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Nefeltari-Vivi-OP05-086-V1",
+      "file": "OP05-086-v3.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

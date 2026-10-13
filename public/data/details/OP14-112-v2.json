@@ -1,0 +1,71 @@
+{
+  "code": "OP14-112",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Boa Hancock",
+  "variant_name": "Boa Hancock - OP14-112 (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 9,
+  "power": 10000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Sept grands corsaires/Équipage des Kuja",
+  "effect": "\"[Jouée] Si votre Leader est de type {Sept grands corsaires",
+  "trigger": null,
+  "illust": "sho",
+  "color": "Jaune",
+  "rarity": "SR",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op14-p136.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668343_200w.jpg",
+  "price_eur": 39.7,
+  "price_usd": 107.62,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Boa-Hancock-OP14-112-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven-Asia-Region-Legal/Boa-Hancock-OP14-112-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/668343",
+  "pricecharting_url": "https://www.pricecharting.com/game/11634321",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Boa Hancock - OP14-112",
+      "rarity": "SR",
+      "price_eur": 39.7,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Boa-Hancock-OP14-112-V1?language=2",
+      "file": "OP14-112-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Boa Hancock - OP14-112 (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 35,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Boa-Hancock-OP14-112-V2?language=2",
+      "file": "OP14-112-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Boa Hancock - OP14-112 (SP)",
+      "rarity": "SR",
+      "price_eur": 288.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Boa-Hancock-OP14-112-V3?language=2",
+      "file": "OP14-112-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Boa Hancock (CS 26-27 Regionals Season 1)",
+      "rarity": "SR",
+      "price_eur": 3124.65,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Boa-Hancock-OP14-112-V1?language=2",
+      "file": "OP14-112-v4.json"
+    }
+  ],
+  "price_min_eur": 39.7,
+  "price_avg7_eur": 50.45,
+  "price_avg30_eur": 48.66,
+  "listings_count": 27
+}

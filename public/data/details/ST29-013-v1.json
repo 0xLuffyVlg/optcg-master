@@ -1,0 +1,53 @@
+{
+  "code": "ST29-013",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Rob Lucci",
+  "variant_name": "Rob Lucci",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Egg Head/CP-0",
+  "effect": null,
+  "trigger": "Mettez KO jusqu'à 1 Personnage adverse ayant un coût inférieur ou égal au nombre total de cartes dans votre Vie et celle de votre adversaire.",
+  "illust": "Morechand",
+  "color": "Jaune",
+  "rarity": "C",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st29-p025.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671607_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.08,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Rob-Lucci-ST29-013-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead-Asia-Region-Legal/Rob-Lucci-ST29-013-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/671607",
+  "pricecharting_url": "https://www.pricecharting.com/game/11786238",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Rob Lucci",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Rob-Lucci-ST29-013-V1?language=2",
+      "file": "ST29-013-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Rob Lucci (Full Art)",
+      "rarity": "C",
+      "price_eur": 0.8,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Rob-Lucci-ST29-013-V2?language=2",
+      "file": "ST29-013-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.12,
+  "price_avg30_eur": 0.08,
+  "listings_count": 50
+}

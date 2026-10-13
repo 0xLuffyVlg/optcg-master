@@ -1,0 +1,62 @@
+{
+  "code": "OP02-036",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Nami",
+  "variant_name": "Nami (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 5000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "FILM/Straw Hat Crew",
+  "effect": "\"[On Play]/[When Attacking] ➀ (You may rest the specified number of DON!! cards in your cost area.): Look at 3 cards from the top of your deck; reveal up to 1 {FILM",
+  "trigger": null,
+  "illust": null,
+  "color": "Vert",
+  "rarity": "SR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op02-p049.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/482429_200w.jpg",
+  "price_eur": 42,
+  "price_usd": 79.05,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Nami-OP02-036-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War-Japanese/Nami-OP02-036-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/482429",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Nami",
+      "rarity": "SR",
+      "price_eur": 42,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Nami-OP02-036-V1",
+      "file": "OP02-036-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Nami (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 45,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Nami-OP02-036-V2",
+      "file": "OP02-036-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Nami (Premium Card Collection -Best Selection Vol. 1-)",
+      "rarity": "SR",
+      "price_eur": 28.24,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Nami-OP02-036",
+      "file": "OP02-036-v3.json"
+    }
+  ],
+  "price_min_eur": 42,
+  "price_avg7_eur": 71.79,
+  "price_avg30_eur": 64.6,
+  "listings_count": 50
+}

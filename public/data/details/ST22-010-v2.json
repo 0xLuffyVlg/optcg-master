@@ -1,0 +1,53 @@
+{
+  "code": "ST22-010",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Portgas D. Ace",
+  "variant_name": "Portgas.D.Ace (Parallel)",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 6000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Équipage de Barbe Blanche",
+  "effect": null,
+  "trigger": null,
+  "illust": "Hokuyuu",
+  "color": "Bleu",
+  "rarity": "C",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st22-p020.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/647702_200w.jpg",
+  "price_eur": 2.75,
+  "price_usd": 7.22,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/PortgasDAce-ST22-010-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate-Non-English/PortgasDAce-ST22-010-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/647702",
+  "pricecharting_url": "https://www.pricecharting.com/game/10472493",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Portgas.D.Ace",
+      "rarity": "C",
+      "price_eur": 2.75,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/PortgasDAce-ST22-010-V1?language=2",
+      "file": "ST22-010-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Portgas.D.Ace (Parallel)",
+      "rarity": "C",
+      "price_eur": 2.75,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/PortgasDAce-ST22-010-V2?language=2",
+      "file": "ST22-010-v2.json"
+    }
+  ],
+  "price_min_eur": 2.75,
+  "price_avg7_eur": 3.78,
+  "price_avg30_eur": 4.33,
+  "listings_count": 18
+}

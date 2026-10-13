@@ -1,0 +1,77 @@
+{
+  "code": "OP09-004",
+  "variant_version": "v5",
+  "variant_index": 5,
+  "name": "Shanks",
+  "variant_name": "Shanks (The Best)",
+  "category": "CHARACTER",
+  "cost": 10,
+  "power": 12000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Quatre Empereurs/Équipage du Roux",
+  "effect": "Tous les Personnages adverses perdent -1000 de puissance.\n[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)",
+  "trigger": null,
+  "illust": "POKImari",
+  "color": "Rouge",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op09-p006.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656025_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Shanks-OP09-004?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Shanks-OP09-004",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/656025",
+  "pricecharting_url": "https://www.pricecharting.com/game/8091545",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Shanks",
+      "rarity": "SR",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Shanks-OP09-004-V1?language=2",
+      "file": "OP09-004-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Shanks (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 15.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Shanks-OP09-004-V2?language=2",
+      "file": "OP09-004-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Shanks (Alternate Art)",
+      "rarity": "SP",
+      "price_eur": 1000,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Shanks-OP09-004-V3?language=2",
+      "file": "OP09-004-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Shanks (Manga)",
+      "rarity": "SR",
+      "price_eur": 165,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Shanks-OP09-004-V4?language=2",
+      "file": "OP09-004-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Shanks (The Best)",
+      "rarity": "SR",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Shanks-OP09-004?language=2",
+      "file": "OP09-004-v5.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

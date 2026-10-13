@@ -1,0 +1,53 @@
+{
+  "code": "OP10-016",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Monet",
+  "variant_name": "Monet (Parallel)",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 3000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Punk Hazard/Équipage de Don Quijote",
+  "effect": "[Activation : Principale] Vous pouvez épuiser ce Personnage : Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages. Puis, jusqu'à 1 Personnage adverse perd -1000 de puissance pour tout le tour.",
+  "trigger": null,
+  "illust": "Koushi Rokushiro",
+  "color": "Rouge",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op10-p021.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617050_200w.jpg",
+  "price_eur": 4.2,
+  "price_usd": 3.72,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Monet-OP10-016-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Non-English/Monet-OP10-016-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/617050",
+  "pricecharting_url": "https://www.pricecharting.com/game/8828208",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Monet",
+      "rarity": "SR",
+      "price_eur": 4.2,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Monet-OP10-016-V1?language=2",
+      "file": "OP10-016-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Monet (Parallel)",
+      "rarity": "SR",
+      "price_eur": 3,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Monet-OP10-016-V2?language=2",
+      "file": "OP10-016-v2.json"
+    }
+  ],
+  "price_min_eur": 4.2,
+  "price_avg7_eur": 3.51,
+  "price_avg30_eur": 4.03,
+  "listings_count": 36
+}

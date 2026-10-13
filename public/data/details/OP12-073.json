@@ -1,0 +1,53 @@
+{
+  "code": "OP12-073",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Trafalgar Law",
+  "variant_name": "Trafalgar Law (073)",
+  "category": "CHARACTER",
+  "cost": 7,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Dressrosa/Supernovae/Équipage du Heart",
+  "effect": "\"[Jouée] Si le nombre de cartes DON!! sur votre terrain est inférieur ou égal à celui du terrain de votre adversaire, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!. Puis, tous vos [Don Quijote Rosinante] et tous vos Personnages de type {Équipage du Heart",
+  "trigger": null,
+  "illust": "Matsumoto Akira",
+  "color": "Violet",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op12-p090.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643813_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.49,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Trafalgar-Law-OP12-073-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/Trafalgar-Law-OP12-073-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/643813",
+  "pricecharting_url": "https://www.pricecharting.com/game/10266453",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Trafalgar Law (073)",
+      "rarity": "SR",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Trafalgar-Law-OP12-073-V1?language=2",
+      "file": "OP12-073-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Trafalgar Law (073) (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 6,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Trafalgar-Law-OP12-073-V2?language=2",
+      "file": "OP12-073-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.37,
+  "price_avg30_eur": 0.42,
+  "listings_count": 50
+}

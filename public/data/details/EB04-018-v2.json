@@ -1,0 +1,53 @@
+{
+  "code": "EB04-018",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Megalo",
+  "variant_name": "Megalo (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 4000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Sagesse",
+  "types": "Animal/Fish-Man Island",
+  "effect": "[On Play] You may rest this Character: K.O. up to 1 of your opponent's rested Characters with 8000 power or less.",
+  "trigger": null,
+  "illust": "KISUKE",
+  "color": "Vert",
+  "rarity": "R",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/eb04-p024.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666532_200w.jpg",
+  "price_eur": 14.89,
+  "price_usd": 15.15,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Megalo-EB04-018-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal/Megalo-EB04-018-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/666532",
+  "pricecharting_url": "https://www.pricecharting.com/game/11703037",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Megalo",
+      "rarity": "R",
+      "price_eur": 14.89,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Megalo-EB04-018-V1?language=2",
+      "file": "EB04-018-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Megalo (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 10,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Megalo-EB04-018-V2?language=2",
+      "file": "EB04-018-v2.json"
+    }
+  ],
+  "price_min_eur": 14.89,
+  "price_avg7_eur": 11.71,
+  "price_avg30_eur": 10.05,
+  "listings_count": 12
+}

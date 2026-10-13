@@ -1,0 +1,53 @@
+{
+  "code": "OP16-118",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Portgas D. Ace",
+  "variant_name": "Portgas.D.Ace (118) (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Équipage de Barbe Blanche",
+  "effect": "Passez à +2000 le Contre de toutes les cartes Personnage de votre main ayant 8000 de puissance.\n[Jouée]/[En cas de KO] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte [Monkey D. Luffy] ou jusqu'à 1 carte incluant «Équipage de Barbe Blanche» dans son type et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
+  "trigger": null,
+  "illust": "Akanegumo",
+  "color": "Rouge",
+  "rarity": "SEC",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op16-p147.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/694933_200w.jpg",
+  "price_eur": 20,
+  "price_usd": 24.68,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/PortgasDAce-OP16-118-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Time-of-Battle-Asia-Region-Legal/PortgasDAce-OP16-118-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/694933",
+  "pricecharting_url": "https://www.pricecharting.com/game/13335486",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Portgas.D.Ace (118)",
+      "rarity": "SEC",
+      "price_eur": 20,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/PortgasDAce-OP16-118-V1?language=2",
+      "file": "OP16-118-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Portgas.D.Ace (118) (Alternate Art)",
+      "rarity": "SEC",
+      "price_eur": 20,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/PortgasDAce-OP16-118-V2?language=2",
+      "file": "OP16-118-v2.json"
+    }
+  ],
+  "price_min_eur": 20,
+  "price_avg7_eur": 21.83,
+  "price_avg30_eur": 22.32,
+  "listings_count": 28
+}

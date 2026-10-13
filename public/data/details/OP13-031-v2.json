@@ -1,0 +1,50 @@
+{
+  "code": "OP13-031",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Trafalgar Law",
+  "variant_name": "Trafalgar Law (SP)",
+  "category": "CHARACTER",
+  "cost": 6,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "FILM/Supernovae/Équipage du Heart",
+  "effect": "Si vous avez 1 carte ou moins dans votre Vie, ce Personnage gagne [Bloqueur].\n[Jouée] Vous pouvez renvoyer 1 de vos Personnages à la main de son propriétaire : Jouez jusqu'à 1 carte Personnage épuisée de votre main ayant un coût de 5 ou moins.",
+  "trigger": null,
+  "illust": "Morechand",
+  "color": "Vert",
+  "rarity": "R",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op13-p040.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685017_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 260.4,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Trafalgar-Law-OP13-031?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/Trafalgar-Law-OP13-031-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/685017",
+  "pricecharting_url": "https://www.pricecharting.com/game/11012005",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Trafalgar Law",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Trafalgar-Law-OP13-031?language=2",
+      "file": "OP13-031-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Trafalgar Law (SP)",
+      "rarity": "R",
+      "price_eur": 175.97,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Trafalgar-Law-OP13-031?language=2",
+      "file": "OP13-031-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

@@ -1,0 +1,53 @@
+{
+  "code": "ST21-002",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Usopp",
+  "variant_name": "Usopp",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 3000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Distance",
+  "types": "Équipage de Chapeau de paille",
+  "effect": "[DON!! x2] [Tour adverse] Ce Personnage gagne +2000 de puissance.",
+  "trigger": null,
+  "illust": "Nekobayashi",
+  "color": "Rouge",
+  "rarity": "C",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st21-p003.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/615566_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.11,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Usopp-ST21-002-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Gear-5-Non-English/Usopp-ST21-002-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/615566",
+  "pricecharting_url": "https://www.pricecharting.com/game/9585674",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Usopp",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Usopp-ST21-002-V1?language=2",
+      "file": "ST21-002-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Usopp (Parallel)",
+      "rarity": "C",
+      "price_eur": 0.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Usopp-ST21-002-V2?language=2",
+      "file": "ST21-002-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.09,
+  "price_avg30_eur": 0.1,
+  "listings_count": 42
+}

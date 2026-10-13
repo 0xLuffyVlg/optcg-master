@@ -1,0 +1,53 @@
+{
+  "code": "OP16-011",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Vista",
+  "variant_name": "Vista",
+  "category": "CHARACTER",
+  "cost": 6,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Équipage de Barbe Blanche",
+  "effect": "[Jouée] Vous pouvez révéler 1 carte Personnage de votre main ayant 8000 de puissance : Piochez 1 carte.\n[DON!! x1] [En attaquant] Mettez KO jusqu'à 2 Personnages adverses ayant 2000 de puissance de base ou moins.",
+  "trigger": null,
+  "illust": "Moopic",
+  "color": "Rouge",
+  "rarity": "R",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op16-p013.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695995_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.12,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Vista-OP16-011-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Time-of-Battle-Asia-Region-Legal/Vista-OP16-011",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/695995",
+  "pricecharting_url": "https://www.pricecharting.com/game/13335507",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Vista",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Vista-OP16-011-V1?language=2",
+      "file": "OP16-011-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Vista (TR)",
+      "rarity": "TR",
+      "price_eur": 17.21,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Vista-OP16-011-V2?language=2",
+      "file": "OP16-011-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.21,
+  "price_avg30_eur": 0.18,
+  "listings_count": 50
+}

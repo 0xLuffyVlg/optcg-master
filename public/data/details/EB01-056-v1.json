@@ -1,0 +1,62 @@
+{
+  "code": "EB01-056",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Charlotte Flampe",
+  "variant_name": "Charlotte Flampe",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 1000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Big Mom Pirates",
+  "effect": "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Draw 1 card.",
+  "trigger": null,
+  "illust": "Haru Miyajima",
+  "color": "Jaune",
+  "rarity": "R",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op10-p149.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544594_200w.jpg",
+  "price_eur": 29.99,
+  "price_usd": 3.09,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Charlotte-Flampe-EB01-056-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection-Japanese/Charlotte-Flampe-EB01-056-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/544594",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Charlotte Flampe",
+      "rarity": "R",
+      "price_eur": 29.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Charlotte-Flampe-EB01-056-V1",
+      "file": "EB01-056-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Charlotte Flampe (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 8.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Charlotte-Flampe-EB01-056-V2",
+      "file": "EB01-056-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Charlotte Flampe (SP)",
+      "rarity": "R",
+      "price_eur": 29.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Charlotte-Flampe-EB01-056",
+      "file": "EB01-056-v3.json"
+    }
+  ],
+  "price_min_eur": 29.99,
+  "price_avg7_eur": 2.39,
+  "price_avg30_eur": 2.51,
+  "listings_count": 50
+}

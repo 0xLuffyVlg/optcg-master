@@ -1,0 +1,53 @@
+{
+  "code": "OP11-018",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Honesty Impact",
+  "variant_name": "Honesty Impact (Alternate Art)",
+  "category": "EVENT",
+  "cost": 6,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Marine/SWORD",
+  "effect": "[Principale] Jusqu'à 1 Personnage adverse perd -4000 de puissance pour tout le tour. Puis, mettez KO jusqu'à 1 Personnage adverse ayant 6000 de puissance ou moins.",
+  "trigger": "Mettez KO jusqu'à 1 Personnage adverse ayant 6000 de puissance ou moins.",
+  "illust": null,
+  "color": "Rouge",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op11-p023.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632377_200w.jpg",
+  "price_eur": 40,
+  "price_usd": 49.44,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Honesty-Impact-OP11-018-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed-Non-English/Honesty-Impact-OP11-018-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/632377",
+  "pricecharting_url": "https://www.pricecharting.com/game/9744535",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Honesty Impact",
+      "rarity": "R",
+      "price_eur": 40,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Honesty-Impact-OP11-018-V1?language=2",
+      "file": "OP11-018-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Honesty Impact (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 44,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Honesty-Impact-OP11-018-V2?language=2",
+      "file": "OP11-018-v2.json"
+    }
+  ],
+  "price_min_eur": 40,
+  "price_avg7_eur": 44,
+  "price_avg30_eur": 48.74,
+  "listings_count": 30
+}

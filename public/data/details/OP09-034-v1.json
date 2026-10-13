@@ -1,0 +1,53 @@
+{
+  "code": "OP09-034",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Perona",
+  "variant_name": "Perona",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 2000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Royaume de Ceglok/Équipage de Thriller Bark",
+  "effect": "\"[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Thriller Bark",
+  "trigger": null,
+  "illust": "Yuu Shimotsuki",
+  "color": "Vert",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op09-p042.webp",
+  "image_url": "/img/cards-fr/op09-p042-sm.webp",
+  "price_eur": 0.02,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Perona-OP09-034-V1?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/596960",
+  "pricecharting_url": "https://www.pricecharting.com/game/10953026",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Perona",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Perona-OP09-034-V1?language=2",
+      "file": "OP09-034-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Perona (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 3.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Perona-OP09-034-V2?language=2",
+      "file": "OP09-034-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 2.03,
+  "price_avg30_eur": 2.12,
+  "listings_count": 24
+}

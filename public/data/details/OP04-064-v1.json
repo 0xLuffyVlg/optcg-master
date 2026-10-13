@@ -1,0 +1,62 @@
+{
+  "code": "OP04-064",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Ms. All Sunday",
+  "variant_name": "Ms. All Sunday",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 5000,
+  "counter": null,
+  "life": null,
+  "attribute": "Sagesse",
+  "types": "Baroque Works",
+  "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it. Then, if you have 6 or more DON!! cards on your field, draw 1 card.",
+  "trigger": "DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+  "illust": "Sunohara",
+  "color": "Violet",
+  "rarity": "SR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op04-p078.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514245_200w.jpg",
+  "price_eur": 0.05,
+  "price_usd": 2.86,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Ms-All-Sunday-OP04-064-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue-Japanese/Ms-All-Sunday-OP04-064-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/514245",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Ms. All Sunday",
+      "rarity": "SR",
+      "price_eur": 0.05,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Ms-All-Sunday-OP04-064-V1",
+      "file": "OP04-064-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Ms. All Sunday (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 19,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Ms-All-Sunday-OP04-064-V2",
+      "file": "OP04-064-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Ms. All Sunday (SP)",
+      "rarity": "SR",
+      "price_eur": 195,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Ms-All-Sunday-OP04-064",
+      "file": "OP04-064-v3.json"
+    }
+  ],
+  "price_min_eur": 0.05,
+  "price_avg7_eur": 0.78,
+  "price_avg30_eur": 0.76,
+  "listings_count": 50
+}

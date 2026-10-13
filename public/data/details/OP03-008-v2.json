@@ -1,0 +1,71 @@
+{
+  "code": "OP03-008",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Buggy",
+  "variant_name": "Buggy (SP)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 3000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Buggy Pirates",
+  "effect": "This Character cannot be K.O.'d in battle by \\x3CSlash> attribute cards.\n[On Play] Look at 5 cards from the top of your deck; reveal up to 1 red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": null,
+  "illust": "akagi",
+  "color": "Rouge",
+  "rarity": "UC",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/prb02-p028.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541665_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 144.61,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Buggy-OP03-008",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain-Japanese/Buggy-OP03-008",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/541665",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Buggy (008)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Buggy-OP03-008",
+      "file": "OP03-008-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Buggy (SP)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Buggy-OP03-008",
+      "file": "OP03-008-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Buggy - OP03-008 (Pirate Foil)",
+      "rarity": "UC",
+      "price_eur": 0.15,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Buggy-OP03-008-V2",
+      "file": "OP03-008-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Buggy - OP03-008 (Pirate Foil)",
+      "rarity": "UC",
+      "price_eur": 0.15,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Buggy-OP03-008-V2",
+      "file": "OP03-008-v4.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.15,
+  "price_avg30_eur": 0.15,
+  "listings_count": 50
+}

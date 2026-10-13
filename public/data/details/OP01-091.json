@@ -1,0 +1,53 @@
+{
+  "code": "OP01-091",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "King",
+  "variant_name": "King (091)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Spécial",
+  "types": "Animal Kingdom Pirates",
+  "effect": "[Your Turn] If you have 10 DON!! cards on your field, give all of your opponent's Characters −1000 power.",
+  "trigger": null,
+  "illust": null,
+  "color": "Violet",
+  "rarity": "L",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op01-p114.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454622_200w.jpg",
+  "price_eur": 0.03,
+  "price_usd": 0.31,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/King-OP01-091-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/King-OP01-091-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/454622",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "King (091)",
+      "rarity": "L",
+      "price_eur": 0.03,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/King-OP01-091-V1",
+      "file": "OP01-091-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "King (091) (Parallel)",
+      "rarity": "L",
+      "price_eur": 65,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/King-OP01-091-V2",
+      "file": "OP01-091-v2.json"
+    }
+  ],
+  "price_min_eur": 0.03,
+  "price_avg7_eur": 0.25,
+  "price_avg30_eur": 0.26,
+  "listings_count": 50
+}

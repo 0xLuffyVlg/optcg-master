@@ -1,0 +1,53 @@
+{
+  "code": "OP10-058",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Rebecca",
+  "variant_name": "Rebecca (Parallel)",
+  "category": "CHARACTER",
+  "cost": 7,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Dressrosa",
+  "effect": "\"[Jouée] S'il y a un Personnage ayant un coût de 8 ou plus, piochez 1 carte. Puis, révélez jusqu'à 2 cartes Personnage de type {Dressrosa",
+  "trigger": null,
+  "illust": "Haru Miyajima",
+  "color": "Bleu",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op10-p072.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617101_200w.jpg",
+  "price_eur": 12.5,
+  "price_usd": 13.8,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Rebecca-OP10-058-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Non-English/Rebecca-OP10-058-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/617101",
+  "pricecharting_url": "https://www.pricecharting.com/game/8828256",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Rebecca",
+      "rarity": "SR",
+      "price_eur": 12.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Rebecca-OP10-058-V1?language=2",
+      "file": "OP10-058-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Rebecca (Parallel)",
+      "rarity": "SR",
+      "price_eur": 13.4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Rebecca-OP10-058-V2?language=2",
+      "file": "OP10-058-v2.json"
+    }
+  ],
+  "price_min_eur": 12.5,
+  "price_avg7_eur": 9.65,
+  "price_avg30_eur": 10.03,
+  "listings_count": 32
+}

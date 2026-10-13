@@ -1,0 +1,53 @@
+{
+  "code": "OP14-040",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Jinbe",
+  "variant_name": "Jinbe - OP14-040",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Frappe",
+  "types": "Hommes-poissons/Sept grands corsaires/Équipage des pirates du soleil",
+  "effect": "\"[Activation : Principale] Vous pouvez défausser 1 carte de votre main : Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages, de type {Hommes-poissons",
+  "trigger": null,
+  "illust": "Chiharu Akakura",
+  "color": "Bleu",
+  "rarity": "L",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op14-p048.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668568_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.14,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Jinbe-OP14-040-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven-Asia-Region-Legal/Jinbe-OP14-040-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/668568",
+  "pricecharting_url": "https://www.pricecharting.com/game/11634273",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Jinbe - OP14-040",
+      "rarity": "L",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Jinbe-OP14-040-V1?language=2",
+      "file": "OP14-040-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Jinbe - OP14-040 (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 10,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Jinbe-OP14-040-V2?language=2",
+      "file": "OP14-040-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.09,
+  "price_avg30_eur": 0.11,
+  "listings_count": 50
+}

@@ -1,0 +1,59 @@
+{
+  "code": "OP12-062",
+  "variant_version": "v3",
+  "variant_index": 3,
+  "name": "Sora Vinsmoke",
+  "variant_name": "Vinsmoke Sora (Winner Pack 2026 Vol. 1)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": null,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Sagesse",
+  "types": "Royaume de Germa/Famille Vinsmoke",
+  "effect": "[Jouée] Si votre Leader est [Sanji] et que le nombre de cartes DON!! sur votre terrain est inférieur ou égal à celui du terrain de votre adversaire, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!. Puis, piochez 1 carte.",
+  "trigger": null,
+  "illust": "Koushi Rokushiro",
+  "color": "Violet",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op12-p077.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668187_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 4.9,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Vinsmoke-Sora-OP12-062-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/Vinsmoke-Sora-OP12-062-V3",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/668187",
+  "pricecharting_url": "https://www.pricecharting.com/game/10266441",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Vinsmoke Sora",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Vinsmoke-Sora-OP12-062?language=2",
+      "file": "OP12-062-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Vinsmoke Sora (Tournament Pack 2026 Vol. 1)",
+      "rarity": "R",
+      "price_eur": 0.09,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Vinsmoke-Sora-OP12-062-V1?language=2",
+      "file": "OP12-062-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Vinsmoke Sora (Winner Pack 2026 Vol. 1)",
+      "rarity": "R",
+      "price_eur": 3.59,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Vinsmoke-Sora-OP12-062-V2?language=2",
+      "file": "OP12-062-v3.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

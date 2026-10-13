@@ -1,0 +1,53 @@
+{
+  "code": "ST22-005",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Oden Kozuki",
+  "variant_name": "Kouzuki Oden",
+  "category": "CHARACTER",
+  "cost": 7,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Pays de Wano/Clan Kozuki/Équipage de Barbe Blanche",
+  "effect": "Si ce Personnage quitte le terrain à cause d'un effet adverse, vous pouvez défausser 2 cartes de votre main à la place.\n[Activation : Principale] [Une fois par tour] Vous pouvez épuiser 3 de vos cartes DON!! et renvoyer 1 de vos Personnages autre que celui-ci à la main de son propriétaire : Redressez ce Personnage.",
+  "trigger": null,
+  "illust": "Yosuke Adachi",
+  "color": "Bleu",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st22-p009.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/647691_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.39,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Kouzuki-Oden-ST22-005-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate-Non-English/Kouzuki-Oden-ST22-005-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/647691",
+  "pricecharting_url": "https://www.pricecharting.com/game/10472484",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Kouzuki Oden",
+      "rarity": "SR",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Kouzuki-Oden-ST22-005-V1?language=2",
+      "file": "ST22-005-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Kouzuki Oden (Parallel)",
+      "rarity": "SR",
+      "price_eur": 3,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Kouzuki-Oden-ST22-005-V2?language=2",
+      "file": "ST22-005-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.33,
+  "price_avg30_eur": 0.4,
+  "listings_count": 50
+}

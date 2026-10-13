@@ -1,0 +1,53 @@
+{
+  "code": "ST22-007",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Squardo",
+  "variant_name": "Squard",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Alliés de l'équipage de Barbe Blanche",
+  "effect": "[Activation : Principale] [Une fois par tour] Révélez 1 carte du dessus de votre deck ; si elle inclut «Équipage de Barbe Blanche» dans son type, donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.",
+  "trigger": null,
+  "illust": "BISAI",
+  "color": "Bleu",
+  "rarity": "C",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st22-p013.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/647695_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.16,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Squard-ST22-007-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate-Non-English/Squard-ST22-007-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/647695",
+  "pricecharting_url": "https://www.pricecharting.com/game/10472507",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Squard",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Squard-ST22-007-V1?language=2",
+      "file": "ST22-007-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Squard (Parallel)",
+      "rarity": "C",
+      "price_eur": 0.2,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Squard-ST22-007-V2?language=2",
+      "file": "ST22-007-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.06,
+  "price_avg30_eur": 0.1,
+  "listings_count": 32
+}

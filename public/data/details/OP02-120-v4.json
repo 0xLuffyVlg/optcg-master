@@ -1,0 +1,68 @@
+{
+  "code": "OP02-120",
+  "variant_version": "v4",
+  "variant_index": 4,
+  "name": "Uta",
+  "variant_name": "Uta - OP02-120 (Premium Card Collection -Uta-)",
+  "category": "CHARACTER",
+  "cost": 8,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "FILM",
+  "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your Leader and all of your Characters gain +1000 power until the start of your next turn.",
+  "trigger": null,
+  "illust": null,
+  "color": "Violet",
+  "rarity": "SEC",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op02-p151.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/564143_200w.jpg",
+  "price_eur": 4.3,
+  "price_usd": 13.73,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Uta-OP02-120",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/Uta-OP02-120-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/564143",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Uta",
+      "rarity": "SEC",
+      "price_eur": 4.3,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Uta-OP02-120-V1",
+      "file": "OP02-120-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Uta (Alternate Art)",
+      "rarity": "SEC",
+      "price_eur": 19,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Uta-OP02-120-V2",
+      "file": "OP02-120-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Uta (SP)",
+      "rarity": "SEC",
+      "price_eur": 99.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Uta-OP02-120",
+      "file": "OP02-120-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Uta - OP02-120 (Premium Card Collection -Uta-)",
+      "rarity": "SEC",
+      "price_eur": 5.98,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Uta-OP02-120",
+      "file": "OP02-120-v4.json"
+    }
+  ],
+  "price_min_eur": 4.3
+}

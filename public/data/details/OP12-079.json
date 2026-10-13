@@ -1,0 +1,53 @@
+{
+  "code": "OP12-079",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Luffy est l'homme qui deviendra le roi des pirates !!",
+  "variant_name": "Luffy Is the Man Who Will Be King of the Pirates!!!",
+  "category": "EVENT",
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Équipage de Chapeau de paille",
+  "effect": "[Principale] Si votre Leader est [Sanji], regardez 3 cartes du dessus de votre deck et ajoutez jusqu'à 1 carte à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
+  "trigger": null,
+  "illust": null,
+  "color": "Violet",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op12-p097.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643820_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.17,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Luffy-Is-the-Man-Who-Will-Be-King-of-the-Pirates-OP12-079?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/Luffy-Is-the-Man-Who-Will-Be-King-of-the-Pirates-OP12-079",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/643820",
+  "pricecharting_url": "https://www.pricecharting.com/game/10266460",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Luffy Is the Man Who Will Be King of the Pirates!!!",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Luffy-Is-the-Man-Who-Will-Be-King-of-the-Pirates-OP12-079?language=2",
+      "file": "OP12-079-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Luffy Is the Man Who Will Be King of the Pirates!!! (Japanese Version 3rd Anniversary Set)",
+      "rarity": "R",
+      "price_eur": 161.7,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Luffy-Is-the-Man-Who-Will-Be-King-of-the-Pirates-OP12-079?language=2",
+      "file": "OP12-079-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.07,
+  "price_avg30_eur": 0.12,
+  "listings_count": 50
+}

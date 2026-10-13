@@ -1,0 +1,59 @@
+{
+  "code": "OP01-001",
+  "variant_version": "v3",
+  "variant_index": 3,
+  "name": "Roronoa Zoro",
+  "variant_name": "Roronoa Zoro - OP01-001 (Alternate Art)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Tranchant",
+  "types": "Supernovas/Straw Hat Crew",
+  "effect": "[DON!! x1] [Your Turn] All of your Characters gain +1000 power.",
+  "trigger": null,
+  "illust": null,
+  "color": "Rouge",
+  "rarity": "PR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op01-p001.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/485262_200w.jpg",
+  "price_eur": 0.7,
+  "price_usd": 132.77,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Roronoa-Zoro-OP01-001",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products-Asia-Region-Legal/Roronoa-Zoro-OP01-001-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/485262",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Roronoa Zoro (001)",
+      "rarity": "L",
+      "price_eur": 0.7,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Roronoa-Zoro-OP01-001-V1",
+      "file": "OP01-001-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Roronoa Zoro (001) (Parallel)",
+      "rarity": "L",
+      "price_eur": 625,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Roronoa-Zoro-OP01-001-V2",
+      "file": "OP01-001-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Roronoa Zoro - OP01-001 (Alternate Art)",
+      "rarity": "PR",
+      "price_eur": 83.41,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Roronoa-Zoro-OP01-001",
+      "file": "OP01-001-v3.json"
+    }
+  ],
+  "price_min_eur": 0.7
+}

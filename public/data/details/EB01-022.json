@@ -1,0 +1,53 @@
+{
+  "code": "EB01-022",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Inazuma",
+  "variant_name": "Inazuma",
+  "category": "CHARACTER",
+  "cost": 6,
+  "power": 7000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Impel Down/Revolutionary Army",
+  "effect": "[End of Your Turn] If you have 2 or less cards in your hand, draw 2 cards.",
+  "trigger": null,
+  "illust": "BISAI",
+  "color": "Bleu",
+  "rarity": "SR",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/eb01-p029.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544551_200w.jpg",
+  "price_eur": 0.08,
+  "price_usd": 1.97,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Inazuma-EB01-022-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection-Japanese/Inazuma-EB01-022-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/544551",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Inazuma",
+      "rarity": "SR",
+      "price_eur": 0.08,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Inazuma-EB01-022-V1",
+      "file": "EB01-022-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Inazuma (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 2.89,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Inazuma-EB01-022-V2",
+      "file": "EB01-022-v2.json"
+    }
+  ],
+  "price_min_eur": 0.08,
+  "price_avg7_eur": 0.84,
+  "price_avg30_eur": 0.97,
+  "listings_count": 50
+}

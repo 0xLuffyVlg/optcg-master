@@ -1,0 +1,53 @@
+{
+  "code": "OP15-113",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Roronoa Zoro",
+  "variant_name": "Roronoa Zoro (OP15-113) (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Île céleste/Équipage de Chapeau de paille",
+  "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main : Ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck.",
+  "trigger": null,
+  "illust": "Yuu Shimotsuki",
+  "color": "Jaune",
+  "rarity": "SR",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op15-p135.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685470_200w.jpg",
+  "price_eur": 17.9,
+  "price_usd": 29.88,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Roronoa-Zoro-OP15-113-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island-Asia-Region-Legal/Roronoa-Zoro-OP15-113-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/685470",
+  "pricecharting_url": "https://www.pricecharting.com/game/12427339",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Roronoa Zoro (OP15-113)",
+      "rarity": "SR",
+      "price_eur": 17.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Roronoa-Zoro-OP15-113-V1?language=2",
+      "file": "OP15-113-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Roronoa Zoro (OP15-113) (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 18.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Roronoa-Zoro-OP15-113-V2?language=2",
+      "file": "OP15-113-v2.json"
+    }
+  ],
+  "price_min_eur": 17.9,
+  "price_avg7_eur": 17.91,
+  "price_avg30_eur": 16.9,
+  "listings_count": 14
+}

@@ -1,0 +1,53 @@
+{
+  "code": "OP13-002",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Portgas D. Ace",
+  "variant_name": "Portgas.D.Ace (002) (Alternate Art)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 6000,
+  "counter": null,
+  "life": 3,
+  "attribute": "Spécial",
+  "types": "Équipage de Barbe Blanche",
+  "effect": "[Attaque adverse] [Une fois par tour] Vous pouvez défausser 1 carte de votre main : Jusqu'à 1 Leader ou Personnage adverse perd −2000 de puissance pour tout le combat.\n[DON!! x1] [Une fois par tour] Quand vous subissez des dégâts ou qu'un de vos Personnages ayant 6000 de puissance de base ou plus est mis KO, piochez 1 carte.",
+  "trigger": null,
+  "illust": "Bahi JD",
+  "color": "Rouge/Bleu",
+  "rarity": "L",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op13-p004.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657253_200w.jpg",
+  "price_eur": 18,
+  "price_usd": 35.37,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/PortgasDAce-OP13-002-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/PortgasDAce-OP13-002-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/657253",
+  "pricecharting_url": "https://www.pricecharting.com/game/11011968",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Portgas.D.Ace (002)",
+      "rarity": "L",
+      "price_eur": 18,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/PortgasDAce-OP13-002-V1?language=2",
+      "file": "OP13-002-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Portgas.D.Ace (002) (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 15,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/PortgasDAce-OP13-002-V2?language=2",
+      "file": "OP13-002-v2.json"
+    }
+  ],
+  "price_min_eur": 18,
+  "price_avg7_eur": 23.03,
+  "price_avg30_eur": 21.98,
+  "listings_count": 50
+}

@@ -1,0 +1,53 @@
+{
+  "code": "OP06-009",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Shuraiya",
+  "variant_name": "Shuraiya (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "FILM/Shipbuilding Town",
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[When Attacking]/[On Block] [Once Per Turn] This Character's base power becomes the same as your opponent's Leader until the start of your next turn.",
+  "trigger": null,
+  "illust": "Denim2",
+  "color": "Rouge",
+  "rarity": "SR",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op06-p012.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/539279_200w.jpg",
+  "price_eur": 1,
+  "price_usd": 2.4,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Shuraiya-OP06-009-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain-Japanese/Shuraiya-OP06-009-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/539279",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Shuraiya",
+      "rarity": "SR",
+      "price_eur": 1,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Shuraiya-OP06-009-V1",
+      "file": "OP06-009-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Shuraiya (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 1,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Shuraiya-OP06-009-V2",
+      "file": "OP06-009-v2.json"
+    }
+  ],
+  "price_min_eur": 1,
+  "price_avg7_eur": 2.24,
+  "price_avg30_eur": 2.38,
+  "listings_count": 50
+}

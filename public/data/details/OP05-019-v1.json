@@ -1,0 +1,53 @@
+{
+  "code": "OP05-019",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Fire Fist",
+  "variant_name": "Fire Fist",
+  "category": "EVENT",
+  "cost": 2,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Revolutionary Army",
+  "effect": "[Main] Give up to 1 of your opponent's Characters −4000 power during this turn. Then, if you have 2 or less Life cards, K.O. up to 1 of your opponent's Characters with 0 power or less.",
+  "trigger": "Activate this card's [Main] effect.",
+  "illust": null,
+  "color": "Rouge",
+  "rarity": "R",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op05-p024.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528551_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 1.05,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Fire-Fist-OP05-019",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/Fire-Fist-OP05-019",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/528551",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Fire Fist",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Fire-Fist-OP05-019",
+      "file": "OP05-019-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Fire Fist (Premium Card Collection -Best Selection Vol. 2-)",
+      "rarity": "R",
+      "price_eur": 5.2,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Fire-Fist-OP05-019",
+      "file": "OP05-019-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 3.5,
+  "price_avg30_eur": 4.25,
+  "listings_count": 50
+}

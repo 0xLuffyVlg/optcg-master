@@ -1,0 +1,62 @@
+{
+  "code": "OP04-016",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Bad Manners Kick Course",
+  "variant_name": "Bad Manners Kick Course",
+  "category": "EVENT",
+  "cost": null,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Alabasta/Straw Hat Crew",
+  "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+  "trigger": "Give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
+  "illust": null,
+  "color": "Rouge",
+  "rarity": "R",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op04-p018.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/516742_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.38,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Bad-Manners-Kick-Course-OP04-016",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue-Japanese/Bad-Manners-Kick-Course-OP04-016",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/516742",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Bad Manners Kick Course",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Bad-Manners-Kick-Course-OP04-016",
+      "file": "OP04-016-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Bad Manners Kick Course (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 17,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Bad-Manners-Kick-Course-OP04-016-V2",
+      "file": "OP04-016-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Bad Manners Kick Course (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 4.98,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Bad-Manners-Kick-Course-OP04-016-V2",
+      "file": "OP04-016-v3.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.17,
+  "price_avg30_eur": 0.17,
+  "listings_count": 50
+}

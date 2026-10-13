@@ -1,0 +1,53 @@
+{
+  "code": "OP04-039",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Rebecca",
+  "variant_name": "Rebecca (039) (Alternate Art)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Tranchant",
+  "types": "Dressrosa",
+  "effect": "\"This Leader cannot attack.\n[Activate: Main] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): If you have 6 or less cards in your hand, look at 2 cards from the top of your deck; reveal up to 1 {Dressrosa",
+  "trigger": null,
+  "illust": null,
+  "color": "Bleu/Noir",
+  "rarity": "L",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op04-p048.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/510994_200w.jpg",
+  "price_eur": 30,
+  "price_usd": 47.84,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Rebecca-OP04-039-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue-Japanese/Rebecca-OP04-039-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/510994",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Rebecca (039)",
+      "rarity": "L",
+      "price_eur": 30,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Rebecca-OP04-039-V1",
+      "file": "OP04-039-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Rebecca (039) (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 32,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Rebecca-OP04-039-V2",
+      "file": "OP04-039-v2.json"
+    }
+  ],
+  "price_min_eur": 30,
+  "price_avg7_eur": 41.09,
+  "price_avg30_eur": 43.62,
+  "listings_count": 50
+}

@@ -1,0 +1,95 @@
+{
+  "code": "ST02-007",
+  "variant_version": "v6",
+  "variant_index": 6,
+  "name": "Jewelry Bonney",
+  "variant_name": "Jewelry Bonney (SP)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Supernovas/Bonney Pirates",
+  "effect": "\"[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas",
+  "trigger": null,
+  "illust": null,
+  "color": "Vert",
+  "rarity": "C",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op08-p145.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558165_200w.jpg",
+  "price_eur": 105,
+  "price_usd": 199.7,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Jewelry-Bonney-ST02-007",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends-Non-English/Jewelry-Bonney-ST02-007",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/558165",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Jewelry Bonney - ST02-007 (Pirate Foil)",
+      "rarity": "C",
+      "price_eur": 105,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Jewelry-Bonney-ST02-007-V2",
+      "file": "ST02-007-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Jewelry Bonney",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Worst-Generation/Jewelry-Bonney-ST02-007-V1",
+      "file": "ST02-007-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Jewelry Bonney (Tournament Pack Vol. 3) [Participant]",
+      "rarity": "PR",
+      "price_eur": 140,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Jewelry-Bonney-ST02-007-V1",
+      "file": "ST02-007-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Jewelry Bonney (Tournament Pack Vol. 3) [Winner]",
+      "rarity": "PR",
+      "price_eur": 30.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Jewelry-Bonney-ST02-007-V2",
+      "file": "ST02-007-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Jewelry Bonney (CS 2023 Celebration Pack)",
+      "rarity": "C",
+      "price_eur": 55.87,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Jewelry-Bonney-ST02-007",
+      "file": "ST02-007-v5.json"
+    },
+    {
+      "variant_index": 6,
+      "variant_version": "v6",
+      "name": "Jewelry Bonney (SP)",
+      "rarity": "C",
+      "price_eur": 165.76,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Jewelry-Bonney-ST02-007",
+      "file": "ST02-007-v6.json"
+    },
+    {
+      "variant_index": 7,
+      "variant_version": "v7",
+      "name": "Jewelry Bonney - ST02-007 (Pirate Foil)",
+      "rarity": "C",
+      "price_eur": 0.28,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Jewelry-Bonney-ST02-007-V2",
+      "file": "ST02-007-v7.json"
+    }
+  ],
+  "price_min_eur": 105
+}

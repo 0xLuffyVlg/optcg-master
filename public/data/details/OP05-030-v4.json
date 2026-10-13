@@ -1,0 +1,68 @@
+{
+  "code": "OP05-030",
+  "variant_version": "v4",
+  "variant_index": 4,
+  "name": "Donquixote Rosinante",
+  "variant_name": "Donquixote Rosinante (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Navy/Donquixote Pirates",
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[Opponent's Turn] If your rested Character would be K.O.'d, you may trash this Character instead.",
+  "trigger": null,
+  "illust": "Nijihayashi",
+  "color": "Vert",
+  "rarity": "R",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op05-p036.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654096_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 4.97,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Donquixote-Rosinante-OP05-030-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Donquixote-Rosinante-OP05-030-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/654096",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Donquixote Rosinante (030)",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Donquixote-Rosinante-OP05-030",
+      "file": "OP05-030-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Donquixote Rosinante (One Piece Japanese Version 2nd Anniversary Set)",
+      "rarity": "R",
+      "price_eur": 2.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Donquixote-Rosinante-OP05-030",
+      "file": "OP05-030-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Donquixote Rosinante (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 4.17,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Donquixote-Rosinante-OP05-030-V2",
+      "file": "OP05-030-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Donquixote Rosinante (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 4.17,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Donquixote-Rosinante-OP05-030-V2",
+      "file": "OP05-030-v4.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

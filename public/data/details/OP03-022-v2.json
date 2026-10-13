@@ -1,0 +1,53 @@
+{
+  "code": "OP03-022",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Arlong",
+  "variant_name": "Arlong (Alternate Art)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": "Tranchant",
+  "types": "Fish-Man/East Blue/Arlong Pirates",
+  "effect": "[DON!! x2] [When Attacking] ① (You may rest the specified number of DON!! cards in your cost area.): Play up to 1 Character card with a cost of 4 or less and a [Trigger] from your hand.",
+  "trigger": null,
+  "illust": null,
+  "color": "Vert/Jaune",
+  "rarity": "L",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op03-p027.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/498064_200w.jpg",
+  "price_eur": 39,
+  "price_usd": 39.14,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Arlong-OP03-022-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/Arlong-OP03-022-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/498064",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Arlong",
+      "rarity": "L",
+      "price_eur": 39,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Arlong-OP03-022-V1",
+      "file": "OP03-022-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Arlong (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 39.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Arlong-OP03-022-V2",
+      "file": "OP03-022-v2.json"
+    }
+  ],
+  "price_min_eur": 39,
+  "price_avg7_eur": 42.74,
+  "price_avg30_eur": 45.18,
+  "listings_count": 50
+}

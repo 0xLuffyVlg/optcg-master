@@ -1,0 +1,80 @@
+{
+  "code": "OP06-066",
+  "variant_version": "v4",
+  "variant_index": 4,
+  "name": "Vinsmoke Yonji",
+  "variant_name": "Vinsmoke Yonji (OP06-066) (Jolly Roger Foil)",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "The Vinsmoke Family/GERMA 66",
+  "effect": "\"[Activate: Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may trash this Character: If your Leader has the {GERMA 66",
+  "trigger": null,
+  "illust": "phima",
+  "color": "Violet",
+  "rarity": "C",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-en/prb01-p229.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593553_200w.jpg",
+  "price_eur": 3,
+  "price_usd": 0.14,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Yonji-OP06-066-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/Vinsmoke-Yonji-OP06-066-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/593553",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Vinsmoke Yonji (066)",
+      "rarity": "C",
+      "price_eur": 3,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Vinsmoke-Yonji-OP06-066",
+      "file": "OP06-066-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Vinsmoke Yonji (OP06-066) (Jolly Roger Foil)",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Yonji-OP06-066-V1",
+      "file": "OP06-066-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Vinsmoke Yonji (OP06-066) (Full Art)",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Yonji-OP06-066-V3",
+      "file": "OP06-066-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Vinsmoke Yonji (OP06-066) (Jolly Roger Foil)",
+      "rarity": "C",
+      "price_eur": 2.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Yonji-OP06-066-V1",
+      "file": "OP06-066-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Vinsmoke Yonji (OP06-066) (Full Art)",
+      "rarity": "C",
+      "price_eur": 4.03,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Yonji-OP06-066-V3",
+      "file": "OP06-066-v5.json"
+    }
+  ],
+  "price_min_eur": 3,
+  "price_avg7_eur": 3.98,
+  "price_avg30_eur": 4.13,
+  "listings_count": 50
+}

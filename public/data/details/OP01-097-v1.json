@@ -1,0 +1,53 @@
+{
+  "code": "OP01-097",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Queen",
+  "variant_name": "Queen",
+  "category": "CHARACTER",
+  "cost": 6,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Animal Kingdom Pirates",
+  "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains [Rush] during this turn. Then, give up to 1 of your opponent's Characters −2000 power during this turn.\n(This card can attack on the turn in which it is played.)",
+  "trigger": null,
+  "illust": "Misa Tsutsui",
+  "color": "Violet",
+  "rarity": "R",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op01-p124.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454631_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.21,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Queen-OP01-097-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Queen-OP01-097-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/454631",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Queen",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Queen-OP01-097-V1",
+      "file": "OP01-097-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Queen (Parallel)",
+      "rarity": "R",
+      "price_eur": 39,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Queen-OP01-097-V2",
+      "file": "OP01-097-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.34,
+  "price_avg30_eur": 0.34,
+  "listings_count": 50
+}

@@ -1,0 +1,53 @@
+{
+  "code": "EB04-022",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Issho",
+  "variant_name": "Issho - EB04-022",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Dressrosa/Navy",
+  "effect": "[On Play] You may trash 2 cards from your hand: If your opponent has 6 or more cards in their hand, your opponent places 2 cards from their hand at the bottom of their deck in any order. [DON!! x1] [When Attacking] You may trash 1 card from your hand: Give up to 1 of your opponent's Characters −2000 power during this turn.",
+  "trigger": null,
+  "illust": "DAI-XT.",
+  "color": "Bleu",
+  "rarity": "R",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/eb04-p028.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671336_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.26,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Issho-EB04-022-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal/Issho-EB04-022-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/671336",
+  "pricecharting_url": "https://www.pricecharting.com/game/11703043",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Issho - EB04-022",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Issho-EB04-022-V1?language=2",
+      "file": "EB04-022-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Issho - EB04-022 (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 4.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Issho-EB04-022-V2?language=2",
+      "file": "EB04-022-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 35.3,
+  "price_avg30_eur": 35.3,
+  "listings_count": 10
+}

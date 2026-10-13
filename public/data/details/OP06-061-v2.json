@@ -1,0 +1,53 @@
+{
+  "code": "OP06-061",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Vinsmoke Ichiji",
+  "variant_name": "Vinsmoke Ichiji (061) (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 7,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "The Vinsmoke Family/GERMA 66",
+  "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, give up to 1 of your opponent's Characters −2000 power during this turn and this Character gains [Rush].\n(This card can attack on the turn in which it is played.)",
+  "trigger": null,
+  "illust": "Minato Sashima",
+  "color": "Violet",
+  "rarity": "R",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op06-p074.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541069_200w.jpg",
+  "price_eur": 2,
+  "price_usd": 4.91,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Vinsmoke-Ichiji-OP06-061-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain-Japanese/Vinsmoke-Ichiji-OP06-061-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/541069",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Vinsmoke Ichiji (061)",
+      "rarity": "R",
+      "price_eur": 2,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Vinsmoke-Ichiji-OP06-061-V1",
+      "file": "OP06-061-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Vinsmoke Ichiji (061) (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 2.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Vinsmoke-Ichiji-OP06-061-V2",
+      "file": "OP06-061-v2.json"
+    }
+  ],
+  "price_min_eur": 2,
+  "price_avg7_eur": 4.09,
+  "price_avg30_eur": 3.72,
+  "listings_count": 50
+}

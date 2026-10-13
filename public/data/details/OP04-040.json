@@ -1,0 +1,53 @@
+{
+  "code": "OP04-040",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Queen",
+  "variant_name": "Queen (040)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": "Distance",
+  "types": "Animal Kingdom Pirates",
+  "effect": "[DON!! x1] [When Attacking] If you have a total of 4 or less cards in your Life area and hand, draw 1 card. If you have a Character with a cost of 8 or more, you may add up to 1 card from the top of your deck to the top of your Life cards instead of drawing 1 card.",
+  "trigger": null,
+  "illust": null,
+  "color": "Bleu/Jaune",
+  "rarity": "L",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op04-p049.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/511397_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.11,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Queen-OP04-040-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue-Japanese/Queen-OP04-040-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/511397",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Queen (040)",
+      "rarity": "L",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Queen-OP04-040-V1",
+      "file": "OP04-040-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Queen (040) (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 17.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Queen-OP04-040-V2",
+      "file": "OP04-040-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.07,
+  "price_avg30_eur": 0.12,
+  "listings_count": 50
+}

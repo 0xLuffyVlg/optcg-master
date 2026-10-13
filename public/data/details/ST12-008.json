@@ -1,0 +1,53 @@
+{
+  "code": "ST12-008",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Roronoa Zoro",
+  "variant_name": "Roronoa Zoro",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Straw Hat Crew",
+  "effect": "[DON!! x1] [When Attacking] Rest up to 1 of your opponent's Characters with a cost of 6 or less.",
+  "trigger": null,
+  "illust": null,
+  "color": "Vert",
+  "rarity": "C",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/st12-p008.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/539152_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.95,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Zoro-Sanji/Roronoa-Zoro-ST12-008",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Zoro-Sanji-Japanese/Roronoa-Zoro-ST12-008",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/539152",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Roronoa Zoro",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Zoro-Sanji/Roronoa-Zoro-ST12-008",
+      "file": "ST12-008-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Roronoa Zoro (Treasure Cup 2024)",
+      "rarity": "C",
+      "price_eur": 1553.95,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Roronoa-Zoro-ST12-008",
+      "file": "ST12-008-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.22,
+  "price_avg30_eur": 0.41,
+  "listings_count": 50
+}

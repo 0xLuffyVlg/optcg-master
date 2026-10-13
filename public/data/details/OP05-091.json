@@ -1,0 +1,89 @@
+{
+  "code": "OP05-091",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Rebecca",
+  "variant_name": "Rebecca",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": null,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Sagesse",
+  "types": "Dressrosa",
+  "effect": "[Blocker]\n[On Play] Add up to 1 black Character card with a cost of 3 to 7 other than [Rebecca] from your trash to your hand. Then, play up to 1 black Character card with a cost of 3 or less from your hand rested.",
+  "trigger": null,
+  "illust": "POKImari",
+  "color": "Noir",
+  "rarity": "SR",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op05-p110.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528165_200w.jpg",
+  "price_eur": 0.1,
+  "price_usd": 4.35,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Rebecca-OP05-091-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Rebecca-OP05-091-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/528165",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Rebecca",
+      "rarity": "SR",
+      "price_eur": 0.1,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Rebecca-OP05-091-V1",
+      "file": "OP05-091-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Rebecca (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 84,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Rebecca-OP05-091-V2",
+      "file": "OP05-091-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Rebecca (SP)",
+      "rarity": "SR",
+      "price_eur": 94.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Rebecca-OP05-091",
+      "file": "OP05-091-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Rebecca (October Championship 2024 Online Regional)",
+      "rarity": "SR",
+      "price_eur": 3800.83,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Rebecca-OP05-091-V1",
+      "file": "OP05-091-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Rebecca (SP)",
+      "rarity": "SR",
+      "price_eur": 89.85,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Rebecca-OP05-091-V2",
+      "file": "OP05-091-v5.json"
+    },
+    {
+      "variant_index": 6,
+      "variant_version": "v6",
+      "name": "Rebecca (SP)",
+      "rarity": "SR",
+      "price_eur": 89.85,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Rebecca-OP05-091-V2",
+      "file": "OP05-091-v6.json"
+    }
+  ],
+  "price_min_eur": 0.1,
+  "price_avg7_eur": 2042.86,
+  "price_avg30_eur": 1592.86,
+  "listings_count": 5
+}

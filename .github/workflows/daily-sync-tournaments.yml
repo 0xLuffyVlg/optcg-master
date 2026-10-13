@@ -1,0 +1,35 @@
+name: Daily Tournaments Sync
+
+on:
+  schedule:
+    # Tous les matins à 06:30 UTC (08:30 heure de Paris)
+    - cron: '30 6 * * *'
+  workflow_dispatch: # Permet de lancer manuellement depuis l'interface GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  sync-tournaments:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci --prefer-offline --no-audit
+
+      - name: Run Daily Tournaments Sync
+        run: npm run sync:tournaments
+
+      - name: Commit and Push Updated Tournaments
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-sync daily competitive tournaments [skip ci]"
+          file_pattern: "src/data/tournaments.json"

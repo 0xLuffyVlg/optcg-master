@@ -1,0 +1,53 @@
+{
+  "code": "OP12-043",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Kuzan",
+  "variant_name": "Kuzan (043)",
+  "category": "CHARACTER",
+  "cost": 6,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Marine",
+  "effect": "Si vous avez 5 cartes ou plus dans votre main, augmentez de +1 le coût de ce Personnage.\n[Jouée] Vous pouvez défausser 1 carte de votre main : Jusqu'à 1 Personnage adverse ne peut pas attaquer jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
+  "trigger": null,
+  "illust": "Wong Kok Wai",
+  "color": "Bleu",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op12-p054.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643777_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.18,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Kuzan-OP12-043-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/Kuzan-OP12-043-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/643777",
+  "pricecharting_url": "https://www.pricecharting.com/game/10266418",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Kuzan (043)",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Kuzan-OP12-043-V1?language=2",
+      "file": "OP12-043-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Kuzan (043) (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 10,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Kuzan-OP12-043-V2?language=2",
+      "file": "OP12-043-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.08,
+  "price_avg30_eur": 0.06,
+  "listings_count": 13
+}

@@ -1,0 +1,53 @@
+{
+  "code": "OP02-009",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Squard",
+  "variant_name": "Squard (Box Topper)",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 5000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Whitebeard Pirates Allies",
+  "effect": "[On Play] If your Leader's type includes \"Whitebeard Pirates\", give up to 1 of your opponent's Characters −4000 power during this turn and add 1 card from the top of your Life cards to your hand.",
+  "trigger": null,
+  "illust": "Hayaken-sarena",
+  "color": "Rouge",
+  "rarity": "UC",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op02-p013.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/483096_200w.jpg",
+  "price_eur": 0.99,
+  "price_usd": 1.64,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Squard-OP02-009-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War-Japanese/Squard-OP02-009-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/483096",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Squard",
+      "rarity": "UC",
+      "price_eur": 0.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Squard-OP02-009-V1",
+      "file": "OP02-009-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Squard (Box Topper)",
+      "rarity": "UC",
+      "price_eur": 1.15,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Squard-OP02-009-V2",
+      "file": "OP02-009-v2.json"
+    }
+  ],
+  "price_min_eur": 0.99,
+  "price_avg7_eur": 2.23,
+  "price_avg30_eur": 1.98,
+  "listings_count": 50
+}

@@ -1,0 +1,53 @@
+{
+  "code": "ST22-002",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Izo",
+  "variant_name": "Izo (Parallel)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": null,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Distance",
+  "types": "Pays de Wano/Équipage de Barbe Blanche",
+  "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte incluant «Équipage de Barbe Blanche» dans son type autre que [Izo] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.\n[Attaque adverse] Vous pouvez placer ce Personnage dans votre Défausse : Piochez 1 carte et placez 1 carte de votre main au-dessous de votre deck.",
+  "trigger": null,
+  "illust": "Hokuyuu",
+  "color": "Bleu",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st22-p004.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/647686_200w.jpg",
+  "price_eur": 5,
+  "price_usd": 9.36,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Izo-ST22-002-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate-Non-English/Izo-ST22-002-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/647686",
+  "pricecharting_url": "https://www.pricecharting.com/game/10472480",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Izo",
+      "rarity": "SR",
+      "price_eur": 5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Izo-ST22-002-V1?language=2",
+      "file": "ST22-002-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Izo (Parallel)",
+      "rarity": "SR",
+      "price_eur": 4.98,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Izo-ST22-002-V2?language=2",
+      "file": "ST22-002-v2.json"
+    }
+  ],
+  "price_min_eur": 5,
+  "price_avg7_eur": 5.02,
+  "price_avg30_eur": 5.71,
+  "listings_count": 42
+}

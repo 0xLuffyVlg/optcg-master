@@ -1,0 +1,53 @@
+{
+  "code": "OP08-036",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Electrical Luna",
+  "variant_name": "Electrical Luna",
+  "category": "EVENT",
+  "cost": 3,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Minks",
+  "effect": "[Main] All of your opponent's rested Characters with a cost of 7 or less will not become active in your opponent's next Refresh Phase.",
+  "trigger": "Rest up to 1 of your opponent's Characters.",
+  "illust": null,
+  "color": "Vert",
+  "rarity": "R",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op08-p043.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558063_200w.jpg",
+  "price_eur": 2,
+  "price_usd": 9.57,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Electrical-Luna-OP08-036",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends-Non-English/Electrical-Luna-OP08-036",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/558063",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Electrical Luna",
+      "rarity": "R",
+      "price_eur": 2,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Electrical-Luna-OP08-036",
+      "file": "OP08-036-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Electrical Luna (Premium Card Collection -Best Selection Vol. 5-)",
+      "rarity": "R",
+      "price_eur": 16.89,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Electrical-Luna-OP08-036-V1",
+      "file": "OP08-036-v2.json"
+    }
+  ],
+  "price_min_eur": 2,
+  "price_avg7_eur": 14.43,
+  "price_avg30_eur": 16.58,
+  "listings_count": 50
+}

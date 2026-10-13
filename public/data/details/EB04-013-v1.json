@@ -1,0 +1,53 @@
+{
+  "code": "EB04-013",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Carrot",
+  "variant_name": "Carrot",
+  "category": "CHARACTER",
+  "cost": 8,
+  "power": 9000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Minks",
+  "effect": "\"[On Play] If your Leader has the {Minks",
+  "trigger": null,
+  "illust": "kicori",
+  "color": "Vert",
+  "rarity": "SR",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/eb04-p017.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668658_200w.jpg",
+  "price_eur": 0.04,
+  "price_usd": 0.38,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Carrot-EB04-013-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal/Carrot-EB04-013-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/668658",
+  "pricecharting_url": "https://www.pricecharting.com/game/11703030",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Carrot",
+      "rarity": "SR",
+      "price_eur": 0.04,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Carrot-EB04-013-V1?language=2",
+      "file": "EB04-013-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Carrot (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 7,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Carrot-EB04-013-V2?language=2",
+      "file": "EB04-013-v2.json"
+    }
+  ],
+  "price_min_eur": 0.04,
+  "price_avg7_eur": 0.32,
+  "price_avg30_eur": 0.32,
+  "listings_count": 50
+}

@@ -1,0 +1,71 @@
+{
+  "code": "OP06-086",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Gecko Moria",
+  "variant_name": "Gecko Moria (086)",
+  "category": "CHARACTER",
+  "cost": 8,
+  "power": 9000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "The Seven Warlords of the Sea/Thriller Bark Pirates",
+  "effect": "[On Play] Choose up to 1 Character card with a cost of 4 or less and up to 1 Character card with a cost of 2 or less from your trash. Play 1 card and play the other card rested.",
+  "trigger": null,
+  "illust": "eiji kaneda",
+  "color": "Noir",
+  "rarity": "SR",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op06-p103.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541055_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.51,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Gecko-Moria-OP06-086-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain-Japanese/Gecko-Moria-OP06-086-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/541055",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Gecko Moria (086)",
+      "rarity": "SR",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Gecko-Moria-OP06-086-V1",
+      "file": "OP06-086-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Gecko Moria (086) (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 4.81,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Gecko-Moria-OP06-086-V2",
+      "file": "OP06-086-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Gecko Moria (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 0.18,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Gecko-Moria-OP06-086-V2",
+      "file": "OP06-086-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Gecko Moria (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 13.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Gecko-Moria-OP06-086-V2",
+      "file": "OP06-086-v4.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.48,
+  "price_avg30_eur": 0.41,
+  "listings_count": 50
+}

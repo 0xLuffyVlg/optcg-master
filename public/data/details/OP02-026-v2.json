@@ -1,0 +1,53 @@
+{
+  "code": "OP02-026",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Sanji",
+  "variant_name": "Sanji (Alternate Art)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": "Frappe",
+  "types": "Straw Hat Crew",
+  "effect": "[Once Per Turn] When you play a Character with no base effect from your hand, if you have 3 or less Characters, set up to 2 of your DON!! cards as active.",
+  "trigger": null,
+  "illust": null,
+  "color": "Vert/Bleu",
+  "rarity": "L",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op02-p036.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/483628_200w.jpg",
+  "price_eur": 110,
+  "price_usd": 140.67,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Sanji-OP02-026-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War-Japanese/Sanji-OP02-026-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/483628",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Sanji",
+      "rarity": "L",
+      "price_eur": 110,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Sanji-OP02-026-V1",
+      "file": "OP02-026-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Sanji (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 110,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Sanji-OP02-026-V2",
+      "file": "OP02-026-v2.json"
+    }
+  ],
+  "price_min_eur": 110,
+  "price_avg7_eur": 114.23,
+  "price_avg30_eur": 138.53,
+  "listings_count": 50
+}

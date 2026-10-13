@@ -1,0 +1,53 @@
+{
+  "code": "ST22-014",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "A.O",
+  "variant_name": "A.O.",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Alliés de l'équipage de Barbe Blanche",
+  "effect": null,
+  "trigger": null,
+  "illust": "kankurou",
+  "color": "Bleu",
+  "rarity": "C",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st22-p027.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/647709_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.05,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/AO-ST22-014-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate-Non-English/AO-ST22-014-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/647709",
+  "pricecharting_url": "https://www.pricecharting.com/game/10472501",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "A.O.",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/AO-ST22-014-V1?language=2",
+      "file": "ST22-014-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "A.O. (Parallel)",
+      "rarity": "C",
+      "price_eur": 0.4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/AO-ST22-014-V2?language=2",
+      "file": "ST22-014-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.05,
+  "price_avg30_eur": 0.05,
+  "listings_count": 49
+}

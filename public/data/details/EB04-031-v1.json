@@ -1,0 +1,53 @@
+{
+  "code": "EB04-031",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "King",
+  "variant_name": "King",
+  "category": "CHARACTER",
+  "cost": 6,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Lunarian/Animal Kingdom Pirates",
+  "effect": "\"If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead. [Activate: Main] [Once Per Turn] If your Leader has the {Animal Kingdom Pirates",
+  "trigger": null,
+  "illust": "Hatori Kyoka",
+  "color": "Violet",
+  "rarity": "R",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/eb04-p039.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671341_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.14,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/King-EB04-031-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal/King-EB04-031-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/671341",
+  "pricecharting_url": "https://www.pricecharting.com/game/11703055",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "King",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/King-EB04-031-V1?language=2",
+      "file": "EB04-031-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "King (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 20,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/King-EB04-031-V2?language=2",
+      "file": "EB04-031-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.31,
+  "price_avg30_eur": 0.29,
+  "listings_count": 50
+}

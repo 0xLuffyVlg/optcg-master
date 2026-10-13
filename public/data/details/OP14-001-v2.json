@@ -1,0 +1,53 @@
+{
+  "code": "OP14-001",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Trafalgar Law",
+  "variant_name": "Trafalgar Law - OP14-001 (Alternate Art)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Tranchant",
+  "types": "Sept grands corsaires/Supernovae/Équipage du Heart",
+  "effect": "\"[Activation : Principale] [Une fois par tour] Choisissez 2 de vos Personnages de type {Supernovae",
+  "trigger": null,
+  "illust": "Kaito Tomioka",
+  "color": "Rouge",
+  "rarity": "L",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op14-p002.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666519_200w.jpg",
+  "price_eur": 16,
+  "price_usd": 19.9,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Trafalgar-Law-OP14-001-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven-Asia-Region-Legal/Trafalgar-Law-OP14-001-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/666519",
+  "pricecharting_url": "https://www.pricecharting.com/game/11634213",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Trafalgar Law - OP14-001",
+      "rarity": "L",
+      "price_eur": 16,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Trafalgar-Law-OP14-001-V1?language=2",
+      "file": "OP14-001-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Trafalgar Law - OP14-001 (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 16,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Trafalgar-Law-OP14-001-V2?language=2",
+      "file": "OP14-001-v2.json"
+    }
+  ],
+  "price_min_eur": 16,
+  "price_avg7_eur": 23.14,
+  "price_avg30_eur": 18.34,
+  "listings_count": 21
+}

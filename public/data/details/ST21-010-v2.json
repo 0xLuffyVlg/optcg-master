@@ -1,0 +1,53 @@
+{
+  "code": "ST21-010",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Nico Robin",
+  "variant_name": "Nico Robin (Parallel)",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Équipage de Chapeau de paille",
+  "effect": "[DON!! x2] [En attaquant] Mettez KO jusqu'à 1 Personnage adverse ayant 4000 de puissance ou moins.",
+  "trigger": null,
+  "illust": "eiji kaneda",
+  "color": "Rouge",
+  "rarity": "C",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st21-p020.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/615583_200w.jpg",
+  "price_eur": 5,
+  "price_usd": 19.56,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Nico-Robin-ST21-010-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Gear-5-Non-English/Nico-Robin-ST21-010-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/615583",
+  "pricecharting_url": "https://www.pricecharting.com/game/9585689",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Nico Robin",
+      "rarity": "C",
+      "price_eur": 5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Nico-Robin-ST21-010-V1?language=2",
+      "file": "ST21-010-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Nico Robin (Parallel)",
+      "rarity": "C",
+      "price_eur": 5.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Nico-Robin-ST21-010-V2?language=2",
+      "file": "ST21-010-v2.json"
+    }
+  ],
+  "price_min_eur": 5,
+  "price_avg7_eur": 6.23,
+  "price_avg30_eur": 6.96,
+  "listings_count": 26
+}

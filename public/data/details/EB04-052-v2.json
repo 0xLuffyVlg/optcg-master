@@ -1,0 +1,53 @@
+{
+  "code": "EB04-052",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Sanji",
+  "variant_name": "Sanji (EB04-052) (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Egg Head/Équipage de Chapeau de paille",
+  "effect": "[En attaquant] La puissance de base de ce Personnage devient identique à la puissance du Leader adverse pour tout le tour. [En cas de KO] Si vous avez 2 cartes ou moins dans votre Vie, jouez jusqu'à 1 carte Personnage jaune de votre main ayant 6000 de puissance ou moins.",
+  "trigger": null,
+  "illust": "touge369",
+  "color": "Jaune",
+  "rarity": "R",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/eb04-p068.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685323_200w.jpg",
+  "price_eur": 4.9,
+  "price_usd": 8.85,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Sanji-EB04-052-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal/Sanji-EB04-052-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/685323",
+  "pricecharting_url": "https://www.pricecharting.com/game/12427201",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Sanji (EB04-052)",
+      "rarity": "R",
+      "price_eur": 4.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Sanji-EB04-052-V1?language=2",
+      "file": "EB04-052-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Sanji (EB04-052) (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 4.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Sanji-EB04-052-V2?language=2",
+      "file": "EB04-052-v2.json"
+    }
+  ],
+  "price_min_eur": 4.9,
+  "price_avg7_eur": 5.13,
+  "price_avg30_eur": 5.38,
+  "listings_count": 23
+}

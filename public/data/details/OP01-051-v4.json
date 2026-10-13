@@ -1,0 +1,80 @@
+{
+  "code": "OP01-051",
+  "variant_version": "v4",
+  "variant_index": 4,
+  "name": "Eustass\"Captain\"Kid",
+  "variant_name": "Eustass\"Captain\"Kid (OP01-051) (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 8,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Supernovas/Kid Pirates",
+  "effect": "[DON!! x1] [Opponent's Turn] If this Character is rested, your opponent cannot attack any card other than the Character [Eustass\"Captain\"Kid].\n[Activate: Main] [Once Per Turn] You may rest this Character: Play up to 1 Character card with a cost of 3 or less from your hand.",
+  "trigger": null,
+  "illust": null,
+  "color": "Vert",
+  "rarity": "SR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-en/prb01-p022.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586892_200w.jpg",
+  "price_eur": 0.1,
+  "price_usd": 6.78,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/EustassCaptainKid-OP01-051-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/EustassCaptainKid-OP01-051",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/586892",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Eustass\"Captain\"Kid",
+      "rarity": "SR",
+      "price_eur": 0.1,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/EustassCaptainKid-OP01-051-V1",
+      "file": "OP01-051-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Eustass\"Captain\"Kid (Parallel)",
+      "rarity": "SR",
+      "price_eur": 47.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/EustassCaptainKid-OP01-051-V2",
+      "file": "OP01-051-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Eustass\"Captain\"Kid (Wanted Poster)",
+      "rarity": "SR",
+      "price_eur": 60,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/EustassCaptainKid-OP01-051",
+      "file": "OP01-051-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Eustass\"Captain\"Kid (OP01-051) (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 0.1,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/EustassCaptainKid-OP01-051-V2",
+      "file": "OP01-051-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Eustass\"Captain\"Kid (OP01-051) (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/EustassCaptainKid-OP01-051-V2",
+      "file": "OP01-051-v5.json"
+    }
+  ],
+  "price_min_eur": 0.1,
+  "price_avg7_eur": 0.41,
+  "price_avg30_eur": 0.51,
+  "listings_count": 50
+}

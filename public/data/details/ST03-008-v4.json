@@ -1,0 +1,125 @@
+{
+  "code": "ST03-008",
+  "variant_version": "v4",
+  "variant_index": 4,
+  "name": "Trafalgar Law",
+  "variant_name": "Trafalgar Law (CS 2023 Top Players Pack)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 1000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "The Seven Warlords of the Sea/Heart Pirates",
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger": null,
+  "illust": null,
+  "color": "Bleu",
+  "rarity": "C",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-en/pack-championship-p092.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/525686_200w.jpg",
+  "price_eur": 7000,
+  "price_usd": 780.32,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Trafalgar-Law-ST03-008-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/Trafalgar-Law-ST03-008-V3",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/525686",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Trafalgar Law (ST03-008) (Jolly Roger Foil)",
+      "rarity": "C",
+      "price_eur": 7000,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Trafalgar-Law-ST03-008-V1",
+      "file": "ST03-008-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Trafalgar Law (ST03-008) (Full Art)",
+      "rarity": "C",
+      "price_eur": 5500,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Trafalgar-Law-ST03-008-V3",
+      "file": "ST03-008-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Trafalgar Law",
+      "rarity": "C",
+      "price_eur": 12,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-The-Seven-Warlords-of-the-Sea/Trafalgar-Law-ST03-008-V1",
+      "file": "ST03-008-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Trafalgar Law (CS 2023 Top Players Pack)",
+      "rarity": "C",
+      "price_eur": 1999,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Trafalgar-Law-ST03-008-V1",
+      "file": "ST03-008-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Trafalgar Law (Gift Collection 2023)",
+      "rarity": "R",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Trafalgar-Law-ST03-008-V1",
+      "file": "ST03-008-v5.json"
+    },
+    {
+      "variant_index": 6,
+      "variant_version": "v6",
+      "name": "Trafalgar Law (Event Pack Vol. 3)",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Trafalgar-Law-ST03-008-V2",
+      "file": "ST03-008-v6.json"
+    },
+    {
+      "variant_index": 7,
+      "variant_version": "v7",
+      "name": "Trafalgar Law (Offline Regional 2024 Vol. 2) [Participant]",
+      "rarity": "PR",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Trafalgar-Law-ST03-008-V4",
+      "file": "ST03-008-v7.json"
+    },
+    {
+      "variant_index": 8,
+      "variant_version": "v8",
+      "name": "Trafalgar Law - ST03-008 (CS 2024 Event Pack)",
+      "rarity": "C",
+      "price_eur": 4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Trafalgar-Law-ST03-008-V7",
+      "file": "ST03-008-v8.json"
+    },
+    {
+      "variant_index": 9,
+      "variant_version": "v9",
+      "name": "Trafalgar Law (ST03-008) (Jolly Roger Foil)",
+      "rarity": "C",
+      "price_eur": 0.11,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Trafalgar-Law-ST03-008-V1",
+      "file": "ST03-008-v9.json"
+    },
+    {
+      "variant_index": 10,
+      "variant_version": "v10",
+      "name": "Trafalgar Law (ST03-008) (Full Art)",
+      "rarity": "C",
+      "price_eur": 4.81,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Trafalgar-Law-ST03-008-V3",
+      "file": "ST03-008-v10.json"
+    }
+  ],
+  "price_min_eur": 7000,
+  "price_avg7_eur": 287.36,
+  "price_avg30_eur": 136.53,
+  "listings_count": 2
+}

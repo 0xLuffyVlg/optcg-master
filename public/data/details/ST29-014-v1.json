@@ -1,0 +1,53 @@
+{
+  "code": "ST29-014",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Roronoa Zoro",
+  "variant_name": "Roronoa Zoro",
+  "category": "CHARACTER",
+  "cost": 6,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Egg Head/Équipage de Chapeau de paille",
+  "effect": "[Initiative : Personnage] (Cette carte peut attaquer un Personnage durant le tour où elle est jouée.)\n[Activation : Principale] [Une fois par tour] Vous pouvez défausser 1 carte de votre main ayant [Déclenchement] : Piochez 1 carte et donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.",
+  "trigger": null,
+  "illust": "Nijihayashi",
+  "color": "Jaune",
+  "rarity": "SR",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st29-p027.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671609_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.94,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Roronoa-Zoro-ST29-014-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead-Asia-Region-Legal/Roronoa-Zoro-ST29-014-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/671609",
+  "pricecharting_url": "https://www.pricecharting.com/game/11786240",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Roronoa Zoro",
+      "rarity": "SR",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Roronoa-Zoro-ST29-014-V1?language=2",
+      "file": "ST29-014-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Roronoa Zoro (Full Art)",
+      "rarity": "SR",
+      "price_eur": 5.29,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Roronoa-Zoro-ST29-014-V2?language=2",
+      "file": "ST29-014-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.42,
+  "price_avg30_eur": 0.51,
+  "listings_count": 50
+}

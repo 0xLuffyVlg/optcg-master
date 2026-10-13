@@ -1,0 +1,53 @@
+{
+  "code": "OP17-107",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Charlotte Daifuku",
+  "variant_name": "Charlotte Daifuku (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 4000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Équipage de Big Mom",
+  "effect": null,
+  "trigger": "Jouez cette carte.",
+  "illust": "HISASHI HUJIWARA",
+  "color": "Jaune",
+  "rarity": "UC",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op17-p140.webp",
+  "image_url": "/img/cards-fr/op17-p140-sm.webp",
+  "price_eur": 1.99,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Daifuku-OP17-107-V2?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/712654",
+  "pricecharting_url": "https://www.pricecharting.com/game/14107768",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Charlotte Daifuku",
+      "rarity": "UC",
+      "price_eur": 1.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Daifuku-OP17-107?language=2",
+      "file": "OP17-107-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Charlotte Daifuku (Alternate Art)",
+      "rarity": "UC",
+      "price_eur": 2.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Daifuku-OP17-107-V2?language=2",
+      "file": "OP17-107-v2.json"
+    }
+  ],
+  "price_min_eur": 1.99,
+  "price_avg7_eur": 3.53,
+  "price_avg30_eur": 3.58,
+  "listings_count": 34
+}

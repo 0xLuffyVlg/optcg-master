@@ -1,0 +1,62 @@
+{
+  "code": "OP10-030",
+  "variant_version": "v3",
+  "variant_index": 3,
+  "name": "Smoker",
+  "variant_name": "Smoker - OP10-030 (SP)",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Punk Hazard/Marine",
+  "effect": "[Exil] (Quand cette carte inflige des dégâts, la carte cible est placée dans la Défausse sans activer Déclenchement.)\n[Activation : Principale] Redressez jusqu'à 1 de vos cartes DON!!. Puis, vous ne pouvez pas redresser de carte DON!! grâce à l'effet d'un Personnage pour tout le tour.",
+  "trigger": null,
+  "illust": "Hagane Tsurugi",
+  "color": "Vert",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-en/op13-p173.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657449_200w.jpg",
+  "price_eur": 795,
+  "price_usd": 74.33,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Smoker-OP10-030?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/Smoker-OP10-030",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/657449",
+  "pricecharting_url": "https://www.pricecharting.com/game/8828225",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Smoker (030)",
+      "rarity": "SR",
+      "price_eur": 795,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Smoker-OP10-030-V1?language=2",
+      "file": "OP10-030-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Smoker (030) (Parallel)",
+      "rarity": "SR",
+      "price_eur": 0.3,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Smoker-OP10-030-V2?language=2",
+      "file": "OP10-030-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Smoker - OP10-030 (SP)",
+      "rarity": "SR",
+      "price_eur": 44.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Smoker-OP10-030?language=2",
+      "file": "OP10-030-v3.json"
+    }
+  ],
+  "price_min_eur": 795,
+  "price_avg7_eur": 46.94,
+  "price_avg30_eur": 53.45,
+  "listings_count": 18
+}

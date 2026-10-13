@@ -1,0 +1,53 @@
+{
+  "code": "ST22-012",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Marco",
+  "variant_name": "Marco (Parallel)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Équipage de Barbe Blanche",
+  "effect": "[Une fois par tour] Si ce Personnage est mis KO par un effet adverse, vous pouvez défausser 1 carte de votre main à la place.\n[En attaquant] Révélez 1 carte du dessus de votre deck ; si elle inclut «Équipage de Barbe Blanche» dans son type, ce Personnage gagne +1000 de puissance jusqu'à la fin du prochain tour adverse.",
+  "trigger": null,
+  "illust": "Hokuyuu",
+  "color": "Bleu",
+  "rarity": "C",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st22-p024.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/647706_200w.jpg",
+  "price_eur": 2.49,
+  "price_usd": 2.38,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Marco-ST22-012-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate-Non-English/Marco-ST22-012-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/647706",
+  "pricecharting_url": "https://www.pricecharting.com/game/10472496",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Marco",
+      "rarity": "C",
+      "price_eur": 2.49,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Marco-ST22-012-V1?language=2",
+      "file": "ST22-012-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Marco (Parallel)",
+      "rarity": "C",
+      "price_eur": 2.49,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Marco-ST22-012-V2?language=2",
+      "file": "ST22-012-v2.json"
+    }
+  ],
+  "price_min_eur": 2.49,
+  "price_avg7_eur": 3.12,
+  "price_avg30_eur": 3.15,
+  "listings_count": 30
+}

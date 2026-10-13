@@ -1,0 +1,71 @@
+{
+  "code": "OP03-102",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Sanji",
+  "variant_name": "Sanji",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 3000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "The Vinsmoke Family",
+  "effect": "[DON!! x2] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+  "trigger": null,
+  "illust": "SHIE NANAHARA",
+  "color": "Jaune",
+  "rarity": "R",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op03-p122.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/500063_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.44,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Sanji-OP03-102",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/Sanji-OP03-102",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/500063",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Sanji",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Sanji-OP03-102",
+      "file": "OP03-102-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Sanji (Store Championship Participation Pack Vol. 2)",
+      "rarity": "PR",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Sanji-OP03-102",
+      "file": "OP03-102-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Sanji (Offline Regional 2024) [Participant]",
+      "rarity": "R",
+      "price_eur": 27.77,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Sanji-OP03-102-V1",
+      "file": "OP03-102-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Sanji (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
+      "rarity": "R",
+      "price_eur": 2.95,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sanji-OP03-102-V2",
+      "file": "OP03-102-v4.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": null,
+  "price_avg30_eur": null,
+  "listings_count": null
+}

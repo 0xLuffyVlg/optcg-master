@@ -1,0 +1,53 @@
+{
+  "code": "OP16-079",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Yamato",
+  "variant_name": "Yamato (079) (Alternate Art)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Frappe",
+  "types": "Pays de Wano",
+  "effect": "\"Quand un Personnage de type {Pays de Wano",
+  "trigger": null,
+  "illust": "Kohei Mikoshi",
+  "color": "Noir",
+  "rarity": "L",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op16-p101.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/694068_200w.jpg",
+  "price_eur": 39,
+  "price_usd": 81.85,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Yamato-OP16-079-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Time-of-Battle-Asia-Region-Legal/Yamato-OP16-079-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/694068",
+  "pricecharting_url": "https://www.pricecharting.com/game/13335473",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Yamato (079)",
+      "rarity": "L",
+      "price_eur": 39,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Yamato-OP16-079-V1?language=2",
+      "file": "OP16-079-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Yamato (079) (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 44.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Yamato-OP16-079-V2?language=2",
+      "file": "OP16-079-v2.json"
+    }
+  ],
+  "price_min_eur": 39,
+  "price_avg7_eur": 46.24,
+  "price_avg30_eur": 43.05,
+  "listings_count": 20
+}

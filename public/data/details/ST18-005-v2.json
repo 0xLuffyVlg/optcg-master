@@ -1,0 +1,53 @@
+{
+  "code": "ST18-005",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Luffy-Tarou",
+  "variant_name": "Luffy-Tarou (SP)",
+  "category": "CHARACTER",
+  "cost": 7,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Équipage de Chapeau de paille",
+  "effect": "\"[Jouée] DON!! -1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.) : Jouez jusqu'à 1 carte Personnage de type {Équipage de Chapeau de paille",
+  "trigger": null,
+  "illust": "Yamada Rokkaku.",
+  "color": "Violet",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-en/op11-p155.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632509_200w.jpg",
+  "price_eur": 190,
+  "price_usd": 311.29,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Luffy-Tarou-ST18-005?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-MonkeyDLuffy-Non-English/Luffy-Tarou-ST18-005-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/632509",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Luffy-Tarou",
+      "rarity": "SR",
+      "price_eur": 190,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-MonkeyDLuffy/Luffy-Tarou-ST18-005?language=2",
+      "file": "ST18-005-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Luffy-Tarou (SP)",
+      "rarity": "SR",
+      "price_eur": 380,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Luffy-Tarou-ST18-005?language=2",
+      "file": "ST18-005-v2.json"
+    }
+  ],
+  "price_min_eur": 190,
+  "price_avg7_eur": 211.14,
+  "price_avg30_eur": 277.2,
+  "listings_count": 6
+}

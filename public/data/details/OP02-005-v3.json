@@ -1,0 +1,68 @@
+{
+  "code": "OP02-005",
+  "variant_version": "v3",
+  "variant_index": 3,
+  "name": "Curly.Dadan",
+  "variant_name": "Curly.Dadan (Pirate Foil)",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 3000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Mountain Bandits",
+  "effect": "[On Play] Look at up to 5 cards from the top of your deck; reveal up to 1 red Character with a cost of 1 and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": null,
+  "illust": "Misa Tsutsui",
+  "color": "Rouge",
+  "rarity": "UC",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op02-p008.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656004_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.11,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/CurlyDadan-OP02-005-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/CurlyDadan-OP02-005-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/656004",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Curly.Dadan",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/CurlyDadan-OP02-005",
+      "file": "OP02-005-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Curly.Dadan (Premium Card Collection -Best Selection Vol. 1-)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/CurlyDadan-OP02-005",
+      "file": "OP02-005-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Curly.Dadan (Pirate Foil)",
+      "rarity": "UC",
+      "price_eur": 0.11,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/CurlyDadan-OP02-005-V2",
+      "file": "OP02-005-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Curly.Dadan (Pirate Foil)",
+      "rarity": "UC",
+      "price_eur": 0.11,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/CurlyDadan-OP02-005-V2",
+      "file": "OP02-005-v4.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

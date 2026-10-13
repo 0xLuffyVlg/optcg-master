@@ -1,0 +1,71 @@
+{
+  "code": "OP07-038",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Boa Hancock",
+  "variant_name": "Boa Hancock (038) (Parallel)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Spécial",
+  "types": "The Seven Warlords of the Sea/Kuja Pirates",
+  "effect": "[Your Turn] [Once Per Turn] This effect can be activated when a Character is removed from the field by your effect. If you have 5 or less cards in your hand, draw 1 card.",
+  "trigger": null,
+  "illust": null,
+  "color": "Bleu",
+  "rarity": "L",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op07-p046.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545823_200w.jpg",
+  "price_eur": 60.96,
+  "price_usd": 129.48,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Boa-Hancock-OP07-038-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future-Japanese/Boa-Hancock-OP07-038-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/545823",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Boa Hancock (038)",
+      "rarity": "L",
+      "price_eur": 60.96,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Boa-Hancock-OP07-038-V1",
+      "file": "OP07-038-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Boa Hancock (038) (Parallel)",
+      "rarity": "L",
+      "price_eur": 62,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Boa-Hancock-OP07-038-V2",
+      "file": "OP07-038-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Boa Hancock (SP)",
+      "rarity": "L",
+      "price_eur": 3661.75,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Boa-Hancock-OP07-038",
+      "file": "OP07-038-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Boa Hancock (2025 PSA Magazine Promo)",
+      "rarity": "L",
+      "price_eur": 351.66,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Boa-Hancock-OP07-038",
+      "file": "OP07-038-v4.json"
+    }
+  ],
+  "price_min_eur": 60.96,
+  "price_avg7_eur": 92.71,
+  "price_avg30_eur": 84.16,
+  "listings_count": 50
+}

@@ -1,0 +1,53 @@
+{
+  "code": "ST30-007",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Portgas D. Ace",
+  "variant_name": "Portgas.D.Ace (007) (Parallel)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Équipage de Barbe Blanche",
+  "effect": "[Jouée] Vous pouvez épuiser 1 de vos cartes DON!! : Ce Personnage gagne [Initiative] pour tout le tour.\n(Cette carte peut attaquer durant le tour où elle est jouée.)\n[En attaquant] Jusqu'à 1 Personnage adverse perd −1000 de puissance pour tout le tour.",
+  "trigger": null,
+  "illust": "Yosuke Adachi",
+  "color": "Rouge",
+  "rarity": "SR",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st30-p014.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693395_200w.jpg",
+  "price_eur": 2.99,
+  "price_usd": 5.06,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/PortgasDAce-ST30-007-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace-Asia-Region-Legal/PortgasDAce-ST30-007-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/693395",
+  "pricecharting_url": "https://www.pricecharting.com/game/13426324",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Portgas.D.Ace (007)",
+      "rarity": "SR",
+      "price_eur": 2.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/PortgasDAce-ST30-007-V1?language=2",
+      "file": "ST30-007-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Portgas.D.Ace (007) (Parallel)",
+      "rarity": "SR",
+      "price_eur": 2.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/PortgasDAce-ST30-007-V2?language=2",
+      "file": "ST30-007-v2.json"
+    }
+  ],
+  "price_min_eur": 2.99,
+  "price_avg7_eur": 4.9,
+  "price_avg30_eur": 4.8,
+  "listings_count": 36
+}

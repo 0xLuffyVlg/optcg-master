@@ -1,0 +1,53 @@
+{
+  "code": "OP03-006",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Speed Jil",
+  "variant_name": "Speed Jil",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Whitebeard Pirates",
+  "effect": null,
+  "trigger": null,
+  "illust": "kankurou",
+  "color": "Rouge",
+  "rarity": "C",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op03-p007.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/499884_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.05,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Speed-Jil-OP03-006",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/Speed-Jil-OP03-006",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/499884",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Speed Jil",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Speed-Jil-OP03-006",
+      "file": "OP03-006-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Speed Jil (Dash Pack)",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Speed-Jil-OP03-006",
+      "file": "OP03-006-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.46,
+  "price_avg30_eur": 0.46,
+  "listings_count": 50
+}

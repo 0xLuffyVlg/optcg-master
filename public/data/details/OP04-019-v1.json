@@ -1,0 +1,53 @@
+{
+  "code": "OP04-019",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Donquixote Doflamingo",
+  "variant_name": "Donquixote Doflamingo (019)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": "Spécial",
+  "types": "The Seven Warlords of the Sea/Donquixote Pirates",
+  "effect": "[End of Your Turn] Set up to 2 of your DON!! cards as active.",
+  "trigger": null,
+  "illust": null,
+  "color": "Vert/Violet",
+  "rarity": "L",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op04-p021.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/510896_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.14,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Donquixote-Doflamingo-OP04-019-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue-Japanese/Donquixote-Doflamingo-OP04-019-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/510896",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Donquixote Doflamingo (019)",
+      "rarity": "L",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Donquixote-Doflamingo-OP04-019-V1",
+      "file": "OP04-019-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Donquixote Doflamingo (019) (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 40,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Donquixote-Doflamingo-OP04-019-V2",
+      "file": "OP04-019-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.11,
+  "price_avg30_eur": 0.11,
+  "listings_count": 50
+}

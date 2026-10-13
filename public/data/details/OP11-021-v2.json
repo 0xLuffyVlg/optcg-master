@@ -1,0 +1,53 @@
+{
+  "code": "OP11-021",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Jinbe",
+  "variant_name": "Jinbe (021) (Alternate Art)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Frappe",
+  "types": "Hommes-poissons/Équipage de Chapeau de paille",
+  "effect": "\"[Fin de votre tour] Si vous avez 6 cartes ou moins dans votre main, redressez jusqu'à 1 de vos Personnages de type {Hommes-poissons",
+  "trigger": null,
+  "illust": "Midori Matsuda",
+  "color": "Vert",
+  "rarity": "L",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op11-p027.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632381_200w.jpg",
+  "price_eur": 9,
+  "price_usd": 9.61,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Jinbe-OP11-021-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed-Non-English/Jinbe-OP11-021-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/632381",
+  "pricecharting_url": "https://www.pricecharting.com/game/9744499",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Jinbe (021)",
+      "rarity": "L",
+      "price_eur": 9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Jinbe-OP11-021-V1?language=2",
+      "file": "OP11-021-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Jinbe (021) (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Jinbe-OP11-021-V2?language=2",
+      "file": "OP11-021-v2.json"
+    }
+  ],
+  "price_min_eur": 9,
+  "price_avg7_eur": 10.07,
+  "price_avg30_eur": 10.74,
+  "listings_count": 36
+}

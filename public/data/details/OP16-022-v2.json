@@ -1,0 +1,53 @@
+{
+  "code": "OP16-022",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Monkey D. Luffy",
+  "variant_name": "Monkey.D.Luffy (022) (Alternate Art)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": "Frappe",
+  "types": "Impel Down/Équipage de Chapeau de paille",
+  "effect": "\"[Activation : Principale] [Une fois par tour] Si tous vos Personnages sont de type {Impel Down",
+  "trigger": null,
+  "illust": "Paji",
+  "color": "Vert/Bleu",
+  "rarity": "L",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op16-p028.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696007_200w.jpg",
+  "price_eur": 47.8,
+  "price_usd": 96.19,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/MonkeyDLuffy-OP16-022-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Time-of-Battle-Asia-Region-Legal/MonkeyDLuffy-OP16-022-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/696007",
+  "pricecharting_url": "https://www.pricecharting.com/game/13335514",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Monkey.D.Luffy (022)",
+      "rarity": "L",
+      "price_eur": 47.8,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/MonkeyDLuffy-OP16-022-V1?language=2",
+      "file": "OP16-022-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Monkey.D.Luffy (022) (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 47.8,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/MonkeyDLuffy-OP16-022-V2?language=2",
+      "file": "OP16-022-v2.json"
+    }
+  ],
+  "price_min_eur": 47.8,
+  "price_avg7_eur": 40.79,
+  "price_avg30_eur": 42.03,
+  "listings_count": 33
+}

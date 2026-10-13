@@ -1,0 +1,53 @@
+{
+  "code": "ST22-006",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Joz",
+  "variant_name": "Jozu",
+  "category": "CHARACTER",
+  "cost": 7,
+  "power": 8000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Équipage de Barbe Blanche",
+  "effect": "[Jouée] Révélez 1 carte du dessus de votre deck ; si elle inclut «Équipage de Barbe Blanche» dans son type, piochez 2 cartes et défaussez 1 carte de votre main.",
+  "trigger": null,
+  "illust": "DAI-XT.",
+  "color": "Bleu",
+  "rarity": "C",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st22-p011.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/647693_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.09,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Jozu-ST22-006-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate-Non-English/Jozu-ST22-006-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/647693",
+  "pricecharting_url": "https://www.pricecharting.com/game/10472485",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Jozu",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Jozu-ST22-006-V1?language=2",
+      "file": "ST22-006-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Jozu (Parallel)",
+      "rarity": "C",
+      "price_eur": 0.7,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Jozu-ST22-006-V2?language=2",
+      "file": "ST22-006-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.04,
+  "price_avg30_eur": 0.06,
+  "listings_count": 47
+}

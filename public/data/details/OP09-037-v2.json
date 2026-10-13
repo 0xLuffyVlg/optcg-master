@@ -1,0 +1,53 @@
+{
+  "code": "OP09-037",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Lim",
+  "variant_name": "Lim (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 5000,
+  "counter": null,
+  "life": null,
+  "attribute": "Sagesse",
+  "types": "ODYSSEY",
+  "effect": "\"[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {ODYSSEY",
+  "trigger": null,
+  "illust": "kito",
+  "color": "Vert",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op09-p047.webp",
+  "image_url": "/img/cards-fr/op09-p047-sm.webp",
+  "price_eur": 2.44,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Lim-OP09-037-V2?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/596964",
+  "pricecharting_url": "https://www.pricecharting.com/game/8091586",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Lim",
+      "rarity": "SR",
+      "price_eur": 2.44,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Lim-OP09-037-V1?language=2",
+      "file": "OP09-037-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Lim (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 2,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Lim-OP09-037-V2?language=2",
+      "file": "OP09-037-v2.json"
+    }
+  ],
+  "price_min_eur": 2.44,
+  "price_avg7_eur": 2.37,
+  "price_avg30_eur": 2.86,
+  "listings_count": 41
+}

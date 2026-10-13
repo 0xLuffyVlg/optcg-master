@@ -1,0 +1,80 @@
+{
+  "code": "OP09-093",
+  "variant_version": "v4",
+  "variant_index": 4,
+  "name": "Marshall.D.Teach",
+  "variant_name": "Marshall.D.Teach (Manga)",
+  "category": "CHARACTER",
+  "cost": 10,
+  "power": 12000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Quatre Empereurs/Équipage de Barbe Noire",
+  "effect": "\"[Bloqueur]\n[Activation : Principale] [Une fois par tour] Si votre Leader est de type {Équipage de Barbe Noire",
+  "trigger": null,
+  "illust": "ASAKI KURODA",
+  "color": "Noir",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op09-p119.webp",
+  "image_url": "/img/cards-fr/op09-p119-sm.webp",
+  "price_eur": 2500,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/MarshallDTeach-OP09-093-V4?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/597034",
+  "pricecharting_url": "https://www.pricecharting.com/game/8091655",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Marshall.D.Teach",
+      "rarity": "SR",
+      "price_eur": 2500,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/MarshallDTeach-OP09-093-V1?language=2",
+      "file": "OP09-093-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Marshall.D.Teach (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 16,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/MarshallDTeach-OP09-093-V2?language=2",
+      "file": "OP09-093-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Marshall.D.Teach (Alternate Art)",
+      "rarity": "SP",
+      "price_eur": 1500,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/MarshallDTeach-OP09-093-V3?language=2",
+      "file": "OP09-093-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Marshall.D.Teach (Manga)",
+      "rarity": "SR",
+      "price_eur": 120,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/MarshallDTeach-OP09-093-V4?language=2",
+      "file": "OP09-093-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Marshall.D.Teach (The Best)",
+      "rarity": "SR",
+      "price_eur": 1125,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/MarshallDTeach-OP09-093?language=2",
+      "file": "OP09-093-v5.json"
+    }
+  ],
+  "price_min_eur": 2500,
+  "price_avg7_eur": 155,
+  "price_avg30_eur": 175.91,
+  "listings_count": 14
+}

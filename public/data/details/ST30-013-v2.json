@@ -1,0 +1,53 @@
+{
+  "code": "ST30-013",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Mr 2 Bonclay(Bentham)",
+  "variant_name": "Mr.2.Bon.Kurei(Bentham) (Full Art)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Impel Down/Ex-Baroque Works",
+  "effect": null,
+  "trigger": null,
+  "illust": "Misa Matoki",
+  "color": "Vert",
+  "rarity": "C",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st30-p026.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695439_200w.jpg",
+  "price_eur": 0.4,
+  "price_usd": 0.79,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/Mr2BonKureiBentham-ST30-013-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace-Asia-Region-Legal/Mr2BonKureiBentham-ST30-013-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/695439",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Mr.2.Bon.Kurei(Bentham)",
+      "rarity": "C",
+      "price_eur": 0.4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/Mr2BonKureiBentham-ST30-013-V1?language=2",
+      "file": "ST30-013-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Mr.2.Bon.Kurei(Bentham) (Full Art)",
+      "rarity": "C",
+      "price_eur": 0.4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/Mr2BonKureiBentham-ST30-013-V2?language=2",
+      "file": "ST30-013-v2.json"
+    }
+  ],
+  "price_min_eur": 0.4,
+  "price_avg7_eur": 1.15,
+  "price_avg30_eur": 0.85,
+  "listings_count": 44
+}

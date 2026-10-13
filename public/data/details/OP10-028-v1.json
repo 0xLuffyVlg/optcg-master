@@ -1,0 +1,53 @@
+{
+  "code": "OP10-028",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Momonosuké Kozuki",
+  "variant_name": "Kouzuki Momonosuke (028)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Punk Hazard/Pays de Wano/Clan Kozuki",
+  "effect": "\"[Activation : Principale] Vous pouvez épuiser 2 de vos cartes DON!! et placer ce Personnage dans votre Défausse : Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 2 cartes de type {Neuf fourreaux rouges",
+  "trigger": null,
+  "illust": "eiji kaneda",
+  "color": "Vert",
+  "rarity": "UC",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op10-p035.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617064_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.09,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Kouzuki-Momonosuke-OP10-028?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/617064",
+  "pricecharting_url": "https://www.pricecharting.com/game/8828223",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Kouzuki Momonosuke (028)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Kouzuki-Momonosuke-OP10-028?language=2",
+      "file": "OP10-028-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Kouzuki Momonosuke (Premium Card Collection -Best Selection Vol. 4-)",
+      "rarity": "UC",
+      "price_eur": 0.89,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Kouzuki-Momonosuke-OP10-028-V1?language=2",
+      "file": "OP10-028-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 1.26,
+  "price_avg30_eur": 1.19,
+  "listings_count": 4
+}

@@ -1,0 +1,62 @@
+{
+  "code": "OP09-072",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Franky",
+  "variant_name": "Franky (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Équipage de Chapeau de paille",
+  "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)\n[Jouée] DON!! -2 ; vous pouvez défausser 1 carte de votre main : Piochez 2 cartes.",
+  "trigger": null,
+  "illust": null,
+  "color": "Violet",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op09-p094.webp",
+  "image_url": "/img/cards-fr/op09-p094-sm.webp",
+  "price_eur": 4.99,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Franky-OP09-072-V2?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/597011",
+  "pricecharting_url": "https://www.pricecharting.com/game/8091628",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Franky",
+      "rarity": "SR",
+      "price_eur": 4.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Franky-OP09-072-V1?language=2",
+      "file": "OP09-072-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Franky (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 4.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Franky-OP09-072-V2?language=2",
+      "file": "OP09-072-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Franky (The Best)",
+      "rarity": "SR",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Franky-OP09-072-V1?language=2",
+      "file": "OP09-072-v3.json"
+    }
+  ],
+  "price_min_eur": 4.99,
+  "price_avg7_eur": 5.95,
+  "price_avg30_eur": 5.96,
+  "listings_count": 39
+}

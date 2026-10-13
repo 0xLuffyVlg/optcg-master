@@ -1,0 +1,53 @@
+{
+  "code": "ST04-002",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Ulti",
+  "variant_name": "Ulti",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Animal Kingdom Pirates",
+  "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 [Page One] card with a cost of 4 or less from your hand.",
+  "trigger": null,
+  "illust": null,
+  "color": "Violet",
+  "rarity": "C",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/best-sel-3-p006.webp",
+  "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-002.png",
+  "price_eur": 0.39,
+  "price_usd": 0.21,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Animal-Kingdom-Pirates/Ulti-ST04-002-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Animal-Kingdom-Pirates-Non-English/Ulti-ST04-002",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/288271",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Ulti",
+      "rarity": "C",
+      "price_eur": 0.39,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Animal-Kingdom-Pirates/Ulti-ST04-002-V1",
+      "file": "ST04-002-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Ulti (Premium Card Collection -Best Selection Vol. 3-)",
+      "rarity": "C",
+      "price_eur": 1.26,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Ulti-ST04-002-V1",
+      "file": "ST04-002-v2.json"
+    }
+  ],
+  "price_min_eur": 0.39,
+  "price_avg7_eur": 0.99,
+  "price_avg30_eur": 0.81,
+  "listings_count": 50
+}

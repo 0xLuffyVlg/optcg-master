@@ -1,0 +1,53 @@
+{
+  "code": "OP03-041",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Usopp",
+  "variant_name": "Usopp",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": null,
+  "life": null,
+  "attribute": "Distance",
+  "types": "East Blue",
+  "effect": "[Rush] (This card can attack on the turn in which it is played.)\n[DON!! x1] When this Character's attack deals damage to your opponent's Life, you may trash 7 cards from the top of your deck.",
+  "trigger": null,
+  "illust": "Studio Vigor Co. Ltd",
+  "color": "Bleu",
+  "rarity": "SR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op03-p049.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/499190_200w.jpg",
+  "price_eur": 0.15,
+  "price_usd": 1.03,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Usopp-OP03-041-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/Usopp-OP03-041-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/499190",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Usopp",
+      "rarity": "SR",
+      "price_eur": 0.15,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Usopp-OP03-041-V1",
+      "file": "OP03-041-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Usopp (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Usopp-OP03-041-V2",
+      "file": "OP03-041-v2.json"
+    }
+  ],
+  "price_min_eur": 0.15,
+  "price_avg7_eur": 0.79,
+  "price_avg30_eur": 0.77,
+  "listings_count": 50
+}

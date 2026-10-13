@@ -1,0 +1,53 @@
+{
+  "code": "ST30-001",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Luffy et Ace",
+  "variant_name": "Luffy & Ace (Parallel)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 6000,
+  "counter": null,
+  "life": 4,
+  "attribute": "attribute/Strike-Special.png",
+  "types": "Impel Down/Équipage de Barbe Blanche/Équipage de Chapeau de paille",
+  "effect": "Si vous avez un Personnage ayant 7000 de puissance de base ou plus, ce Leader perd −2000 de puissance.\n[Tour adverse] Tous vos [Portgas D. Ace] et [Monkey D. Luffy] gagnent +3000 de puissance.",
+  "trigger": null,
+  "illust": null,
+  "color": "Rouge/Vert",
+  "rarity": "L",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st30-p002.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693257_200w.jpg",
+  "price_eur": 39.98,
+  "price_usd": 119.49,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/Luffy-Ace-ST30-001-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace-Asia-Region-Legal/Luffy-Ace-ST30-001-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/693257",
+  "pricecharting_url": "https://www.pricecharting.com/game/13426322",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Luffy & Ace",
+      "rarity": "L",
+      "price_eur": 39.98,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/Luffy-Ace-ST30-001-V1?language=2",
+      "file": "ST30-001-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Luffy & Ace (Parallel)",
+      "rarity": "L",
+      "price_eur": 34,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/Luffy-Ace-ST30-001-V2?language=2",
+      "file": "ST30-001-v2.json"
+    }
+  ],
+  "price_min_eur": 39.98,
+  "price_avg7_eur": 63.37,
+  "price_avg30_eur": 69.85,
+  "listings_count": 49
+}

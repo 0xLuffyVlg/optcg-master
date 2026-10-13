@@ -1,0 +1,71 @@
+{
+  "code": "OP03-033",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Hatchan",
+  "variant_name": "Hatchan",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 4000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Fish-Man/East Blue/Arlong Pirates",
+  "effect": null,
+  "trigger": "\"If your Leader has the {East Blue",
+  "illust": "Moopic",
+  "color": "Vert",
+  "rarity": "UC",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op03-p040.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/499905_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.23,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Hatchan-OP03-033",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/Hatchan-OP03-033",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/499905",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Hatchan",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Hatchan-OP03-033",
+      "file": "OP03-033-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Hatchan (Tournament Pack Vol. 6)",
+      "rarity": "UC",
+      "price_eur": 0.24,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Hatchan-OP03-033-V1",
+      "file": "OP03-033-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Hatchan (Winner Pack Vol. 6)",
+      "rarity": "UC",
+      "price_eur": 4.74,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Hatchan-OP03-033-V2",
+      "file": "OP03-033-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Hatchan (CS 2024 Celebration Pack)",
+      "rarity": "UC",
+      "price_eur": 8.78,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Hatchan-OP03-033",
+      "file": "OP03-033-v4.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 4.31,
+  "price_avg30_eur": 3.85,
+  "listings_count": 10
+}

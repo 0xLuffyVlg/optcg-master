@@ -1,0 +1,53 @@
+{
+  "code": "OP17-039",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Rocks D. Xebec",
+  "variant_name": "Rocks D. Xebec",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Tranchant",
+  "types": "Équipage de Rocks",
+  "effect": "[En attaquant] Vous pouvez défausser 1 carte de votre main : Révélez 1 carte du dessus de votre deck. Si la carte révélée inclut «Équipage de Rocks» dans son type, piochez 2 cartes.",
+  "trigger": null,
+  "illust": "Bashikou",
+  "color": "Bleu",
+  "rarity": "L",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op17-p051.webp",
+  "image_url": "/img/cards-fr/op17-p050-sm.webp",
+  "price_eur": 0.02,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/RocksDXebec-OP17-039-V1?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/712086",
+  "pricecharting_url": "https://www.pricecharting.com/game/14107695",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Rocks D. Xebec",
+      "rarity": "L",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/RocksDXebec-OP17-039-V1?language=2",
+      "file": "OP17-039-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Rocks D. Xebec (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 37,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/RocksDXebec-OP17-039-V2?language=2",
+      "file": "OP17-039-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.09,
+  "price_avg30_eur": 0.13,
+  "listings_count": 50
+}

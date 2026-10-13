@@ -1,0 +1,77 @@
+{
+  "code": "ST19-002",
+  "variant_version": "v5",
+  "variant_index": 5,
+  "name": "Sengoku",
+  "variant_name": "Sengoku - ST19-002 (Pirate Foil)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Sagesse",
+  "types": "Marine",
+  "effect": "\"[Jouée] Vous pouvez défausser 2 cartes de type {Marine",
+  "trigger": null,
+  "illust": "kankurou",
+  "color": "Noir",
+  "rarity": "C",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/prb02-p301.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656012_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.19,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Sengoku-ST19-002-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Sengoku-ST19-002-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/656012",
+  "pricecharting_url": "https://www.pricecharting.com/game/8828163",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Sengoku - ST19-002 (Pirate Foil)",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Sengoku-ST19-002-V2?language=2",
+      "file": "ST19-002-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Sengoku",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Smoker/Sengoku-ST19-002?language=2",
+      "file": "ST19-002-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Sengoku (Tournament Pack 2025 Vol. 3)",
+      "rarity": "C",
+      "price_eur": 0.17,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sengoku-ST19-002-V1?language=2",
+      "file": "ST19-002-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Sengoku (Winner Pack 2025 Vol. 3)",
+      "rarity": "C",
+      "price_eur": 3.27,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sengoku-ST19-002-V2?language=2",
+      "file": "ST19-002-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Sengoku - ST19-002 (Pirate Foil)",
+      "rarity": "C",
+      "price_eur": 0.09,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Sengoku-ST19-002-V2?language=2",
+      "file": "ST19-002-v5.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

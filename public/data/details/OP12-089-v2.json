@@ -1,0 +1,53 @@
+{
+  "code": "OP12-089",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Hack",
+  "variant_name": "Hack (Regional Participation Pack 2026 Vol.1)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Hommes-poissons/Dressrosa/Armée révolutionnaire",
+  "effect": "\"Si votre Leader est de type {Armée révolutionnaire",
+  "trigger": null,
+  "illust": "touge369",
+  "color": "Noir",
+  "rarity": "PR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-en/champ-card-set-p047.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/686284_200w.jpg",
+  "price_eur": null,
+  "price_usd": 8.92,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Hack-OP12-089-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/Hack-OP12-089-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/686284",
+  "pricecharting_url": "https://www.pricecharting.com/game/10266474",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Hack",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Hack-OP12-089?language=2",
+      "file": "OP12-089-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Hack (Regional Participation Pack 2026 Vol.1)",
+      "rarity": "PR",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Hack-OP12-089-V1?language=2",
+      "file": "OP12-089-v2.json"
+    }
+  ],
+  "price_min_eur": null,
+  "price_avg7_eur": null,
+  "price_avg30_eur": null,
+  "listings_count": null
+}

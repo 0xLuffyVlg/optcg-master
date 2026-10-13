@@ -1,0 +1,68 @@
+{
+  "code": "ST13-010",
+  "variant_version": "v3",
+  "variant_index": 3,
+  "name": "Portgas.D.Ace",
+  "variant_name": "Portgas.D.Ace (010) (Parallel)",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Goa Kingdom",
+  "effect": "[Activate: Main] You may trash this Character: Reveal 1 card from the top of your Life cards. If that card is a [Portgas.D.Ace] with a cost of 5, you may play that card. If you do, up to 1 of your Leader gains +2000 power until the end of your opponent's next turn.",
+  "trigger": null,
+  "illust": "Suzume Muraichi",
+  "color": "Jaune",
+  "rarity": "C",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/prb02-p264.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/543631_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 15.21,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/PortgasDAce-ST13-010-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Brothers-Japanese/PortgasDAce-ST13-010-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/543631",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Portgas.D.Ace - ST13-010 (Pirate Foil)",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/PortgasDAce-ST13-010-V2",
+      "file": "ST13-010-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Portgas.D.Ace (010)",
+      "rarity": "C",
+      "price_eur": 3.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/PortgasDAce-ST13-010-V1",
+      "file": "ST13-010-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Portgas.D.Ace (010) (Parallel)",
+      "rarity": "C",
+      "price_eur": 8.18,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/PortgasDAce-ST13-010-V2",
+      "file": "ST13-010-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Portgas.D.Ace - ST13-010 (Pirate Foil)",
+      "rarity": "C",
+      "price_eur": 0.07,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/PortgasDAce-ST13-010-V2",
+      "file": "ST13-010-v4.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

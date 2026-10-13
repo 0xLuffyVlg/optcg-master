@@ -1,0 +1,59 @@
+{
+  "code": "ST14-013",
+  "variant_version": "v3",
+  "variant_index": 3,
+  "name": "Roronoa Zoro",
+  "variant_name": "Roronoa Zoro - ST14-013 (Pirate Foil)",
+  "category": "CHARACTER",
+  "cost": 6,
+  "power": 8000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Straw Hat Crew",
+  "effect": null,
+  "trigger": null,
+  "illust": "Daisuke Izuka",
+  "color": "Noir",
+  "rarity": "C",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/prb02-p274.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656098_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.41,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Roronoa-Zoro-ST14-013-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-3D2Y-Japanese/Roronoa-Zoro-ST14-013",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/656098",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Roronoa Zoro - ST14-013 (Pirate Foil)",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Roronoa-Zoro-ST14-013-V2",
+      "file": "ST14-013-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Roronoa Zoro",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-3D2Y/Roronoa-Zoro-ST14-013",
+      "file": "ST14-013-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Roronoa Zoro - ST14-013 (Pirate Foil)",
+      "rarity": "C",
+      "price_eur": 0.11,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Roronoa-Zoro-ST14-013-V2",
+      "file": "ST14-013-v3.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

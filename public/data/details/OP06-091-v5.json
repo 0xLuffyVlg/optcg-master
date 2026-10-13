@@ -1,0 +1,77 @@
+{
+  "code": "OP06-091",
+  "variant_version": "v5",
+  "variant_index": 5,
+  "name": "Victoria Cindry",
+  "variant_name": "Victoria Cindry (Full Art)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 2000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Thriller Bark Pirates",
+  "effect": "\"[On Play] If your Leader has the {Thriller Bark Pirates",
+  "trigger": null,
+  "illust": "BISAI",
+  "color": "Noir",
+  "rarity": "UC",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op06-p109.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593563_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 38.63,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Victoria-Cindry-OP06-091-V3",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/Victoria-Cindry-OP06-091-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/593563",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Victoria Cindry",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Victoria-Cindry-OP06-091",
+      "file": "OP06-091-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Victoria Cindry (Jolly Roger Foil)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Victoria-Cindry-OP06-091-V1",
+      "file": "OP06-091-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Victoria Cindry (Full Art)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Victoria-Cindry-OP06-091-V3",
+      "file": "OP06-091-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Victoria Cindry (Jolly Roger Foil)",
+      "rarity": "UC",
+      "price_eur": 21.49,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Victoria-Cindry-OP06-091-V1",
+      "file": "OP06-091-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Victoria Cindry (Full Art)",
+      "rarity": "UC",
+      "price_eur": 21.28,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Victoria-Cindry-OP06-091-V3",
+      "file": "OP06-091-v5.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

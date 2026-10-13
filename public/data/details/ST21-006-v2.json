@@ -1,0 +1,53 @@
+{
+  "code": "ST21-006",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Stussy",
+  "variant_name": "Stussy (Parallel)",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Egg Head",
+  "effect": null,
+  "trigger": null,
+  "illust": "Morechand",
+  "color": "Rouge",
+  "rarity": "C",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st21-p012.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/615575_200w.jpg",
+  "price_eur": 0.99,
+  "price_usd": 3.46,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Stussy-ST21-006-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Gear-5-Non-English/Stussy-ST21-006-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/615575",
+  "pricecharting_url": "https://www.pricecharting.com/game/9585682",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Stussy",
+      "rarity": "C",
+      "price_eur": 0.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Stussy-ST21-006-V1?language=2",
+      "file": "ST21-006-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Stussy (Parallel)",
+      "rarity": "C",
+      "price_eur": 1.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Stussy-ST21-006-V2?language=2",
+      "file": "ST21-006-v2.json"
+    }
+  ],
+  "price_min_eur": 0.99,
+  "price_avg7_eur": 1.74,
+  "price_avg30_eur": 1.87,
+  "listings_count": 31
+}

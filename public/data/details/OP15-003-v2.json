@@ -1,0 +1,53 @@
+{
+  "code": "OP15-003",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Alvida",
+  "variant_name": "Alvida (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "East Blue/Équipage d'Alvida",
+  "effect": "Si ce Personnage est mis KO, vous pouvez défausser 1 carte Personnage de votre main ayant 6000 de puissance ou moins à la place.\n[Activation : Principale] [Une fois par tour] Vous pouvez donner 1 carte DON!! adverse épuisée à 1 Personnage adverse : Donnez jusqu'à 1 carte DON!! ��puisée de son propriétaire à 1 de ses Leaders ou Personnages.",
+  "trigger": null,
+  "illust": "HISASHI HUJIWARA",
+  "color": "Rouge",
+  "rarity": "R",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op15-p006.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685341_200w.jpg",
+  "price_eur": 4,
+  "price_usd": 9.28,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Alvida-OP15-003-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island-Asia-Region-Legal/Alvida-OP15-003-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/685341",
+  "pricecharting_url": "https://www.pricecharting.com/game/12427219",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Alvida",
+      "rarity": "R",
+      "price_eur": 4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Alvida-OP15-003-V1?language=2",
+      "file": "OP15-003-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Alvida (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Alvida-OP15-003-V2?language=2",
+      "file": "OP15-003-v2.json"
+    }
+  ],
+  "price_min_eur": 4,
+  "price_avg7_eur": 4.91,
+  "price_avg30_eur": 5.22,
+  "listings_count": 22
+}

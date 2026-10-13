@@ -1,0 +1,53 @@
+{
+  "code": "OP12-061",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Don Quijote Rosinante",
+  "variant_name": "Donquixote Rosinante (061)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": "Spécial",
+  "types": "Marine/Équipage de Don Quijote",
+  "effect": "[Une fois par tour] Si un de vos [Trafalgar Law] est mis KO, vous pouvez ajouter à votre main 1 carte du dessus de votre Vie à la place.\n[Activation : Principale] [Une fois par tour] DON!! －1 : Le coût du prochain [Trafalgar Law] de votre main ayant un coût de 4 ou plus que vous jouez est réduit de -2 pour tout le tour.",
+  "trigger": null,
+  "illust": "Rina Fujii",
+  "color": "Violet/Jaune",
+  "rarity": "L",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op12-p075.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643798_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.16,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Donquixote-Rosinante-OP12-061-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/Donquixote-Rosinante-OP12-061-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/643798",
+  "pricecharting_url": "https://www.pricecharting.com/game/10266440",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Donquixote Rosinante (061)",
+      "rarity": "L",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Donquixote-Rosinante-OP12-061-V1?language=2",
+      "file": "OP12-061-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Donquixote Rosinante (061) (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 20,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Donquixote-Rosinante-OP12-061-V2?language=2",
+      "file": "OP12-061-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.17,
+  "price_avg30_eur": 0.11,
+  "listings_count": 50
+}

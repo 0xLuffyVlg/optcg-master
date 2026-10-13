@@ -1,0 +1,53 @@
+{
+  "code": "ST29-011",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Brook",
+  "variant_name": "Brook (Full Art)",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Egg Head/Équipage de Chapeau de paille",
+  "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
+  "trigger": null,
+  "illust": "HISASHI HUJIWARA",
+  "color": "Jaune",
+  "rarity": "C",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st29-p022.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671604_200w.jpg",
+  "price_eur": 0.99,
+  "price_usd": 4.04,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Brook-ST29-011-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead-Asia-Region-Legal/Brook-ST29-011-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/671604",
+  "pricecharting_url": "https://www.pricecharting.com/game/11786234",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Brook",
+      "rarity": "C",
+      "price_eur": 0.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Brook-ST29-011-V1?language=2",
+      "file": "ST29-011-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Brook (Full Art)",
+      "rarity": "C",
+      "price_eur": 0.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Brook-ST29-011-V2?language=2",
+      "file": "ST29-011-v2.json"
+    }
+  ],
+  "price_min_eur": 0.99,
+  "price_avg7_eur": 2.35,
+  "price_avg30_eur": 1.79,
+  "listings_count": 29
+}

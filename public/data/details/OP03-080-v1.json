@@ -1,0 +1,53 @@
+{
+  "code": "OP03-080",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Kaku",
+  "variant_name": "Kaku (080)",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "CP9",
+  "effect": "[On Play] You may place 2 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+  "trigger": null,
+  "illust": "SENNSU",
+  "color": "Noir",
+  "rarity": "SR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op03-p095.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/500017_200w.jpg",
+  "price_eur": 0.1,
+  "price_usd": 0.47,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Kaku-OP03-080-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/Kaku-OP03-080-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/500017",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Kaku (080)",
+      "rarity": "SR",
+      "price_eur": 0.1,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Kaku-OP03-080-V1",
+      "file": "OP03-080-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Kaku (080) (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 2.41,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Kaku-OP03-080-V2",
+      "file": "OP03-080-v2.json"
+    }
+  ],
+  "price_min_eur": 0.1,
+  "price_avg7_eur": 0.67,
+  "price_avg30_eur": 0.59,
+  "listings_count": 50
+}

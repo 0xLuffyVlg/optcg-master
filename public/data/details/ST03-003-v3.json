@@ -1,0 +1,68 @@
+{
+  "code": "ST03-003",
+  "variant_version": "v3",
+  "variant_index": 3,
+  "name": "Crocodile",
+  "variant_name": "Crocodile (Winner Pack Vol. 5)",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "The Seven Warlords of the Sea/Baroque Works",
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[DON!! x1] [On Block] Place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck.",
+  "trigger": null,
+  "illust": null,
+  "color": "Bleu",
+  "rarity": "SR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/pack-standard-battle-p019.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/519822_200w.jpg",
+  "price_eur": 0.92,
+  "price_usd": 9.43,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Crocodile-ST03-003-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-The-Seven-Warlords-of-the-Sea-Non-English/Crocodile-ST03-003-V3",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/519822",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Crocodile (003)",
+      "rarity": "SR",
+      "price_eur": 0.92,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-The-Seven-Warlords-of-the-Sea/Crocodile-ST03-003-V1",
+      "file": "ST03-003-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Crocodile (Tournament Pack Vol. 5)",
+      "rarity": "SR",
+      "price_eur": 0.18,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Crocodile-ST03-003-V1",
+      "file": "ST03-003-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Crocodile (Winner Pack Vol. 5)",
+      "rarity": "SR",
+      "price_eur": 14.81,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Crocodile-ST03-003-V2",
+      "file": "ST03-003-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Crocodile (CS 2024 Celebration Pack)",
+      "rarity": "SR",
+      "price_eur": 20.83,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Crocodile-ST03-003",
+      "file": "ST03-003-v4.json"
+    }
+  ],
+  "price_min_eur": 0.92
+}

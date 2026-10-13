@@ -1,0 +1,62 @@
+{
+  "code": "OP13-016",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Monkey D. Garp",
+  "variant_name": "Monkey.D.Garp (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Marine",
+  "effect": "[Jouée] Si votre Leader est [Sabo], [Portgas D. Ace] ou [Monkey D. Luffy], regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte ayant un coût de 3 ou plus et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
+  "trigger": null,
+  "illust": "ASAKI KURODA",
+  "color": "Rouge",
+  "rarity": "R",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op13-p022.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657271_200w.jpg",
+  "price_eur": 8.5,
+  "price_usd": 22.65,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/MonkeyDGarp-OP13-016-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/MonkeyDGarp-OP13-016-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/657271",
+  "pricecharting_url": "https://www.pricecharting.com/game/11011986",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Monkey.D.Garp",
+      "rarity": "R",
+      "price_eur": 8.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/MonkeyDGarp-OP13-016-V1?language=2",
+      "file": "OP13-016-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Monkey.D.Garp (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 8,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/MonkeyDGarp-OP13-016-V2?language=2",
+      "file": "OP13-016-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Monkey.D.Garp (Treasure Cup March 2026)",
+      "rarity": "R",
+      "price_eur": 1010.14,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDGarp-OP13-016-V1?language=2",
+      "file": "OP13-016-v3.json"
+    }
+  ],
+  "price_min_eur": 8.5,
+  "price_avg7_eur": 11.66,
+  "price_avg30_eur": 13.24,
+  "listings_count": 42
+}

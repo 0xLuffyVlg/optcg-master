@@ -1,0 +1,53 @@
+{
+  "code": "OP13-066",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Silvers Rayleigh",
+  "variant_name": "Silvers Rayleigh",
+  "category": "CHARACTER",
+  "cost": 8,
+  "power": 9000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Équipage de Roger",
+  "effect": "[Initiative]\n[Jouée] Si vous avez des cartes DON!! déjà données, épuisez jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins. Puis, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!! à la fin de ce tour.",
+  "trigger": null,
+  "illust": "Akanegumo",
+  "color": "Violet",
+  "rarity": "SR",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op13-p080.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657329_200w.jpg",
+  "price_eur": 0.03,
+  "price_usd": 0.23,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Silvers-Rayleigh-OP13-066-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/Silvers-Rayleigh-OP13-066-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/657329",
+  "pricecharting_url": "https://www.pricecharting.com/game/11012043",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Silvers Rayleigh",
+      "rarity": "SR",
+      "price_eur": 0.03,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Silvers-Rayleigh-OP13-066-V1?language=2",
+      "file": "OP13-066-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Silvers Rayleigh (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 3.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Silvers-Rayleigh-OP13-066-V2?language=2",
+      "file": "OP13-066-v2.json"
+    }
+  ],
+  "price_min_eur": 0.03,
+  "price_avg7_eur": 0.38,
+  "price_avg30_eur": 0.36,
+  "listings_count": 50
+}

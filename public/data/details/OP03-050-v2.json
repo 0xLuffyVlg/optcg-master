@@ -1,0 +1,50 @@
+{
+  "code": "OP03-050",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Boodle",
+  "variant_name": "Boodle (Dash Pack)",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": null,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Sagesse",
+  "types": "East Blue",
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On K.O.] You may trash 1 card from the top of your deck.",
+  "trigger": null,
+  "illust": "Nijihayashi",
+  "color": "Bleu",
+  "rarity": "UC",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op03-p060.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/517222_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 2.2,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Boodle-OP03-050",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/Boodle-OP03-050-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/517222",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Boodle",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Boodle-OP03-050",
+      "file": "OP03-050-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Boodle (Dash Pack)",
+      "rarity": "UC",
+      "price_eur": 0.3,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Boodle-OP03-050",
+      "file": "OP03-050-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

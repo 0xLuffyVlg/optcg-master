@@ -1,0 +1,53 @@
+{
+  "code": "OP01-079",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Ms. All Sunday",
+  "variant_name": "Ms. All Sunday",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Baroque Works",
+  "effect": "\"[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On K.O.] If your Leader has the {Baroque Works",
+  "trigger": null,
+  "illust": "Mutsumi Sasaki",
+  "color": "Bleu",
+  "rarity": "R",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op01-p102.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454610_200w.jpg",
+  "price_eur": 0.04,
+  "price_usd": 1.45,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Ms-All-Sunday-OP01-079",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Ms-All-Sunday-OP01-079",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/454610",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Ms. All Sunday",
+      "rarity": "R",
+      "price_eur": 0.04,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Ms-All-Sunday-OP01-079",
+      "file": "OP01-079-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Ms. All Sunday (Promotion Pack 2023)",
+      "rarity": "PR",
+      "price_eur": 8.6,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Ms-All-Sunday-OP01-079",
+      "file": "OP01-079-v2.json"
+    }
+  ],
+  "price_min_eur": 0.04,
+  "price_avg7_eur": 4.18,
+  "price_avg30_eur": 4.45,
+  "listings_count": 50
+}

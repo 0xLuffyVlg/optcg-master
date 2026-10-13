@@ -1,0 +1,53 @@
+{
+  "code": "OP13-057",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Je ne suis pas né homme pour céder devant la force",
+  "variant_name": "If I Bowed Down to Power, What's the Point in Living?",
+  "category": "EVENT",
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Équipage de Barbe Blanche",
+  "effect": "[Principale] Vous pouvez épuiser 1 de vos cartes DON!! : Si vous avez 1 carte ou moins dans votre Vie, votre adversaire ne peut pas activer [Bloqueur] pour tout le tour si votre Leader attaque.\n[Contre] Votre Leader gagne +3000 de puissance pour tout le combat.",
+  "trigger": null,
+  "illust": null,
+  "color": "Bleu",
+  "rarity": "R",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op13-p069.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657318_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.14,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/If-I-Bowed-Down-to-Power-Whats-the-Point-in-Living-OP13-057?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/If-I-Bowed-Down-to-Power-Whats-the-Point-in-Living-OP13-057",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/657318",
+  "pricecharting_url": "https://www.pricecharting.com/game/11012032",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "If I Bowed Down to Power, What's the Point in Living?",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/If-I-Bowed-Down-to-Power-Whats-the-Point-in-Living-OP13-057?language=2",
+      "file": "OP13-057-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "If I Bowed Down to Power, What's the Point in Living? (3rd Anniversary Treasure Campaign Pack)",
+      "rarity": "R",
+      "price_eur": 1.09,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/If-I-Bowed-Down-to-Power-Whats-the-Point-in-Living-OP13-057-V1?language=2",
+      "file": "OP13-057-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.99,
+  "price_avg30_eur": 0.88,
+  "listings_count": 47
+}

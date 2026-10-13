@@ -1,0 +1,53 @@
+{
+  "code": "EB02-028",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Portgas D. Ace",
+  "variant_name": "Portgas.D.Ace",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Royaume d'Alabasta/Équipage de Barbe Blanche",
+  "effect": "[Jouée] Si votre Leader inclut «Équipage de Barbe Blanche» dans son type, regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte Personnage ayant un coût de 2 et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et jouez jusqu'à 1 carte Personnage épuisée de votre main ayant un coût de 2.",
+  "trigger": null,
+  "illust": "Eri Yonemoto",
+  "color": "Bleu",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op13-p167.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629124_200w.jpg",
+  "price_eur": 90,
+  "price_usd": 0.28,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/PortgasDAce-EB02-028?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection-Japanese/PortgasDAce-EB02-028",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/629124",
+  "pricecharting_url": "https://www.pricecharting.com/game/9361537",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Portgas.D.Ace",
+      "rarity": "R",
+      "price_eur": 90,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/PortgasDAce-EB02-028?language=2",
+      "file": "EB02-028-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Portgas.D.Ace - EB02-028 (SP)",
+      "rarity": "R",
+      "price_eur": 90,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/PortgasDAce-EB02-028?language=2",
+      "file": "EB02-028-v2.json"
+    }
+  ],
+  "price_min_eur": 90,
+  "price_avg7_eur": 0.09,
+  "price_avg30_eur": 0.13,
+  "listings_count": 50
+}

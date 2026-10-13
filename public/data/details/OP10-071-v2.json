@@ -1,0 +1,53 @@
+{
+  "code": "OP10-071",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Don Quijote Doflamingo",
+  "variant_name": "Donquixote Doflamingo (Parallel)",
+  "category": "CHARACTER",
+  "cost": 8,
+  "power": 9000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Sept grands corsaires/Équipage de Don Quijote",
+  "effect": "\"[Jouée] DON!! -1 : Jouez jusqu'à 1 carte Personnage de type {Équipage de Don Quijote",
+  "trigger": null,
+  "illust": "akagi",
+  "color": "Violet",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op10-p087.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617116_200w.jpg",
+  "price_eur": 6,
+  "price_usd": 15.03,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Donquixote-Doflamingo-OP10-071-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Non-English/Donquixote-Doflamingo-OP10-071-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/617116",
+  "pricecharting_url": "https://www.pricecharting.com/game/8828272",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Donquixote Doflamingo",
+      "rarity": "SR",
+      "price_eur": 6,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Donquixote-Doflamingo-OP10-071-V1?language=2",
+      "file": "OP10-071-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Donquixote Doflamingo (Parallel)",
+      "rarity": "SR",
+      "price_eur": 6.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Donquixote-Doflamingo-OP10-071-V2?language=2",
+      "file": "OP10-071-v2.json"
+    }
+  ],
+  "price_min_eur": 6,
+  "price_avg7_eur": 7.73,
+  "price_avg30_eur": 8.47,
+  "listings_count": 46
+}

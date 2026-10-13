@@ -1,0 +1,80 @@
+{
+  "code": "OP01-025",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Roronoa Zoro",
+  "variant_name": "Roronoa Zoro (025) (Parallel)",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 5000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Supernovas/Straw Hat Crew",
+  "effect": "[Rush] (This card can attack on the turn in which it is played.)",
+  "trigger": null,
+  "illust": null,
+  "color": "Rouge",
+  "rarity": "SR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op01-p033.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/453511_200w.jpg",
+  "price_eur": 193.9,
+  "price_usd": 217.62,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Roronoa-Zoro-OP01-025-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Roronoa-Zoro-OP01-025-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/453511",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Roronoa Zoro (025)",
+      "rarity": "SR",
+      "price_eur": 193.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Roronoa-Zoro-OP01-025-V1",
+      "file": "OP01-025-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Roronoa Zoro (025) (Parallel)",
+      "rarity": "SR",
+      "price_eur": 195,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Roronoa-Zoro-OP01-025-V2",
+      "file": "OP01-025-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Roronoa Zoro - OP01-025 (Treasure Cup)",
+      "rarity": "SR",
+      "price_eur": 0.4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Roronoa-Zoro-OP01-025",
+      "file": "OP01-025-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Roronoa Zoro - OP01-025 (Ultra Deck: The Three Captains)",
+      "rarity": "SR",
+      "price_eur": 1.19,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Captains/Roronoa-Zoro-OP01-025",
+      "file": "OP01-025-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Roronoa Zoro (English Version 1st Anniversary Set)",
+      "rarity": "SR",
+      "price_eur": 930.38,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Roronoa-Zoro-OP01-025",
+      "file": "OP01-025-v5.json"
+    }
+  ],
+  "price_min_eur": 193.9,
+  "price_avg7_eur": 299.25,
+  "price_avg30_eur": 233.93,
+  "listings_count": 50
+}

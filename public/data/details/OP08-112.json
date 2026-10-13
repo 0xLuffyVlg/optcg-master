@@ -1,0 +1,53 @@
+{
+  "code": "OP08-112",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "S-Snake",
+  "variant_name": "S-Snake",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Egghead/Seraphim",
+  "effect": "[On Play] Up to 1 of your opponent's Characters with a cost of 6 or less other than [Monkey.D.Luffy] cannot attack until the end of your opponent's next turn.",
+  "trigger": "Activate this card's [On Play] effect.",
+  "illust": "SHIE NANAHARA",
+  "color": "Jaune",
+  "rarity": "SR",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op08-p133.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558153_200w.jpg",
+  "price_eur": 0.05,
+  "price_usd": 0.5,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/S-Snake-OP08-112-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends-Non-English/S-Snake-OP08-112-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/558153",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "S-Snake",
+      "rarity": "SR",
+      "price_eur": 0.05,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/S-Snake-OP08-112-V1",
+      "file": "OP08-112-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "S-Snake (Parallel)",
+      "rarity": "SR",
+      "price_eur": 4.89,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/S-Snake-OP08-112-V2",
+      "file": "OP08-112-v2.json"
+    }
+  ],
+  "price_min_eur": 0.05,
+  "price_avg7_eur": 0.46,
+  "price_avg30_eur": 0.48,
+  "listings_count": 50
+}

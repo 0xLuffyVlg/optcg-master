@@ -1,0 +1,53 @@
+{
+  "code": "ST29-010",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Franky",
+  "variant_name": "Franky (Full Art)",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 6000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Distance",
+  "types": "Egg Head/Équipage de Chapeau de paille",
+  "effect": null,
+  "trigger": null,
+  "illust": "kankurou",
+  "color": "Jaune",
+  "rarity": "C",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st29-p020.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671602_200w.jpg",
+  "price_eur": 0.99,
+  "price_usd": 1.44,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Franky-ST29-010-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead-Asia-Region-Legal/Franky-ST29-010-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/671602",
+  "pricecharting_url": "https://www.pricecharting.com/game/11786232",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Franky",
+      "rarity": "C",
+      "price_eur": 0.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Franky-ST29-010-V1?language=2",
+      "file": "ST29-010-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Franky (Full Art)",
+      "rarity": "C",
+      "price_eur": 0.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Franky-ST29-010-V2?language=2",
+      "file": "ST29-010-v2.json"
+    }
+  ],
+  "price_min_eur": 0.99,
+  "price_avg7_eur": 1.12,
+  "price_avg30_eur": 1.15,
+  "listings_count": 31
+}

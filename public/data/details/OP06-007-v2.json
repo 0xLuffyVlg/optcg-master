@@ -1,0 +1,71 @@
+{
+  "code": "OP06-007",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Shanks",
+  "variant_name": "Shanks (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 10,
+  "power": 12000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "FILM/The Four Emperors/Red-Haired Pirates",
+  "effect": "[On Play] K.O. up to 1 of your opponent's Characters with 10000 power or less.",
+  "trigger": null,
+  "illust": "akagi",
+  "color": "Rouge",
+  "rarity": "SR",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op06-p009.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/539283_200w.jpg",
+  "price_eur": 14.64,
+  "price_usd": 28.64,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Shanks-OP06-007-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain-Japanese/Shanks-OP06-007-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/539283",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Shanks",
+      "rarity": "SR",
+      "price_eur": 14.64,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Shanks-OP06-007-V1",
+      "file": "OP06-007-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Shanks (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 185,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Shanks-OP06-007-V2",
+      "file": "OP06-007-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Shanks (SP)",
+      "rarity": "SR",
+      "price_eur": 184.79,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Shanks-OP06-007-V2",
+      "file": "OP06-007-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Shanks (SP)",
+      "rarity": "SR",
+      "price_eur": 184.79,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Shanks-OP06-007-V2",
+      "file": "OP06-007-v4.json"
+    }
+  ],
+  "price_min_eur": 14.64,
+  "price_avg7_eur": 142.52,
+  "price_avg30_eur": 163.83,
+  "listings_count": 50
+}

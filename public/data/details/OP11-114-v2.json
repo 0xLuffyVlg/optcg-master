@@ -1,0 +1,53 @@
+{
+  "code": "OP11-114",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Gum Gum Red Hawk",
+  "variant_name": "Gum-Gum Fire-Fist Pistol Red Hawk (Alternate Art)",
+  "category": "EVENT",
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Équipage de Chapeau de paille",
+  "effect": "[Principale] Vous pouvez épuiser 3 de vos cartes DON!! : Si vous et votre adversaire avez un total de 5 cartes ou plus dans vos Vies, mettez KO jusqu'à 1 Personnage adverse ayant un coût de base de 5 ou moins.\n[Contre] Jusqu'à 1 de vos Leaders gagne +3000 de puissance pour tout le combat.",
+  "trigger": null,
+  "illust": null,
+  "color": "Jaune",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op11-p139.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632493_200w.jpg",
+  "price_eur": 49.99,
+  "price_usd": 66.66,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Gum-Gum-Fire-Fist-Pistol-Red-Hawk-OP11-114-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed-Non-English/Gum-Gum-Fire-Fist-Pistol-Red-Hawk-OP11-114-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/632493",
+  "pricecharting_url": "https://www.pricecharting.com/game/9744512",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Gum-Gum Fire-Fist Pistol Red Hawk",
+      "rarity": "R",
+      "price_eur": 49.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Gum-Gum-Fire-Fist-Pistol-Red-Hawk-OP11-114-V1?language=2",
+      "file": "OP11-114-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Gum-Gum Fire-Fist Pistol Red Hawk (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 55,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Gum-Gum-Fire-Fist-Pistol-Red-Hawk-OP11-114-V2?language=2",
+      "file": "OP11-114-v2.json"
+    }
+  ],
+  "price_min_eur": 49.99,
+  "price_avg7_eur": 67.48,
+  "price_avg30_eur": 72.71,
+  "listings_count": 34
+}

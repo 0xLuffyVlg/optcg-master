@@ -1,0 +1,104 @@
+{
+  "code": "OP07-109",
+  "variant_version": "v6",
+  "variant_index": 6,
+  "name": "Monkey.D.Luffy",
+  "variant_name": "Monkey.D.Luffy (Illustration Box Vol.3)",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "The Four Emperors/Egghead/Straw Hat Crew",
+  "effect": "[Activate: Main] You may trash this Character: If you have 2 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 4 or less. Then, draw 1 card.",
+  "trigger": "K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "illust": "Nakamaru",
+  "color": "Jaune",
+  "rarity": "SR",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op07-p130.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/650706_200w.jpg",
+  "price_eur": 0.05,
+  "price_usd": 9.15,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-OP07-109-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/MonkeyDLuffy-OP07-109-V6",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/650706",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Monkey.D.Luffy (109)",
+      "rarity": "SR",
+      "price_eur": 0.05,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/MonkeyDLuffy-OP07-109-V1",
+      "file": "OP07-109-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Monkey.D.Luffy (109) (Parallel)",
+      "rarity": "SR",
+      "price_eur": 5999.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/MonkeyDLuffy-OP07-109-V2",
+      "file": "OP07-109-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Monkey.D.Luffy (CS 2024 Event Pack)",
+      "rarity": "SR",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-OP07-109-V4",
+      "file": "OP07-109-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Monkey.D.Luffy (TR)",
+      "rarity": "TR",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/MonkeyDLuffy-OP07-109",
+      "file": "OP07-109-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Monkey.D.Luffy (CS 25-26 Top Player Pack)",
+      "rarity": "SR",
+      "price_eur": 300,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-OP07-109-V5",
+      "file": "OP07-109-v5.json"
+    },
+    {
+      "variant_index": 6,
+      "variant_version": "v6",
+      "name": "Monkey.D.Luffy (Illustration Box Vol.3)",
+      "rarity": "SR",
+      "price_eur": 9.54,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-OP07-109-V1",
+      "file": "OP07-109-v6.json"
+    },
+    {
+      "variant_index": 7,
+      "variant_version": "v7",
+      "name": "Monkey.D.Luffy - OP07-109 (Reprint)",
+      "rarity": "SR",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/MonkeyDLuffy-OP07-109",
+      "file": "OP07-109-v7.json"
+    },
+    {
+      "variant_index": 8,
+      "variant_version": "v8",
+      "name": "Monkey.D.Luffy - OP07-109 (Reprint)",
+      "rarity": "SR",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/MonkeyDLuffy-OP07-109",
+      "file": "OP07-109-v8.json"
+    }
+  ],
+  "price_min_eur": 0.05
+}

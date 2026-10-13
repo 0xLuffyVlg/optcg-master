@@ -1,0 +1,53 @@
+{
+  "code": "OP16-003",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Edward Newgate",
+  "variant_name": "Edward.Newgate",
+  "category": "CHARACTER",
+  "cost": 8,
+  "power": 10000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Quatre Empereurs/Équipage de Barbe Blanche",
+  "effect": "[Votre tour] Votre Leader gagne [Double attaque] et +2000 de puissance.\n[Jouée] Vous pouvez révéler 2 cartes Personnage de votre main ayant 8000 de puissance : Jusqu'à 1 Personnage adverse perd −6000 de puissance pour tout le tour.",
+  "trigger": null,
+  "illust": "Hachi Takashi",
+  "color": "Rouge",
+  "rarity": "SR",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op16-p004.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693824_200w.jpg",
+  "price_eur": 1.5,
+  "price_usd": 0.84,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/EdwardNewgate-OP16-003-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Time-of-Battle-Asia-Region-Legal/EdwardNewgate-OP16-003-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/693824",
+  "pricecharting_url": "https://www.pricecharting.com/game/13335470",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Edward.Newgate",
+      "rarity": "SR",
+      "price_eur": 1.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/EdwardNewgate-OP16-003-V1?language=2",
+      "file": "OP16-003-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Edward.Newgate (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 15.98,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/EdwardNewgate-OP16-003-V2?language=2",
+      "file": "OP16-003-v2.json"
+    }
+  ],
+  "price_min_eur": 1.5,
+  "price_avg7_eur": 1.87,
+  "price_avg30_eur": 1.85,
+  "listings_count": 28
+}

@@ -1,0 +1,62 @@
+{
+  "code": "OP08-020",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Drum Kingdom",
+  "variant_name": "Drum Kingdom",
+  "category": "STAGE",
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Drum Kingdom",
+  "effect": "\"[Opponent's Turn] All of your {Drum Kingdom",
+  "trigger": null,
+  "illust": null,
+  "color": "Rouge",
+  "rarity": "C",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op08-p024.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558044_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.07,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Drum-Kingdom-OP08-020",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends-Non-English/Drum-Kingdom-OP08-020",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/558044",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Drum Kingdom",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Drum-Kingdom-OP08-020",
+      "file": "OP08-020-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Drum Kingdom (Championship 2024 Top Player Pack)",
+      "rarity": "C",
+      "price_eur": 3000,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Drum-Kingdom-OP08-020-V1",
+      "file": "OP08-020-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Drum Kingdom (Championship 2024 Top Player Pack Vol. 2)",
+      "rarity": "C",
+      "price_eur": 2000,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Drum-Kingdom-OP08-020-V3",
+      "file": "OP08-020-v3.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.39,
+  "price_avg30_eur": 0.42,
+  "listings_count": 50
+}

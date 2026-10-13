@@ -1,0 +1,53 @@
+{
+  "code": "ST13-008",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Sabo",
+  "variant_name": "Sabo (008)",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Dressrosa/Revolutionary Army",
+  "effect": "[On Play] You may trash 1 card from the top or bottom of your Life cards: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+  "trigger": null,
+  "illust": "otton",
+  "color": "Jaune",
+  "rarity": "SR",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/st13-p015.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/543610_200w.jpg",
+  "price_eur": 0.1,
+  "price_usd": 0.55,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/Sabo-ST13-008-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Brothers-Japanese/Sabo-ST13-008-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/543610",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Sabo (008)",
+      "rarity": "SR",
+      "price_eur": 0.1,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/Sabo-ST13-008-V1",
+      "file": "ST13-008-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Sabo (008) (Parallel)",
+      "rarity": "SR",
+      "price_eur": 2.89,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/Sabo-ST13-008-V2",
+      "file": "ST13-008-v2.json"
+    }
+  ],
+  "price_min_eur": 0.1,
+  "price_avg7_eur": 0.36,
+  "price_avg30_eur": 0.38,
+  "listings_count": 50
+}

@@ -1,0 +1,62 @@
+{
+  "code": "OP03-086",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Spandam",
+  "variant_name": "Spandam (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "CP9",
+  "effect": "[On Play] If your Leader's type includes \"CP\", look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"CP\" other than [Spandam] and add it to your hand. Then, trash the rest.",
+  "trigger": null,
+  "illust": "DAI-XT.",
+  "color": "Noir",
+  "rarity": "R",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op03-p104.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/500033_200w.jpg",
+  "price_eur": 3.89,
+  "price_usd": 4.8,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Spandam-OP03-086-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/Spandam-OP03-086-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/500033",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Spandam",
+      "rarity": "R",
+      "price_eur": 3.89,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Spandam-OP03-086-V1",
+      "file": "OP03-086-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Spandam (Alternate Art)",
+      "rarity": "R",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Spandam-OP03-086-V2",
+      "file": "OP03-086-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Spandam (Online Regional 2023) [Participant]",
+      "rarity": "PR",
+      "price_eur": 14.79,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Spandam-OP03-086-V1",
+      "file": "OP03-086-v3.json"
+    }
+  ],
+  "price_min_eur": 3.89,
+  "price_avg7_eur": null,
+  "price_avg30_eur": null,
+  "listings_count": null
+}

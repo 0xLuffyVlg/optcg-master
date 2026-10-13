@@ -1,0 +1,62 @@
+{
+  "code": "EB01-040",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Kyros",
+  "variant_name": "Kyros (Alternate Art)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": "Tranchant",
+  "types": "Dressrosa",
+  "effect": "[Activate: Main] [Once Per Turn] You may turn 1 card from the top of your Life cards face-up: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+  "trigger": null,
+  "illust": null,
+  "color": "Noir/Jaune",
+  "rarity": "L",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/eb01-p052.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544574_200w.jpg",
+  "price_eur": 13,
+  "price_usd": 22.32,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Kyros-EB01-040-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection-Japanese/Kyros-EB01-040-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/544574",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Kyros",
+      "rarity": "L",
+      "price_eur": 13,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Kyros-EB01-040-V1",
+      "file": "EB01-040-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Kyros (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 13.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Kyros-EB01-040-V2",
+      "file": "EB01-040-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Kyros (SP)",
+      "rarity": "L",
+      "price_eur": 850,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Kyros-EB01-040",
+      "file": "EB01-040-v3.json"
+    }
+  ],
+  "price_min_eur": 13,
+  "price_avg7_eur": 14.04,
+  "price_avg30_eur": 14.73,
+  "listings_count": 50
+}

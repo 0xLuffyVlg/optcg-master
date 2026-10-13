@@ -1,0 +1,68 @@
+{
+  "code": "ST03-004",
+  "variant_version": "v4",
+  "variant_index": 4,
+  "name": "Gecko Moria",
+  "variant_name": "Gecko Moria (Seven Warlords of the Sea Binder Set)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "The Seven Warlords of the Sea/Thriller Bark Pirates",
+  "effect": "\"[On Play] Add up to 1 {The Seven Warlords of the Sea",
+  "trigger": null,
+  "illust": null,
+  "color": "Bleu",
+  "rarity": "C",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op08-p146.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/648104_200w.jpg",
+  "price_eur": 41.5,
+  "price_usd": 6.89,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Gecko-Moria-ST03-004-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-The-Seven-Warlords-of-the-Sea-Non-English/Gecko-Moria-ST03-004-V4",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/648104",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Gecko Moria",
+      "rarity": "C",
+      "price_eur": 41.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-The-Seven-Warlords-of-the-Sea/Gecko-Moria-ST03-004-V1",
+      "file": "ST03-004-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Gecko Moria (Store Championship 2023 Participation Pack Vol.1)",
+      "rarity": "PR",
+      "price_eur": 43,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Gecko-Moria-ST03-004",
+      "file": "ST03-004-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Gecko Moria (SP)",
+      "rarity": "C",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Gecko-Moria-ST03-004",
+      "file": "ST03-004-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Gecko Moria (Seven Warlords of the Sea Binder Set)",
+      "rarity": "C",
+      "price_eur": 3.88,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Gecko-Moria-ST03-004-V1",
+      "file": "ST03-004-v4.json"
+    }
+  ],
+  "price_min_eur": 41.5
+}

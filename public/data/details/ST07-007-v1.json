@@ -1,0 +1,89 @@
+{
+  "code": "ST07-007",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Charlotte Brulee",
+  "variant_name": "Charlotte Brulee (Jolly Roger Foil)",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Big Mom Pirates",
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger": "Play this card.",
+  "illust": null,
+  "color": "Jaune",
+  "rarity": "C",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/prb01-p309.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593676_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.36,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Brulee-ST07-007-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/Charlotte-Brulee-ST07-007-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/593676",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Charlotte Brulee (Jolly Roger Foil)",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Brulee-ST07-007-V1",
+      "file": "ST07-007-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Charlotte Brulee (Full Art)",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Brulee-ST07-007-V3",
+      "file": "ST07-007-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Charlotte Brulee",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Big-Mom-Pirates/Charlotte-Brulee-ST07-007",
+      "file": "ST07-007-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Charlotte Brulee (Store Championship 2023 Participation Pack Vol.1)",
+      "rarity": "PR",
+      "price_eur": 2,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Charlotte-Brulee-ST07-007",
+      "file": "ST07-007-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Charlotte Brulee (Jolly Roger Foil)",
+      "rarity": "C",
+      "price_eur": 0.13,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Brulee-ST07-007-V1",
+      "file": "ST07-007-v5.json"
+    },
+    {
+      "variant_index": 6,
+      "variant_version": "v6",
+      "name": "Charlotte Brulee (Full Art)",
+      "rarity": "C",
+      "price_eur": 3.38,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Brulee-ST07-007-V3",
+      "file": "ST07-007-v6.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.08,
+  "price_avg30_eur": 0.08,
+  "listings_count": 50
+}

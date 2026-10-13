@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="fr" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/logo.png?v=20261008" />
+    <link rel="apple-touch-icon" href="/icon-192.png?v=20261008" />
+    <link rel="manifest" href="/manifest.json?v=20261008" />
+    <link rel="canonical" href="https://www.optcg-master.fr/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover" />
+    <meta name="referrer" content="no-referrer" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://va.vercel-scripts.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com; img-src 'self' data: blob: https: http:; connect-src 'self' https: http: wss: ws:; media-src 'self' data: blob:; worker-src 'self' blob:; frame-ancestors 'none'; object-src 'none'; base-uri 'self'; form-action 'self';" />
+    
+    <!-- Auto Cache Buster & SW Reset -->
+    <script>
+      (function() {
+        const CURRENT_VERSION = '20261008-embedded-filter-pwa-v1';
+        try {
+          if ('caches' in window) {
+            caches.keys().then(function(keys) {
+              keys.forEach(function(k) {
+                if (!k.includes(CURRENT_VERSION)) {
+                  console.log('[CacheBuster] Purging old cache:', k);
+                  caches.delete(k);
+                }
+              });
+            });
+          }
+          const stored = localStorage.getItem('optcg_bundle_version');
+          if (stored !== CURRENT_VERSION) {
+            localStorage.setItem('optcg_bundle_version', CURRENT_VERSION);
+            if ('serviceWorker' in navigator) {
+              navigator.serviceWorker.getRegistrations().then(function(regs) {
+                for (let r of regs) {
+                  r.unregister();
+                }
+              });
+            }
+          }
+        } catch(e) {}
+      })();
+    </script>
+    
+    <!-- Primary SEO Meta Tags -->
+    <title>OPTCG Master (www.optcg-master.fr) — Deckbuilder, Tournois, Tier List Méta & Quotas One Piece TCG</title>
+    <meta name="title" content="OPTCG Master (www.optcg-master.fr) — Deckbuilder, Tournois, Tier List Méta & Quotas One Piece TCG" />
+    <meta name="description" content="Plateforme francophone n°1 pour One Piece Card Game (OPTCG) : Tier list et méta decks en direct, deckbuilder compétitif, résultats des tournois mondiaux, calcul des quotas display/case et scanner de cartes IA." />
+    <meta name="keywords" content="one piece card game, optcg, deckbuilder one piece, tier list optcg, meta decks one piece tcg, tournois one piece card game, optcg sim, quotas optcg, pull rates display one piece, cartes one piece tcg, optcg-master, optcg-master.fr, www.optcg-master.fr" />
+    <meta name="author" content="OPTCG Master" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="googlebot" content="index, follow" />
+
+    <!-- Open Graph / Facebook / Discord / WhatsApp -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.optcg-master.fr/" />
+    <meta property="og:title" content="OPTCG Master — Deckbuilder, Méta, Tournois & Quotas One Piece TCG" />
+    <meta property="og:description" content="La référence francophone pour One Piece Card Game : Méta en direct, simulateur de deck, résultats officiels, quotas de tirage et collection." />
+    <meta property="og:image" content="https://www.optcg-master.fr/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="OPTCG Master - One Piece Card Game" />
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:site_name" content="OPTCG Master" />
+
+    <!-- Twitter / X -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://www.optcg-master.fr/" />
+    <meta name="twitter:title" content="OPTCG Master — One Piece Card Game" />
+    <meta name="twitter:description" content="Deckbuilder compétitif, Tier List en temps réel, Quotas de boîtes et résultats de tournois mondiaux." />
+    <meta name="twitter:image" content="https://www.optcg-master.fr/og-image.png" />
+
+    <!-- PWA & Mobile Web App Settings -->
+    <meta name="theme-color" content="#0B0F17" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="OPTCG Master" />
+    <meta name="application-name" content="OPTCG Master" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Bebas+Neue&family=Rajdhani:wght@600;700&display=swap" rel="stylesheet">
+
+    <!-- Structured Data (JSON-LD) for Google -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "OPTCG Master",
+      "url": "https://www.optcg-master.fr/",
+      "description": "Plateforme complète pour One Piece Card Game : Deckbuilder, Méta Decks en direct, résultats de tournois, analyse des quotas et suivi de collection.",
+      "applicationCategory": "GameApplication",
+      "operatingSystem": "All",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "EUR"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "OPTCG Master",
+        "url": "https://www.optcg-master.fr/"
+      },
+      "screenshot": "https://www.optcg-master.fr/og-image.png"
+    }
+    </script>
+  </head>
+  <body class="bg-[#0B0F17] text-slate-100 antialiased selection:bg-amber-500 selection:text-black">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

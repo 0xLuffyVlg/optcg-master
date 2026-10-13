@@ -1,0 +1,71 @@
+{
+  "code": "OP14-029",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Tashigi",
+  "variant_name": "Tashigi",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Marine",
+  "effect": "[Tour adverse] Si ce Personnage quitte le terrain à cause d'un effet adverse, vous pouvez épuiser 1 de vos cartes à la place.\n[Activation : Principale] [Une fois par tour] Vous pouvez épuiser 2 de vos cartes : Ce Personnage gagne +2000 de puissance jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
+  "trigger": null,
+  "illust": "Naruse Uroko",
+  "color": "Vert",
+  "rarity": "R",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op14-p035.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671372_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.26,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Tashigi-OP14-029?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven-Asia-Region-Legal/Tashigi-OP14-029",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/671372",
+  "pricecharting_url": "https://www.pricecharting.com/game/11634248",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Tashigi",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Tashigi-OP14-029?language=2",
+      "file": "OP14-029-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Tashigi (Dash Pack)",
+      "rarity": "R",
+      "price_eur": 1.53,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Tashigi-OP14-029-V1?language=2",
+      "file": "OP14-029-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Tashigi (SP)",
+      "rarity": "R",
+      "price_eur": 99.78,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Tashigi-OP14-029?language=2",
+      "file": "OP14-029-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Tashigi (SP)",
+      "rarity": "SP",
+      "price_eur": 79.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Tashigi-OP14-029-V4?language=2",
+      "file": "OP14-029-v4.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 1.04,
+  "price_avg30_eur": 1.25,
+  "listings_count": 30
+}

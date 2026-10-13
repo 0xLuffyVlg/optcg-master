@@ -1,0 +1,53 @@
+{
+  "code": "ST07-008",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Charlotte Pudding",
+  "variant_name": "Charlotte Pudding (Online Regional 2023) [Participant]",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 3000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Sagesse",
+  "types": "Big Mom Pirates",
+  "effect": "[On Play] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards.",
+  "trigger": null,
+  "illust": null,
+  "color": "Jaune",
+  "rarity": "PR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-en/champ-regional-hors-ligne-p012.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/482233_200w.jpg",
+  "price_eur": 45,
+  "price_usd": 29.57,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Charlotte-Pudding-ST07-008-V1",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/482233",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Charlotte Pudding",
+      "rarity": "C",
+      "price_eur": 45,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Big-Mom-Pirates/Charlotte-Pudding-ST07-008",
+      "file": "ST07-008-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Charlotte Pudding (Online Regional 2023) [Participant]",
+      "rarity": "PR",
+      "price_eur": 45,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Charlotte-Pudding-ST07-008-V1",
+      "file": "ST07-008-v2.json"
+    }
+  ],
+  "price_min_eur": 45,
+  "price_avg7_eur": 44.21,
+  "price_avg30_eur": 17.31,
+  "listings_count": 12
+}

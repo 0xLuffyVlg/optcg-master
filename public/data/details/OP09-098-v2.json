@@ -1,0 +1,53 @@
+{
+  "code": "OP09-098",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Black Hole",
+  "variant_name": "Black Hole (Pirate Foil)",
+  "category": "EVENT",
+  "cost": 4,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Équipage de Barbe Noire",
+  "effect": "\"[Principale] Si votre Leader est de type {Équipage de Barbe Noire",
+  "trigger": null,
+  "illust": null,
+  "color": "Noir",
+  "rarity": "UC",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/prb02-p157.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656092_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.78,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Black-Hole-OP09-098-V2?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/656092",
+  "pricecharting_url": "https://www.pricecharting.com/game/8091661",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Black Hole",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Black-Hole-OP09-098?language=2",
+      "file": "OP09-098-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Black Hole (Pirate Foil)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Black-Hole-OP09-098-V2?language=2",
+      "file": "OP09-098-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 1.16,
+  "price_avg30_eur": 0.77,
+  "listings_count": 50
+}

@@ -1,0 +1,53 @@
+{
+  "code": "OP02-063",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Mr.1(Daz.Bonez)",
+  "variant_name": "Mr.1 (Daz.Bonez) (Offline Regional 2024 Vol. 3)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Impel Down/Former Baroque Works",
+  "effect": "[On Play] Add up to 1 blue Event card with a cost of 1 from your trash to your hand.",
+  "trigger": null,
+  "illust": "TAPIOCA",
+  "color": "Bleu",
+  "rarity": "UC",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-en/champ-regional-en-ligne-p046.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586026_200w.jpg",
+  "price_eur": null,
+  "price_usd": 4.8,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Mr1-DazBonez-OP02-063-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War-Japanese/Mr1-DazBonez-OP02-063-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/586026",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Mr.1 (Daz.Bonez)",
+      "rarity": "UC",
+      "price_eur": 0.45,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Mr1-DazBonez-OP02-063",
+      "file": "OP02-063-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Mr.1 (Daz.Bonez) (Offline Regional 2024 Vol. 3)",
+      "rarity": "UC",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Mr1-DazBonez-OP02-063-V1",
+      "file": "OP02-063-v2.json"
+    }
+  ],
+  "price_min_eur": null,
+  "price_avg7_eur": null,
+  "price_avg30_eur": null,
+  "listings_count": null
+}

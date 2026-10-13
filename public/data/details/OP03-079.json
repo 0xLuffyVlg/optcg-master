@@ -1,0 +1,80 @@
+{
+  "code": "OP03-079",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Vergo",
+  "variant_name": "Vergo",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 5000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Navy/Donquixote Pirates",
+  "effect": "[DON!! x1] This Character cannot be K.O.'d in battle.",
+  "trigger": null,
+  "illust": "shosuke",
+  "color": "Noir",
+  "rarity": "UC",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op03-p094.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/500016_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.06,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Vergo-OP03-079",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/Vergo-OP03-079",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/500016",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Vergo",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Vergo-OP03-079",
+      "file": "OP03-079-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Vergo (Jolly Roger Foil)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vergo-OP03-079-V1",
+      "file": "OP03-079-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Vergo (Full Art)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vergo-OP03-079-V3",
+      "file": "OP03-079-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Vergo (Jolly Roger Foil)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vergo-OP03-079-V1",
+      "file": "OP03-079-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Vergo (Full Art)",
+      "rarity": "UC",
+      "price_eur": 0.69,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vergo-OP03-079-V3",
+      "file": "OP03-079-v5.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 3.16,
+  "price_avg30_eur": 7.63,
+  "listings_count": 28
+}

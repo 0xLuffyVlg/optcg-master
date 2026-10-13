@@ -1,0 +1,77 @@
+{
+  "code": "ST03-007",
+  "variant_version": "v5",
+  "variant_index": 5,
+  "name": "Sentomaru",
+  "variant_name": "Sentomaru (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Navy",
+  "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Play up to 1 [Pacifista] with a cost of 4 or less from your deck, then shuffle your deck.",
+  "trigger": null,
+  "illust": null,
+  "color": "Bleu",
+  "rarity": "C",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/pack-standard-battle-p007.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/564254_200w.jpg",
+  "price_eur": 0.48,
+  "price_usd": 2.39,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sentomaru-ST03-007-V3",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/Sentomaru-ST03-007-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/564254",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Sentomaru",
+      "rarity": "C",
+      "price_eur": 0.48,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-The-Seven-Warlords-of-the-Sea/Sentomaru-ST03-007-V1",
+      "file": "ST03-007-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Sentomaru (Tournament Pack Vol. 3) [Participant]",
+      "rarity": "PR",
+      "price_eur": 0.22,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sentomaru-ST03-007",
+      "file": "ST03-007-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Sentomaru (Tournament Pack Vol. 3) [Winner]",
+      "rarity": "PR",
+      "price_eur": 3.96,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sentomaru-ST03-007-V2",
+      "file": "ST03-007-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Sentomaru (CS 2023 Celebration Pack)",
+      "rarity": "C",
+      "price_eur": 11.35,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Sentomaru-ST03-007",
+      "file": "ST03-007-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Sentomaru (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
+      "rarity": "C",
+      "price_eur": 0.85,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sentomaru-ST03-007-V3",
+      "file": "ST03-007-v5.json"
+    }
+  ],
+  "price_min_eur": 0.48
+}

@@ -1,0 +1,68 @@
+{
+  "code": "EB01-003",
+  "variant_version": "v4",
+  "variant_index": 4,
+  "name": "Kid & Killer",
+  "variant_name": "Kid & Killer - EB01-003 (SP)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": null,
+  "life": null,
+  "attribute": "attribute/Slash-Special.png",
+  "types": "Supernovas/Kid Pirates",
+  "effect": "[Rush] (This card can attack on the turn in which it is played.)[When Attacking] If your opponent has 2 or less Life cards, this Character gains +2000 power during this turn.",
+  "trigger": null,
+  "illust": "HISASHI HUJIWARA",
+  "color": "Rouge",
+  "rarity": "R",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op14-p149.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671449_200w.jpg",
+  "price_eur": 47.5,
+  "price_usd": 80.81,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Kid-Killer-EB01-003",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven-Asia-Region-Legal/Kid-Killer-EB01-003",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/671449",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Kid & Killer",
+      "rarity": "R",
+      "price_eur": 47.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Kid-Killer-EB01-003-V1",
+      "file": "EB01-003-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Kid & Killer (Alternate Art)",
+      "rarity": "R",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Kid-Killer-EB01-003-V2",
+      "file": "EB01-003-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Kid & Killer (Offline Regional Participation Pack 2025 Vol.2)",
+      "rarity": "R",
+      "price_eur": 73.88,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Kid-Killer-EB01-003-V1",
+      "file": "EB01-003-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Kid & Killer - EB01-003 (SP)",
+      "rarity": "R",
+      "price_eur": 60.87,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Kid-Killer-EB01-003",
+      "file": "EB01-003-v4.json"
+    }
+  ],
+  "price_min_eur": 47.5
+}

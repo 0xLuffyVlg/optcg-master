@@ -1,0 +1,53 @@
+{
+  "code": "OP16-119",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Marshall D. Teach",
+  "variant_name": "Marshall.D.Teach (119)",
+  "category": "CHARACTER",
+  "cost": 8,
+  "power": 10000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Sept grands corsaires/Équipage de Barbe Noire",
+  "effect": "[Jouée] Regardez 3 cartes du dessus de votre deck et ajoutez au-dessus de votre Vie jusqu'à 1 carte. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
+  "trigger": "Annulez les effets de jusqu'à 1 Personnage adverse pour tout le tour. Puis, mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
+  "illust": "Anderson",
+  "color": "Jaune",
+  "rarity": "SEC",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op16-p148.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695756_200w.jpg",
+  "price_eur": 23,
+  "price_usd": 26.56,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/MarshallDTeach-OP16-119-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Time-of-Battle-Asia-Region-Legal/MarshallDTeach-OP16-119-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/695756",
+  "pricecharting_url": "https://www.pricecharting.com/game/13335616",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Marshall.D.Teach (119)",
+      "rarity": "SEC",
+      "price_eur": 23,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/MarshallDTeach-OP16-119-V1?language=2",
+      "file": "OP16-119-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Marshall.D.Teach (119) (Alternate Art)",
+      "rarity": "SEC",
+      "price_eur": 33,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/MarshallDTeach-OP16-119-V2?language=2",
+      "file": "OP16-119-v2.json"
+    }
+  ],
+  "price_min_eur": 23,
+  "price_avg7_eur": 26.74,
+  "price_avg30_eur": 25.06,
+  "listings_count": 38
+}

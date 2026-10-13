@@ -1,0 +1,53 @@
+{
+  "code": "OP15-109",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Nico Robin",
+  "variant_name": "Nico Robin (OP15-109)",
+  "category": "CHARACTER",
+  "cost": 7,
+  "power": 7000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Île céleste/Équipage de Chapeau de paille",
+  "effect": "\"[Jouée] Vous pouvez ajouter à votre main 1 carte du dessus de votre Vie : Si votre Leader est de type {Équipage de Chapeau de paille",
+  "trigger": null,
+  "illust": "Nijihayashi",
+  "color": "Jaune",
+  "rarity": "R",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op15-p129.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685464_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.17,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Nico-Robin-OP15-109-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island-Asia-Region-Legal/Nico-Robin-OP15-109-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/685464",
+  "pricecharting_url": "https://www.pricecharting.com/game/12427333",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Nico Robin (OP15-109)",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Nico-Robin-OP15-109-V1?language=2",
+      "file": "OP15-109-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Nico Robin (OP15-109) (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 14.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Nico-Robin-OP15-109-V2?language=2",
+      "file": "OP15-109-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.15,
+  "price_avg30_eur": 0.13,
+  "listings_count": 50
+}

@@ -1,0 +1,53 @@
+{
+  "code": "OP02-041",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Monkey.D.Luffy",
+  "variant_name": "Monkey.D.Luffy (041) (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 7,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "FILM/Supernovas/Straw Hat Crew",
+  "effect": "\"[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] Play up to 1 {FILM",
+  "trigger": null,
+  "illust": null,
+  "color": "Vert",
+  "rarity": "R",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op02-p055.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/482337_200w.jpg",
+  "price_eur": 22.5,
+  "price_usd": 59.65,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/MonkeyDLuffy-OP02-041-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War-Japanese/MonkeyDLuffy-OP02-041-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/482337",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Monkey.D.Luffy (041)",
+      "rarity": "R",
+      "price_eur": 22.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/MonkeyDLuffy-OP02-041-V1",
+      "file": "OP02-041-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Monkey.D.Luffy (041) (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 21.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/MonkeyDLuffy-OP02-041-V2",
+      "file": "OP02-041-v2.json"
+    }
+  ],
+  "price_min_eur": 22.5,
+  "price_avg7_eur": 24.09,
+  "price_avg30_eur": 33.65,
+  "listings_count": 50
+}

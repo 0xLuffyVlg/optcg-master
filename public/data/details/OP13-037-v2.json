@@ -1,0 +1,50 @@
+{
+  "code": "OP13-037",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Roronoa Zoro",
+  "variant_name": "Roronoa Zoro (OP13-037)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "FILM/Supernovae/Équipage de Chapeau de paille",
+  "effect": "\"[Jouée] Si votre Leader est de type {FILM",
+  "trigger": null,
+  "illust": "Hokuyuu",
+  "color": "Vert",
+  "rarity": "TR",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op13-p046.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685335_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 288.33,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Roronoa-Zoro-OP13-037?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/Roronoa-Zoro-OP13-037-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/685335",
+  "pricecharting_url": "https://www.pricecharting.com/game/11012011",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Roronoa Zoro",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Roronoa-Zoro-OP13-037?language=2",
+      "file": "OP13-037-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Roronoa Zoro (OP13-037)",
+      "rarity": "TR",
+      "price_eur": 200,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Roronoa-Zoro-OP13-037?language=2",
+      "file": "OP13-037-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

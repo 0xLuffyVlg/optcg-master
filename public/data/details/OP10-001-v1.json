@@ -1,0 +1,53 @@
+{
+  "code": "OP10-001",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Smoker",
+  "variant_name": "Smoker (001)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": "Tranchant",
+  "types": "Punk Hazard/Marine",
+  "effect": "\"[Tour adverse] Tous vos Personnages de type {Marine",
+  "trigger": null,
+  "illust": "Zhiguang Liu",
+  "color": "Rouge/Vert",
+  "rarity": "L",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op10-p001.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617030_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.17,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Smoker-OP10-001-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Non-English/Smoker-OP10-001-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/617030",
+  "pricecharting_url": "https://www.pricecharting.com/game/8828189",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Smoker (001)",
+      "rarity": "L",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Smoker-OP10-001-V1?language=2",
+      "file": "OP10-001-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Smoker (001) (Parallel)",
+      "rarity": "L",
+      "price_eur": 16,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Smoker-OP10-001-V2?language=2",
+      "file": "OP10-001-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.05,
+  "price_avg30_eur": 0.08,
+  "listings_count": 50
+}

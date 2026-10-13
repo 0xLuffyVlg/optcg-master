@@ -1,0 +1,77 @@
+{
+  "code": "OP06-100",
+  "variant_version": "v5",
+  "variant_index": 5,
+  "name": "Inuarashi",
+  "variant_name": "Inuarashi (Full Art)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Minks/Land of Wano/The Akazaya Nine",
+  "effect": "[DON!! x2] [When Attacking] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
+  "trigger": "If your opponent has 3 or less Life cards, play this card.",
+  "illust": "Yasushi Yamaguchi",
+  "color": "Jaune",
+  "rarity": "UC",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op06-p119.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593565_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 2.85,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Inuarashi-OP06-100-V3",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Yellow-Yamato-Non-English/Inuarashi-OP06-100-V5",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/593565",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Inuarashi",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Inuarashi-OP06-100",
+      "file": "OP06-100-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Inuarashi (Jolly Roger Foil)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Inuarashi-OP06-100-V1",
+      "file": "OP06-100-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Inuarashi (Full Art)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Inuarashi-OP06-100-V3",
+      "file": "OP06-100-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Inuarashi (Jolly Roger Foil)",
+      "rarity": "UC",
+      "price_eur": 1.97,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Inuarashi-OP06-100-V1",
+      "file": "OP06-100-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Inuarashi (Full Art)",
+      "rarity": "UC",
+      "price_eur": 3.15,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Inuarashi-OP06-100-V3",
+      "file": "OP06-100-v5.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

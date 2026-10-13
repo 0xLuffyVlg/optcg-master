@@ -1,0 +1,53 @@
+{
+  "code": "OP11-084",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Kuzan",
+  "variant_name": "Kuzan (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Marine",
+  "effect": "\"[Jouée] Placez dans votre Défausse 3 cartes du dessus de votre deck.\n[En attaquant] Jusqu'à 1 de vos Leaders ou Personnages de type {Marine",
+  "trigger": null,
+  "illust": "Akanegumo",
+  "color": "Noir",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op11-p104.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632458_200w.jpg",
+  "price_eur": 4,
+  "price_usd": 3.66,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Kuzan-OP11-084-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed-Non-English/Kuzan-OP11-084-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/632458",
+  "pricecharting_url": "https://www.pricecharting.com/game/9744516",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Kuzan",
+      "rarity": "R",
+      "price_eur": 4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Kuzan-OP11-084-V1?language=2",
+      "file": "OP11-084-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Kuzan (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Kuzan-OP11-084-V2?language=2",
+      "file": "OP11-084-v2.json"
+    }
+  ],
+  "price_min_eur": 4,
+  "price_avg7_eur": 4.3,
+  "price_avg30_eur": 4.68,
+  "listings_count": 37
+}

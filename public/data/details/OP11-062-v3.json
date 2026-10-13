@@ -1,0 +1,59 @@
+{
+  "code": "OP11-062",
+  "variant_version": "v3",
+  "variant_index": 3,
+  "name": "Charlotte Katakuri",
+  "variant_name": "Charlotte Katakuri",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Frappe",
+  "types": "Équipage de Big Mom",
+  "effect": "[En attaquant]/[Attaque adverse] [Une fois par tour] DON!! -1 : Regardez 1 carte du dessus du deck adverse. Puis, ce Leader gagne +1000 de puissance pour tout le combat.",
+  "trigger": null,
+  "illust": "Bahi JD",
+  "color": "Violet",
+  "rarity": "L",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op11-p076.webp",
+  "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-062.png",
+  "price_eur": 0.02,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Charlotte-Katakuri-OP11-062-V3?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed-Non-English/Charlotte-Katakuri-OP11-062-V3",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/632430",
+  "pricecharting_url": "https://www.pricecharting.com/game/9362361",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Charlotte Katakuri (062)",
+      "rarity": "L",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Charlotte-Katakuri-OP11-062-V1?language=2",
+      "file": "OP11-062-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Charlotte Katakuri (062) (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 18,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Charlotte-Katakuri-OP11-062-V2?language=2",
+      "file": "OP11-062-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Charlotte Katakuri",
+      "rarity": "L",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Charlotte-Katakuri-OP11-062-V3?language=2",
+      "file": "OP11-062-v3.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

@@ -1,0 +1,53 @@
+{
+  "code": "OP12-063",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Reiju Vinsmoke",
+  "variant_name": "Vinsmoke Reiju (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Famille Vinsmoke/Germa 66",
+  "effect": "Si vous avez 4 Événements ou plus dans votre Défausse, ce Personnage gagne +2000 de puissance ; augmentez de +5 le coût de ce Personnage.\n[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
+  "trigger": null,
+  "illust": "Yosuke Adachi",
+  "color": "Violet",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op12-p079.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643802_200w.jpg",
+  "price_eur": 13,
+  "price_usd": 27.08,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Vinsmoke-Reiju-OP12-063-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/Vinsmoke-Reiju-OP12-063-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/643802",
+  "pricecharting_url": "https://www.pricecharting.com/game/10266443",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Vinsmoke Reiju",
+      "rarity": "SR",
+      "price_eur": 13,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Vinsmoke-Reiju-OP12-063-V1?language=2",
+      "file": "OP12-063-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Vinsmoke Reiju (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 14.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Vinsmoke-Reiju-OP12-063-V2?language=2",
+      "file": "OP12-063-v2.json"
+    }
+  ],
+  "price_min_eur": 13,
+  "price_avg7_eur": 14.24,
+  "price_avg30_eur": 14.62,
+  "listings_count": 28
+}

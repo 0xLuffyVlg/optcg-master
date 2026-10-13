@@ -1,0 +1,89 @@
+{
+  "code": "EB01-015",
+  "variant_version": "v4",
+  "variant_index": 4,
+  "name": "Scratchmen Apoo",
+  "variant_name": "Scratchmen Apoo (CS 25-26 Celebration Pack)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 1000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Supernovas/On-Air Pirates",
+  "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+  "trigger": null,
+  "illust": "UGUME",
+  "color": "Vert",
+  "rarity": "R",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-en/st24-p007.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649633_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 48.03,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Scratchmen-Apoo-EB01-015-V3",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Scratchmen-Apoo-EB01-015-V4",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/649633",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Scratchmen Apoo",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Scratchmen-Apoo-EB01-015",
+      "file": "EB01-015-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Scratchmen Apoo (Tournament Pack 2025 Vol. 2)",
+      "rarity": "R",
+      "price_eur": 4.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Scratchmen-Apoo-EB01-015-V1",
+      "file": "EB01-015-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Scratchmen Apoo (Winner Pack 2025 Vol. 2)",
+      "rarity": "R",
+      "price_eur": 4.81,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Scratchmen-Apoo-EB01-015-V2",
+      "file": "EB01-015-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Scratchmen Apoo (CS 25-26 Celebration Pack)",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Scratchmen-Apoo-EB01-015-V3",
+      "file": "EB01-015-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Scratchmen Apoo - EB01-015 (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 7.53,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Scratchmen-Apoo-EB01-015-V2",
+      "file": "EB01-015-v5.json"
+    },
+    {
+      "variant_index": 6,
+      "variant_version": "v6",
+      "name": "Scratchmen Apoo - EB01-015 (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 7.53,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Scratchmen-Apoo-EB01-015-V2",
+      "file": "EB01-015-v6.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.06,
+  "price_avg30_eur": 0.14,
+  "listings_count": 50
+}

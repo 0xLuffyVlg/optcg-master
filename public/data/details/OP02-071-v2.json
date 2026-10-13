@@ -1,0 +1,53 @@
+{
+  "code": "OP02-071",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Magellan",
+  "variant_name": "Magellan (071) (Alternate Art)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Spécial",
+  "types": "Impel Down",
+  "effect": "[Your Turn] [Once Per Turn] When a DON!! card on the field is returned to your DON!! deck, this Leader gains +1000 power during this turn.",
+  "trigger": null,
+  "illust": null,
+  "color": "Violet",
+  "rarity": "L",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op02-p091.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/484134_200w.jpg",
+  "price_eur": 30,
+  "price_usd": 44.95,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Magellan-OP02-071-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War-Japanese/Magellan-OP02-071-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/484134",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Magellan (071)",
+      "rarity": "L",
+      "price_eur": 30,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Magellan-OP02-071-V1",
+      "file": "OP02-071-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Magellan (071) (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 33,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Magellan-OP02-071-V2",
+      "file": "OP02-071-v2.json"
+    }
+  ],
+  "price_min_eur": 30,
+  "price_avg7_eur": 46.06,
+  "price_avg30_eur": 47.04,
+  "listings_count": 50
+}

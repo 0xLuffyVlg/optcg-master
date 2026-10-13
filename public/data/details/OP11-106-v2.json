@@ -1,0 +1,71 @@
+{
+  "code": "OP11-106",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Zeus",
+  "variant_name": "Zeus (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 2000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Homies/Équipage de Big Mom",
+  "effect": "[Jouée] Vous pouvez ajouter à votre main 1 carte du dessus ou du dessous de votre Vie : Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
+  "trigger": null,
+  "illust": "Misa Matoki",
+  "color": "Jaune",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op11-p130.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632484_200w.jpg",
+  "price_eur": 17.8,
+  "price_usd": 48.69,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Zeus-OP11-106-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed-Non-English/Zeus-OP11-106-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/632484",
+  "pricecharting_url": "https://www.pricecharting.com/game/9362305",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Zeus",
+      "rarity": "R",
+      "price_eur": 17.8,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Zeus-OP11-106-V1?language=2",
+      "file": "OP11-106-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Zeus (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 17.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Zeus-OP11-106-V2?language=2",
+      "file": "OP11-106-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Zeus (Official Playmat -Bandai Card Games Fest 24-25 Edition-)",
+      "rarity": "R",
+      "price_eur": 146.12,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Zeus-OP11-106-V1?language=2",
+      "file": "OP11-106-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Zeus (SP)",
+      "rarity": "R",
+      "price_eur": 429.14,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Zeus-OP11-106?language=2",
+      "file": "OP11-106-v4.json"
+    }
+  ],
+  "price_min_eur": 17.8,
+  "price_avg7_eur": 25.48,
+  "price_avg30_eur": 26.73,
+  "listings_count": 36
+}

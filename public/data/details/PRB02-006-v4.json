@@ -1,0 +1,68 @@
+{
+  "code": "PRB02-006",
+  "variant_version": "v4",
+  "variant_index": 4,
+  "name": "Roronoa Zoro",
+  "variant_name": "Roronoa Zoro (Welcome Pack 2026 Vol.1)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 4000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Supernovae/Équipage de Chapeau de paille",
+  "effect": "[Tour adverse] Si ce Personnage est épuisé par un effet d'un Personnage adverse, vous pouvez épuiser 1 autre de vos Personnages à la place.\n[Bloqueur]",
+  "trigger": null,
+  "illust": "Hatori Kyoka",
+  "color": "Vert",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/eb04-p084.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693119_200w.jpg",
+  "price_eur": 600,
+  "price_usd": 13.32,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Roronoa-Zoro-PRB02-006-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Roronoa-Zoro-PRB02-006-V4",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/693119",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Roronoa Zoro - PRB02-006",
+      "rarity": "R",
+      "price_eur": 600,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Roronoa-Zoro-PRB02-006-V1?language=2",
+      "file": "PRB02-006-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Roronoa Zoro - PRB02-006 (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 9.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Roronoa-Zoro-PRB02-006-V2?language=2",
+      "file": "PRB02-006-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Roronoa Zoro - PRB02-006 (SP)",
+      "rarity": "R",
+      "price_eur": 803.21,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Roronoa-Zoro-PRB02-006?language=2",
+      "file": "PRB02-006-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Roronoa Zoro (Welcome Pack 2026 Vol.1)",
+      "rarity": "R",
+      "price_eur": 6.62,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Roronoa-Zoro-PRB02-006-V1?language=2",
+      "file": "PRB02-006-v4.json"
+    }
+  ],
+  "price_min_eur": 600
+}

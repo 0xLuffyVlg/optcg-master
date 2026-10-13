@@ -1,0 +1,53 @@
+{
+  "code": "OP14-069",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Don Quijote Doflamingo",
+  "variant_name": "Donquixote Doflamingo - OP14-069",
+  "category": "CHARACTER",
+  "cost": 10,
+  "power": 10000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Sept grands corsaires/Équipage de Don Quijote",
+  "effect": "\"[Jouée] DON!! −3 : Effectuez l'un des choix suivants :\n• Si votre Leader est de type {Équipage de Don Quijote",
+  "trigger": null,
+  "illust": "Morechand",
+  "color": "Violet",
+  "rarity": "SR",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op14-p083.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668638_200w.jpg",
+  "price_eur": 0.5,
+  "price_usd": 0.62,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Donquixote-Doflamingo-OP14-069-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven-Asia-Region-Legal/Donquixote-Doflamingo-OP14-069-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/668638",
+  "pricecharting_url": "https://www.pricecharting.com/game/11634352",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Donquixote Doflamingo - OP14-069",
+      "rarity": "SR",
+      "price_eur": 0.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Donquixote-Doflamingo-OP14-069-V1?language=2",
+      "file": "OP14-069-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Donquixote Doflamingo - OP14-069 (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 7,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Donquixote-Doflamingo-OP14-069-V2?language=2",
+      "file": "OP14-069-v2.json"
+    }
+  ],
+  "price_min_eur": 0.5,
+  "price_avg7_eur": 0.73,
+  "price_avg30_eur": 0.78,
+  "listings_count": 50
+}

@@ -1,0 +1,53 @@
+{
+  "code": "OP06-081",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Absalom",
+  "variant_name": "Absalom (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Distance",
+  "types": "Thriller Bark Pirates",
+  "effect": "[On Play] You may return 2 cards from your trash to the bottom of your deck in any order: K.O. up to 1 Character with a cost of 2 or less.",
+  "trigger": null,
+  "illust": "Hayaken-sarena",
+  "color": "Noir",
+  "rarity": "R",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op06-p098.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541058_200w.jpg",
+  "price_eur": 1.85,
+  "price_usd": 1.23,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Absalom-OP06-081-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain-Japanese/Absalom-OP06-081-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/541058",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Absalom",
+      "rarity": "R",
+      "price_eur": 1.85,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Absalom-OP06-081-V1",
+      "file": "OP06-081-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Absalom (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 1.95,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Absalom-OP06-081-V2",
+      "file": "OP06-081-v2.json"
+    }
+  ],
+  "price_min_eur": 1.85,
+  "price_avg7_eur": 2.44,
+  "price_avg30_eur": 2.59,
+  "listings_count": 50
+}

@@ -1,0 +1,53 @@
+{
+  "code": "OP11-060",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "On va la ruiner, cette cérémonie !!",
+  "variant_name": "Let's Crash This Wedding!!!",
+  "category": "EVENT",
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Équipage de Chapeau de paille",
+  "effect": "\"[Principale] Si votre Leader est multicolore, regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Chapeau de paille",
+  "trigger": null,
+  "illust": null,
+  "color": "Bleu",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op11-p074.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632428_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.17,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Lets-Crash-This-Wedding-OP11-060?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed-Non-English/Lets-Crash-This-Wedding-OP11-060",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/632428",
+  "pricecharting_url": "https://www.pricecharting.com/game/9362369",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Let's Crash This Wedding!!!",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Lets-Crash-This-Wedding-OP11-060?language=2",
+      "file": "OP11-060-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Let's Crash This Wedding!!! (Premium Card Collection -Best Selection Vol. 5-)",
+      "rarity": "R",
+      "price_eur": 4.56,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Lets-Crash-This-Wedding-OP11-060-V1?language=2",
+      "file": "OP11-060-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.03,
+  "price_avg30_eur": 0.07,
+  "listings_count": 17
+}

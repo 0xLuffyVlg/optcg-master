@@ -1,0 +1,59 @@
+{
+  "code": "OP07-017",
+  "variant_version": "v3",
+  "variant_index": 3,
+  "name": "Dragon Breath",
+  "variant_name": "Dragon Breath (Pirate Foil)",
+  "category": "EVENT",
+  "cost": 2,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Revolutionary Army",
+  "effect": "[Main] K.O. up to 1 of your opponent's Characters with 3000 power or less and up to 1 of your opponent's Stages with a cost of 1 or less.",
+  "trigger": "Activate this card's [Main] effect.",
+  "illust": null,
+  "color": "Rouge",
+  "rarity": "UC",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op07-p020.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656175_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.18,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Dragon-Breath-OP07-017-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Dragon-Breath-OP07-017-V2-V3",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/656175",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Dragon Breath",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Dragon-Breath-OP07-017",
+      "file": "OP07-017-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Dragon Breath (Pirate Foil)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Dragon-Breath-OP07-017-V2",
+      "file": "OP07-017-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Dragon Breath (Pirate Foil)",
+      "rarity": "UC",
+      "price_eur": 0.14,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Dragon-Breath-OP07-017-V2",
+      "file": "OP07-017-v3.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

@@ -1,0 +1,53 @@
+{
+  "code": "EB03-057",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Yamato",
+  "variant_name": "Yamato",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Pays de Wano",
+  "effect": "\"[Jouée] Donnez jusqu'à 3 cartes DON!! épuisées à votre Leader de type {Pays de Wano",
+  "trigger": null,
+  "illust": "Yoichi Amano",
+  "color": "Jaune",
+  "rarity": "R",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/eb03-p072.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672810_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.33,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Yamato-EB03-057-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition-Asia-Region-Legal/Yamato-EB03-057-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/672810",
+  "pricecharting_url": "https://www.pricecharting.com/game/12054325",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Yamato",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Yamato-EB03-057-V1?language=2",
+      "file": "EB03-057-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Yamato (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 10,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Yamato-EB03-057-V2?language=2",
+      "file": "EB03-057-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.4,
+  "price_avg30_eur": 0.4,
+  "listings_count": 50
+}

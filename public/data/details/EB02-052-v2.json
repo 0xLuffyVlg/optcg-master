@@ -1,0 +1,62 @@
+{
+  "code": "EB02-052",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Ener",
+  "variant_name": "Enel (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 10,
+  "power": 11000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Île céleste",
+  "effect": "\"Si votre Leader est de type {Île céleste",
+  "trigger": null,
+  "illust": "Kohei Hirota",
+  "color": "Jaune",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/eb02-p066.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629154_200w.jpg",
+  "price_eur": 15,
+  "price_usd": 39.05,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Enel-EB02-052-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection-Japanese/Enel-EB02-052-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/629154",
+  "pricecharting_url": "https://www.pricecharting.com/game/9361561",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Enel",
+      "rarity": "SR",
+      "price_eur": 15,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Enel-EB02-052-V1?language=2",
+      "file": "EB02-052-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Enel (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 15,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Enel-EB02-052-V2?language=2",
+      "file": "EB02-052-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Enel (SP)",
+      "rarity": "SR",
+      "price_eur": 153.04,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Enel-EB02-052?language=2",
+      "file": "EB02-052-v3.json"
+    }
+  ],
+  "price_min_eur": 15,
+  "price_avg7_eur": 19.86,
+  "price_avg30_eur": 20.06,
+  "listings_count": 35
+}

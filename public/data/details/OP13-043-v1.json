@@ -1,0 +1,53 @@
+{
+  "code": "OP13-043",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "O-Tama",
+  "variant_name": "Otama",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": null,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Pays de Wano",
+  "effect": "[Jouée] Si vous avez 3 cartes ou moins dans votre Vie, piochez 2 cartes et défaussez 1 carte de votre main.",
+  "trigger": null,
+  "illust": "COGA",
+  "color": "Bleu",
+  "rarity": "R",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op13-p053.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657302_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.17,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Otama-OP13-043?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/Otama-OP13-043",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/657302",
+  "pricecharting_url": "https://www.pricecharting.com/game/11012017",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Otama",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Otama-OP13-043?language=2",
+      "file": "OP13-043-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Otama (Welcome Pack 2026 Vol.1)",
+      "rarity": "R",
+      "price_eur": 1.45,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Otama-OP13-043-V1?language=2",
+      "file": "OP13-043-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.5,
+  "price_avg30_eur": 0.65,
+  "listings_count": 14
+}

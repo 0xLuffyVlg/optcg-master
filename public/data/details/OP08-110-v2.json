@@ -1,0 +1,80 @@
+{
+  "code": "OP08-110",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Wyper",
+  "variant_name": "Wyper (Parallel)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Distance",
+  "types": "Sky Island/Shandian Warrior",
+  "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Upper Yard] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Upper Yard] from your hand.",
+  "trigger": null,
+  "illust": "Hatori Kyoka",
+  "color": "Jaune",
+  "rarity": "R",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op08-p131.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558151_200w.jpg",
+  "price_eur": 1,
+  "price_usd": 1.99,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Wyper-OP08-110-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends-Non-English/Wyper-OP08-110-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/558151",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Wyper",
+      "rarity": "R",
+      "price_eur": 1,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Wyper-OP08-110-V1",
+      "file": "OP08-110-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Wyper (Parallel)",
+      "rarity": "R",
+      "price_eur": 1.87,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Wyper-OP08-110-V2",
+      "file": "OP08-110-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Wyper (Tournament Pack 2025 Vol. 2)",
+      "rarity": "R",
+      "price_eur": 0.12,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Wyper-OP08-110-V1",
+      "file": "OP08-110-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Wyper (Winner Pack 2025 Vol. 2)",
+      "rarity": "R",
+      "price_eur": 3.68,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Wyper-OP08-110-V2",
+      "file": "OP08-110-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Wyper (CS 25-26 Celebration Pack)",
+      "rarity": "R",
+      "price_eur": 20.59,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Wyper-OP08-110-V3",
+      "file": "OP08-110-v5.json"
+    }
+  ],
+  "price_min_eur": 1,
+  "price_avg7_eur": 2.06,
+  "price_avg30_eur": 3.13,
+  "listings_count": 50
+}

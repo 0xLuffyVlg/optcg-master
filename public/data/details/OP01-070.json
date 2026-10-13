@@ -1,0 +1,80 @@
+{
+  "code": "OP01-070",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Dracule Mihawk",
+  "variant_name": "Dracule Mihawk",
+  "category": "CHARACTER",
+  "cost": 9,
+  "power": 9000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "The Seven Warlords of the Sea",
+  "effect": "[On Play] Place up to 1 Character with a cost of 7 or less at the bottom of the owner's deck.",
+  "trigger": null,
+  "illust": "Nijihayashi",
+  "color": "Bleu",
+  "rarity": "SR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op01-p089.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454598_200w.jpg",
+  "price_eur": 0.15,
+  "price_usd": 1.36,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Dracule-Mihawk-OP01-070-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Dracule-Mihawk-OP01-070-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/454598",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Dracule Mihawk",
+      "rarity": "SR",
+      "price_eur": 0.15,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Dracule-Mihawk-OP01-070-V1",
+      "file": "OP01-070-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Dracule Mihawk (Parallel)",
+      "rarity": "SR",
+      "price_eur": 140,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Dracule-Mihawk-OP01-070-V2",
+      "file": "OP01-070-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Dracule Mihawk (Treasure Cup 2024)",
+      "rarity": "SR",
+      "price_eur": 3164.2,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Dracule-Mihawk-OP01-070",
+      "file": "OP01-070-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Dracule Mihawk (OP01-070) (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 0.1,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Dracule-Mihawk-OP01-070",
+      "file": "OP01-070-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Dracule Mihawk (OP01-070) (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 9.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Dracule-Mihawk-OP01-070",
+      "file": "OP01-070-v5.json"
+    }
+  ],
+  "price_min_eur": 0.15,
+  "price_avg7_eur": 6.71,
+  "price_avg30_eur": 8.84,
+  "listings_count": 38
+}

@@ -1,0 +1,53 @@
+{
+  "code": "OP01-034",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Inuarashi",
+  "variant_name": "Inuarashi",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Minks/Land of Wano/The Akazaya Nine",
+  "effect": "[DON!! x2] [When Attacking] Set up to 1 of your DON!! cards as active.",
+  "trigger": null,
+  "illust": "TAPIOCA",
+  "color": "Vert",
+  "rarity": "C",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op01-p043.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454555_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.06,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Inuarashi-OP01-034-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Inuarashi-OP01-034-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/454555",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Inuarashi",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Inuarashi-OP01-034-V1",
+      "file": "OP01-034-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Inuarashi (Box Topper)",
+      "rarity": "C",
+      "price_eur": 11,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Inuarashi-OP01-034-V2",
+      "file": "OP01-034-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.21,
+  "price_avg30_eur": 0.24,
+  "listings_count": 50
+}

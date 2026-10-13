@@ -1,0 +1,53 @@
+{
+  "code": "EB04-038",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Rosinante & Law",
+  "variant_name": "Rosinante & Law (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 6,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": "attribute/Special-Wisdom.png",
+  "types": "Navy/Donquixote Pirates",
+  "effect": "Under the rules of this game, also treat this card's name as [Trafalgar Law] and [Donquixote Rosinante]. [Blocker] [On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card. Then, add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "trigger": null,
+  "illust": "Studio Vigor Co. Ltd",
+  "color": "Violet",
+  "rarity": "SR",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/eb04-p049.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/669240_200w.jpg",
+  "price_eur": 18,
+  "price_usd": 62.19,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Rosinante-Law-EB04-038-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal/Rosinante-Law-EB04-038-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/669240",
+  "pricecharting_url": "https://www.pricecharting.com/game/11703065",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Rosinante & Law",
+      "rarity": "SR",
+      "price_eur": 18,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Rosinante-Law-EB04-038-V1?language=2",
+      "file": "EB04-038-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Rosinante & Law (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 18.49,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Rosinante-Law-EB04-038-V2?language=2",
+      "file": "EB04-038-v2.json"
+    }
+  ],
+  "price_min_eur": 18,
+  "price_avg7_eur": 18.1,
+  "price_avg30_eur": 17.39,
+  "listings_count": 29
+}

@@ -1,0 +1,50 @@
+{
+  "code": "OP12-006",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Shakuyaku",
+  "variant_name": "Shakuyaku (Premium Card Collection -Best Selection Vol. 5-)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Sagesse",
+  "types": "Amazon Lily",
+  "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 [Monkey D. Luffy] ou jusqu'à 1 Événement rouge et ajoutez-le à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
+  "trigger": null,
+  "illust": "SHINRA AGENCY Co. Ltd.",
+  "color": "Rouge",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op12-p007.webp",
+  "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-006.png",
+  "price_eur": 0.02,
+  "price_usd": 4.81,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Shakuyaku-OP12-006-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/Shakuyaku-OP12-006",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/657829",
+  "pricecharting_url": "https://www.pricecharting.com/game/10266370",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Shakuyaku",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Shakuyaku-OP12-006?language=2",
+      "file": "OP12-006-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Shakuyaku (Premium Card Collection -Best Selection Vol. 5-)",
+      "rarity": "R",
+      "price_eur": 1.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Shakuyaku-OP12-006-V1?language=2",
+      "file": "OP12-006-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

@@ -1,0 +1,53 @@
+{
+  "code": "OP13-065",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Shanks",
+  "variant_name": "Shanks (065)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Équipage de Roger",
+  "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte incluant «Équipage de Roger» dans son type autre que [Shanks] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
+  "trigger": null,
+  "illust": "Studio Vigor Co. Ltd",
+  "color": "Violet",
+  "rarity": "R",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op13-p078.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657327_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.15,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Shanks-OP13-065-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/Shanks-OP13-065-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/657327",
+  "pricecharting_url": "https://www.pricecharting.com/game/11012040",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Shanks (065)",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Shanks-OP13-065-V1?language=2",
+      "file": "OP13-065-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Shanks (065) (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Shanks-OP13-065-V2?language=2",
+      "file": "OP13-065-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.21,
+  "price_avg30_eur": 0.13,
+  "listings_count": 50
+}

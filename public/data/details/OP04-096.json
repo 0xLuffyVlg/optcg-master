@@ -1,0 +1,62 @@
+{
+  "code": "OP04-096",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Corrida Coliseum",
+  "variant_name": "Corrida Coliseum",
+  "category": "STAGE",
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Dressrosa",
+  "effect": "\"If your Leader has the {Dressrosa",
+  "trigger": null,
+  "illust": null,
+  "color": "Noir",
+  "rarity": "C",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op04-p116.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/516807_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.08,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Corrida-Coliseum-OP04-096",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Corrida-Coliseum-OP04-096-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/516807",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Corrida Coliseum",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Corrida-Coliseum-OP04-096",
+      "file": "OP04-096-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Corrida Coliseum (Pirate Foil)",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Corrida-Coliseum-OP04-096-V2",
+      "file": "OP04-096-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Corrida Coliseum (Pirate Foil)",
+      "rarity": "C",
+      "price_eur": 0.09,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Corrida-Coliseum-OP04-096-V2",
+      "file": "OP04-096-v3.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 4.02,
+  "price_avg30_eur": 5.19,
+  "listings_count": 30
+}

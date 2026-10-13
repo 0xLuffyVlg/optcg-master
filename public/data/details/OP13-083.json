@@ -1,0 +1,62 @@
+{
+  "code": "OP13-083",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Saint Jaygarcia Saturn",
+  "variant_name": "St. Jaygarcia Saturn",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Dragon céleste/Cinq Doyens",
+  "effect": "\"Si vous avez 7 cartes ou plus dans votre Défausse, ce Personnage ne peut pas quitter le terrain à cause d'un effet adverse.\n[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Cinq Doyens",
+  "trigger": null,
+  "illust": "Hokuyuu",
+  "color": "Noir",
+  "rarity": "R",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op13-p103.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657352_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.24,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/St-Jaygarcia-Saturn-OP13-083-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/St-Jaygarcia-Saturn-OP13-083-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/657352",
+  "pricecharting_url": "https://www.pricecharting.com/game/11012066",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "St. Jaygarcia Saturn",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/St-Jaygarcia-Saturn-OP13-083-V1?language=2",
+      "file": "OP13-083-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "St. Jaygarcia Saturn (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 15.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/St-Jaygarcia-Saturn-OP13-083-V2?language=2",
+      "file": "OP13-083-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "St. Jaygarcia Saturn (Parallel)",
+      "rarity": "R",
+      "price_eur": 280,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/St-Jaygarcia-Saturn-OP13-083-V3?language=2",
+      "file": "OP13-083-v3.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.33,
+  "price_avg30_eur": 0.31,
+  "listings_count": 50
+}

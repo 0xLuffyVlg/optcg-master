@@ -1,0 +1,59 @@
+{
+  "code": "OP10-092",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Perona",
+  "variant_name": "Perona (CS 25-26 Top Player Pack)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Équipage de Thriller Bark",
+  "effect": "\"[Activation : Principale] [Une fois par tour] Vous pouvez placer 2 cartes de type {Équipage de Thriller Bark",
+  "trigger": null,
+  "illust": "SHINRA AGENCY Co. Ltd.",
+  "color": "Noir",
+  "rarity": "C",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op10-p111.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649675_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 600,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Perona-OP10-092-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Non-English/Perona-OP10-092-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/649675",
+  "pricecharting_url": "https://www.pricecharting.com/game/8828298",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Perona (092)",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Perona-OP10-092?language=2",
+      "file": "OP10-092-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Perona (CS 25-26 Top Player Pack)",
+      "rarity": "C",
+      "price_eur": 5.95,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Perona-OP10-092-V1?language=2",
+      "file": "OP10-092-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Perona (Premium Card Collection -Best Selection Vol. 4-)",
+      "rarity": "C",
+      "price_eur": 2.88,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Perona-OP10-092-V1?language=2",
+      "file": "OP10-092-v3.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

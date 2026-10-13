@@ -1,0 +1,53 @@
+{
+  "code": "PRB02-009",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Mr 3(Galdino)",
+  "variant_name": "Mr.3(Galdino) - PRB02-009",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Cross Guild/Ex-Baroque Works",
+  "effect": "Peut être activé quand ce Personnage est épuisé par un effet adverse. Vous pouvez placer ce Personnage dans votre Défausse et piocher 2 cartes.\n[Bloqueur]",
+  "trigger": null,
+  "illust": "Moopic",
+  "color": "Bleu",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/prb02-p226.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653397_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.47,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Mr3Galdino-PRB02-009-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Mr3Galdino-PRB02-009-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/653397",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Mr.3(Galdino) - PRB02-009",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Mr3Galdino-PRB02-009-V1?language=2",
+      "file": "PRB02-009-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Mr.3(Galdino) - PRB02-009 (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 1.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Mr3Galdino-PRB02-009-V2?language=2",
+      "file": "PRB02-009-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.44,
+  "price_avg30_eur": 0.55,
+  "listings_count": 50
+}

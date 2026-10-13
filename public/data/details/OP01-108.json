@@ -1,0 +1,53 @@
+{
+  "code": "OP01-108",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Hitokiri Kamazo",
+  "variant_name": "Hitokiri Kamazo",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Supernovas/Kid Pirates/SMILE",
+  "effect": "[On K.O.] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+  "trigger": null,
+  "illust": "Koushi Rokushiro",
+  "color": "Violet",
+  "rarity": "UC",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op01-p137.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/455808_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.14,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Hitokiri-Kamazo-OP01-108",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Hitokiri-Kamazo-OP01-108",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/455808",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Hitokiri Kamazo",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Hitokiri-Kamazo-OP01-108",
+      "file": "OP01-108-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Hitokiri Kamazo (Store Championship 2023 Participation Pack Vol.1)",
+      "rarity": "PR",
+      "price_eur": 4.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Hitokiri-Kamazo-OP01-108",
+      "file": "OP01-108-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.27,
+  "price_avg30_eur": 0.27,
+  "listings_count": 50
+}

@@ -1,0 +1,71 @@
+{
+  "code": "ST13-002",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Portgas.D.Ace",
+  "variant_name": "Portgas.D.Ace (002) (Parallel)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": "Spécial",
+  "types": "Whitebeard Pirates",
+  "effect": "[DON!! x2] [Activate: Main] [Once Per Turn] Look at 5 cards from the top of your deck and add up to 1 Character card with a cost of 5 to the top of your Life cards face-up. Then, place the rest at the bottom of your deck in any order.\n[End of Your Turn] Trash all your face-up Life cards.",
+  "trigger": null,
+  "illust": "Hokuyuu",
+  "color": "Bleu/Jaune",
+  "rarity": "L",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/st13-p004.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/543623_200w.jpg",
+  "price_eur": 12,
+  "price_usd": 22.56,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/PortgasDAce-ST13-002-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Brothers-Japanese/PortgasDAce-ST13-002-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/543623",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Portgas.D.Ace (002)",
+      "rarity": "L",
+      "price_eur": 12,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/PortgasDAce-ST13-002-V1",
+      "file": "ST13-002-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Portgas.D.Ace (002) (Parallel)",
+      "rarity": "L",
+      "price_eur": 12,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/PortgasDAce-ST13-002-V2",
+      "file": "ST13-002-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Portgas.D.Ace (2nd Anniversary Tournament)",
+      "rarity": "L",
+      "price_eur": 28.96,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/PortgasDAce-ST13-002-V2",
+      "file": "ST13-002-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Portgas.D.Ace (Premium Card Collection -Leader Collection-)",
+      "rarity": "L",
+      "price_eur": 55.14,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/PortgasDAce-ST13-002-V1",
+      "file": "ST13-002-v4.json"
+    }
+  ],
+  "price_min_eur": 12,
+  "price_avg7_eur": 14.96,
+  "price_avg30_eur": 15.61,
+  "listings_count": 50
+}

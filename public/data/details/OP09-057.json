@@ -1,0 +1,53 @@
+{
+  "code": "OP09-057",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Cross Guild",
+  "variant_name": "Cross Guild",
+  "category": "EVENT",
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Cross Guild",
+  "effect": "\"[Principale] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Cross Guild",
+  "trigger": null,
+  "illust": null,
+  "color": "Bleu",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op09-p074.webp",
+  "image_url": "/img/cards-fr/op09-p074-sm.webp",
+  "price_eur": 0.02,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Cross-Guild-OP09-057?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/596992",
+  "pricecharting_url": "https://www.pricecharting.com/game/8091611",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Cross Guild",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Cross-Guild-OP09-057?language=2",
+      "file": "OP09-057-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Cross Guild (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 170,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Cross-Guild-OP09-057-V2?language=2",
+      "file": "OP09-057-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.04,
+  "price_avg30_eur": 0.05,
+  "listings_count": 27
+}

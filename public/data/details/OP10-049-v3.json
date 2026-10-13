@@ -1,0 +1,59 @@
+{
+  "code": "OP10-049",
+  "variant_version": "v3",
+  "variant_index": 3,
+  "name": "Sabo",
+  "variant_name": "Sabo (Premium Card Collection -Best Selection Vol. 4-)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Dressrosa/Armée révolutionnaire",
+  "effect": "Si un de vos Personnages ayant un coût de base de 7 ou moins autre que [Sabo] quitte le terrain à cause d'un effet adverse, vous pouvez renvoyer ce Personnage à la main de son propriétaire à la place.",
+  "trigger": null,
+  "illust": "Minato Sashima",
+  "color": "Bleu",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op10-p062.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649692_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 6.3,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sabo-OP10-049-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/Sabo-OP10-049",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/649692",
+  "pricecharting_url": "https://www.pricecharting.com/game/8828248",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Sabo",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Sabo-OP10-049?language=2",
+      "file": "OP10-049-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Sabo - OP10-049 (3rd Anniversary Treasure Campaign Pack)",
+      "rarity": "R",
+      "price_eur": 99.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sabo-OP10-049-V2?language=2",
+      "file": "OP10-049-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Sabo (Premium Card Collection -Best Selection Vol. 4-)",
+      "rarity": "R",
+      "price_eur": 2.29,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sabo-OP10-049-V1?language=2",
+      "file": "OP10-049-v3.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

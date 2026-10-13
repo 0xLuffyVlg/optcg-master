@@ -1,0 +1,53 @@
+{
+  "code": "OP09-097",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Tourbillon noir",
+  "variant_name": "Black Vortex (Pirate Foil)",
+  "category": "EVENT",
+  "cost": 2,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Équipage de Barbe Noire",
+  "effect": "[Contre] Annulez les effets de jusqu'à 1 Leader ou Personnage adverse et faites-lui perdre -4000 de puissance pour tout le tour.",
+  "trigger": "Annulez les effets de jusqu'à 1 Leader ou Personnage adverse pour tout le tour.",
+  "illust": null,
+  "color": "Noir",
+  "rarity": "C",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/prb02-p155.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656090_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.39,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Black-Vortex-OP09-097-V2?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/656090",
+  "pricecharting_url": "https://www.pricecharting.com/game/8091659",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Tourbillon noir",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Black-Vortex-OP09-097?language=2",
+      "file": "OP09-097-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Black Vortex (Pirate Foil)",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Black-Vortex-OP09-097-V2?language=2",
+      "file": "OP09-097-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.19,
+  "price_avg30_eur": 0.2,
+  "listings_count": 50
+}

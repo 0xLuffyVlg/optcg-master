@@ -1,0 +1,59 @@
+{
+  "code": "ST01-010",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Franky",
+  "variant_name": "Franky - ST01-010 (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Straw Hat Crew",
+  "effect": null,
+  "trigger": null,
+  "illust": null,
+  "color": "Rouge",
+  "rarity": "PR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/pcc-25th-p010.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/485268_200w.jpg",
+  "price_eur": 3.85,
+  "price_usd": 17.5,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Franky-ST01-010-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Straw-Hat-Crew-Non-English/Franky-ST01-010-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/485268",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Franky",
+      "rarity": "C",
+      "price_eur": 3.85,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/STARTER-DECK-Straw-Hat-Crew/Franky-ST01-010-V1",
+      "file": "ST01-010-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Franky - ST01-010 (Alternate Art)",
+      "rarity": "PR",
+      "price_eur": 6.24,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Franky-ST01-010-V1",
+      "file": "ST01-010-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Franky (English Version 1st Anniversary Set)",
+      "rarity": "C",
+      "price_eur": 108.79,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Franky-ST01-010-V2",
+      "file": "ST01-010-v3.json"
+    }
+  ],
+  "price_min_eur": 3.85
+}

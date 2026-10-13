@@ -1,0 +1,53 @@
+{
+  "code": "OP15-078",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Mamaragan",
+  "variant_name": "Mamaragan (Alternate Art)",
+  "category": "EVENT",
+  "cost": null,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Île céleste",
+  "effect": "[Principale] DON!! −2 : Piochez 1 carte. Puis, épuisez jusqu'à 1 Personnage adverse ayant 5000 de puissance ou moins.\n[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +1000 de puissance pour tout le combat. Puis, si vous avez 6 cartes DON!! ou moins sur votre terrain, piochez 1 carte.",
+  "trigger": null,
+  "illust": null,
+  "color": "Violet",
+  "rarity": "SR",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op15-p095.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685430_200w.jpg",
+  "price_eur": 26.99,
+  "price_usd": 46.87,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Mamaragan-OP15-078-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island-Asia-Region-Legal/Mamaragan-OP15-078-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/685430",
+  "pricecharting_url": "https://www.pricecharting.com/game/12427301",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Mamaragan",
+      "rarity": "SR",
+      "price_eur": 26.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Mamaragan-OP15-078-V1?language=2",
+      "file": "OP15-078-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Mamaragan (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 26.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Mamaragan-OP15-078-V2?language=2",
+      "file": "OP15-078-v2.json"
+    }
+  ],
+  "price_min_eur": 26.99,
+  "price_avg7_eur": 39.69,
+  "price_avg30_eur": 38.06,
+  "listings_count": 25
+}

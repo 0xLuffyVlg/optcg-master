@@ -1,0 +1,53 @@
+{
+  "code": "OP01-084",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Mr.2.Bon.Kurei(Bentham)",
+  "variant_name": "Mr.2.Bon.Kurei (Bentham)",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 4000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Baroque Works",
+  "effect": "\"[DON!! x1] [When Attacking] Look at 5 cards from the top of your deck; reveal up to 1 {Baroque Works",
+  "trigger": null,
+  "illust": "BISAI",
+  "color": "Bleu",
+  "rarity": "UC",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op01-p107.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454615_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.13,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Mr2BonKureiBentham-OP01-084",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Mr2BonKureiBentham-OP01-084",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/454615",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Mr.2.Bon.Kurei (Bentham)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Mr2BonKureiBentham-OP01-084",
+      "file": "OP01-084-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Mr.2.Bon.Kurei (Bentham) (Store Championship Participation Pack Vol. 2)",
+      "rarity": "PR",
+      "price_eur": 8.89,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Mr2BonKureiBentham-OP01-084",
+      "file": "OP01-084-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.52,
+  "price_avg30_eur": 0.42,
+  "listings_count": 50
+}

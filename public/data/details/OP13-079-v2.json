@@ -1,0 +1,53 @@
+{
+  "code": "OP13-079",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Imu",
+  "variant_name": "Imu (Alternate Art)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": "Unknown",
+  "types": "?",
+  "effect": "\"Vous ne pouvez pas ajouter de carte Événement ayant un coût de 2 ou plus à votre deck selon les règles. En début de partie, jouez jusqu'à 1 carte Lieu de type {Terre Sainte de Marie Joie",
+  "trigger": null,
+  "illust": "Takashi Kojima",
+  "color": "Noir",
+  "rarity": "L",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op13-p096.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657345_200w.jpg",
+  "price_eur": 20,
+  "price_usd": 26.11,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Imu-OP13-079-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/Imu-OP13-079-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/657345",
+  "pricecharting_url": "https://www.pricecharting.com/game/11012058",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Imu",
+      "rarity": "L",
+      "price_eur": 20,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Imu-OP13-079-V1?language=2",
+      "file": "OP13-079-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Imu (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 20,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Imu-OP13-079-V2?language=2",
+      "file": "OP13-079-v2.json"
+    }
+  ],
+  "price_min_eur": 20,
+  "price_avg7_eur": 28.76,
+  "price_avg30_eur": 27.26,
+  "listings_count": 44
+}

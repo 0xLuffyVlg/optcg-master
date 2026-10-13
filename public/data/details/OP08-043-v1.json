@@ -1,0 +1,53 @@
+{
+  "code": "OP08-043",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Edward.Newgate",
+  "variant_name": "Edward.Newgate",
+  "category": "CHARACTER",
+  "cost": 10,
+  "power": 12000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "The Four Emperors/Whitebeard Pirates",
+  "effect": "[On Play] If your Leader's type includes \"Whitebeard Pirates\" and you have 2 or less Life cards, select all of your opponent's Characters on their field. Until the end of your opponent's next turn, none of the selected Characters can attack unless your opponent trashes 2 cards from their hand whenever they attack.",
+  "trigger": null,
+  "illust": "Hayaken-sarena",
+  "color": "Bleu",
+  "rarity": "SR",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op08-p050.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558070_200w.jpg",
+  "price_eur": 0.1,
+  "price_usd": 0.62,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/EdwardNewgate-OP08-043-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends-Non-English/EdwardNewgate-OP08-043-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/558070",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Edward.Newgate",
+      "rarity": "SR",
+      "price_eur": 0.1,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/EdwardNewgate-OP08-043-V1",
+      "file": "OP08-043-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Edward.Newgate (Parallel)",
+      "rarity": "SR",
+      "price_eur": 5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/EdwardNewgate-OP08-043-V2",
+      "file": "OP08-043-v2.json"
+    }
+  ],
+  "price_min_eur": 0.1,
+  "price_avg7_eur": 0.69,
+  "price_avg30_eur": 0.64,
+  "listings_count": 50
+}

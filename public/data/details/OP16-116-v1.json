@@ -1,0 +1,53 @@
+{
+  "code": "OP16-116",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Gyé ha ha ha ha !!",
+  "variant_name": "Zehahahahaha!",
+  "category": "EVENT",
+  "cost": 8,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Sept grands corsaires/Équipage de Barbe Noire",
+  "effect": "[Principale] Si vous avez 10 cartes DON!! sur votre terrain, jouez jusqu'à 1 [Marshall D. Teach] de votre main. Puis, ajoutez à la main de son propriétaire jusqu'à 1 carte du dessus de la Vie adverse.",
+  "trigger": "Piochez 2 cartes et défaussez 1 carte de votre main.",
+  "illust": null,
+  "color": "Jaune",
+  "rarity": "R",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op16-p143.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696099_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.13,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Zehahahahaha-OP16-116-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Time-of-Battle-Asia-Region-Legal/Zehahahahaha-OP16-116-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/696099",
+  "pricecharting_url": "https://www.pricecharting.com/game/13335609",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Zehahahahaha!",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Zehahahahaha-OP16-116-V1?language=2",
+      "file": "OP16-116-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Zehahahahaha! (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 90,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Zehahahahaha-OP16-116-V2?language=2",
+      "file": "OP16-116-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.1,
+  "price_avg30_eur": 0.13,
+  "listings_count": 50
+}

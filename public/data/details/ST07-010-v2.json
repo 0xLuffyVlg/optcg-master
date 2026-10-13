@@ -1,0 +1,50 @@
+{
+  "code": "ST07-010",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Charlotte Linlin",
+  "variant_name": "Charlotte Linlin (Treasure Cup)",
+  "category": "CHARACTER",
+  "cost": 7,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "The Four Emperors/Big Mom Pirates",
+  "effect": "[On Play] Your opponent chooses one:\n- Trash 1 card from the top of your opponent's Life cards.\n- Add 1 card from the top of your deck to the top of your Life cards.",
+  "trigger": null,
+  "illust": "BISAI",
+  "color": "Jaune",
+  "rarity": "SR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/champ2023-p013.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/561185_200w.jpg",
+  "price_eur": 35,
+  "price_usd": 950,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Charlotte-Linlin-ST07-010",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournament-Promos-Japanese/Charlotte-Linlin-ST07-010",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/561185",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Charlotte Linlin (010)",
+      "rarity": "SR",
+      "price_eur": 35,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Big-Mom-Pirates/Charlotte-Linlin-ST07-010",
+      "file": "ST07-010-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Charlotte Linlin (Treasure Cup)",
+      "rarity": "SR",
+      "price_eur": 795.08,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Charlotte-Linlin-ST07-010",
+      "file": "ST07-010-v2.json"
+    }
+  ],
+  "price_min_eur": 35
+}

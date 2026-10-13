@@ -1,0 +1,77 @@
+{
+  "code": "EB01-057",
+  "variant_version": "v4",
+  "variant_index": 4,
+  "name": "Shirahoshi",
+  "variant_name": "Shirahoshi (Reprint)",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": null,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Sagesse",
+  "types": "Merfolk",
+  "effect": "When this Character is K.O.'d by your opponent's effect, add up to 1 card from the top of your deck to the top of your Life cards.\n[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger": null,
+  "illust": "Bashikou",
+  "color": "Jaune",
+  "rarity": "SR",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op11-p150.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655993_400w.jpg",
+  "price_eur": 9500,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Shirahoshi-EB01-057-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Shirahoshi-EB01-057",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/655993",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Shirahoshi",
+      "rarity": "SR",
+      "price_eur": 9500,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Shirahoshi-EB01-057-V1",
+      "file": "EB01-057-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Shirahoshi (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Shirahoshi-EB01-057-V2",
+      "file": "EB01-057-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Shirahoshi (SP)",
+      "rarity": "SR",
+      "price_eur": 62.94,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Shirahoshi-EB01-057",
+      "file": "EB01-057-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Shirahoshi (Reprint)",
+      "rarity": "SR",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Shirahoshi-EB01-057-V1",
+      "file": "EB01-057-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Shirahoshi (Reprint)",
+      "rarity": "SR",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Shirahoshi-EB01-057-V1",
+      "file": "EB01-057-v5.json"
+    }
+  ],
+  "price_min_eur": 9500
+}

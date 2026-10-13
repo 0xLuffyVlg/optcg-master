@@ -1,0 +1,62 @@
+{
+  "code": "OP06-080",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Gecko Moria",
+  "variant_name": "Gecko Moria (080)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Spécial",
+  "types": "The Seven Warlords of the Sea/Thriller Bark Pirates",
+  "effect": "\"[DON!! x1] [When Attacking] ➁ (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: Trash 2 cards from the top of your deck and play up to 1 {Thriller Bark Pirates",
+  "trigger": null,
+  "illust": null,
+  "color": "Noir",
+  "rarity": "L",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op06-p095.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541053_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.18,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Gecko-Moria-OP06-080-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain-Japanese/Gecko-Moria-OP06-080-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/541053",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Gecko Moria (080)",
+      "rarity": "L",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Gecko-Moria-OP06-080-V1",
+      "file": "OP06-080-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Gecko Moria (080) (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 9.61,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Gecko-Moria-OP06-080-V2",
+      "file": "OP06-080-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Gecko Moria (SP)",
+      "rarity": "L",
+      "price_eur": 790,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Gecko-Moria-OP06-080",
+      "file": "OP06-080-v3.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.06,
+  "price_avg30_eur": 0.11,
+  "listings_count": 50
+}

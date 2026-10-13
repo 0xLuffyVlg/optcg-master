@@ -1,0 +1,77 @@
+{
+  "code": "OP08-118",
+  "variant_version": "v5",
+  "variant_index": 5,
+  "name": "Silvers Rayleigh",
+  "variant_name": "Silvers Rayleigh (The Best)",
+  "category": "CHARACTER",
+  "cost": 8,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Former Roger Pirates",
+  "effect": "[On Play] Select up to 2 of your opponent's Characters, and give 1 Character −3000 power and the other −2000 power until the end of your opponent's next turn. Then, K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+  "trigger": null,
+  "illust": "AKIRA EGAWA",
+  "color": "Rouge",
+  "rarity": "SEC",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op08-p140.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656246_200w.jpg",
+  "price_eur": 2.5,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Silvers-Rayleigh-OP08-118",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends-Non-English/Silvers-Rayleigh-OP08-118-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/656246",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Silvers Rayleigh",
+      "rarity": "SEC",
+      "price_eur": 2.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Silvers-Rayleigh-OP08-118-V1",
+      "file": "OP08-118-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Silvers Rayleigh (Parallel)",
+      "rarity": "SEC",
+      "price_eur": 13.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Silvers-Rayleigh-OP08-118-V2",
+      "file": "OP08-118-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Silvers Rayleigh (Parallel) (Manga)",
+      "rarity": "SEC",
+      "price_eur": 450,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Silvers-Rayleigh-OP08-118-V3",
+      "file": "OP08-118-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Silvers Rayleigh (The Best)",
+      "rarity": "SEC",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Silvers-Rayleigh-OP08-118",
+      "file": "OP08-118-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Silvers Rayleigh (The Best)",
+      "rarity": "SEC",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Silvers-Rayleigh-OP08-118",
+      "file": "OP08-118-v5.json"
+    }
+  ],
+  "price_min_eur": 2.5
+}

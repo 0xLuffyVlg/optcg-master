@@ -1,0 +1,80 @@
+{
+  "code": "ST06-010",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Helmeppo",
+  "variant_name": "Helmeppo (Full Art)",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 3000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Navy",
+  "effect": "[On Play] Give up to 1 of your opponent's Characters −3 cost during this turn.",
+  "trigger": null,
+  "illust": "BISAI",
+  "color": "Noir",
+  "rarity": "C",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/prb01-p304.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593674_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 2.7,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Helmeppo-ST06-010-V3",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/593674",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Helmeppo (Jolly Roger Foil)",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Helmeppo-ST06-010-V1",
+      "file": "ST06-010-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Helmeppo (Full Art)",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Helmeppo-ST06-010-V3",
+      "file": "ST06-010-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Helmeppo",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Absolute-Justice/Helmeppo-ST06-010",
+      "file": "ST06-010-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Helmeppo (Jolly Roger Foil)",
+      "rarity": "C",
+      "price_eur": 2.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Helmeppo-ST06-010-V1",
+      "file": "ST06-010-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Helmeppo (Full Art)",
+      "rarity": "C",
+      "price_eur": 3.4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Helmeppo-ST06-010-V3",
+      "file": "ST06-010-v5.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.02,
+  "price_avg30_eur": 0.05,
+  "listings_count": 50
+}

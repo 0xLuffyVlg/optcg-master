@@ -1,0 +1,53 @@
+{
+  "code": "OP04-090",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Monkey.D.Luffy",
+  "variant_name": "Monkey.D.Luffy (090) (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 7,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Dressrosa/Straw Hat Crew",
+  "effect": "This Character can also attack active Characters.\n[Activate: Main] [Once Per Turn] You may return 7 cards from your trash to the bottom of your deck in any order: Set this Character as active. Then, this Character will not become active in your next Refresh Phase.",
+  "trigger": null,
+  "illust": "Yuu Shimotsuki",
+  "color": "Noir",
+  "rarity": "SR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op04-p110.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/515279_200w.jpg",
+  "price_eur": 18,
+  "price_usd": 39.58,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/MonkeyDLuffy-OP04-090-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue-Japanese/MonkeyDLuffy-OP04-090-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/515279",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Monkey.D.Luffy (090)",
+      "rarity": "SR",
+      "price_eur": 18,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/MonkeyDLuffy-OP04-090-V1",
+      "file": "OP04-090-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Monkey.D.Luffy (090) (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 17.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/MonkeyDLuffy-OP04-090-V2",
+      "file": "OP04-090-v2.json"
+    }
+  ],
+  "price_min_eur": 18,
+  "price_avg7_eur": 18.68,
+  "price_avg30_eur": 22.6,
+  "listings_count": 50
+}

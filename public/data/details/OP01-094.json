@@ -1,0 +1,62 @@
+{
+  "code": "OP01-094",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Kaido",
+  "variant_name": "Kaido (094)",
+  "category": "CHARACTER",
+  "cost": 10,
+  "power": 12000,
+  "counter": null,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "The Four Emperors/Animal Kingdom Pirates",
+  "effect": "\"[On Play] DON!! −6 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Animal Kingdom Pirates",
+  "trigger": null,
+  "illust": "Yosuke Adachi",
+  "color": "Violet",
+  "rarity": "SR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op01-p119.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/453521_200w.jpg",
+  "price_eur": 2,
+  "price_usd": 1.6,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Kaido-OP01-094-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Kaido-OP01-094-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/453521",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Kaido (094)",
+      "rarity": "SR",
+      "price_eur": 2,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Kaido-OP01-094-V1",
+      "file": "OP01-094-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Kaido (094) (Parallel)",
+      "rarity": "SR",
+      "price_eur": 26,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Kaido-OP01-094-V2",
+      "file": "OP01-094-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Kaido (Treasure Cup)",
+      "rarity": "SR",
+      "price_eur": 1633.33,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Kaido-OP01-094",
+      "file": "OP01-094-v3.json"
+    }
+  ],
+  "price_min_eur": 2,
+  "price_avg7_eur": 1514.29,
+  "price_avg30_eur": 1514.29,
+  "listings_count": 3
+}

@@ -1,0 +1,53 @@
+{
+  "code": "OP08-030",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Pedro",
+  "variant_name": "Pedro (Parallel)",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Minks",
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On K.O.] Choose one:\n• Rest up to 1 of your opponent's DON!! cards.\n• K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
+  "trigger": null,
+  "illust": "Hatori Kyoka",
+  "color": "Vert",
+  "rarity": "R",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op08-p037.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558057_200w.jpg",
+  "price_eur": 2,
+  "price_usd": 4.48,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Pedro-OP08-030-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends-Non-English/Pedro-OP08-030-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/558057",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Pedro",
+      "rarity": "R",
+      "price_eur": 2,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Pedro-OP08-030-V1",
+      "file": "OP08-030-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Pedro (Parallel)",
+      "rarity": "R",
+      "price_eur": 2.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Pedro-OP08-030-V2",
+      "file": "OP08-030-v2.json"
+    }
+  ],
+  "price_min_eur": 2,
+  "price_avg7_eur": 3.1,
+  "price_avg30_eur": 3.4,
+  "listings_count": 50
+}

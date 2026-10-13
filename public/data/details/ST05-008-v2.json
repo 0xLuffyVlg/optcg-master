@@ -1,0 +1,50 @@
+{
+  "code": "ST05-008",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Shiki",
+  "variant_name": "Shiki (Store Championship Participation Pack Vol. 2)",
+  "category": "CHARACTER",
+  "cost": 6,
+  "power": 7000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "FILM/Golden Lion Pirates",
+  "effect": "If you have 8 or more DON!! cards on your field, this Character cannot be K.O.'d in battle.",
+  "trigger": null,
+  "illust": null,
+  "color": "Violet",
+  "rarity": "PR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/st05-p008.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/510728_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 3.68,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Shiki-ST05-008",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/510728",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Shiki",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-ONE-PIECE-FILM-edition/Shiki-ST05-008",
+      "file": "ST05-008-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Shiki (Store Championship Participation Pack Vol. 2)",
+      "rarity": "PR",
+      "price_eur": 2.65,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Shiki-ST05-008",
+      "file": "ST05-008-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

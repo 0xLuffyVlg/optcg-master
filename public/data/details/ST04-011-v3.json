@@ -1,0 +1,77 @@
+{
+  "code": "ST04-011",
+  "variant_version": "v3",
+  "variant_index": 3,
+  "name": "Black Maria",
+  "variant_name": "Black Maria (Tournament Pack Vol. 2) [Winner]",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Animal Kingdom Pirates",
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger": null,
+  "illust": null,
+  "color": "Violet",
+  "rarity": "PR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/pack-standard-battle-p004.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/483160_200w.jpg",
+  "price_eur": 0.2,
+  "price_usd": 12.4,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Black-Maria-ST04-011-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Animal-Kingdom-Pirates-Non-English/Black-Maria-ST04-011-V3",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/483160",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Black Maria",
+      "rarity": "C",
+      "price_eur": 0.2,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Animal-Kingdom-Pirates/Black-Maria-ST04-011-V1",
+      "file": "ST04-011-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Black Maria (Tournament Pack Vol. 2)",
+      "rarity": "PR",
+      "price_eur": 0.18,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Black-Maria-ST04-011-V1",
+      "file": "ST04-011-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Black Maria (Tournament Pack Vol. 2) [Winner]",
+      "rarity": "PR",
+      "price_eur": 15.55,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Black-Maria-ST04-011-V2",
+      "file": "ST04-011-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Black Maria (CS 2023 Celebration Pack)",
+      "rarity": "C",
+      "price_eur": 50.16,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Black-Maria-ST04-011",
+      "file": "ST04-011-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Black Maria (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
+      "rarity": "C",
+      "price_eur": 1.7,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Black-Maria-ST04-011-V3",
+      "file": "ST04-011-v5.json"
+    }
+  ],
+  "price_min_eur": 0.2
+}

@@ -1,0 +1,62 @@
+{
+  "code": "OP03-072",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Gum-Gum Jet Gatling",
+  "variant_name": "Gum-Gum Jet Gatling (Alternate Art)",
+  "category": "EVENT",
+  "cost": null,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Water Seven/Straw Hat Crew",
+  "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+  "trigger": "Add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "illust": null,
+  "color": "Violet",
+  "rarity": "R",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/prb02-p033.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656019_200w.jpg",
+  "price_eur": 9.95,
+  "price_usd": 20.2,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Gum-Gum-Jet-Gatling-OP03-072-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Gum-Gum-Jet-Gatling-OP03-072-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/656019",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Gum-Gum Jet Gatling",
+      "rarity": "R",
+      "price_eur": 9.95,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Gum-Gum-Jet-Gatling-OP03-072",
+      "file": "OP03-072-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Gum-Gum Jet Gatling (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 10,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Gum-Gum-Jet-Gatling-OP03-072-V2",
+      "file": "OP03-072-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Gum-Gum Jet Gatling (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 8.28,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Gum-Gum-Jet-Gatling-OP03-072-V2",
+      "file": "OP03-072-v3.json"
+    }
+  ],
+  "price_min_eur": 9.95,
+  "price_avg7_eur": 10.94,
+  "price_avg30_eur": 10.52,
+  "listings_count": 50
+}

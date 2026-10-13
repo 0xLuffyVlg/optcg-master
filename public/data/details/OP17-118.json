@@ -1,0 +1,62 @@
+{
+  "code": "OP17-118",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Rocks D. Xebec",
+  "variant_name": "Rocks D. Xebec",
+  "category": "CHARACTER",
+  "cost": 10,
+  "power": 12000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Équipage de Rocks",
+  "effect": "\"Si aucun de vos Personnages n'a de Contre, cette carte de votre main a Contre +2000.\n[Jouée] Piochez 1 carte et jouez jusqu'à 2 cartes de type {Équipage de Rocks",
+  "trigger": null,
+  "illust": "Anderson",
+  "color": "Bleu",
+  "rarity": "SEC",
+  "block": null,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op17-p154.webp",
+  "image_url": "/img/cards-fr/op17-p154-sm.webp",
+  "price_eur": 16,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/RocksDXebec-OP17-118-V1?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/709836",
+  "pricecharting_url": "https://www.pricecharting.com/game/14107663",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Rocks D. Xebec",
+      "rarity": "SEC",
+      "price_eur": 16,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/RocksDXebec-OP17-118-V1?language=2",
+      "file": "OP17-118-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Rocks D. Xebec (Alternate Art)",
+      "rarity": "SEC",
+      "price_eur": 30,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/RocksDXebec-OP17-118-V2?language=2",
+      "file": "OP17-118-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Rocks D. Xebec (Alternate Art)",
+      "rarity": "SEC",
+      "price_eur": 3400,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/RocksDXebec-OP17-118-V3?language=2",
+      "file": "OP17-118-v3.json"
+    }
+  ],
+  "price_min_eur": 16,
+  "price_avg7_eur": 23.82,
+  "price_avg30_eur": 20.12,
+  "listings_count": 50
+}

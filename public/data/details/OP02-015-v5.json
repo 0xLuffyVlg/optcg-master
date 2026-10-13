@@ -1,0 +1,89 @@
+{
+  "code": "OP02-015",
+  "variant_version": "v5",
+  "variant_index": 5,
+  "name": "Makino",
+  "variant_name": "Makino (Jolly Roger Foil)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": null,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Sagesse",
+  "types": "Windmill Village",
+  "effect": "[Activate: Main] You may rest this Character: Up to 1 of your red Characters with a cost of 1 gains +3000 power during this turn.",
+  "trigger": null,
+  "illust": null,
+  "color": "Rouge",
+  "rarity": "UC",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-en/prb01-p041.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593295_200w.jpg",
+  "price_eur": 2.2,
+  "price_usd": 0.35,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Makino-OP02-015-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War-Japanese/Makino-OP02-015-V5",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/593295",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Makino",
+      "rarity": "UC",
+      "price_eur": 2.2,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Makino-OP02-015",
+      "file": "OP02-015-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Makino (Japanese 1st Anniversary Set)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Makino-OP02-015",
+      "file": "OP02-015-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Makino (Jolly Roger Foil)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Makino-OP02-015-V1",
+      "file": "OP02-015-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Makino (Full Art)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Makino-OP02-015-V3",
+      "file": "OP02-015-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Makino (Jolly Roger Foil)",
+      "rarity": "UC",
+      "price_eur": 2.2,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Makino-OP02-015-V1",
+      "file": "OP02-015-v5.json"
+    },
+    {
+      "variant_index": 6,
+      "variant_version": "v6",
+      "name": "Makino (Full Art)",
+      "rarity": "UC",
+      "price_eur": 3.06,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Makino-OP02-015-V3",
+      "file": "OP02-015-v6.json"
+    }
+  ],
+  "price_min_eur": 2.2,
+  "price_avg7_eur": 2.81,
+  "price_avg30_eur": 3.19,
+  "listings_count": 50
+}

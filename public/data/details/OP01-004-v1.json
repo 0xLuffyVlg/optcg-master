@@ -1,0 +1,62 @@
+{
+  "code": "OP01-004",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Usopp",
+  "variant_name": "Usopp",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 3000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Distance",
+  "types": "Straw Hat Crew",
+  "effect": "[DON!! x1] [Your Turn] [Once Per Turn] Draw 1 card when your opponent activates an Event.",
+  "trigger": null,
+  "illust": null,
+  "color": "Rouge",
+  "rarity": "R",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op01-p007.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454516_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.28,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Usopp-OP01-004",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Usopp-OP01-004",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/454516",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Usopp",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Usopp-OP01-004",
+      "file": "OP01-004-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Usopp - OP01-004 (Treasure Cup)",
+      "rarity": "PR",
+      "price_eur": 680,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Usopp-OP01-004-V1",
+      "file": "OP01-004-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Usopp (English Version 1st Anniversary Set)",
+      "rarity": "R",
+      "price_eur": 165.72,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Usopp-OP01-004-V3",
+      "file": "OP01-004-v3.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 206.97,
+  "price_avg30_eur": 96.49,
+  "listings_count": 50
+}

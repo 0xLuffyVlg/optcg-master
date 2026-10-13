@@ -1,0 +1,53 @@
+{
+  "code": "EB04-036",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Foxy",
+  "variant_name": "Foxy",
+  "category": "CHARACTER",
+  "cost": 8,
+  "power": 9000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Foxy Pirates",
+  "effect": "\"[On Play] DON!! −1: If your Leader has the {Foxy Pirates",
+  "trigger": null,
+  "illust": "Moopic",
+  "color": "Violet",
+  "rarity": "SR",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/eb04-p045.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668753_200w.jpg",
+  "price_eur": 0.03,
+  "price_usd": 0.32,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Foxy-EB04-036-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal/Foxy-EB04-036-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/668753",
+  "pricecharting_url": "https://www.pricecharting.com/game/11703061",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Foxy",
+      "rarity": "SR",
+      "price_eur": 0.03,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Foxy-EB04-036-V1?language=2",
+      "file": "EB04-036-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Foxy (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Foxy-EB04-036-V2?language=2",
+      "file": "EB04-036-v2.json"
+    }
+  ],
+  "price_min_eur": 0.03,
+  "price_avg7_eur": 0.38,
+  "price_avg30_eur": 0.35,
+  "listings_count": 50
+}

@@ -1,0 +1,53 @@
+{
+  "code": "PRB02-017",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Boa Hancock",
+  "variant_name": "Boa Hancock (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "FILM/Sept grands corsaires/Équipage des Kuja",
+  "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main ayant [Déclenchement] : Jusqu'à 1 Leader adverse épuisé ou jusqu'à 1 Personnage adverse autre que [Monkey D. Luffy] ne peut pas attaquer jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
+  "trigger": "Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
+  "illust": "kicori",
+  "color": "Jaune",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/prb02-p243.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653858_200w.jpg",
+  "price_eur": 42,
+  "price_usd": 72.81,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Boa-Hancock-PRB02-017-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Boa-Hancock-PRB02-017-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/653858",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Boa Hancock",
+      "rarity": "SR",
+      "price_eur": 42,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Boa-Hancock-PRB02-017-V1?language=2",
+      "file": "PRB02-017-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Boa Hancock (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 42,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Boa-Hancock-PRB02-017-V2?language=2",
+      "file": "PRB02-017-v2.json"
+    }
+  ],
+  "price_min_eur": 42,
+  "price_avg7_eur": 53.53,
+  "price_avg30_eur": 50.68,
+  "listings_count": 27
+}

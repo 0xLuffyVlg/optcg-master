@@ -1,0 +1,53 @@
+{
+  "code": "OP17-001",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Edward Newgate",
+  "variant_name": "Edward Newgate (Alternate Art)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Spécial",
+  "types": "Quatre Empereurs/Équipage de Barbe Blanche",
+  "effect": "[Attaque adverse] [Une fois par tour] Vous pouvez défausser 1 carte de votre main : Jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat.",
+  "trigger": null,
+  "illust": "Kohei Mikoshi",
+  "color": "Rouge",
+  "rarity": "L",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op17-p002.webp",
+  "image_url": "/img/cards-fr/op17-p002-sm.webp",
+  "price_eur": 13,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/EdwardNewgate-OP17-001-V2?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/705925",
+  "pricecharting_url": "https://www.pricecharting.com/game/14107620",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Edward Newgate",
+      "rarity": "L",
+      "price_eur": 13,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/EdwardNewgate-OP17-001-V1?language=2",
+      "file": "OP17-001-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Edward Newgate (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 14.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/EdwardNewgate-OP17-001-V2?language=2",
+      "file": "OP17-001-v2.json"
+    }
+  ],
+  "price_min_eur": 13,
+  "price_avg7_eur": 17.15,
+  "price_avg30_eur": 17.93,
+  "listings_count": 48
+}

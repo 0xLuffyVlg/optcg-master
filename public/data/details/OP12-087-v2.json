@@ -1,0 +1,53 @@
+{
+  "code": "OP12-087",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Nico Robin",
+  "variant_name": "Nico Robin (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 6,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Équipage de Chapeau de paille",
+  "effect": "Si votre Leader est [Koala] ou [Monkey D. Luffy], ce Personnage gagne [Bloqueur] ; augmentez de +3 le coût de ce Personnage.\n[Jouée] Vous pouvez défausser 1 carte de votre main : Si votre adversaire a 5 cartes ou plus dans sa main, il défausse 2 cartes de sa main.",
+  "trigger": null,
+  "illust": "Morechand",
+  "color": "Noir",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op12-p108.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643831_200w.jpg",
+  "price_eur": 11,
+  "price_usd": 57.67,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Nico-Robin-OP12-087-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/Nico-Robin-OP12-087-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/643831",
+  "pricecharting_url": "https://www.pricecharting.com/game/10266471",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Nico Robin",
+      "rarity": "SR",
+      "price_eur": 11,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Nico-Robin-OP12-087-V1?language=2",
+      "file": "OP12-087-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Nico Robin (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 15.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Nico-Robin-OP12-087-V2?language=2",
+      "file": "OP12-087-v2.json"
+    }
+  ],
+  "price_min_eur": 11,
+  "price_avg7_eur": 17.84,
+  "price_avg30_eur": 18.82,
+  "listings_count": 30
+}

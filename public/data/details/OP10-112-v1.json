@@ -1,0 +1,71 @@
+{
+  "code": "OP10-112",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Eustass \"Captain\" Kidd",
+  "variant_name": "Eustass\"Captain\"Kid (112)",
+  "category": "CHARACTER",
+  "cost": 8,
+  "power": 9000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Supernovae/Équipage de Kidd",
+  "effect": "[Jouée] Vous pouvez épuiser ce Personnage : Placez dans sa Défausse jusqu'à 1 carte du dessus de la Vie adverse.\n[Fin de votre tour] Si votre adversaire a 2 cartes ou moins dans sa Vie, piochez 1 carte et défaussez 1 carte de votre main.",
+  "trigger": null,
+  "illust": "Studio Vigor Co. Ltd",
+  "color": "Jaune",
+  "rarity": "SR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op10-p133.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617162_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.95,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/EustassCaptainKid-OP10-112-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/EustassCaptainKid-OP10-112",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/617162",
+  "pricecharting_url": "https://www.pricecharting.com/game/8828319",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Eustass\"Captain\"Kid (112)",
+      "rarity": "SR",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/EustassCaptainKid-OP10-112-V1?language=2",
+      "file": "OP10-112-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Eustass\"Captain\"Kid (112) (Parallel)",
+      "rarity": "SR",
+      "price_eur": 5.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/EustassCaptainKid-OP10-112-V2?language=2",
+      "file": "OP10-112-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Eustass\"Captain\"Kid (The Best)",
+      "rarity": "SR",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/EustassCaptainKid-OP10-112?language=2",
+      "file": "OP10-112-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Eustass\"Captain\"Kid (The Best)",
+      "rarity": "SR",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/EustassCaptainKid-OP10-112?language=2",
+      "file": "OP10-112-v4.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.79,
+  "price_avg30_eur": 0.74,
+  "listings_count": 50
+}

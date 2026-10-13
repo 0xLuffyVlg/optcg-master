@@ -1,0 +1,416 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#0B0F17] text-slate-100 font-sans min-h-screen overflow-x-hidden;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0F172A;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
+
+.gold-glow {
+  box-shadow: 0 0 25px rgba(245, 158, 11, 0.25);
+}
+
+.red-glow {
+  box-shadow: 0 0 25px rgba(239, 68, 68, 0.25);
+}
+
+.blue-glow {
+  box-shadow: 0 0 25px rgba(59, 130, 246, 0.25);
+}
+
+.purple-glow {
+  box-shadow: 0 0 25px rgba(168, 85, 247, 0.25);
+}
+
+.green-glow {
+  box-shadow: 0 0 25px rgba(34, 197, 94, 0.25);
+}
+
+.black-glow {
+  box-shadow: 0 0 25px rgba(100, 116, 139, 0.25);
+}
+
+.yellow-glow {
+  box-shadow: 0 0 25px rgba(234, 179, 8, 0.25);
+}
+
+.card-shine {
+  position: relative;
+  overflow: hidden;
+}
+
+.card-shine::after {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(
+    60deg,
+    transparent 20%,
+    rgba(255, 255, 255, 0.15) 30%,
+    transparent 40%
+  );
+  transform: rotate(25deg);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.3s, transform 0.6s;
+}
+
+.card-shine:hover::after {
+  opacity: 1;
+  transform: rotate(25deg) translateY(-20%);
+}
+
+/* ==========================================================================
+   DYNAMIC HERO BANNER & FLAME LIGHTING JEUX DE LUMIERE
+   ========================================================================== */
+
+@keyframes flame-pulse-primary {
+  0% {
+    opacity: 0.65;
+    transform: scale(1) translateY(0);
+    filter: brightness(1) saturate(1.2);
+  }
+  25% {
+    opacity: 0.88;
+    transform: scale(1.03) translateY(-2px);
+    filter: brightness(1.25) saturate(1.4);
+  }
+  45% {
+    opacity: 0.55;
+    transform: scale(0.98) translateY(1px);
+    filter: brightness(0.95) saturate(1.1);
+  }
+  70% {
+    opacity: 0.95;
+    transform: scale(1.05) translateY(-3px);
+    filter: brightness(1.35) saturate(1.5);
+  }
+  85% {
+    opacity: 0.72;
+    transform: scale(1.01) translateY(-1px);
+    filter: brightness(1.1) saturate(1.25);
+  }
+  100% {
+    opacity: 0.65;
+    transform: scale(1) translateY(0);
+    filter: brightness(1) saturate(1.2);
+  }
+}
+
+@keyframes flame-pulse-secondary {
+  0% {
+    opacity: 0.5;
+    transform: scale(1.02) translateX(0);
+  }
+  33% {
+    opacity: 0.82;
+    transform: scale(0.97) translateX(-4px);
+    filter: hue-rotate(5deg);
+  }
+  66% {
+    opacity: 0.6;
+    transform: scale(1.04) translateX(4px);
+    filter: hue-rotate(-5deg);
+  }
+  100% {
+    opacity: 0.5;
+    transform: scale(1.02) translateX(0);
+  }
+}
+
+@keyframes flame-heat-shimmer {
+  0% {
+    transform: translateX(-100%) skewX(-15deg);
+    opacity: 0;
+  }
+  30% {
+    opacity: 0.35;
+  }
+  60% {
+    opacity: 0.45;
+  }
+  100% {
+    transform: translateX(200%) skewX(-15deg);
+    opacity: 0;
+  }
+}
+
+@keyframes banner-border-fire {
+  0%, 100% {
+    border-color: rgba(245, 158, 11, 0.45);
+    box-shadow: 0 0 25px rgba(245, 158, 11, 0.25), inset 0 0 15px rgba(239, 68, 68, 0.2);
+  }
+  35% {
+    border-color: rgba(239, 68, 68, 0.65);
+    box-shadow: 0 0 40px rgba(239, 68, 68, 0.4), inset 0 0 25px rgba(245, 158, 11, 0.3);
+  }
+  70% {
+    border-color: rgba(251, 191, 36, 0.6);
+    box-shadow: 0 0 35px rgba(251, 191, 36, 0.35), inset 0 0 20px rgba(234, 88, 12, 0.25);
+  }
+}
+
+@keyframes banner-border-cyan {
+  0%, 100% {
+    border-color: rgba(6, 182, 212, 0.45);
+    box-shadow: 0 0 25px rgba(6, 182, 212, 0.25), inset 0 0 15px rgba(59, 130, 246, 0.2);
+  }
+  50% {
+    border-color: rgba(14, 165, 233, 0.7);
+    box-shadow: 0 0 40px rgba(14, 165, 233, 0.45), inset 0 0 25px rgba(6, 182, 212, 0.35);
+  }
+}
+
+@keyframes banner-border-purple {
+  0%, 100% {
+    border-color: rgba(168, 85, 247, 0.45);
+    box-shadow: 0 0 25px rgba(168, 85, 247, 0.25), inset 0 0 15px rgba(239, 68, 68, 0.2);
+  }
+  50% {
+    border-color: rgba(236, 72, 153, 0.65);
+    box-shadow: 0 0 40px rgba(236, 72, 153, 0.4), inset 0 0 25px rgba(168, 85, 247, 0.3);
+  }
+}
+
+@keyframes banner-border-emerald {
+  0%, 100% {
+    border-color: rgba(16, 185, 129, 0.45);
+    box-shadow: 0 0 25px rgba(16, 185, 129, 0.25), inset 0 0 15px rgba(245, 158, 11, 0.2);
+  }
+  50% {
+    border-color: rgba(52, 211, 153, 0.7);
+    box-shadow: 0 0 40px rgba(52, 211, 153, 0.45), inset 0 0 25px rgba(16, 185, 129, 0.35);
+  }
+}
+
+@keyframes hud-beam-sweep {
+  0% {
+    transform: translateX(-150%) skewX(-20deg);
+  }
+  40%, 100% {
+    transform: translateX(250%) skewX(-20deg);
+  }
+}
+
+.animate-flame-1 {
+  animation: flame-pulse-primary 3.2s ease-in-out infinite;
+}
+
+.animate-flame-2 {
+  animation: flame-pulse-secondary 2.4s ease-in-out infinite;
+}
+
+.animate-heat-shimmer {
+  animation: flame-heat-shimmer 6s linear infinite;
+}
+
+.animate-fire-border {
+  animation: banner-border-fire 4s ease-in-out infinite;
+}
+
+.animate-cyan-border {
+  animation: banner-border-cyan 3.5s ease-in-out infinite;
+}
+
+.animate-purple-border {
+  animation: banner-border-purple 4s ease-in-out infinite;
+}
+
+.animate-emerald-border {
+  animation: banner-border-emerald 4s ease-in-out infinite;
+}
+
+.animate-hud-beam {
+  animation: hud-beam-sweep 4.5s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+/* Scalpeurs-style Infinite Card Marquee */
+@keyframes marquee-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee-scroll 45s linear infinite;
+  will-change: transform;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* ─── Scalpeurs 3D Perspective Card Conveyor Belt (jp-defile) ─── */
+.jp-hero-large {
+  background: radial-gradient(90% 120% at 100% 30%, #15151b, #07080b 70%);
+}
+
+.jp-defile {
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+
+.jp-defile .scene {
+  perspective: 620px;
+  position: absolute;
+  inset: -12px -70% 36px 36%;
+}
+
+.jp-defile .tapis {
+  transform-origin: 0;
+  transform-style: preserve-3d;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 8px;
+  display: flex;
+  position: absolute;
+  inset: 0;
+  transform: rotateY(-26deg) rotateX(9deg) rotate(-3deg);
+}
+
+.jp-defile .rang {
+  will-change: transform;
+  gap: 10px;
+  width: max-content;
+  animation: linear infinite jpDefile;
+  display: flex;
+}
+
+.jp-defile .rang img {
+  aspect-ratio: 0.716;
+  object-fit: cover;
+  outline-offset: -1px;
+  border-radius: 6px;
+  outline: 1px solid rgba(255, 255, 255, 0.14);
+  flex: none;
+  width: auto;
+  box-shadow: 0 7px 16px rgba(0, 0, 0, 0.6);
+}
+
+.jp-defile .r1 {
+  display: none;
+}
+
+.jp-defile .r2 img {
+  opacity: 0.5;
+  height: 46px;
+}
+
+.jp-defile .r3 img {
+  opacity: 0.86;
+  height: 70px;
+}
+
+.jp-defile .r2 {
+  margin-left: -120px;
+  animation-duration: 90s;
+  animation-direction: reverse;
+}
+
+.jp-defile .r3 {
+  margin-left: -60px;
+  animation-duration: 62s;
+}
+
+.jp-defile .voile {
+  background: linear-gradient(90deg, #07080bf7 0%, #07080be6 38%, #07080b59 70%, #07080b00 100%), linear-gradient(#07080b40, #0000 30% 62%, #07080beb);
+  display: block;
+  position: absolute;
+  inset: 0;
+}
+
+@media (min-width: 640px) {
+  .jp-defile .scene {
+    inset: -30px -40% 40px 42%;
+  }
+  .jp-defile .tapis {
+    gap: 9px;
+  }
+  .jp-defile .r1 {
+    animation-duration: 200s;
+    display: flex;
+  }
+  .jp-defile .r1 img {
+    opacity: 0.3;
+    height: 50px;
+  }
+  .jp-defile .r2 img {
+    opacity: 0.52;
+    height: 64px;
+  }
+  .jp-defile .r3 img {
+    opacity: 0.84;
+    height: 86px;
+  }
+  .jp-defile .r2 {
+    animation-duration: 140s;
+  }
+  .jp-defile .r3 {
+    animation-duration: 96s;
+  }
+}
+
+@media (min-width: 1024px) {
+  .jp-defile .scene {
+    inset: -46px -30% 40px 48%;
+  }
+  .jp-defile .tapis {
+    gap: 10px;
+  }
+  .jp-defile .r1 img {
+    height: 50px;
+  }
+  .jp-defile .r2 img {
+    height: 66px;
+  }
+  .jp-defile .r3 img {
+    height: 88px;
+  }
+  .jp-defile .voile {
+    background: linear-gradient(90deg, #07080bf7 0%, #07080be6 46%, #07080b4d 72%, #07080b00 100%), linear-gradient(#07080b40, #0000 30% 62%, #07080beb);
+  }
+}
+
+@keyframes jpDefile {
+  to {
+    transform: translate(-50%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .jp-defile .rang {
+    animation: none;
+  }
+}
+

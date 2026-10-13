@@ -1,0 +1,53 @@
+{
+  "code": "OP13-023",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Uta",
+  "variant_name": "Uta",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "FILM",
+  "effect": "[Jouée] Redressez jusqu'à 2 de vos cartes DON!!. Puis, vous ne pouvez pas jouer de carte Personnage ayant un coût de base de 5 ou plus pour tout le tour.\n[En cas de KO] Jouez jusqu'à 1 carte Personnage épuisée de votre main ayant un coût de 5 ou moins.",
+  "trigger": null,
+  "illust": "BISAI",
+  "color": "Vert",
+  "rarity": "SR",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op13-p029.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657278_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.39,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Uta-OP13-023-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/Uta-OP13-023-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/657278",
+  "pricecharting_url": "https://www.pricecharting.com/game/11011994",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Uta",
+      "rarity": "SR",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Uta-OP13-023-V1?language=2",
+      "file": "OP13-023-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Uta (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 3.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Uta-OP13-023-V2?language=2",
+      "file": "OP13-023-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.34,
+  "price_avg30_eur": 0.29,
+  "listings_count": 50
+}

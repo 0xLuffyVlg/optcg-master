@@ -1,0 +1,53 @@
+{
+  "code": "OP04-060",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Crocodile",
+  "variant_name": "Crocodile (060)",
+  "category": "CHARACTER",
+  "cost": 8,
+  "power": 9000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "The Seven Warlords of the Sea/Baroque Works",
+  "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 card from the top of your deck to the top of your Life cards.\n[On Your Opponent's Attack] [Once Per Turn] DON!! −1: Draw 1 card and trash 1 card from your hand.",
+  "trigger": null,
+  "illust": "akagi",
+  "color": "Violet",
+  "rarity": "SR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op04-p073.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514247_200w.jpg",
+  "price_eur": 0.05,
+  "price_usd": 0.42,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Crocodile-OP04-060-V1",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue-Japanese/Crocodile-OP04-060-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/514247",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Crocodile (060)",
+      "rarity": "SR",
+      "price_eur": 0.05,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Crocodile-OP04-060-V1",
+      "file": "OP04-060-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Crocodile (060) (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 4,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Crocodile-OP04-060-V2",
+      "file": "OP04-060-v2.json"
+    }
+  ],
+  "price_min_eur": 0.05,
+  "price_avg7_eur": 0.6,
+  "price_avg30_eur": 0.54,
+  "listings_count": 50
+}

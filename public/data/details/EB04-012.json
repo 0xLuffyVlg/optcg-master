@@ -1,0 +1,53 @@
+{
+  "code": "EB04-012",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Kikunojo",
+  "variant_name": "Kikunojo - EB04-012",
+  "category": "CHARACTER",
+  "cost": 7,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Land of Wano/The Akazaya Nine",
+  "effect": "\"[Activate: Main] [Once Per Turn] If this Character was played on this turn, set your {Land of Wano",
+  "trigger": null,
+  "illust": "Sunohara",
+  "color": "Vert",
+  "rarity": "SR",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/eb04-p015.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668644_200w.jpg",
+  "price_eur": 0.1,
+  "price_usd": 0.26,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Kikunojo-EB04-012-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal/Kikunojo-EB04-012-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/668644",
+  "pricecharting_url": "https://www.pricecharting.com/game/11703027",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Kikunojo - EB04-012",
+      "rarity": "SR",
+      "price_eur": 0.1,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Kikunojo-EB04-012-V1?language=2",
+      "file": "EB04-012-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Kikunojo - EB04-012 (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 5.8,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Kikunojo-EB04-012-V2?language=2",
+      "file": "EB04-012-v2.json"
+    }
+  ],
+  "price_min_eur": 0.1,
+  "price_avg7_eur": 0.28,
+  "price_avg30_eur": 0.32,
+  "listings_count": 50
+}

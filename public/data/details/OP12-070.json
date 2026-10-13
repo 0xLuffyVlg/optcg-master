@@ -1,0 +1,53 @@
+{
+  "code": "OP12-070",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Sanji",
+  "variant_name": "Sanji (070)",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 5000,
+  "counter": null,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Royaume d'Alabasta/Équipage de Chapeau de paille",
+  "effect": "Pour chaque tranche de 5 Événements dans votre Défausse, ce Personnage gagne +1000 de puissance.\nSi ce Personnage quitte le terrain à cause d'un effet adverse, vous pouvez renvoyer à votre deck DON!! 1 carte DON!! de votre terrain à la place.",
+  "trigger": null,
+  "illust": "Nekobayashi",
+  "color": "Violet",
+  "rarity": "R",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op12-p086.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643809_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.23,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Sanji-OP12-070-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/Sanji-OP12-070-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/643809",
+  "pricecharting_url": "https://www.pricecharting.com/game/10266450",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Sanji (070)",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Sanji-OP12-070-V1?language=2",
+      "file": "OP12-070-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Sanji (070) (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 3.3,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Sanji-OP12-070-V2?language=2",
+      "file": "OP12-070-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.05,
+  "price_avg30_eur": 0.09,
+  "listings_count": 50
+}

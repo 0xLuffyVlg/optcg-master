@@ -1,0 +1,53 @@
+{
+  "code": "ST30-009",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Little Oz Junior",
+  "variant_name": "LittleOars Jr.",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Géants/Alliés de l'équipage de Barbe Blanche",
+  "effect": "Si un de vos Personnages ayant 6000 de puissance de base quitte le terrain à cause d'un effet adverse, vous pouvez placer ce Personnage dans votre Défausse et piocher 1 carte à la place.",
+  "trigger": null,
+  "illust": "kankurou",
+  "color": "Rouge",
+  "rarity": "C",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st30-p017.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695431_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.15,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/LittleOars-Jr-ST30-009-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace-Asia-Region-Legal/LittleOars-Jr-ST30-009-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/695431",
+  "pricecharting_url": "https://www.pricecharting.com/game/13426339",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "LittleOars Jr.",
+      "rarity": "C",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/LittleOars-Jr-ST30-009-V1?language=2",
+      "file": "ST30-009-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "LittleOars Jr. (Full Art)",
+      "rarity": "C",
+      "price_eur": 0.95,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/LittleOars-Jr-ST30-009-V2?language=2",
+      "file": "ST30-009-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.04,
+  "price_avg30_eur": 0.03,
+  "listings_count": 50
+}

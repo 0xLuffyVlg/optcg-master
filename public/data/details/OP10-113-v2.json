@@ -1,0 +1,50 @@
+{
+  "code": "OP10-113",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Roronoa Zoro",
+  "variant_name": "Roronoa Zoro (Learn Together Deck Set - Set Sail Event)",
+  "category": "CHARACTER",
+  "cost": 3,
+  "power": 5000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Supernovae/Équipage de Chapeau de paille",
+  "effect": "Si votre Vie comporte moins de cartes que celle de votre adversaire, ce Personnage gagne [Initiative].",
+  "trigger": "\"Vous pouvez défausser 1 carte de votre main : Si votre Leader est de type {Supernovae",
+  "illust": "Studio Vigor Co. Ltd",
+  "color": "Jaune",
+  "rarity": "UC",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op10-p135.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656609_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 42.9,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Roronoa-Zoro-OP10-113-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Non-English/Roronoa-Zoro-OP10-113-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/656609",
+  "pricecharting_url": "https://www.pricecharting.com/game/8828321",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Roronoa Zoro (113)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Roronoa-Zoro-OP10-113?language=2",
+      "file": "OP10-113-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Roronoa Zoro (Learn Together Deck Set - Set Sail Event)",
+      "rarity": "UC",
+      "price_eur": 29.28,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Roronoa-Zoro-OP10-113-V1?language=2",
+      "file": "OP10-113-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02
+}

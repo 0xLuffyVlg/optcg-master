@@ -1,0 +1,53 @@
+{
+  "code": "OP13-086",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Princesse Sharlia",
+  "variant_name": "Saint Shalria",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": null,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Distance",
+  "types": "Dragon céleste",
+  "effect": "\"[Jouée] Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Dragon céleste",
+  "trigger": null,
+  "illust": "Morechand",
+  "color": "Noir",
+  "rarity": "UC",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op13-p110.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657359_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.19,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Saint-Shalria-OP13-086?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/Saint-Shalria-OP13-086",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/657359",
+  "pricecharting_url": "https://www.pricecharting.com/game/11012074",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Saint Shalria",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Saint-Shalria-OP13-086?language=2",
+      "file": "OP13-086-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Saint Shalria (Premium Card Collection -Best Selection Vol. 5-)",
+      "rarity": "UC",
+      "price_eur": 4.1,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Saint-Shalria-OP13-086-V1?language=2",
+      "file": "OP13-086-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 2.01,
+  "price_avg30_eur": 3.82,
+  "listings_count": 14
+}

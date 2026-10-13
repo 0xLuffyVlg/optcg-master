@@ -1,0 +1,53 @@
+{
+  "code": "OP04-020",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Issho",
+  "variant_name": "Issho (Alternate Art)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": "Spécial",
+  "types": "Navy",
+  "effect": "[DON!! x1] [Your Turn] Give all of your opponent's Characters −1 cost.\n[End of Your Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Set up to 1 of your Characters with a cost of 5 or less as active.",
+  "trigger": null,
+  "illust": null,
+  "color": "Vert/Noir",
+  "rarity": "L",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op04-p024.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/510996_200w.jpg",
+  "price_eur": 19.9,
+  "price_usd": 18.33,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Issho-OP04-020-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue-Japanese/Issho-OP04-020-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/510996",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Issho",
+      "rarity": "L",
+      "price_eur": 19.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Issho-OP04-020-V1",
+      "file": "OP04-020-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Issho (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 19.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Issho-OP04-020-V2",
+      "file": "OP04-020-v2.json"
+    }
+  ],
+  "price_min_eur": 19.9,
+  "price_avg7_eur": 20.37,
+  "price_avg30_eur": 24.67,
+  "listings_count": 50
+}

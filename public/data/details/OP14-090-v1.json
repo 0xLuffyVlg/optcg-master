@@ -1,0 +1,53 @@
+{
+  "code": "OP14-090",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Mr 1(Das Bones)",
+  "variant_name": "Mr.1(Daz.Bonez)",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Baroque Works",
+  "effect": "S'il y a un Personnage ayant un coût de 0 ou de 8 ou plus, ce Personnage peut attaquer un Personnage durant le tour où il est joué.\n[Jouée] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 0.",
+  "trigger": null,
+  "illust": "SENNSU",
+  "color": "Noir",
+  "rarity": "R",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op14-p108.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671422_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.27,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Mr1DazBonez-OP14-090-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven-Asia-Region-Legal/Mr1DazBonez-OP14-090-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/671422",
+  "pricecharting_url": "https://www.pricecharting.com/game/11634274",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Mr.1(Daz.Bonez)",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Mr1DazBonez-OP14-090-V1?language=2",
+      "file": "OP14-090-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Mr.1 (Daz.Bonez) (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 5.3,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Mr1DazBonez-OP14-090-V2?language=2",
+      "file": "OP14-090-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.23,
+  "price_avg30_eur": 0.23,
+  "listings_count": 50
+}

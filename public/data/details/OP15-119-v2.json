@@ -1,0 +1,53 @@
+{
+  "code": "OP15-119",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Monkey D. Luffy",
+  "variant_name": "Monkey.D.Luffy (OP15-119) (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Île céleste/Équipage de Chapeau de paille",
+  "effect": "Si vous avez 6 cartes DON!! ou plus sur votre terrain, ce Personnage gagne [Initiative].\nQuand votre adversaire active un Événement ou [Bloqueur], révélez jusqu'à 1 carte du dessus de votre Vie. Pour chaque point de coût de la carte révélée, ce Personnage gagne +1000 de puissance pour tout le tour.",
+  "trigger": null,
+  "illust": "tatsuya",
+  "color": "Jaune",
+  "rarity": "SEC",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op15-p146.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685481_200w.jpg",
+  "price_eur": 35,
+  "price_usd": 73.61,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/MonkeyDLuffy-OP15-119-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island-Asia-Region-Legal/MonkeyDLuffy-OP15-119-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/685481",
+  "pricecharting_url": "https://www.pricecharting.com/game/12427348",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Monkey.D.Luffy (OP15-119)",
+      "rarity": "SEC",
+      "price_eur": 35,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/MonkeyDLuffy-OP15-119-V1?language=2",
+      "file": "OP15-119-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Monkey.D.Luffy (OP15-119) (Alternate Art)",
+      "rarity": "SEC",
+      "price_eur": 37,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/MonkeyDLuffy-OP15-119-V2?language=2",
+      "file": "OP15-119-v2.json"
+    }
+  ],
+  "price_min_eur": 35,
+  "price_avg7_eur": 31.6,
+  "price_avg30_eur": 34.8,
+  "listings_count": 18
+}

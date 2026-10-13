@@ -1,0 +1,80 @@
+{
+  "code": "OP07-021",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Urouge",
+  "variant_name": "Urouge",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Supernovas/Fallen Monk Pirates",
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[End of Your Turn] Set up to 1 of your DON!! cards as active.",
+  "trigger": null,
+  "illust": "tasaka",
+  "color": "Vert",
+  "rarity": "R",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op07-p025.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545802_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.09,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Urouge-OP07-021",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Urouge-OP07-021-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/545802",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Urouge",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Urouge-OP07-021",
+      "file": "OP07-021-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Urouge (SP)",
+      "rarity": "R",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Urouge-OP07-021",
+      "file": "OP07-021-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Urouge (Offline Regional Participation Pack 2025 Vol.1)",
+      "rarity": "R",
+      "price_eur": 24.03,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Urouge-OP07-021-V1",
+      "file": "OP07-021-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Urouge (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 2.72,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Urouge-OP07-021-V2",
+      "file": "OP07-021-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Urouge (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 2.72,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Urouge-OP07-021-V2",
+      "file": "OP07-021-v5.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.05,
+  "price_avg30_eur": 0.03,
+  "listings_count": 50
+}

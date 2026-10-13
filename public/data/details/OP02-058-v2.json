@@ -1,0 +1,53 @@
+{
+  "code": "OP02-058",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Buggy",
+  "variant_name": "Buggy (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Impel Down/Buggy Pirates",
+  "effect": "\"[On Play] Look at 5 cards from the top of your deck; reveal up to 1 blue {Impel Down",
+  "trigger": null,
+  "illust": "Denim2",
+  "color": "Bleu",
+  "rarity": "R",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op02-p075.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/485813_200w.jpg",
+  "price_eur": 9.25,
+  "price_usd": 19.22,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Buggy-OP02-058-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War-Japanese/Buggy-OP02-058-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/485813",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Buggy",
+      "rarity": "R",
+      "price_eur": 9.25,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Buggy-OP02-058-V1",
+      "file": "OP02-058-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Buggy (Alternate Art)",
+      "rarity": "R",
+      "price_eur": 9.25,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Buggy-OP02-058-V2",
+      "file": "OP02-058-v2.json"
+    }
+  ],
+  "price_min_eur": 9.25,
+  "price_avg7_eur": 13.26,
+  "price_avg30_eur": 12.02,
+  "listings_count": 50
+}

@@ -1,0 +1,53 @@
+{
+  "code": "OP16-060",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Sengoku",
+  "variant_name": "Sengoku (060)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Sagesse",
+  "types": "Marine",
+  "effect": "\"[Activation : Principale] Vous pouvez renvoyer à votre deck DON!! 8 de vos cartes DON!! redressées : Jouez jusqu'à 3 cartes Personnage de type {Amiral",
+  "trigger": null,
+  "illust": "nishinoshima",
+  "color": "Violet",
+  "rarity": "L",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op16-p074.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/694653_200w.jpg",
+  "price_eur": 18.5,
+  "price_usd": 0.08,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Sengoku-OP16-060-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Time-of-Battle-Asia-Region-Legal/Sengoku-OP16-060-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/694653",
+  "pricecharting_url": "https://www.pricecharting.com/game/13335484",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Sengoku (060)",
+      "rarity": "L",
+      "price_eur": 18.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Sengoku-OP16-060-V1?language=2",
+      "file": "OP16-060-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Sengoku (060) (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 18.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Sengoku-OP16-060-V2?language=2",
+      "file": "OP16-060-v2.json"
+    }
+  ],
+  "price_min_eur": 18.5,
+  "price_avg7_eur": 0.06,
+  "price_avg30_eur": 0.06,
+  "listings_count": 50
+}

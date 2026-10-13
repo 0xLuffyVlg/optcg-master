@@ -1,0 +1,53 @@
+{
+  "code": "OP17-048",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Shiki",
+  "variant_name": "Shiki",
+  "category": "CHARACTER",
+  "cost": 7,
+  "power": 9000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Équipage de Rocks",
+  "effect": "[Initiative : Personnage]\n[En attaquant]/[Attaque adverse] [Une fois par tour] Vous pouvez défausser 1 carte de votre main incluant «Équipage de Rocks» dans son type : Jusqu'à 1 Personnage adverse reçoit −3000 de puissance pour tout le tour.",
+  "trigger": null,
+  "illust": "Katsuo Tadano",
+  "color": "Bleu",
+  "rarity": "SR",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op17-p063.webp",
+  "image_url": "/img/cards-fr/op17-p062-sm.webp",
+  "price_eur": 0.09,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Shiki-OP17-048-V1?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/710542",
+  "pricecharting_url": "https://www.pricecharting.com/game/14107669",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Shiki",
+      "rarity": "SR",
+      "price_eur": 0.09,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Shiki-OP17-048-V1?language=2",
+      "file": "OP17-048-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Shiki (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 9.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Shiki-OP17-048-V2?language=2",
+      "file": "OP17-048-v2.json"
+    }
+  ],
+  "price_min_eur": 0.09,
+  "price_avg7_eur": 1.1,
+  "price_avg30_eur": 1.77,
+  "listings_count": 50
+}

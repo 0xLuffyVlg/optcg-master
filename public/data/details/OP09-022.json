@@ -1,0 +1,53 @@
+{
+  "code": "OP09-022",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Lim",
+  "variant_name": "Lim",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": "Sagesse",
+  "types": "ODYSSEY",
+  "effect": "\"Vos cartes Personnage sont jouées épuisées.\n[Activation : Principale] [Une fois par tour] Vous pouvez épuiser 3 de vos cartes DON!! : Ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!! et jouez jusqu'à 1 carte Personnage de type {ODYSSEY",
+  "trigger": null,
+  "illust": null,
+  "color": "Vert/Violet",
+  "rarity": "L",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op09-p028.webp",
+  "image_url": "/img/cards-fr/op09-p028-sm.webp",
+  "price_eur": 0.02,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Lim-OP09-022-V1?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/596946",
+  "pricecharting_url": "https://www.pricecharting.com/game/8091567",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Lim",
+      "rarity": "L",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Lim-OP09-022-V1?language=2",
+      "file": "OP09-022-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Lim (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 12.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Lim-OP09-022-V2?language=2",
+      "file": "OP09-022-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 0.05,
+  "price_avg30_eur": 0.07,
+  "listings_count": 50
+}

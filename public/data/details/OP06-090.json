@@ -1,0 +1,53 @@
+{
+  "code": "OP06-090",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Dr. Hogback",
+  "variant_name": "Dr. Hogback",
+  "category": "CHARACTER",
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Sagesse",
+  "types": "Thriller Bark Pirates",
+  "effect": "\"[On Play] You may return 2 cards from your trash to the bottom of your deck in any order: Add up to 1 {Thriller Bark Pirates",
+  "trigger": null,
+  "illust": "Misa Tsutsui",
+  "color": "Noir",
+  "rarity": "R",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op06-p108.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541066_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.34,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Dr-Hogback-OP06-090",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain-Japanese/Dr-Hogback-OP06-090",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/541066",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Dr. Hogback",
+      "rarity": "R",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Dr-Hogback-OP06-090",
+      "file": "OP06-090-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Dr. Hogback (Premium Card Collection -Best Selection Vol. 3-)",
+      "rarity": "R",
+      "price_eur": 2.1,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Dr-Hogback-OP06-090-V1",
+      "file": "OP06-090-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 2.08,
+  "price_avg30_eur": 1.81,
+  "listings_count": 50
+}

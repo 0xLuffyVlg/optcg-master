@@ -1,0 +1,62 @@
+{
+  "code": "OP10-079",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "God Thread",
+  "variant_name": "God Thread",
+  "category": "EVENT",
+  "cost": 5,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": "Sept grands corsaires/Équipage de Don Quijote",
+  "effect": "[Principale] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins. Puis, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
+  "trigger": "Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
+  "illust": null,
+  "color": "Violet",
+  "rarity": "UC",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op10-p096.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617125_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 0.09,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/God-Thread-OP10-079?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/God-Thread-OP10-079-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/617125",
+  "pricecharting_url": "https://www.pricecharting.com/game/8828282",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "God Thread",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/God-Thread-OP10-079?language=2",
+      "file": "OP10-079-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "God Thread (Pirate Foil)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/God-Thread-OP10-079-V2?language=2",
+      "file": "OP10-079-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "God Thread (Pirate Foil)",
+      "rarity": "UC",
+      "price_eur": 0.07,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/God-Thread-OP10-079-V2?language=2",
+      "file": "OP10-079-v3.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 2.55,
+  "price_avg30_eur": 3.11,
+  "listings_count": 3
+}

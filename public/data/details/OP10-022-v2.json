@@ -1,0 +1,53 @@
+{
+  "code": "OP10-022",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Trafalgar Law",
+  "variant_name": "Trafalgar Law (022) (Parallel)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": "Tranchant",
+  "types": "Dressrosa/Supernovae/Équipage du Heart",
+  "effect": "\"[DON!! x1] [Activation : Principale] [Une fois par tour] Si le coût total de vos Personnages est de 5 ou plus, vous pouvez renvoyer 1 de vos Personnages à la main de son propriétaire : Révélez 1 carte du dessus de votre Vie ; si c'est une carte Personnage de type {Supernovae",
+  "trigger": null,
+  "illust": "Noriyuki Hirota",
+  "color": "Vert/Jaune",
+  "rarity": "L",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op10-p029.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617058_200w.jpg",
+  "price_eur": 20,
+  "price_usd": 30.11,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Trafalgar-Law-OP10-022-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Non-English/Trafalgar-Law-OP10-022-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/617058",
+  "pricecharting_url": "https://www.pricecharting.com/game/8828216",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Trafalgar Law (022)",
+      "rarity": "L",
+      "price_eur": 20,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Trafalgar-Law-OP10-022-V1?language=2",
+      "file": "OP10-022-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Trafalgar Law (022) (Parallel)",
+      "rarity": "L",
+      "price_eur": 19.5,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Trafalgar-Law-OP10-022-V2?language=2",
+      "file": "OP10-022-v2.json"
+    }
+  ],
+  "price_min_eur": 20,
+  "price_avg7_eur": 21.32,
+  "price_avg30_eur": 20.75,
+  "listings_count": 20
+}

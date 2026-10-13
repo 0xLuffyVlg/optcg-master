@@ -1,0 +1,53 @@
+{
+  "code": "OP16-032",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Boa Hancock",
+  "variant_name": "Boa Hancock (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 7,
+  "power": 9000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Impel Down/Sept grands corsaires/Équipage des Kuja",
+  "effect": "[Imblocable] (Cette carte ne peut pas être bloquée.)\n[Jouée] Jusqu'à 1 Personnage adverse autre que [Monkey D. Luffy] ne peut pas être épuisé jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
+  "trigger": null,
+  "illust": "SHIE NANAHARA",
+  "color": "Vert",
+  "rarity": "SR",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op16-p040.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695309_200w.jpg",
+  "price_eur": 14.99,
+  "price_usd": 64.18,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Boa-Hancock-OP16-032-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Time-of-Battle-Asia-Region-Legal/Boa-Hancock-OP16-032-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/695309",
+  "pricecharting_url": "https://www.pricecharting.com/game/13335492",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Boa Hancock",
+      "rarity": "SR",
+      "price_eur": 14.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Boa-Hancock-OP16-032-V1?language=2",
+      "file": "OP16-032-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Boa Hancock (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 17,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Boa-Hancock-OP16-032-V2?language=2",
+      "file": "OP16-032-v2.json"
+    }
+  ],
+  "price_min_eur": 14.99,
+  "price_avg7_eur": 17.8,
+  "price_avg30_eur": 19.27,
+  "listings_count": 26
+}

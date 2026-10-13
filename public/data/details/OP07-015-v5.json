@@ -1,0 +1,86 @@
+{
+  "code": "OP07-015",
+  "variant_version": "v5",
+  "variant_index": 5,
+  "name": "Monkey.D.Dragon",
+  "variant_name": "Monkey.D.Dragon (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 8,
+  "power": 9000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Revolutionary Army",
+  "effect": "[Rush] (This card can attack on the turn in which it is played.)\n[On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+  "trigger": null,
+  "illust": "Yosuke Adachi",
+  "color": "Rouge",
+  "rarity": "SP",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op07-p017.webp",
+  "image_url": "/img/cards-fr/op09-p157-sm.webp",
+  "price_eur": 98,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/MonkeyDDragon-OP07-015-V5",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/MonkeyDDragon-OP07-015-V5",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/545794",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Monkey.D.Dragon (015)",
+      "rarity": "SR",
+      "price_eur": 98,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/MonkeyDDragon-OP07-015-V1",
+      "file": "OP07-015-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Monkey.D.Dragon (015) (Parallel)",
+      "rarity": "SR",
+      "price_eur": 5.75,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/MonkeyDDragon-OP07-015-V2",
+      "file": "OP07-015-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Monkey.D.Dragon (SP)",
+      "rarity": "SR",
+      "price_eur": 102,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/MonkeyDDragon-OP07-015",
+      "file": "OP07-015-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Monkey.D.Dragon (Reprint)",
+      "rarity": "SR",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Learn-Together-Deck-Set-01/MonkeyDDragon-OP07-015",
+      "file": "OP07-015-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Monkey.D.Dragon (Alternate Art)",
+      "rarity": "SP",
+      "price_eur": 140,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/MonkeyDDragon-OP07-015-V5",
+      "file": "OP07-015-v5.json"
+    },
+    {
+      "variant_index": 6,
+      "variant_version": "v6",
+      "name": "Monkey.D.Dragon (Reprint)",
+      "rarity": "SR",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Learn-Together-Deck-Set-01/MonkeyDDragon-OP07-015",
+      "file": "OP07-015-v6.json"
+    }
+  ],
+  "price_min_eur": 98
+}

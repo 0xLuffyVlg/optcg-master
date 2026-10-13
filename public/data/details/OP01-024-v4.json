@@ -1,0 +1,71 @@
+{
+  "code": "OP01-024",
+  "variant_version": "v4",
+  "variant_index": 4,
+  "name": "Monkey.D.Luffy",
+  "variant_name": "Monkey.D.Luffy (OP01-024) (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 3000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Supernovas/Straw Hat Crew",
+  "effect": "[DON!! x2] This Character cannot be K.O.'d in battle by ＜Strike＞ attribute Characters.\n[Activate: Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
+  "trigger": null,
+  "illust": null,
+  "color": "Rouge",
+  "rarity": "SR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-en/prb01-p008.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586178_200w.jpg",
+  "price_eur": 50,
+  "price_usd": 79.49,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/MonkeyDLuffy-OP01-024",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/MonkeyDLuffy-OP01-024",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/586178",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Monkey.D.Luffy (024)",
+      "rarity": "SR",
+      "price_eur": 50,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/MonkeyDLuffy-OP01-024-V1",
+      "file": "OP01-024-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Monkey.D.Luffy (024) (Parallel)",
+      "rarity": "SR",
+      "price_eur": 125,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/MonkeyDLuffy-OP01-024-V2",
+      "file": "OP01-024-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Monkey.D.Luffy (OP01-024) (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 0.1,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/MonkeyDLuffy-OP01-024",
+      "file": "OP01-024-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Monkey.D.Luffy (OP01-024) (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 54.07,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/MonkeyDLuffy-OP01-024",
+      "file": "OP01-024-v4.json"
+    }
+  ],
+  "price_min_eur": 50,
+  "price_avg7_eur": 58.21,
+  "price_avg30_eur": 72.09,
+  "listings_count": 50
+}

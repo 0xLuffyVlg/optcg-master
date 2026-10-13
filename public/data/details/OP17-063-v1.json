@@ -1,0 +1,53 @@
+{
+  "code": "OP17-063",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Kaido",
+  "variant_name": "Kaido",
+  "category": "CHARACTER",
+  "cost": 10,
+  "power": 12000,
+  "counter": null,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Quatre Empereurs/Équipage des cent bêtes",
+  "effect": "Toutes les cartes Personnage de votre main n'ayant pas de Contre ont Contre +1000.\n[Activation : Principale] [Une fois par tour] DON!! −1 : Si ce Personnage a été joué ce tour, annulez les effets de jusqu'à 1 Personnage adverse ayant un coût de 6 ou moins pour tout le tour et mettez-le KO.",
+  "trigger": null,
+  "illust": "eiji kaneda",
+  "color": "Violet",
+  "rarity": "SR",
+  "block": 5,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op17-p086.webp",
+  "image_url": "/img/cards-fr/op17-p085-sm.webp",
+  "price_eur": 0.04,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Kaido-OP17-063-V1?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/710578",
+  "pricecharting_url": "https://www.pricecharting.com/game/14107667",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Kaido",
+      "rarity": "SR",
+      "price_eur": 0.04,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Kaido-OP17-063-V1?language=2",
+      "file": "OP17-063-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Kaido (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 6,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Kaido-OP17-063-V2?language=2",
+      "file": "OP17-063-v2.json"
+    }
+  ],
+  "price_min_eur": 0.04,
+  "price_avg7_eur": 0.71,
+  "price_avg30_eur": 1.26,
+  "listings_count": 50
+}

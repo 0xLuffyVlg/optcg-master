@@ -1,0 +1,53 @@
+{
+  "code": "OP11-058",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Monkey D. Luffy",
+  "variant_name": "Monkey.D.Luffy - OP11-058 (TR)",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 7000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Équipage de Chapeau de paille",
+  "effect": "Si vous avez 5 cartes ou plus dans votre main, ce Personnage ne peut pas attaquer.\n[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
+  "trigger": null,
+  "illust": "Studio Vigor Co. Ltd",
+  "color": "Bleu",
+  "rarity": "TR",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-en/op13-p176.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/659982_200w.jpg",
+  "price_eur": 0.02,
+  "price_usd": 72.1,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/MonkeyDLuffy-OP11-058?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed-Non-English/MonkeyDLuffy-OP11-058-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/659982",
+  "pricecharting_url": "https://www.pricecharting.com/game/9362359",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Monkey.D.Luffy (058)",
+      "rarity": "UC",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/MonkeyDLuffy-OP11-058?language=2",
+      "file": "OP11-058-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Monkey.D.Luffy - OP11-058 (TR)",
+      "rarity": "TR",
+      "price_eur": 39.98,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/MonkeyDLuffy-OP11-058?language=2",
+      "file": "OP11-058-v2.json"
+    }
+  ],
+  "price_min_eur": 0.02,
+  "price_avg7_eur": 115.39,
+  "price_avg30_eur": 69.87,
+  "listings_count": 50
+}

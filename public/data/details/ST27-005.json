@@ -1,0 +1,53 @@
+{
+  "code": "ST27-005",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Marshall D. Teach",
+  "variant_name": "Marshall D. Teach (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 7,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": "Spécial",
+  "types": "Quatre Empereurs/Équipage de Barbe Noire",
+  "effect": "[Activation : Principale] Vous pouvez épuiser ce Personnage : Mettez KO jusqu'à 1 Personnage ayant un coût de 3 ou moins.\n[En cas de KO] Ajoutez à votre main jusqu'à 1 carte noire de votre Défausse.",
+  "trigger": null,
+  "illust": "eiji kaneda",
+  "color": "Noir",
+  "rarity": "SP",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op17-p168.webp",
+  "image_url": "/img/cards-fr/op17-p168-sm.webp",
+  "price_eur": 189,
+  "price_usd": null,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Black-MarshallDTeach/MarshallDTeach-ST27-005?language=2",
+  "cardmarket_url_jp": null,
+  "tcgplayer_url": "https://www.tcgplayer.com/product/633093",
+  "pricecharting_url": "https://www.pricecharting.com/game/10032953",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Marshall D. Teach (Alternate Art)",
+      "rarity": "SP",
+      "price_eur": 189,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Black-MarshallDTeach/MarshallDTeach-ST27-005?language=2",
+      "file": "ST27-005-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Marshall.D.Teach (ST27-005)",
+      "rarity": "SR",
+      "price_eur": 0.72,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Black-MarshallDTeach/MarshallDTeach-ST27-005?language=2",
+      "file": "ST27-005-v2.json"
+    }
+  ],
+  "price_min_eur": 189,
+  "price_avg7_eur": 0.97,
+  "price_avg30_eur": 0.98,
+  "listings_count": 22
+}

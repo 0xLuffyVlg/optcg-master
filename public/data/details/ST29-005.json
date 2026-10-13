@@ -1,0 +1,53 @@
+{
+  "code": "ST29-005",
+  "variant_version": "v1",
+  "variant_index": 1,
+  "name": "Jinbe",
+  "variant_name": "Jinbe",
+  "category": "CHARACTER",
+  "cost": 6,
+  "power": 5000,
+  "counter": 2000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Hommes-poissons/Egg Head/Équipage de Chapeau de paille",
+  "effect": null,
+  "trigger": "Si votre Leader est [Monkey D. Luffy], jouez cette carte.",
+  "illust": "kankurou",
+  "color": "Jaune",
+  "rarity": "C",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/pack-divers-p049.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671559_200w.jpg",
+  "price_eur": 0.05,
+  "price_usd": 0.27,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Jinbe-ST29-005-V1?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead-Asia-Region-Legal/Jinbe-ST29-005-V1",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/671559",
+  "pricecharting_url": "https://www.pricecharting.com/game/11786222",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Jinbe",
+      "rarity": "C",
+      "price_eur": 0.05,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Jinbe-ST29-005-V1?language=2",
+      "file": "ST29-005-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Jinbe (Full Art)",
+      "rarity": "C",
+      "price_eur": 1.37,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Jinbe-ST29-005-V2?language=2",
+      "file": "ST29-005-v2.json"
+    }
+  ],
+  "price_min_eur": 0.05,
+  "price_avg7_eur": 0.23,
+  "price_avg30_eur": 0.22,
+  "listings_count": 30
+}

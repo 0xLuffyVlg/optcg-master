@@ -1,0 +1,53 @@
+{
+  "code": "OP08-080",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Queen",
+  "variant_name": "Queen (Parallel)",
+  "category": "CHARACTER",
+  "cost": 1,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Animal Kingdom Pirates",
+  "effect": "\"[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Animal Kingdom Pirates",
+  "trigger": null,
+  "illust": "HISASHI HUJIWARA",
+  "color": "Noir",
+  "rarity": "R",
+  "block": 2,
+  "language": "en",
+  "image_path": "/img/cards-jp/op08-p096.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558116_200w.jpg",
+  "price_eur": 2,
+  "price_usd": 2.21,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Queen-OP08-080-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends-Non-English/Queen-OP08-080-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/558116",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Queen",
+      "rarity": "R",
+      "price_eur": 2,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Queen-OP08-080-V1",
+      "file": "OP08-080-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Queen (Parallel)",
+      "rarity": "R",
+      "price_eur": 2,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Queen-OP08-080-V2",
+      "file": "OP08-080-v2.json"
+    }
+  ],
+  "price_min_eur": 2,
+  "price_avg7_eur": 3.31,
+  "price_avg30_eur": 3.53,
+  "listings_count": 50
+}

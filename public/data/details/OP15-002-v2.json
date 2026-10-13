@@ -1,0 +1,53 @@
+{
+  "code": "OP15-002",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Lucy",
+  "variant_name": "Lucy (Alternate Art)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": "Frappe",
+  "types": "Dressrosa/Armée révolutionnaire",
+  "effect": "[En attaquant]/[Attaque adverse] Vous pouvez défausser autant de cartes Événement ou Lieu de votre main que vous le voulez. Pour chaque carte défaussée, ce Leader gagne +1000 de puissance pour tout le combat.\n[Activation : Principale] [Une fois par tour] Si un de vos Événements ayant un coût de base de 3 ou plus a été activé durant ce tour, piochez 1 carte.",
+  "trigger": null,
+  "illust": "He Ziwei",
+  "color": "Rouge/Bleu",
+  "rarity": "L",
+  "block": 4,
+  "language": "fr",
+  "image_path": "/img/cards-jp/op15-p004.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685339_200w.jpg",
+  "price_eur": 24.9,
+  "price_usd": 37.01,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Lucy-OP15-002-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island-Asia-Region-Legal/Lucy-OP15-002-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/685339",
+  "pricecharting_url": "https://www.pricecharting.com/game/12427217",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Lucy",
+      "rarity": "L",
+      "price_eur": 24.9,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Lucy-OP15-002-V1?language=2",
+      "file": "OP15-002-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Lucy (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 23.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Lucy-OP15-002-V2?language=2",
+      "file": "OP15-002-v2.json"
+    }
+  ],
+  "price_min_eur": 24.9,
+  "price_avg7_eur": 21.76,
+  "price_avg30_eur": 20.75,
+  "listings_count": 24
+}

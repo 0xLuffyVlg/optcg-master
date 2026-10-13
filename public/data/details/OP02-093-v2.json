@@ -1,0 +1,62 @@
+{
+  "code": "OP02-093",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Smoker",
+  "variant_name": "Smoker (093) (Alternate Art)",
+  "category": "LEADER",
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": "Spécial",
+  "types": "Navy",
+  "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1 cost during this turn. Then, if there is a Character with a cost of 0, this Leader gains +1000 power during this turn.",
+  "trigger": null,
+  "illust": null,
+  "color": "Noir",
+  "rarity": "L",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-jp/op02-p118.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/484476_200w.jpg",
+  "price_eur": 59.99,
+  "price_usd": 90.51,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Smoker-OP02-093-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War-Japanese/Smoker-OP02-093-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/484476",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Smoker (093)",
+      "rarity": "L",
+      "price_eur": 59.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Smoker-OP02-093-V1",
+      "file": "OP02-093-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Smoker (093) (Alternate Art)",
+      "rarity": "L",
+      "price_eur": 60,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Smoker-OP02-093-V2",
+      "file": "OP02-093-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Smoker (OP02-093)",
+      "rarity": "L",
+      "price_eur": null,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Smoker/Smoker-OP02-093",
+      "file": "OP02-093-v3.json"
+    }
+  ],
+  "price_min_eur": 59.99,
+  "price_avg7_eur": 80.14,
+  "price_avg30_eur": 77.51,
+  "listings_count": 50
+}

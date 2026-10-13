@@ -1,0 +1,53 @@
+{
+  "code": "ST21-005",
+  "variant_version": "v2",
+  "variant_index": 2,
+  "name": "Jinbe",
+  "variant_name": "Jinbe (Parallel)",
+  "category": "CHARACTER",
+  "cost": 2,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": "Frappe",
+  "types": "Hommes-poissons/Équipage de Chapeau de paille",
+  "effect": null,
+  "trigger": null,
+  "illust": "Koushi Rokushiro",
+  "color": "Rouge",
+  "rarity": "C",
+  "block": 3,
+  "language": "fr",
+  "image_path": "/img/cards-jp/st21-p010.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/615573_200w.jpg",
+  "price_eur": 0.7,
+  "price_usd": 1.34,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Jinbe-ST21-005-V2?language=2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Gear-5-Non-English/Jinbe-ST21-005-V2",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/615573",
+  "pricecharting_url": "https://www.pricecharting.com/game/9585679",
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Jinbe",
+      "rarity": "C",
+      "price_eur": 0.7,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Jinbe-ST21-005-V1?language=2",
+      "file": "ST21-005-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Jinbe (Parallel)",
+      "rarity": "C",
+      "price_eur": 0.75,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Jinbe-ST21-005-V2?language=2",
+      "file": "ST21-005-v2.json"
+    }
+  ],
+  "price_min_eur": 0.7,
+  "price_avg7_eur": 0.83,
+  "price_avg30_eur": 1.59,
+  "listings_count": 26
+}

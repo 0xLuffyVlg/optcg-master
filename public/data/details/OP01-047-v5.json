@@ -1,0 +1,80 @@
+{
+  "code": "OP01-047",
+  "variant_version": "v5",
+  "variant_index": 5,
+  "name": "Trafalgar Law",
+  "variant_name": "Trafalgar Law (OP01-047) (Alternate Art)",
+  "category": "CHARACTER",
+  "cost": 5,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": "Tranchant",
+  "types": "Supernovas/Heart Pirates",
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] You may return 1 Character to your hand: Play up to 1 Character card with a cost of 3 or less from your hand.",
+  "trigger": null,
+  "illust": null,
+  "color": "Vert",
+  "rarity": "SR",
+  "block": 1,
+  "language": "en",
+  "image_path": "/img/cards-en/prb01-p021.webp",
+  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586893_200w.jpg",
+  "price_eur": 8,
+  "price_usd": 18.02,
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Trafalgar-Law-OP01-047-V2",
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/Trafalgar-Law-OP01-047",
+  "tcgplayer_url": "https://www.tcgplayer.com/product/586893",
+  "pricecharting_url": null,
+  "all_variants": [
+    {
+      "variant_index": 1,
+      "variant_version": "v1",
+      "name": "Trafalgar Law (047)",
+      "rarity": "SR",
+      "price_eur": 8,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Trafalgar-Law-OP01-047-V1",
+      "file": "OP01-047-v1.json"
+    },
+    {
+      "variant_index": 2,
+      "variant_version": "v2",
+      "name": "Trafalgar Law (047) (Parallel)",
+      "rarity": "SR",
+      "price_eur": 3.99,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Trafalgar-Law-OP01-047-V2",
+      "file": "OP01-047-v2.json"
+    },
+    {
+      "variant_index": 3,
+      "variant_version": "v3",
+      "name": "Trafalgar Law (SP)",
+      "rarity": "SR",
+      "price_eur": 108.15,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Trafalgar-Law-OP01-047",
+      "file": "OP01-047-v3.json"
+    },
+    {
+      "variant_index": 4,
+      "variant_version": "v4",
+      "name": "Trafalgar Law (OP01-047) (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 0.02,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Trafalgar-Law-OP01-047-V2",
+      "file": "OP01-047-v4.json"
+    },
+    {
+      "variant_index": 5,
+      "variant_version": "v5",
+      "name": "Trafalgar Law (OP01-047) (Alternate Art)",
+      "rarity": "SR",
+      "price_eur": 8,
+      "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Trafalgar-Law-OP01-047-V2",
+      "file": "OP01-047-v5.json"
+    }
+  ],
+  "price_min_eur": 8,
+  "price_avg7_eur": 12.73,
+  "price_avg30_eur": 12.74,
+  "listings_count": 50
+}
