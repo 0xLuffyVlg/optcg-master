@@ -55,7 +55,10 @@ export default defineConfig({
             if (id.includes('tesseract.js')) return 'vendor-ocr';
             return 'vendor-libs';
           }
-          if (id.includes('tournaments.json') || id.includes('tournamentProvider')) return 'data-tournaments';
+          if (id.includes('tournaments_initial.json') || id.includes('tournamentProvider')) return 'data-tournaments';
+          if (id.includes('optcg_complete_database.json')) return 'data-complete-database';
+          if (id.includes('card_links.json')) return 'data-card-links';
+          if (id.includes('metaDecksData.json')) return 'data-meta-decks';
           if (id.includes('cards.json')) return 'data-cards';
           if (id.includes('variants.json')) return 'data-variants';
         }

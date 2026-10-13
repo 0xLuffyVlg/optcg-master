@@ -267,6 +267,10 @@ async function syncTournaments() {
   });
 
   fs.writeFileSync(TOURNAMENTS_FILE, JSON.stringify(all, null, 2), 'utf8');
+  const publicTournaments = path.resolve(__dirname, '../public/data/tournaments.json');
+  fs.writeFileSync(publicTournaments, JSON.stringify(all), 'utf8');
+  const initialTournaments = path.resolve(__dirname, '../src/data/tournaments_initial.json');
+  fs.writeFileSync(initialTournaments, JSON.stringify(all.slice(0, 50)), 'utf8');
   console.log(`4. Sauvegardé avec succès : ${all.length} tournois au total.`);
   console.log(`   Plus récent : [${all[0]?.start_date}] ${all[0]?.tournament_name} - ${all[0]?.player_name}`);
   console.log('\n===========================================================');

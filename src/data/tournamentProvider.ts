@@ -1,4 +1,4 @@
-import tournamentsDataRaw from './tournaments.json';
+import tournamentsInitialRaw from './tournaments_initial.json';
 import { Card, Tournament, MetaTier, MetaLeaderSummary, ParsedDecklist } from '../types';
 import { getCardByCode } from './dataProvider';
 import { parseDecklistString } from '../utils/cardUtils';
@@ -6,7 +6,7 @@ import { parseDecklistString } from '../utils/cardUtils';
 /**
  * Total estimated tournaments count for fast display without parsing
  */
-export const TOTAL_TOURNAMENTS_COUNT = (tournamentsDataRaw as unknown as any[]).length;
+export let TOTAL_TOURNAMENTS_COUNT = 10430;
 
 /**
  * Parse any tournament date string into a numeric timestamp for precise sorting
@@ -68,7 +68,7 @@ export function formatTournamentDate(dateStr?: string): string {
   return `${day}/${month}/${year}`;
 }
 
-export const allTournaments: Tournament[] = (tournamentsDataRaw as unknown as Tournament[]).sort((a, b) => {
+export const allTournaments: Tournament[] = (tournamentsInitialRaw as unknown as Tournament[]).sort((a, b) => {
   const diff = parseTournamentDateToTimestamp(b.start_date) - parseTournamentDateToTimestamp(a.start_date);
   if (diff !== 0) return diff;
   return (a.placement || 8) - (b.placement || 8);
@@ -79,6 +79,56 @@ const tournamentsById = new Map<string, Tournament>();
 for (const t of allTournaments) {
   if (t && t.id) {
     tournamentsById.set(t.id.toLowerCase(), t);
+  }
+}
+
+// Background lazy fetcher to load the full archive from /data/tournaments.json seamlessly
+let fullTournamentsLoaded = false;
+let fullTournamentsPromise: Promise<Tournament[]> | null = null;
+
+export async function loadFullTournaments(): Promise<Tournament[]> {
+  if (fullTournamentsLoaded) return allTournaments;
+  if (fullTournamentsPromise) return fullTournamentsPromise;
+
+  fullTournamentsPromise = (async () => {
+    try {
+      const res = await fetch('/data/tournaments.json');
+      if (res.ok) {
+        const fullList: Tournament[] = await res.json();
+        if (Array.isArray(fullList) && fullList.length > 0) {
+          TOTAL_TOURNAMENTS_COUNT = fullList.length;
+          fullList.sort((a, b) => {
+            const diff = parseTournamentDateToTimestamp(b.start_date) - parseTournamentDateToTimestamp(a.start_date);
+            if (diff !== 0) return diff;
+            return (a.placement || 8) - (b.placement || 8);
+          });
+          allTournaments.length = 0;
+          allTournaments.push(...fullList);
+          tournamentsById.clear();
+          for (const t of allTournaments) {
+            if (t && t.id) tournamentsById.set(t.id.toLowerCase(), t);
+          }
+          fullTournamentsLoaded = true;
+          if (typeof window !== 'undefined') {
+            window.dispatchEvent(new CustomEvent('optcg-tournaments-loaded', { detail: allTournaments }));
+          }
+        }
+      }
+    } catch (e) {
+      console.warn('[TournamentProvider] Background full fetch error, keeping initial archive', e);
+    }
+    return allTournaments;
+  })();
+
+  return fullTournamentsPromise;
+}
+
+// Start loading the full dataset seamlessly on client-side idle
+if (typeof window !== 'undefined') {
+  if ('requestIdleCallback' in window) {
+    (window as any).requestIdleCallback(() => loadFullTournaments(), { timeout: 3000 });
+  } else {
+    setTimeout(() => loadFullTournaments(), 1200);
   }
 }
 

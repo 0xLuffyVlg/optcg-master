@@ -30,7 +30,7 @@ import {
   formatTournamentDate,
   parseTournamentDateToTimestamp
 } from '../data/dataProvider';
-import { allTournaments, mergeLiveTournaments } from '../data/tournamentProvider';
+import { allTournaments, mergeLiveTournaments, loadFullTournaments } from '../data/tournamentProvider';
 import { getCardImageUrl, getColorClass, parseDecklistString, handleCardImageError } from '../utils/cardUtils';
 import { useDeck } from '../context/DeckContext';
 import { DeckDetailViewData } from '../components/DeckDetailModal';
@@ -163,6 +163,21 @@ export const TournamentsView: React.FC<TournamentsViewProps> = ({
   const [isSyncing, setIsSyncing] = useState<boolean>(false);
   const [syncFeedback, setSyncFeedback] = useState<string | null>(null);
   const [tournamentsList, setTournamentsList] = useState<Tournament[]>(() => [...allTournaments]);
+
+  // Load full archive in background when viewing tournaments
+  useEffect(() => {
+    loadFullTournaments().then(full => {
+      setTournamentsList([...full]);
+    });
+
+    const handleLoaded = (e: any) => {
+      if (e.detail && Array.isArray(e.detail)) {
+        setTournamentsList([...e.detail]);
+      }
+    };
+    window.addEventListener('optcg-tournaments-loaded', handleLoaded);
+    return () => window.removeEventListener('optcg-tournaments-loaded', handleLoaded);
+  }, []);
 
   // Progressive loading / pagination limit (loads 36 at a time for 60fps responsiveness)
   const PAGE_INCREMENT = 36;
