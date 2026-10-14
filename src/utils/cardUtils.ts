@@ -91,19 +91,33 @@ export function handleCardImageError(
   const img = e.currentTarget;
   const currentSrc = img.src || '';
   const cardCode = card?.card_code || card?.id || 'OP01-001';
-  const baseCode = cardCode.split('_')[0].split('-r')[0].replace(/\.(webp|png|jpg)$/i, '');
+  const baseCode = cardCode.split('_')[0].split('-r')[0].replace(/\.(webp|png|jpg)$/i, '').replace(/^(fr|jp|en)-/i, '').toUpperCase();
 
   if (currentSrc.includes('placehold.co')) {
     return;
   }
 
-  if (card?.scalpeurs_image_url && !currentSrc.includes('scalpeurs.com')) {
-    // Fallback to direct WebP Scalpeurs
+  // Fallback 1: Try direct Scalpeurs image if not yet tried
+  if (card?.scalpeurs_image_url && !currentSrc.includes(card.scalpeurs_image_url)) {
     img.src = card.scalpeurs_image_url;
-  } else {
-    // Fallback clean card badge placeholder
-    img.src = `https://placehold.co/300x420/0f172a/f59e0b?text=${encodeURIComponent(baseCode)}`;
+    return;
   }
+
+  // Fallback 2: Try direct default image path if not yet tried
+  if (card?._defaultImagePath && card._defaultImagePath.startsWith('http') && !currentSrc.includes(card._defaultImagePath)) {
+    img.src = card._defaultImagePath;
+    return;
+  }
+
+  // Fallback 3: Official Bandai card image from Egman CDN (100% available for base cards)
+  const egmanUrl = `https://img.egmanevents.com/optcg/${baseCode}.webp`;
+  if (!currentSrc.includes(egmanUrl)) {
+    img.src = egmanUrl;
+    return;
+  }
+
+  // Fallback 4: Clean card badge placeholder as final fallback only
+  img.src = `https://placehold.co/300x420/0f172a/f59e0b?text=${encodeURIComponent(baseCode)}`;
 }
 
 /**
