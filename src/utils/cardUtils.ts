@@ -173,7 +173,7 @@ function normalizeArtworkPath(p?: string): string {
 
 /**
  * Ensures a Cardmarket URL strictly points to the desired language edition (JP, FR, EN)
- * Cardmarket language filters: language=1 (EN), language=2 (FR), language=7 (JP)
+ * Preserves curated ?language=2 (French NM) and ?language=1 (English) query parameters from Scalpeurs
  */
 export function resolveCardmarketUrlForLanguage(url?: string, targetLang: 'JP' | 'FR' | 'EN' = 'FR'): string {
   if (!url) return 'https://www.cardmarket.com/fr/OnePiece';
@@ -183,9 +183,9 @@ export function resolveCardmarketUrlForLanguage(url?: string, targetLang: 'JP' |
   const siteLocale = targetLang === 'EN' ? 'en' : 'fr';
   u = u.replace(/https?:\/\/(www\.)?cardmarket\.com\/[a-z]{2}\//i, `https://www.cardmarket.com/${siteLocale}/`);
 
-  // 2. Remove restrictive language query params (language=1, language=2) that cause 0-results on non-FR prints
-  if (u.includes('language=2') || u.includes('language=1')) {
-    u = u.replace(/[?&]language=[12]/g, '').replace(/\?&/, '?').replace(/\?$/, '');
+  // 2. Language filter alignment: if explicitly requesting EN, translate ?language=2 to ?language=1
+  if (targetLang === 'EN' && u.includes('language=2')) {
+    u = u.replace('language=2', 'language=1');
   }
 
   // 3. For Japanese edition requests:
@@ -224,28 +224,10 @@ export function extractCardVariantNumber(card: any): number {
 }
 
 /**
- * Ensures variant cards point to -V{variant} instead of mistakenly using -V1 or missing variant suffix
+ * Preserves the curated 1:1 Cardmarket product URL from the database and detail fiches
  */
-export function fixVariantCardmarketUrl(url?: string | null, cardOrVariant?: any): string {
+export function fixVariantCardmarketUrl(url?: string | null, _cardOrVariant?: any): string {
   if (!url) return '';
-  const vNum = typeof cardOrVariant === 'number' ? cardOrVariant : extractCardVariantNumber(cardOrVariant);
-  if (vNum <= 1) return url;
-
-  // If already contains -V{vNum} or -v{vNum}, it's already correct
-  if (url.includes(`-V${vNum}`) || url.includes(`-v${vNum}`)) {
-    return url;
-  }
-
-  // 1. If it has any other -V{X} or -v{X} suffix, update it to -V{vNum}
-  if (/([-_][vV])\d+(?=[?&]|$)/i.test(url)) {
-    return url.replace(/([-_][vV])\d+(?=[?&]|$)/i, (m, p1) => `${p1.toUpperCase()}${vNum}`);
-  }
-
-  // 2. If it is a product singles URL without -V suffix, append -V{vNum}
-  if (url.includes('/Products/Singles/')) {
-    return url.replace(/(\/Products\/Singles\/[^/?#]+\/[^/?#]+)(?=[?&]|$)/, (m, p1) => `${p1}-V${vNum}`);
-  }
-
   return url;
 }
 
@@ -315,15 +297,15 @@ export function getCardmarketUrl(
     const cObj = cardOrLang as any;
     if (cObj.id && (cardLinks as any).byId?.[cObj.id]) {
       const idEntry = (cardLinks as any).byId[cObj.id];
-      if (lang === 'jp' && idEntry.cm_jp) return resolveCardmarketUrlForLanguage(fixVariantCardmarketUrl(idEntry.cm_jp, cObj), 'JP');
-      if (idEntry.cm) return resolveCardmarketUrlForLanguage(fixVariantCardmarketUrl(idEntry.cm, cObj), lang.toUpperCase() as any);
+      if (lang === 'jp' && idEntry.cm_jp) return resolveCardmarketUrlForLanguage(idEntry.cm_jp, 'JP');
+      if (idEntry.cm) return resolveCardmarketUrlForLanguage(idEntry.cm, lang.toUpperCase() as any);
     }
 
     if (lang === 'jp' && cObj.cardmarket_url_jp) {
-      return resolveCardmarketUrlForLanguage(fixVariantCardmarketUrl(cObj.cardmarket_url_jp, cObj), 'JP');
+      return resolveCardmarketUrlForLanguage(cObj.cardmarket_url_jp, 'JP');
     }
     if (cObj.cardmarket_url) {
-      return resolveCardmarketUrlForLanguage(fixVariantCardmarketUrl(cObj.cardmarket_url, cObj), lang.toUpperCase() as any);
+      return resolveCardmarketUrlForLanguage(cObj.cardmarket_url, lang.toUpperCase() as any);
     }
   }
 

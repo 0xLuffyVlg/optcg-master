@@ -1098,7 +1098,7 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
       ? (card.cardmarket_url_jp || card.cardmarket_url)
       : (card.cardmarket_url || priceInfo.cardmarketUrl || getCardmarketUrl(card.card_code, card._defaultImagePath || card.id, card));
 
-    const cmUrl = resolveCardmarketUrlForLanguage(fixVariantCardmarketUrl(rawCmUrl, card), cLang === 'jp' ? 'JP' : (cLang === 'fr' ? 'FR' : 'EN'));
+    const cmUrl = resolveCardmarketUrlForLanguage(rawCmUrl, cLang === 'jp' ? 'JP' : (cLang === 'fr' ? 'FR' : 'EN'));
 
     const tcgUrl = cLang === 'jp'
       ? `https://jp.mercari.com/search?keyword=one%20piece%20${encodeURIComponent(card.card_code)}`

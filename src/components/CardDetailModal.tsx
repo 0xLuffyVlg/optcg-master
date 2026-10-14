@@ -22,6 +22,7 @@ import {
   ChevronDown
 } from 'lucide-react';
 import { Card } from '../types';
+import { allPrintsAsCards } from '../data/dataProvider';
 import { fetchCardDetail, CardDetailData, CardDetailVariant } from '../services/cardDetailsService';
 import { fetchLiveCardPriceHistory } from '../services/priceHistoryService';
 import {
@@ -372,6 +373,15 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
       const detail = await fetchCardDetail(targetFile);
       if (detail) {
         setCardDetail(detail);
+        // Synchronize activeCard with the matching print if present
+        const cleanTarget = targetFile.replace(/\.json$/i, '').toLowerCase();
+        const matchingPrint = allPrintsAsCards.find(c =>
+          c.card_code.toUpperCase() === detail.code.toUpperCase() &&
+          ((c as any).detail_file?.toLowerCase() === targetFile.toLowerCase() || c.id.toLowerCase().includes(cleanTarget))
+        );
+        if (matchingPrint) {
+          setActiveCard(matchingPrint);
+        }
       }
     } finally {
       setIsLoadingDetail(false);
@@ -400,14 +410,8 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
 
   if (!activeCard) return null;
 
-  // Image URL resolution: PRIORITIZE the clicked card's exact artwork from the grid
+  // Image URL resolution: PRIORITIZE the active variant's image from the micro-fiche
   const fullImageUrl = useMemo(() => {
-    if (activeCard._defaultImagePath && !activeCard._defaultImagePath.endsWith('.json')) {
-      return getCardImageUrl(activeCard, activeCard._defaultImagePath);
-    }
-    if (activeCard.scalpeurs_image_url) {
-      return activeCard.scalpeurs_image_url;
-    }
     if (cardDetail?.image_url && cardDetail.image_url.startsWith('http')) {
       return cardDetail.image_url;
     }
@@ -415,6 +419,12 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
       return cardDetail.image_path.startsWith('http')
         ? cardDetail.image_path
         : getCardImageUrl(activeCard, cardDetail.image_path);
+    }
+    if (activeCard._defaultImagePath && !activeCard._defaultImagePath.endsWith('.json')) {
+      return getCardImageUrl(activeCard, activeCard._defaultImagePath);
+    }
+    if (activeCard.scalpeurs_image_url) {
+      return activeCard.scalpeurs_image_url;
     }
     return getCardImageUrl(activeCard, activeCard._defaultImagePath);
   }, [activeCard, cardDetail]);
@@ -442,46 +452,76 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
     return getCardPriceForArtwork(activeCard, activeCard._defaultImagePath || activeCard.id || currentVariantFile);
   }, [activeCard, currentVariantFile]);
 
-  // Exact 1:1 Cardmarket and TCGplayer URLs strictly adapted to the chosen edition language
+  // Exact 1:1 Cardmarket URLs strictly matching the current variant and language edition
   const activeCardmarketUrl = useMemo(() => {
     if (!activeCard) return 'https://www.cardmarket.com/fr/OnePiece';
 
     let rawUrl = '';
-    if (editionLang === 'JP') {
-      rawUrl = activeCard.cardmarket_url_jp
-        || (activeCard.cardmarket_url && (activeCard.cardmarket_url.includes('-Japanese') || activeCard.cardmarket_url.includes('Non-English')) ? activeCard.cardmarket_url : '')
-        || cardDetail?.cardmarket_url_jp
-        || activeCard.cardmarket_url
-        || '';
-    } else {
-      rawUrl = activeCard.cardmarket_url
-        || (cardDetail?.variant_version && cardDetail.variant_version !== 'v1' ? cardDetail.cardmarket_url : '')
-        || '';
+
+    // 1. Direct from cardDetail for the currently active variant fiche
+    if (cardDetail) {
+      if (editionLang === 'JP' && cardDetail.cardmarket_url_jp) {
+        rawUrl = cardDetail.cardmarket_url_jp;
+      } else if (cardDetail.cardmarket_url) {
+        rawUrl = cardDetail.cardmarket_url;
+      }
     }
 
-    if (!rawUrl) {
+    // 2. Check all_variants in cardDetail for a matching file
+    if (!rawUrl && cardDetail?.all_variants && currentVariantFile) {
+      const vMatch = cardDetail.all_variants.find(
+        (v) => v.file && v.file.toLowerCase() === currentVariantFile.toLowerCase()
+      );
+      if (vMatch?.cardmarket_url) {
+        rawUrl = vMatch.cardmarket_url;
+      }
+    }
+
+    // 3. Fallback to activeCard (the exact print object from the grid)
+    if (!rawUrl && activeCard) {
+      if (editionLang === 'JP') {
+        rawUrl = activeCard.cardmarket_url_jp
+          || (activeCard.cardmarket_url && (activeCard.cardmarket_url.includes('-Japanese') || activeCard.cardmarket_url.includes('Non-English')) ? activeCard.cardmarket_url : '')
+          || activeCard.cardmarket_url
+          || '';
+      } else {
+        rawUrl = activeCard.cardmarket_url || '';
+      }
+    }
+
+    // 4. Fallback to cardLinks by id or path or code
+    if (!rawUrl && activeCard) {
       rawUrl = getCardmarketUrl(activeCard.card_code, activeCard._defaultImagePath || activeCard.id || currentVariantFile, activeCard)
         || artworkBasePrice.cardmarketUrl
         || '';
     }
-
-    // Ensure variant cards (V2, V3, V9, etc.) point to -V{variant} instead of mistakenly using -V1
-    rawUrl = fixVariantCardmarketUrl(rawUrl, activeCard);
 
     return resolveCardmarketUrlForLanguage(rawUrl, editionLang);
   }, [editionLang, cardDetail, activeCard, artworkBasePrice, currentVariantFile]);
 
   const activeTcgplayerUrl = cardDetail?.tcgplayer_url || artworkBasePrice.tcgplayerUrl || getTcgplayerUrl(activeCard.card_code, currentVariantFile || activeCard._defaultImagePath || activeCard.id, activeCard);
 
-  // Active price: NEVER let a base card price downgrade an alternate art or verified variant!
+  // Active price: accurately reflects the active variant's real price
   const activePriceEur = useMemo(() => {
+    // 1. Dedicated micro-fiche price for currentVariantFile
+    if (cardDetail?.price_eur !== undefined && cardDetail.price_eur !== null && cardDetail.price_eur > 0) {
+      return cardDetail.price_eur;
+    }
+
+    // 2. Matching variant in all_variants
+    if (cardDetail?.all_variants && currentVariantFile) {
+      const vMatch = cardDetail.all_variants.find(
+        (v) => v.file && v.file.toLowerCase() === currentVariantFile.toLowerCase()
+      );
+      if (vMatch?.price_eur && vMatch.price_eur > 0) {
+        return vMatch.price_eur;
+      }
+    }
+
+    // 3. Grid verified price from activeCard
     if (gridVerifiedPrice > 0) {
-      // If we have live price: only accept if it doesn't contradict the known variant price
       if (livePriceEur !== null && livePriceEur !== undefined && livePriceEur > 0) {
-        if (gridVerifiedPrice <= 2) {
-          return livePriceEur;
-        }
-        // If gridVerifiedPrice > 2, reject base card fallback (e.g. 0.76 € vs 349 €)
+        if (gridVerifiedPrice <= 2) return livePriceEur;
         if (livePriceEur >= gridVerifiedPrice * 0.4 && livePriceEur <= gridVerifiedPrice * 2.5) {
           return livePriceEur;
         }
@@ -492,9 +532,6 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
     if (livePriceEur !== null && livePriceEur !== undefined && livePriceEur > 0) {
       return livePriceEur;
     }
-    if (cardDetail?.price_eur !== undefined && cardDetail.price_eur !== null && cardDetail.price_eur > 0) {
-      return cardDetail.price_eur;
-    }
     if (artworkBasePrice.priceEur && artworkBasePrice.priceEur > 0) {
       return artworkBasePrice.priceEur;
     }
@@ -502,7 +539,7 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
       return artworkBasePrice.priceMinEur;
     }
     return 0;
-  }, [gridVerifiedPrice, livePriceEur, cardDetail, artworkBasePrice]);
+  }, [cardDetail, currentVariantFile, gridVerifiedPrice, livePriceEur, artworkBasePrice]);
 
   const artworkPriceInfo = useMemo(() => {
     const finalPrice = activePriceEur > 0 ? activePriceEur : (artworkBasePrice.priceMinEur || artworkBasePrice.priceEur || 0);
