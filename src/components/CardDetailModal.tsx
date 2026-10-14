@@ -217,6 +217,9 @@ const getCardColorHex = (colors?: string[]): string => {
 
 const resolveInitialVariantFile = (c: Card): string => {
   const anyC = c as any;
+  if (anyC.detail_file && typeof anyC.detail_file === 'string' && anyC.detail_file.endsWith('.json')) {
+    return anyC.detail_file;
+  }
   if (anyC.variant && anyC.variant > 1) {
     return `${c.card_code}-v${anyC.variant}.json`;
   }
@@ -227,14 +230,6 @@ const resolveInitialVariantFile = (c: Card): string => {
   const vMatch = (c.id || '').match(/[-_]v([0-9]+)/i);
   if (vMatch) {
     return `${c.card_code}-v${vMatch[1]}.json`;
-  }
-  const pMatch = (c.id || '').match(/_p0?([0-9]+)/i) || (c._defaultImagePath || '').match(/_p0?([0-9]+)/i);
-  if (pMatch) {
-    const num = parseInt(pMatch[1], 10);
-    return `${c.card_code}-v${num + 1}.json`;
-  }
-  if (anyC.detail_file) {
-    return anyC.detail_file;
   }
   return `${c.card_code}-v1.json`;
 };
