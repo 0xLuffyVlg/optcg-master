@@ -179,49 +179,29 @@ export function resolveCardmarketUrlForLanguage(url?: string, targetLang: 'JP' |
   if (!url) return 'https://www.cardmarket.com/fr/OnePiece';
   let u = url.trim();
 
+  // 1. Keep Cardmarket website UI locale in French (/fr/) or English (/en/)
+  const siteLocale = targetLang === 'EN' ? 'en' : 'fr';
+  u = u.replace(/https?:\/\/(www\.)?cardmarket\.com\/[a-z]{2}\//i, `https://www.cardmarket.com/${siteLocale}/`);
+
+  // 2. Remove restrictive language query params (language=1, language=2) that cause 0-results on non-FR prints
+  if (u.includes('language=2') || u.includes('language=1')) {
+    u = u.replace(/[?&]language=[12]/g, '').replace(/\?&/, '?').replace(/\?$/, '');
+  }
+
+  // 3. For Japanese edition requests:
   if (targetLang === 'JP') {
-    if (u.includes('cardmarket.com')) {
-      // 1. Language param strictly set to 7 (Japanese)
-      if (u.includes('language=')) {
-        u = u.replace(/language=\d+/g, 'language=7');
-      } else {
-        u += (u.includes('?') ? '&' : '?') + 'language=7';
-      }
-      // 2. Set slug mapping to Japanese specific sets when applicable
-      const setsWithJp = [
-        'Romance-Dawn', 'Paramount-War', 'Pillars-of-Strength', 'Kingdoms-of-Intrigue',
-        'Awakening-of-the-New-Era', 'Flamboyant', '500-Years-in-the-Future', 'Two-Legends',
-        'Emperors-in-the-New-World', 'Royal-Blood', 'A-New-Era-Begins', 'Memorial-Collection'
-      ];
-      for (const s of setsWithJp) {
-        if (u.includes('/' + s + '/') && !u.includes(s + '-Japanese')) {
-          u = u.replace('/' + s + '/', '/' + s + '-Japanese/');
-        }
-      }
-    }
-  } else if (targetLang === 'FR') {
-    if (u.includes('cardmarket.com')) {
-      if (u.includes('-Japanese/')) {
-        u = u.replace('-Japanese/', '/');
-      }
-      if (u.includes('language=')) {
-        u = u.replace(/language=\d+/g, 'language=2');
-      } else {
-        u += (u.includes('?') ? '&' : '?') + 'language=2';
-      }
-    }
-  } else if (targetLang === 'EN') {
-    if (u.includes('cardmarket.com')) {
-      if (u.includes('-Japanese/')) {
-        u = u.replace('-Japanese/', '/');
-      }
-      if (u.includes('language=')) {
-        u = u.replace(/language=\d+/g, 'language=1');
-      } else {
-        u += (u.includes('?') ? '&' : '?') + 'language=1';
+    const setsWithJp = [
+      'Romance-Dawn', 'Paramount-War', 'Pillars-of-Strength', 'Kingdoms-of-Intrigue',
+      'Awakening-of-the-New-Era', 'Flamboyant', '500-Years-in-the-Future', 'Two-Legends',
+      'Emperors-in-the-New-World', 'Royal-Blood', 'A-New-Era-Begins', 'Memorial-Collection'
+    ];
+    for (const s of setsWithJp) {
+      if (u.includes('/' + s + '/') && !u.includes(s + '-Japanese')) {
+        u = u.replace('/' + s + '/', '/' + s + '-Japanese/');
       }
     }
   }
+
   return u;
 }
 
@@ -244,14 +224,28 @@ export function extractCardVariantNumber(card: any): number {
 }
 
 /**
- * Ensures variant cards point to -V{variant} instead of mistakenly using -V1
+ * Ensures variant cards point to -V{variant} instead of mistakenly using -V1 or missing variant suffix
  */
 export function fixVariantCardmarketUrl(url?: string | null, cardOrVariant?: any): string {
   if (!url) return '';
   const vNum = typeof cardOrVariant === 'number' ? cardOrVariant : extractCardVariantNumber(cardOrVariant);
-  if (vNum > 1) {
-    return url.replace(/([-_][vV])1(?=[?&]|$)/, (m, p1) => `${p1}${vNum}`);
+  if (vNum <= 1) return url;
+
+  // If already contains -V{vNum} or -v{vNum}, it's already correct
+  if (url.includes(`-V${vNum}`) || url.includes(`-v${vNum}`)) {
+    return url;
   }
+
+  // 1. If it has any other -V{X} or -v{X} suffix, update it to -V{vNum}
+  if (/([-_][vV])\d+(?=[?&]|$)/i.test(url)) {
+    return url.replace(/([-_][vV])\d+(?=[?&]|$)/i, (m, p1) => `${p1.toUpperCase()}${vNum}`);
+  }
+
+  // 2. If it is a product singles URL without -V suffix, append -V{vNum}
+  if (url.includes('/Products/Singles/')) {
+    return url.replace(/(\/Products\/Singles\/[^/?#]+\/[^/?#]+)(?=[?&]|$)/, (m, p1) => `${p1}-V${vNum}`);
+  }
+
   return url;
 }
 
