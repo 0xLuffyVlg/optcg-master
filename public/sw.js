@@ -1,5 +1,5 @@
 // OPTCG Master Service Worker (Stale-While-Revalidate & PWA Offline)
-const CACHE_NAME = 'optcg-master-v20261008-embedded-pwa-v1';
+const CACHE_NAME = 'optcg-master-v20261014-pwa-v2';
 
 // Critical shell assets to precache on install
 const PRECACHE_ASSETS = [

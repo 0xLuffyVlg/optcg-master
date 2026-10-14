@@ -92,7 +92,7 @@ export async function loadFullTournaments(): Promise<Tournament[]> {
 
   fullTournamentsPromise = (async () => {
     try {
-      const res = await fetch('/data/tournaments.json');
+      const res = await fetch('/data/tournaments.json', { cache: 'no-cache' });
       if (res.ok) {
         const fullList: Tournament[] = await res.json();
         if (Array.isArray(fullList) && fullList.length > 0) {
