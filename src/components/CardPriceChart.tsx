@@ -424,10 +424,10 @@ export const CardPriceChart: React.FC<CardPriceChartProps> = ({
             return (
               <>
                 <a
-                  href={resolveCardmarketUrlForLanguage(
+                  href={artworkPriceInfo.cardmarketUrl || resolveCardmarketUrlForLanguage(
                     (lang === 'jp' && (cardDetail?.cardmarket_url_jp || (card as any).cardmarket_url_jp))
                       ? (cardDetail?.cardmarket_url_jp || (card as any).cardmarket_url_jp)
-                      : (cardDetail?.cardmarket_url || (card as any).cardmarket_url || getCardmarketUrl(card.card_code, artworkKey, card) || artworkPriceInfo.cardmarketUrl),
+                      : ((card as any).cardmarket_url || cardDetail?.cardmarket_url || getCardmarketUrl(card.card_code, artworkKey, card)),
                     lang === 'jp' ? 'JP' : (lang === 'fr' ? 'FR' : 'EN')
                   )}
                   target="_blank"

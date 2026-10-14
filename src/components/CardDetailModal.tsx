@@ -33,7 +33,8 @@ import {
   getTcgplayerUrl,
   formatCardPrice,
   detectCardLanguage,
-  isAltArtworkCard
+  isAltArtworkCard,
+  fixVariantCardmarketUrl
 } from '../utils/cardUtils';
 import { getCardtraderUrl, getCardPriceForArtwork } from '../services/cardmarketPriceService';
 import { CardmarketLogo, TCGplayerLogo } from './MarketLogos';
@@ -443,19 +444,32 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
 
   // Exact 1:1 Cardmarket and TCGplayer URLs strictly adapted to the chosen edition language
   const activeCardmarketUrl = useMemo(() => {
+    if (!activeCard) return 'https://www.cardmarket.com/fr/OnePiece';
+
+    let rawUrl = '';
     if (editionLang === 'JP') {
-      const jpExplicit = activeCard.cardmarket_url_jp || cardDetail?.cardmarket_url_jp;
-      if (jpExplicit) return resolveCardmarketUrlForLanguage(jpExplicit, 'JP');
-      if (activeCard.cardmarket_url && (activeCard.cardmarket_url.includes('-Japanese') || activeCard.cardmarket_url.includes('Non-English'))) {
-        return resolveCardmarketUrlForLanguage(activeCard.cardmarket_url, 'JP');
-      }
-      return resolveCardmarketUrlForLanguage(artworkBasePrice.cardmarketUrl || activeCard.cardmarket_url, 'JP');
-    } else if (editionLang === 'FR') {
-      return resolveCardmarketUrlForLanguage(artworkBasePrice.cardmarketUrl || cardDetail?.cardmarket_url || activeCard.cardmarket_url, 'FR');
+      rawUrl = activeCard.cardmarket_url_jp
+        || (activeCard.cardmarket_url && (activeCard.cardmarket_url.includes('-Japanese') || activeCard.cardmarket_url.includes('Non-English')) ? activeCard.cardmarket_url : '')
+        || cardDetail?.cardmarket_url_jp
+        || activeCard.cardmarket_url
+        || '';
     } else {
-      return resolveCardmarketUrlForLanguage(artworkBasePrice.cardmarketUrl || cardDetail?.cardmarket_url || activeCard.cardmarket_url, 'EN');
+      rawUrl = activeCard.cardmarket_url
+        || (cardDetail?.variant_version && cardDetail.variant_version !== 'v1' ? cardDetail.cardmarket_url : '')
+        || '';
     }
-  }, [editionLang, cardDetail, activeCard, artworkBasePrice]);
+
+    if (!rawUrl) {
+      rawUrl = getCardmarketUrl(activeCard.card_code, activeCard._defaultImagePath || activeCard.id || currentVariantFile, activeCard)
+        || artworkBasePrice.cardmarketUrl
+        || '';
+    }
+
+    // Ensure variant cards (V2, V3, V9, etc.) point to -V{variant} instead of mistakenly using -V1
+    rawUrl = fixVariantCardmarketUrl(rawUrl, activeCard);
+
+    return resolveCardmarketUrlForLanguage(rawUrl, editionLang);
+  }, [editionLang, cardDetail, activeCard, artworkBasePrice, currentVariantFile]);
 
   const activeTcgplayerUrl = cardDetail?.tcgplayer_url || artworkBasePrice.tcgplayerUrl || getTcgplayerUrl(activeCard.card_code, currentVariantFile || activeCard._defaultImagePath || activeCard.id, activeCard);
 

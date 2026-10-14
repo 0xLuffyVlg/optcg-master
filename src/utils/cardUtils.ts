@@ -226,6 +226,36 @@ export function resolveCardmarketUrlForLanguage(url?: string, targetLang: 'JP' |
 }
 
 /**
+ * Extracts numeric variant from card (e.g. variant: 2 -> 2, -2-13 -> 2, _p01 -> 2)
+ */
+export function extractCardVariantNumber(card: any): number {
+  if (!card) return 1;
+  if (card.variant && Number(card.variant) > 1) {
+    return Number(card.variant);
+  }
+  const id = String(card.id || '').toLowerCase();
+  const idMatch = id.match(/-([2-9])-(\d+)$/);
+  if (idMatch) return parseInt(idMatch[1], 10);
+  const vMatch = id.match(/[-_]v([0-9]+)/i);
+  if (vMatch) return parseInt(vMatch[1], 10);
+  const pMatch = id.match(/_p0?([0-9]+)/i) || String(card._defaultImagePath || '').match(/_p0?([0-9]+)/i);
+  if (pMatch) return parseInt(pMatch[1], 10) + 1;
+  return 1;
+}
+
+/**
+ * Ensures variant cards point to -V{variant} instead of mistakenly using -V1
+ */
+export function fixVariantCardmarketUrl(url?: string | null, cardOrVariant?: any): string {
+  if (!url) return '';
+  const vNum = typeof cardOrVariant === 'number' ? cardOrVariant : extractCardVariantNumber(cardOrVariant);
+  if (vNum > 1) {
+    return url.replace(/([-_][vV])1(?=[?&]|$)/, (m, p1) => `${p1}${vNum}`);
+  }
+  return url;
+}
+
+/**
  * Return direct Cardmarket 1:1 product URL for a card or specific variant matching language (FR, JP, EN)
  */
 export function getCardmarketUrl(
@@ -291,15 +321,15 @@ export function getCardmarketUrl(
     const cObj = cardOrLang as any;
     if (cObj.id && (cardLinks as any).byId?.[cObj.id]) {
       const idEntry = (cardLinks as any).byId[cObj.id];
-      if (lang === 'jp' && idEntry.cm_jp) return resolveCardmarketUrlForLanguage(idEntry.cm_jp, 'JP');
-      if (idEntry.cm) return resolveCardmarketUrlForLanguage(idEntry.cm, lang.toUpperCase() as any);
+      if (lang === 'jp' && idEntry.cm_jp) return resolveCardmarketUrlForLanguage(fixVariantCardmarketUrl(idEntry.cm_jp, cObj), 'JP');
+      if (idEntry.cm) return resolveCardmarketUrlForLanguage(fixVariantCardmarketUrl(idEntry.cm, cObj), lang.toUpperCase() as any);
     }
 
     if (lang === 'jp' && cObj.cardmarket_url_jp) {
-      return resolveCardmarketUrlForLanguage(cObj.cardmarket_url_jp, 'JP');
+      return resolveCardmarketUrlForLanguage(fixVariantCardmarketUrl(cObj.cardmarket_url_jp, cObj), 'JP');
     }
     if (cObj.cardmarket_url) {
-      return resolveCardmarketUrlForLanguage(cObj.cardmarket_url, lang.toUpperCase() as any);
+      return resolveCardmarketUrlForLanguage(fixVariantCardmarketUrl(cObj.cardmarket_url, cObj), lang.toUpperCase() as any);
     }
   }
 
