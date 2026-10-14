@@ -14,11 +14,11 @@
     "url": "https://www.cardtrader.com/en/cards/283771"
   },
   "EB01-015": {
-    "blueprint_id": 283787,
+    "blueprint_id": 326622,
     "lowest_eur": 0.11,
-    "avg_eur": 93.27,
-    "listings_count": 108,
-    "url": "https://www.cardtrader.com/en/cards/283787"
+    "avg_eur": 0.49,
+    "listings_count": 49,
+    "url": "https://www.cardtrader.com/en/cards/326622"
   },
   "EB01-018": {
     "blueprint_id": 283802,
@@ -434,11 +434,11 @@
     "url": "https://www.cardtrader.com/en/cards/291491"
   },
   "OP07-109": {
-    "blueprint_id": 389844,
-    "lowest_eur": 2.35,
-    "avg_eur": 12.9,
-    "listings_count": 15,
-    "url": "https://www.cardtrader.com/en/cards/389844"
+    "blueprint_id": 290950,
+    "lowest_eur": 0.4,
+    "avg_eur": 109.18,
+    "listings_count": 94,
+    "url": "https://www.cardtrader.com/en/cards/290950"
   },
   "OP07-114": {
     "blueprint_id": 291482,
@@ -448,11 +448,11 @@
     "url": "https://www.cardtrader.com/en/cards/291482"
   },
   "OP07-118": {
-    "blueprint_id": 291438,
-    "lowest_eur": 1.02,
-    "avg_eur": 214.2,
-    "listings_count": 79,
-    "url": "https://www.cardtrader.com/en/cards/291438"
+    "blueprint_id": 381938,
+    "lowest_eur": 75.62,
+    "avg_eur": 147.1,
+    "listings_count": 11,
+    "url": "https://www.cardtrader.com/en/cards/381938"
   },
   "OP07-119": {
     "blueprint_id": 290954,
@@ -735,18 +735,18 @@
     "url": "https://www.cardtrader.com/en/cards/323807"
   },
   "OP10-108": {
-    "blueprint_id": 405765,
-    "lowest_eur": 4.1,
-    "avg_eur": 6.18,
-    "listings_count": 14,
-    "url": "https://www.cardtrader.com/en/cards/405765"
+    "blueprint_id": 323924,
+    "lowest_eur": 0.11,
+    "avg_eur": 112.62,
+    "listings_count": 267,
+    "url": "https://www.cardtrader.com/en/cards/323924"
   },
   "OP10-109": {
-    "blueprint_id": 323796,
+    "blueprint_id": 337349,
     "lowest_eur": 0.11,
-    "avg_eur": 57.96,
-    "listings_count": 174,
-    "url": "https://www.cardtrader.com/en/cards/323796"
+    "avg_eur": 2.57,
+    "listings_count": 17,
+    "url": "https://www.cardtrader.com/en/cards/337349"
   },
   "OP10-112": {
     "blueprint_id": 323867,
@@ -763,11 +763,11 @@
     "url": "https://www.cardtrader.com/en/cards/323969"
   },
   "OP10-119": {
-    "blueprint_id": 323946,
-    "lowest_eur": 1.07,
-    "avg_eur": 249.1,
-    "listings_count": 55,
-    "url": "https://www.cardtrader.com/en/cards/323946"
+    "blueprint_id": 323937,
+    "lowest_eur": 24.39,
+    "avg_eur": 34.99,
+    "listings_count": 23,
+    "url": "https://www.cardtrader.com/en/cards/323937"
   },
   "P-044": {
     "blueprint_id": 329931,
@@ -903,18 +903,18 @@
     "url": "https://www.cardtrader.com/en/cards/350849"
   },
   "PRB02-005": {
-    "blueprint_id": 388971,
-    "lowest_eur": 782.36,
-    "avg_eur": 866.5,
-    "listings_count": 2,
-    "url": "https://www.cardtrader.com/en/cards/388971"
+    "blueprint_id": 350885,
+    "lowest_eur": 0.11,
+    "avg_eur": 119.28,
+    "listings_count": 86,
+    "url": "https://www.cardtrader.com/en/cards/350885"
   },
   "PRB02-006": {
-    "blueprint_id": 365775,
-    "lowest_eur": 500.64,
-    "avg_eur": 1101.56,
-    "listings_count": 12,
-    "url": "https://www.cardtrader.com/en/cards/365775"
+    "blueprint_id": 350880,
+    "lowest_eur": 0.69,
+    "avg_eur": 7.22,
+    "listings_count": 65,
+    "url": "https://www.cardtrader.com/en/cards/350880"
   },
   "PRB02-007": {
     "blueprint_id": 350846,
@@ -952,11 +952,11 @@
     "url": "https://www.cardtrader.com/en/cards/350859"
   },
   "PRB02-012": {
-    "blueprint_id": 388994,
-    "lowest_eur": 5.11,
-    "avg_eur": 10.79,
-    "listings_count": 51,
-    "url": "https://www.cardtrader.com/en/cards/388994"
+    "blueprint_id": 350884,
+    "lowest_eur": 0.11,
+    "avg_eur": 158.22,
+    "listings_count": 65,
+    "url": "https://www.cardtrader.com/en/cards/350884"
   },
   "PRB02-013": {
     "blueprint_id": 350858,
@@ -966,11 +966,11 @@
     "url": "https://www.cardtrader.com/en/cards/350858"
   },
   "PRB02-014": {
-    "blueprint_id": 376083,
-    "lowest_eur": 150.64,
-    "avg_eur": 258.27,
-    "listings_count": 16,
-    "url": "https://www.cardtrader.com/en/cards/376083"
+    "blueprint_id": 350879,
+    "lowest_eur": 0.11,
+    "avg_eur": 125.08,
+    "listings_count": 83,
+    "url": "https://www.cardtrader.com/en/cards/350879"
   },
   "PRB02-015": {
     "blueprint_id": 350867,
@@ -1218,18 +1218,18 @@
     "url": "https://www.cardtrader.com/en/cards/283778"
   },
   "OP01-006": {
-    "blueprint_id": 244472,
-    "lowest_eur": 0.11,
-    "avg_eur": 98,
-    "listings_count": 103,
-    "url": "https://www.cardtrader.com/en/cards/244472"
+    "blueprint_id": 250642,
+    "lowest_eur": 5.62,
+    "avg_eur": 7.97,
+    "listings_count": 6,
+    "url": "https://www.cardtrader.com/en/cards/250642"
   },
   "OP01-016": {
-    "blueprint_id": 244494,
-    "lowest_eur": 0.38,
-    "avg_eur": 411.53,
-    "listings_count": 49,
-    "url": "https://www.cardtrader.com/en/cards/244494"
+    "blueprint_id": 268482,
+    "lowest_eur": 2.1,
+    "avg_eur": 316.39,
+    "listings_count": 33,
+    "url": "https://www.cardtrader.com/en/cards/268482"
   },
   "OP01-024": {
     "blueprint_id": 244509,
@@ -1477,11 +1477,11 @@
     "url": "https://www.cardtrader.com/en/cards/250317"
   },
   "OP03-122": {
-    "blueprint_id": 253217,
-    "lowest_eur": 9.62,
-    "avg_eur": 20.02,
-    "listings_count": 26,
-    "url": "https://www.cardtrader.com/en/cards/253217"
+    "blueprint_id": 250307,
+    "lowest_eur": 18.27,
+    "avg_eur": 34.25,
+    "listings_count": 21,
+    "url": "https://www.cardtrader.com/en/cards/250307"
   },
   "OP03-123": {
     "blueprint_id": 250127,
@@ -1687,11 +1687,11 @@
     "url": "https://www.cardtrader.com/en/cards/268470"
   },
   "OP05-119": {
-    "blueprint_id": 268467,
-    "lowest_eur": 3.2,
-    "avg_eur": 264.99,
-    "listings_count": 82,
-    "url": "https://www.cardtrader.com/en/cards/268467"
+    "blueprint_id": 339288,
+    "lowest_eur": 68.14,
+    "avg_eur": 762.39,
+    "listings_count": 16,
+    "url": "https://www.cardtrader.com/en/cards/339288"
   },
   "OP06-003": {
     "blueprint_id": 280801,
@@ -1834,11 +1834,11 @@
     "url": "https://www.cardtrader.com/en/cards/256628"
   },
   "P-029": {
-    "blueprint_id": 255429,
-    "lowest_eur": 0.57,
-    "avg_eur": 8.27,
-    "listings_count": 17,
-    "url": "https://www.cardtrader.com/en/cards/255429"
+    "blueprint_id": 305517,
+    "lowest_eur": 0.12,
+    "avg_eur": 0.43,
+    "listings_count": 68,
+    "url": "https://www.cardtrader.com/en/cards/305517"
   },
   "P-053": {
     "blueprint_id": 272359,
@@ -1904,11 +1904,11 @@
     "url": "https://www.cardtrader.com/en/cards/245320"
   },
   "ST04-003": {
-    "blueprint_id": 245334,
-    "lowest_eur": 0.11,
-    "avg_eur": 59.44,
-    "listings_count": 171,
-    "url": "https://www.cardtrader.com/en/cards/245334"
+    "blueprint_id": 340685,
+    "lowest_eur": 18.26,
+    "avg_eur": 18.26,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/340685"
   },
   "ST04-005": {
     "blueprint_id": 245338,
@@ -3010,11 +3010,11 @@
     "url": "https://www.cardtrader.com/en/cards/283749"
   },
   "EB01-003": {
-    "blueprint_id": 283747,
-    "lowest_eur": 1.73,
-    "avg_eur": 3.74,
-    "listings_count": 68,
-    "url": "https://www.cardtrader.com/en/cards/283747"
+    "blueprint_id": 337312,
+    "lowest_eur": 12.16,
+    "avg_eur": 16.66,
+    "listings_count": 16,
+    "url": "https://www.cardtrader.com/en/cards/337312"
   },
   "EB01-004": {
     "blueprint_id": 283735,
@@ -3325,11 +3325,11 @@
     "url": "https://www.cardtrader.com/en/cards/283739"
   },
   "EB04-061": {
-    "blueprint_id": 376080,
-    "lowest_eur": 6.14,
-    "avg_eur": 16.94,
-    "listings_count": 65,
-    "url": "https://www.cardtrader.com/en/cards/376080"
+    "blueprint_id": 375671,
+    "lowest_eur": 70000.64,
+    "avg_eur": 70000.64,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/375671"
   },
   "OP17-001": {
     "blueprint_id": 406131,
@@ -4151,11 +4151,11 @@
     "url": "https://www.cardtrader.com/en/cards/406247"
   },
   "OP17-118": {
-    "blueprint_id": 406248,
-    "lowest_eur": 20,
-    "avg_eur": 52.97,
-    "listings_count": 43,
-    "url": "https://www.cardtrader.com/en/cards/406248"
+    "blueprint_id": 406120,
+    "lowest_eur": 11997.64,
+    "avg_eur": 11999.14,
+    "listings_count": 2,
+    "url": "https://www.cardtrader.com/en/cards/406120"
   },
   "OP17-119": {
     "blueprint_id": 406249,
@@ -4200,11 +4200,11 @@
     "url": "https://www.cardtrader.com/en/cards/393101"
   },
   "P-084": {
-    "blueprint_id": 406117,
-    "lowest_eur": 255.64,
-    "avg_eur": 394.34,
-    "listings_count": 16,
-    "url": "https://www.cardtrader.com/en/cards/406117"
+    "blueprint_id": 334669,
+    "lowest_eur": 0.11,
+    "avg_eur": 471.74,
+    "listings_count": 52,
+    "url": "https://www.cardtrader.com/en/cards/334669"
   },
   "P-107": {
     "blueprint_id": 358719,
@@ -6125,11 +6125,11 @@
     "url": "https://www.cardtrader.com/en/cards/376029"
   },
   "OP15-119": {
-    "blueprint_id": 376032,
+    "blueprint_id": 403152,
     "lowest_eur": 4.11,
-    "avg_eur": 16.61,
-    "listings_count": 79,
-    "url": "https://www.cardtrader.com/en/cards/376032"
+    "avg_eur": 4.11,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/403152"
   },
   "OP11-106": {
     "blueprint_id": 334196,
@@ -6160,11 +6160,11 @@
     "url": "https://www.cardtrader.com/en/cards/354347"
   },
   "P-105": {
-    "blueprint_id": 376039,
-    "lowest_eur": 70.64,
-    "avg_eur": 105.77,
-    "listings_count": 17,
-    "url": "https://www.cardtrader.com/en/cards/376039"
+    "blueprint_id": 354273,
+    "lowest_eur": 1.9,
+    "avg_eur": 3.3,
+    "listings_count": 10,
+    "url": "https://www.cardtrader.com/en/cards/354273"
   },
   "ST26-005": {
     "blueprint_id": 334689,
@@ -6251,11 +6251,11 @@
     "url": "https://www.cardtrader.com/en/cards/365746"
   },
   "EB04-022": {
-    "blueprint_id": 405764,
-    "lowest_eur": 1.08,
-    "avg_eur": 4.91,
-    "listings_count": 17,
-    "url": "https://www.cardtrader.com/en/cards/405764"
+    "blueprint_id": 365747,
+    "lowest_eur": 0.11,
+    "avg_eur": 0.96,
+    "listings_count": 42,
+    "url": "https://www.cardtrader.com/en/cards/365747"
   },
   "EB04-023": {
     "blueprint_id": 365749,
@@ -6307,11 +6307,11 @@
     "url": "https://www.cardtrader.com/en/cards/365756"
   },
   "EB04-030": {
-    "blueprint_id": 406352,
-    "lowest_eur": 0.99,
-    "avg_eur": 2.8,
-    "listings_count": 53,
-    "url": "https://www.cardtrader.com/en/cards/406352"
+    "blueprint_id": 365757,
+    "lowest_eur": 0.11,
+    "avg_eur": 0.76,
+    "listings_count": 125,
+    "url": "https://www.cardtrader.com/en/cards/365757"
   },
   "EB04-031": {
     "blueprint_id": 365758,
@@ -6545,11 +6545,11 @@
     "url": "https://www.cardtrader.com/en/cards/363173"
   },
   "OP14-022": {
-    "blueprint_id": 363174,
-    "lowest_eur": 0.11,
-    "avg_eur": 0.46,
-    "listings_count": 170,
-    "url": "https://www.cardtrader.com/en/cards/363174"
+    "blueprint_id": 366561,
+    "lowest_eur": 10,
+    "avg_eur": 11.6,
+    "listings_count": 11,
+    "url": "https://www.cardtrader.com/en/cards/366561"
   },
   "OP14-023": {
     "blueprint_id": 363175,
@@ -6580,11 +6580,11 @@
     "url": "https://www.cardtrader.com/en/cards/363178"
   },
   "OP14-027": {
-    "blueprint_id": 406354,
-    "lowest_eur": 1.28,
-    "avg_eur": 3.71,
+    "blueprint_id": 363179,
+    "lowest_eur": 0.11,
+    "avg_eur": 201.41,
     "listings_count": 50,
-    "url": "https://www.cardtrader.com/en/cards/406354"
+    "url": "https://www.cardtrader.com/en/cards/363179"
   },
   "OP14-028": {
     "blueprint_id": 363181,
@@ -6615,11 +6615,11 @@
     "url": "https://www.cardtrader.com/en/cards/363186"
   },
   "OP14-033": {
-    "blueprint_id": 385738,
-    "lowest_eur": 70.58,
-    "avg_eur": 231.89,
-    "listings_count": 13,
-    "url": "https://www.cardtrader.com/en/cards/385738"
+    "blueprint_id": 363187,
+    "lowest_eur": 0.61,
+    "avg_eur": 228.83,
+    "listings_count": 66,
+    "url": "https://www.cardtrader.com/en/cards/363187"
   },
   "OP14-034": {
     "blueprint_id": 363189,
@@ -6804,11 +6804,11 @@
     "url": "https://www.cardtrader.com/en/cards/363218"
   },
   "OP14-060": {
-    "blueprint_id": 408395,
-    "lowest_eur": 0.25,
-    "avg_eur": 0.25,
-    "listings_count": 1,
-    "url": "https://www.cardtrader.com/en/cards/408395"
+    "blueprint_id": 363219,
+    "lowest_eur": 0.11,
+    "avg_eur": 0.35,
+    "listings_count": 94,
+    "url": "https://www.cardtrader.com/en/cards/363219"
   },
   "OP14-061": {
     "blueprint_id": 363221,
@@ -7203,18 +7203,18 @@
     "url": "https://www.cardtrader.com/en/cards/363289"
   },
   "OP14-119": {
-    "blueprint_id": 363291,
+    "blueprint_id": 399656,
     "lowest_eur": 2.1,
-    "avg_eur": 223.95,
-    "listings_count": 67,
-    "url": "https://www.cardtrader.com/en/cards/363291"
+    "avg_eur": 2.1,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/399656"
   },
   "OP14-120": {
-    "blueprint_id": 363294,
-    "lowest_eur": 2.1,
-    "avg_eur": 241.88,
-    "listings_count": 57,
-    "url": "https://www.cardtrader.com/en/cards/363294"
+    "blueprint_id": 377900,
+    "lowest_eur": 1300.64,
+    "avg_eur": 1350.64,
+    "listings_count": 2,
+    "url": "https://www.cardtrader.com/en/cards/377900"
   },
   "OP06-093": {
     "blueprint_id": 280854,
@@ -7266,11 +7266,11 @@
     "url": "https://www.cardtrader.com/en/cards/354299"
   },
   "OP13-002": {
-    "blueprint_id": 354301,
+    "blueprint_id": 406823,
     "lowest_eur": 0.11,
-    "avg_eur": 0.47,
-    "listings_count": 171,
-    "url": "https://www.cardtrader.com/en/cards/354301"
+    "avg_eur": 0.11,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/406823"
   },
   "OP13-003": {
     "blueprint_id": 354293,
@@ -8050,25 +8050,25 @@
     "url": "https://www.cardtrader.com/en/cards/354354"
   },
   "OP13-118": {
-    "blueprint_id": 354319,
-    "lowest_eur": 3,
-    "avg_eur": 20.78,
-    "listings_count": 51,
-    "url": "https://www.cardtrader.com/en/cards/354319"
+    "blueprint_id": 374931,
+    "lowest_eur": 294.64,
+    "avg_eur": 294.64,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/374931"
   },
   "OP13-119": {
-    "blueprint_id": 354320,
-    "lowest_eur": 0.9,
-    "avg_eur": 152.26,
-    "listings_count": 68,
-    "url": "https://www.cardtrader.com/en/cards/354320"
+    "blueprint_id": 374930,
+    "lowest_eur": 92.63,
+    "avg_eur": 93.14,
+    "listings_count": 2,
+    "url": "https://www.cardtrader.com/en/cards/374930"
   },
   "OP13-120": {
-    "blueprint_id": 354321,
-    "lowest_eur": 2.05,
-    "avg_eur": 8.15,
-    "listings_count": 40,
-    "url": "https://www.cardtrader.com/en/cards/354321"
+    "blueprint_id": 374932,
+    "lowest_eur": 93.64,
+    "avg_eur": 93.64,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/374932"
   },
   "OP07-111": {
     "blueprint_id": 290944,
@@ -8078,18 +8078,18 @@
     "url": "https://www.cardtrader.com/en/cards/290944"
   },
   "OP09-118": {
-    "blueprint_id": 311727,
-    "lowest_eur": 4,
-    "avg_eur": 72.84,
-    "listings_count": 66,
-    "url": "https://www.cardtrader.com/en/cards/311727"
+    "blueprint_id": 311726,
+    "lowest_eur": 39.52,
+    "avg_eur": 13243.12,
+    "listings_count": 38,
+    "url": "https://www.cardtrader.com/en/cards/311726"
   },
   "OP09-119": {
-    "blueprint_id": 313081,
-    "lowest_eur": 2,
-    "avg_eur": 119.2,
-    "listings_count": 92,
-    "url": "https://www.cardtrader.com/en/cards/313081"
+    "blueprint_id": 381945,
+    "lowest_eur": 294.64,
+    "avg_eur": 405.92,
+    "listings_count": 11,
+    "url": "https://www.cardtrader.com/en/cards/381945"
   },
   "OP10-030": {
     "blueprint_id": 323939,
@@ -9233,11 +9233,11 @@
     "url": "https://www.cardtrader.com/en/cards/334115"
   },
   "OP11-040": {
-    "blueprint_id": 334116,
+    "blueprint_id": 406822,
     "lowest_eur": 0.11,
-    "avg_eur": 119.5,
-    "listings_count": 168,
-    "url": "https://www.cardtrader.com/en/cards/334116"
+    "avg_eur": 0.11,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/406822"
   },
   "OP11-041": {
     "blueprint_id": 334118,
@@ -9331,11 +9331,11 @@
     "url": "https://www.cardtrader.com/en/cards/334133"
   },
   "OP11-054": {
-    "blueprint_id": 334134,
-    "lowest_eur": 1.1,
-    "avg_eur": 3.74,
-    "listings_count": 44,
-    "url": "https://www.cardtrader.com/en/cards/334134"
+    "blueprint_id": 399335,
+    "lowest_eur": 39.52,
+    "avg_eur": 41.55,
+    "listings_count": 4,
+    "url": "https://www.cardtrader.com/en/cards/399335"
   },
   "OP11-055": {
     "blueprint_id": 334136,
@@ -9366,11 +9366,11 @@
     "url": "https://www.cardtrader.com/en/cards/334140"
   },
   "OP11-060": {
-    "blueprint_id": 334141,
-    "lowest_eur": 0.11,
-    "avg_eur": 57.3,
-    "listings_count": 176,
-    "url": "https://www.cardtrader.com/en/cards/334141"
+    "blueprint_id": 366514,
+    "lowest_eur": 6.39,
+    "avg_eur": 8.43,
+    "listings_count": 9,
+    "url": "https://www.cardtrader.com/en/cards/366514"
   },
   "OP11-061": {
     "blueprint_id": 334142,
@@ -10052,11 +10052,11 @@
     "url": "https://www.cardtrader.com/en/cards/323916"
   },
   "OP10-042": {
-    "blueprint_id": 354616,
-    "lowest_eur": 66.07,
-    "avg_eur": 132.28,
-    "listings_count": 9,
-    "url": "https://www.cardtrader.com/en/cards/354616"
+    "blueprint_id": 323960,
+    "lowest_eur": 0.11,
+    "avg_eur": 56.84,
+    "listings_count": 177,
+    "url": "https://www.cardtrader.com/en/cards/323960"
   },
   "OP10-043": {
     "blueprint_id": 323907,
@@ -10451,11 +10451,11 @@
     "url": "https://www.cardtrader.com/en/cards/323848"
   },
   "OP10-107": {
-    "blueprint_id": 386900,
-    "lowest_eur": 5.11,
-    "avg_eur": 7.45,
-    "listings_count": 4,
-    "url": "https://www.cardtrader.com/en/cards/386900"
+    "blueprint_id": 323847,
+    "lowest_eur": 0.11,
+    "avg_eur": 148.21,
+    "listings_count": 203,
+    "url": "https://www.cardtrader.com/en/cards/323847"
   },
   "OP10-110": {
     "blueprint_id": 323855,
@@ -10563,11 +10563,11 @@
     "url": "https://www.cardtrader.com/en/cards/313019"
   },
   "OP09-011": {
-    "blueprint_id": 313062,
+    "blueprint_id": 326627,
     "lowest_eur": 0.11,
     "avg_eur": 0.38,
-    "listings_count": 260,
-    "url": "https://www.cardtrader.com/en/cards/313062"
+    "listings_count": 45,
+    "url": "https://www.cardtrader.com/en/cards/326627"
   },
   "OP09-012": {
     "blueprint_id": 313090,
@@ -11137,11 +11137,11 @@
     "url": "https://www.cardtrader.com/en/cards/313025"
   },
   "OP04-119": {
-    "blueprint_id": 260918,
-    "lowest_eur": 2.61,
-    "avg_eur": 675.6,
-    "listings_count": 45,
-    "url": "https://www.cardtrader.com/en/cards/260918"
+    "blueprint_id": 260901,
+    "lowest_eur": 6.07,
+    "avg_eur": 363.86,
+    "listings_count": 29,
+    "url": "https://www.cardtrader.com/en/cards/260901"
   },
   "OP05-067": {
     "blueprint_id": 270384,
@@ -11837,11 +11837,11 @@
     "url": "https://www.cardtrader.com/en/cards/299407"
   },
   "OP08-110": {
-    "blueprint_id": 299408,
+    "blueprint_id": 326624,
     "lowest_eur": 0.11,
-    "avg_eur": 57.18,
-    "listings_count": 226,
-    "url": "https://www.cardtrader.com/en/cards/299408"
+    "avg_eur": 0.39,
+    "listings_count": 60,
+    "url": "https://www.cardtrader.com/en/cards/326624"
   },
   "OP08-111": {
     "blueprint_id": 299410,
@@ -12166,11 +12166,11 @@
     "url": "https://www.cardtrader.com/en/cards/291419"
   },
   "OP07-048": {
-    "blueprint_id": 371853,
-    "lowest_eur": 7.42,
-    "avg_eur": 29.37,
-    "listings_count": 8,
-    "url": "https://www.cardtrader.com/en/cards/371853"
+    "blueprint_id": 291500,
+    "lowest_eur": 0.11,
+    "avg_eur": 45.27,
+    "listings_count": 223,
+    "url": "https://www.cardtrader.com/en/cards/291500"
   },
   "OP07-049": {
     "blueprint_id": 291509,
@@ -13132,11 +13132,11 @@
     "url": "https://www.cardtrader.com/en/cards/280853"
   },
   "ST01-007": {
-    "blueprint_id": 244884,
-    "lowest_eur": 0.11,
-    "avg_eur": 591.05,
-    "listings_count": 17,
-    "url": "https://www.cardtrader.com/en/cards/244884"
+    "blueprint_id": 349222,
+    "lowest_eur": 65.64,
+    "avg_eur": 131.33,
+    "listings_count": 14,
+    "url": "https://www.cardtrader.com/en/cards/349222"
   },
   "OP03-114": {
     "blueprint_id": 250133,
@@ -13748,11 +13748,11 @@
     "url": "https://www.cardtrader.com/en/cards/270174"
   },
   "ST01-012": {
-    "blueprint_id": 245226,
-    "lowest_eur": 2.1,
-    "avg_eur": 259.99,
-    "listings_count": 40,
-    "url": "https://www.cardtrader.com/en/cards/245226"
+    "blueprint_id": 355494,
+    "lowest_eur": 250.64,
+    "avg_eur": 259.86,
+    "listings_count": 3,
+    "url": "https://www.cardtrader.com/en/cards/355494"
   },
   "OP02-120": {
     "blueprint_id": 245217,
@@ -15421,11 +15421,11 @@
     "url": "https://www.cardtrader.com/en/cards/245085"
   },
   "OP02-040": {
-    "blueprint_id": 245087,
-    "lowest_eur": 0.11,
-    "avg_eur": 74.64,
-    "listings_count": 135,
-    "url": "https://www.cardtrader.com/en/cards/245087"
+    "blueprint_id": 260814,
+    "lowest_eur": 10.15,
+    "avg_eur": 18.95,
+    "listings_count": 8,
+    "url": "https://www.cardtrader.com/en/cards/260814"
   },
   "OP02-041": {
     "blueprint_id": 245088,
@@ -15946,18 +15946,18 @@
     "url": "https://www.cardtrader.com/en/cards/244465"
   },
   "OP01-004": {
-    "blueprint_id": 244469,
-    "lowest_eur": 0.11,
-    "avg_eur": 98.5,
-    "listings_count": 102,
-    "url": "https://www.cardtrader.com/en/cards/244469"
+    "blueprint_id": 295274,
+    "lowest_eur": 185.64,
+    "avg_eur": 204.18,
+    "listings_count": 7,
+    "url": "https://www.cardtrader.com/en/cards/295274"
   },
   "OP01-005": {
-    "blueprint_id": 244470,
-    "lowest_eur": 0.11,
-    "avg_eur": 144.41,
-    "listings_count": 139,
-    "url": "https://www.cardtrader.com/en/cards/244470"
+    "blueprint_id": 250508,
+    "lowest_eur": 8.4,
+    "avg_eur": 60.6,
+    "listings_count": 21,
+    "url": "https://www.cardtrader.com/en/cards/250508"
   },
   "OP01-007": {
     "blueprint_id": 244474,
@@ -16002,11 +16002,11 @@
     "url": "https://www.cardtrader.com/en/cards/244486"
   },
   "OP01-013": {
-    "blueprint_id": 244487,
-    "lowest_eur": 0.11,
-    "avg_eur": 456.62,
-    "listings_count": 44,
-    "url": "https://www.cardtrader.com/en/cards/244487"
+    "blueprint_id": 264943,
+    "lowest_eur": 22.46,
+    "avg_eur": 55.96,
+    "listings_count": 16,
+    "url": "https://www.cardtrader.com/en/cards/264943"
   },
   "OP01-014": {
     "blueprint_id": 244491,
@@ -16464,11 +16464,11 @@
     "url": "https://www.cardtrader.com/en/cards/244633"
   },
   "OP01-093": {
-    "blueprint_id": 244634,
-    "lowest_eur": 0.11,
-    "avg_eur": 0.5,
-    "listings_count": 155,
-    "url": "https://www.cardtrader.com/en/cards/244634"
+    "blueprint_id": 264367,
+    "lowest_eur": 0.29,
+    "avg_eur": 1.01,
+    "listings_count": 27,
+    "url": "https://www.cardtrader.com/en/cards/264367"
   },
   "OP01-094": {
     "blueprint_id": 244636,
@@ -16723,11 +16723,11 @@
     "url": "https://www.cardtrader.com/en/cards/402367"
   },
   "P-090": {
-    "blueprint_id": 345026,
-    "lowest_eur": 5.99,
-    "avg_eur": 10,
-    "listings_count": 20,
-    "url": "https://www.cardtrader.com/en/cards/345026"
+    "blueprint_id": 380692,
+    "lowest_eur": 3.61,
+    "avg_eur": 4.7,
+    "listings_count": 4,
+    "url": "https://www.cardtrader.com/en/cards/380692"
   },
   "ST34-001": {
     "blueprint_id": 402354,
@@ -17122,11 +17122,11 @@
     "url": "https://www.cardtrader.com/en/cards/366330"
   },
   "ST13-016": {
-    "blueprint_id": 400522,
-    "lowest_eur": 95.64,
-    "avg_eur": 122.39,
-    "listings_count": 4,
-    "url": "https://www.cardtrader.com/en/cards/400522"
+    "blueprint_id": 283817,
+    "lowest_eur": 0.11,
+    "avg_eur": 306.51,
+    "listings_count": 98,
+    "url": "https://www.cardtrader.com/en/cards/283817"
   },
   "ST28-001": {
     "blueprint_id": 335370,
@@ -17528,11 +17528,11 @@
     "url": "https://www.cardtrader.com/en/cards/323542"
   },
   "ST21-017": {
-    "blueprint_id": 405769,
-    "lowest_eur": 1.85,
-    "avg_eur": 3.12,
-    "listings_count": 17,
-    "url": "https://www.cardtrader.com/en/cards/405769"
+    "blueprint_id": 323541,
+    "lowest_eur": 0.11,
+    "avg_eur": 3.64,
+    "listings_count": 23,
+    "url": "https://www.cardtrader.com/en/cards/323541"
   },
   "ST07-005": {
     "blueprint_id": 250494,
@@ -17605,11 +17605,11 @@
     "url": "https://www.cardtrader.com/en/cards/305544"
   },
   "P-041": {
-    "blueprint_id": 256669,
-    "lowest_eur": 20.27,
-    "avg_eur": 57.37,
-    "listings_count": 10,
-    "url": "https://www.cardtrader.com/en/cards/256669"
+    "blueprint_id": 305561,
+    "lowest_eur": 1.64,
+    "avg_eur": 58.77,
+    "listings_count": 55,
+    "url": "https://www.cardtrader.com/en/cards/305561"
   },
   "P-030": {
     "blueprint_id": 255434,
@@ -17633,39 +17633,39 @@
     "url": "https://www.cardtrader.com/en/cards/305530"
   },
   "ST17-004": {
-    "blueprint_id": 326796,
-    "lowest_eur": 80.62,
-    "avg_eur": 136.66,
-    "listings_count": 9,
-    "url": "https://www.cardtrader.com/en/cards/326796"
+    "blueprint_id": 305532,
+    "lowest_eur": 6.83,
+    "avg_eur": 12.34,
+    "listings_count": 22,
+    "url": "https://www.cardtrader.com/en/cards/305532"
   },
   "P-057": {
-    "blueprint_id": 283071,
-    "lowest_eur": 0.18,
-    "avg_eur": 0.93,
-    "listings_count": 49,
-    "url": "https://www.cardtrader.com/en/cards/283071"
+    "blueprint_id": 305515,
+    "lowest_eur": 0.11,
+    "avg_eur": 0.42,
+    "listings_count": 75,
+    "url": "https://www.cardtrader.com/en/cards/305515"
   },
   "P-058": {
-    "blueprint_id": 283076,
-    "lowest_eur": 0.21,
-    "avg_eur": 1.16,
-    "listings_count": 56,
-    "url": "https://www.cardtrader.com/en/cards/283076"
+    "blueprint_id": 305506,
+    "lowest_eur": 0.11,
+    "avg_eur": 0.39,
+    "listings_count": 71,
+    "url": "https://www.cardtrader.com/en/cards/305506"
   },
   "P-059": {
-    "blueprint_id": 283074,
-    "lowest_eur": 0.18,
-    "avg_eur": 1.22,
-    "listings_count": 51,
-    "url": "https://www.cardtrader.com/en/cards/283074"
+    "blueprint_id": 305508,
+    "lowest_eur": 0.11,
+    "avg_eur": 0.42,
+    "listings_count": 73,
+    "url": "https://www.cardtrader.com/en/cards/305508"
   },
   "P-060": {
-    "blueprint_id": 283075,
-    "lowest_eur": 0.18,
-    "avg_eur": 0.93,
-    "listings_count": 50,
-    "url": "https://www.cardtrader.com/en/cards/283075"
+    "blueprint_id": 305507,
+    "lowest_eur": 0.11,
+    "avg_eur": 0.44,
+    "listings_count": 74,
+    "url": "https://www.cardtrader.com/en/cards/305507"
   },
   "P-061": {
     "blueprint_id": 277439,
@@ -17682,25 +17682,25 @@
     "url": "https://www.cardtrader.com/en/cards/275347"
   },
   "ST11-003": {
-    "blueprint_id": 283070,
-    "lowest_eur": 0.22,
-    "avg_eur": 2.07,
-    "listings_count": 47,
-    "url": "https://www.cardtrader.com/en/cards/283070"
+    "blueprint_id": 275348,
+    "lowest_eur": 0.18,
+    "avg_eur": 1.19,
+    "listings_count": 48,
+    "url": "https://www.cardtrader.com/en/cards/275348"
   },
   "ST11-004": {
-    "blueprint_id": 283073,
-    "lowest_eur": 0.26,
-    "avg_eur": 1.19,
-    "listings_count": 51,
-    "url": "https://www.cardtrader.com/en/cards/283073"
+    "blueprint_id": 275349,
+    "lowest_eur": 0.2,
+    "avg_eur": 0.97,
+    "listings_count": 67,
+    "url": "https://www.cardtrader.com/en/cards/275349"
   },
   "ST11-005": {
-    "blueprint_id": 283072,
-    "lowest_eur": 0.19,
-    "avg_eur": 0.82,
-    "listings_count": 51,
-    "url": "https://www.cardtrader.com/en/cards/283072"
+    "blueprint_id": 275350,
+    "lowest_eur": 0.11,
+    "avg_eur": 0.39,
+    "listings_count": 66,
+    "url": "https://www.cardtrader.com/en/cards/275350"
   },
   "ST16-001": {
     "blueprint_id": 305505,
@@ -18025,11 +18025,11 @@
     "url": "https://www.cardtrader.com/en/cards/266780"
   },
   "ST10-006": {
-    "blueprint_id": 298987,
-    "lowest_eur": 23.96,
-    "avg_eur": 85.57,
-    "listings_count": 28,
-    "url": "https://www.cardtrader.com/en/cards/298987"
+    "blueprint_id": 266782,
+    "lowest_eur": 1.5,
+    "avg_eur": 3.11,
+    "listings_count": 33,
+    "url": "https://www.cardtrader.com/en/cards/266782"
   },
   "ST10-007": {
     "blueprint_id": 266784,
@@ -18606,11 +18606,11 @@
     "url": "https://www.cardtrader.com/en/cards/245380"
   },
   "ST04-001": {
-    "blueprint_id": 245331,
-    "lowest_eur": 4.11,
-    "avg_eur": 6.86,
-    "listings_count": 6,
-    "url": "https://www.cardtrader.com/en/cards/245331"
+    "blueprint_id": 245330,
+    "lowest_eur": 85.64,
+    "avg_eur": 116.56,
+    "listings_count": 7,
+    "url": "https://www.cardtrader.com/en/cards/245330"
   },
   "ST04-002": {
     "blueprint_id": 245332,
@@ -18704,11 +18704,11 @@
     "url": "https://www.cardtrader.com/en/cards/245362"
   },
   "ST03-001": {
-    "blueprint_id": 397613,
-    "lowest_eur": 10.15,
-    "avg_eur": 13.65,
-    "listings_count": 7,
-    "url": "https://www.cardtrader.com/en/cards/397613"
+    "blueprint_id": 245294,
+    "lowest_eur": 45.64,
+    "avg_eur": 106.85,
+    "listings_count": 10,
+    "url": "https://www.cardtrader.com/en/cards/245294"
   },
   "ST03-003": {
     "blueprint_id": 245300,
@@ -18753,11 +18753,11 @@
     "url": "https://www.cardtrader.com/en/cards/245318"
   },
   "ST03-014": {
-    "blueprint_id": 245322,
-    "lowest_eur": 0.11,
-    "avg_eur": 145.37,
-    "listings_count": 69,
-    "url": "https://www.cardtrader.com/en/cards/245322"
+    "blueprint_id": 264929,
+    "lowest_eur": 1.6,
+    "avg_eur": 202.86,
+    "listings_count": 5,
+    "url": "https://www.cardtrader.com/en/cards/264929"
   },
   "ST03-015": {
     "blueprint_id": 245324,
@@ -18886,11 +18886,11 @@
     "url": "https://www.cardtrader.com/en/cards/245284"
   },
   "ST01-001": {
-    "blueprint_id": 244872,
-    "lowest_eur": 36.46,
-    "avg_eur": 93.98,
-    "listings_count": 27,
-    "url": "https://www.cardtrader.com/en/cards/244872"
+    "blueprint_id": 244871,
+    "lowest_eur": 799.33,
+    "avg_eur": 1046.11,
+    "listings_count": 3,
+    "url": "https://www.cardtrader.com/en/cards/244871"
   },
   "ST01-002": {
     "blueprint_id": 244873,
@@ -18914,11 +18914,11 @@
     "url": "https://www.cardtrader.com/en/cards/244877"
   },
   "ST01-005": {
-    "blueprint_id": 244879,
-    "lowest_eur": 0.11,
-    "avg_eur": 91.52,
-    "listings_count": 110,
-    "url": "https://www.cardtrader.com/en/cards/244879"
+    "blueprint_id": 264914,
+    "lowest_eur": 6.53,
+    "avg_eur": 18.53,
+    "listings_count": 19,
+    "url": "https://www.cardtrader.com/en/cards/264914"
   },
   "ST01-008": {
     "blueprint_id": 244886,
@@ -19068,11 +19068,11 @@
     "url": "https://www.cardtrader.com/en/cards/256629"
   },
   "P-016": {
-    "blueprint_id": 256630,
-    "lowest_eur": 2.02,
-    "avg_eur": 77.81,
-    "listings_count": 10,
-    "url": "https://www.cardtrader.com/en/cards/256630"
+    "blueprint_id": 250543,
+    "lowest_eur": 15,
+    "avg_eur": 19.2,
+    "listings_count": 17,
+    "url": "https://www.cardtrader.com/en/cards/250543"
   },
   "P-017": {
     "blueprint_id": 256631,
@@ -19110,11 +19110,11 @@
     "url": "https://www.cardtrader.com/en/cards/255431"
   },
   "P-022": {
-    "blueprint_id": 256633,
-    "lowest_eur": 6.64,
-    "avg_eur": 17.88,
-    "listings_count": 33,
-    "url": "https://www.cardtrader.com/en/cards/256633"
+    "blueprint_id": 250538,
+    "lowest_eur": 28.39,
+    "avg_eur": 60.12,
+    "listings_count": 25,
+    "url": "https://www.cardtrader.com/en/cards/250538"
   },
   "P-023": {
     "blueprint_id": 256634,
@@ -19229,11 +19229,11 @@
     "url": "https://www.cardtrader.com/en/cards/305074"
   },
   "P-045": {
-    "blueprint_id": 355269,
-    "lowest_eur": 9.89,
-    "avg_eur": 14.21,
-    "listings_count": 12,
-    "url": "https://www.cardtrader.com/en/cards/355269"
+    "blueprint_id": 380691,
+    "lowest_eur": 3.96,
+    "avg_eur": 4.4,
+    "listings_count": 5,
+    "url": "https://www.cardtrader.com/en/cards/380691"
   },
   "P-046": {
     "blueprint_id": 282246,
@@ -19425,25 +19425,25 @@
     "url": "https://www.cardtrader.com/en/cards/406347"
   },
   "P-111": {
-    "blueprint_id": 375737,
-    "lowest_eur": 4.64,
-    "avg_eur": 12.16,
-    "listings_count": 46,
-    "url": "https://www.cardtrader.com/en/cards/375737"
+    "blueprint_id": 367361,
+    "lowest_eur": 14.66,
+    "avg_eur": 18.67,
+    "listings_count": 9,
+    "url": "https://www.cardtrader.com/en/cards/367361"
   },
   "P-112": {
-    "blueprint_id": 375739,
-    "lowest_eur": 2.05,
-    "avg_eur": 5.63,
-    "listings_count": 22,
-    "url": "https://www.cardtrader.com/en/cards/375739"
+    "blueprint_id": 367363,
+    "lowest_eur": 10.15,
+    "avg_eur": 17.47,
+    "listings_count": 7,
+    "url": "https://www.cardtrader.com/en/cards/367363"
   },
   "P-113": {
-    "blueprint_id": 375741,
-    "lowest_eur": 1.17,
-    "avg_eur": 3.93,
-    "listings_count": 19,
-    "url": "https://www.cardtrader.com/en/cards/375741"
+    "blueprint_id": 367362,
+    "lowest_eur": 3,
+    "avg_eur": 8.95,
+    "listings_count": 9,
+    "url": "https://www.cardtrader.com/en/cards/367362"
   },
   "P-115": {
     "blueprint_id": 380844,
@@ -19488,11 +19488,11 @@
     "url": "https://www.cardtrader.com/en/cards/380674"
   },
   "P-093": {
-    "blueprint_id": 368287,
-    "lowest_eur": 8.15,
-    "avg_eur": 17.1,
-    "listings_count": 31,
-    "url": "https://www.cardtrader.com/en/cards/368287"
+    "blueprint_id": 380693,
+    "lowest_eur": 17.77,
+    "avg_eur": 17.95,
+    "listings_count": 3,
+    "url": "https://www.cardtrader.com/en/cards/380693"
   },
   "P-000": {
     "blueprint_id": 0,
@@ -19712,25 +19712,25 @@
     "url": "https://www.cardtrader.com/en/cards/406852"
   },
   "P-152": {
-    "blueprint_id": 405571,
-    "lowest_eur": 16.27,
-    "avg_eur": 16.41,
-    "listings_count": 2,
-    "url": "https://www.cardtrader.com/en/cards/405571"
+    "blueprint_id": 402317,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.29,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/402317"
   },
   "P-153": {
-    "blueprint_id": 405572,
-    "lowest_eur": 16.27,
-    "avg_eur": 16.41,
-    "listings_count": 2,
-    "url": "https://www.cardtrader.com/en/cards/405572"
+    "blueprint_id": 402318,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.29,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/402318"
   },
   "P-154": {
-    "blueprint_id": 405573,
-    "lowest_eur": 16.27,
-    "avg_eur": 16.41,
-    "listings_count": 2,
-    "url": "https://www.cardtrader.com/en/cards/405573"
+    "blueprint_id": 402319,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.29,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/402319"
   },
   "P-157": {
     "blueprint_id": 406359,
@@ -19740,7 +19740,7 @@
     "url": "https://www.cardtrader.com/en/cards/406359"
   },
   "P-158": {
-    "blueprint_id": 0,
+    "blueprint_id": null,
     "lowest_eur": 0.15,
     "avg_eur": 0.15,
     "listings_count": 1,
@@ -19754,7 +19754,7 @@
     "url": "https://www.cardtrader.com/en/cards/399320"
   },
   "P-161": {
-    "blueprint_id": 0,
+    "blueprint_id": null,
     "lowest_eur": 8.34,
     "avg_eur": 8.34,
     "listings_count": 1,
@@ -21441,7 +21441,7 @@
     "url": "https://www.cardtrader.com/en/cards/408480"
   },
   "OP18-001": {
-    "blueprint_id": 0,
+    "blueprint_id": null,
     "lowest_eur": 0.15,
     "avg_eur": 0.15,
     "listings_count": 1,
@@ -21483,7 +21483,7 @@
     "url": "https://www.cardtrader.com/en/cards/408528"
   },
   "EB05-016": {
-    "blueprint_id": 0,
+    "blueprint_id": null,
     "lowest_eur": 0.15,
     "avg_eur": 0.15,
     "listings_count": 1,
@@ -21518,14 +21518,14 @@
     "url": "https://www.cardtrader.com/en/search?q=EB05-SP06"
   },
   "EB05-020": {
-    "blueprint_id": 0,
+    "blueprint_id": null,
     "lowest_eur": 0.15,
     "avg_eur": 0.15,
     "listings_count": 1,
     "url": "https://www.cardtrader.com/en/search?q=EB05-020"
   },
   "EB05-025": {
-    "blueprint_id": 0,
+    "blueprint_id": null,
     "lowest_eur": 0.15,
     "avg_eur": 0.15,
     "listings_count": 1,
@@ -21544,5 +21544,355 @@
     "avg_eur": 16.51,
     "listings_count": 3,
     "url": "https://www.cardtrader.com/en/cards/400443"
+  },
+  "EB05-002": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-002"
+  },
+  "EB05-005": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-005"
+  },
+  "EB05-007": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-007"
+  },
+  "EB05-009": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-009"
+  },
+  "EB05-011": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-011"
+  },
+  "EB05-012": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-012"
+  },
+  "EB05-013": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-013"
+  },
+  "EB05-017": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-017"
+  },
+  "EB05-022": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-022"
+  },
+  "EB05-023": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-023"
+  },
+  "EB05-027": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-027"
+  },
+  "EB05-028": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-028"
+  },
+  "EB05-029": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-029"
+  },
+  "EB05-035": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-035"
+  },
+  "EB05-036": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-036"
+  },
+  "EB05-037": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-037"
+  },
+  "EB05-038": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-038"
+  },
+  "EB05-039": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-039"
+  },
+  "EB05-042": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-042"
+  },
+  "EB05-044": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-044"
+  },
+  "EB05-045": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-045"
+  },
+  "EB05-047": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-047"
+  },
+  "EB05-048": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-048"
+  },
+  "EB05-051": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-051"
+  },
+  "EB05-053": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-053"
+  },
+  "EB05-056": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-056"
+  },
+  "EB05-057": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-057"
+  },
+  "EB05-060": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=EB05-060"
+  },
+  "OP18-003": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=OP18-003"
+  },
+  "OP18-022": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=OP18-022"
+  },
+  "OP18-028": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=OP18-028"
+  },
+  "OP18-041": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=OP18-041"
+  },
+  "OP18-056": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=OP18-056"
+  },
+  "OP18-066": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=OP18-066"
+  },
+  "OP18-079": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=OP18-079"
+  },
+  "P-121": {
+    "blueprint_id": 399660,
+    "lowest_eur": 45.64,
+    "avg_eur": 45.64,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/399660"
+  },
+  "P-122": {
+    "blueprint_id": 405594,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.29,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/405594"
+  },
+  "P-123": {
+    "blueprint_id": 405595,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.29,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/405595"
+  },
+  "P-124": {
+    "blueprint_id": 405592,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.29,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/405592"
+  },
+  "P-125": {
+    "blueprint_id": 405593,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.29,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/405593"
+  },
+  "P-126": {
+    "blueprint_id": 405597,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.29,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/405597"
+  },
+  "P-127": {
+    "blueprint_id": 405598,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.29,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/405598"
+  },
+  "P-128": {
+    "blueprint_id": 405599,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.29,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/405599"
+  },
+  "P-129": {
+    "blueprint_id": 405600,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.29,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/405600"
+  },
+  "P-130": {
+    "blueprint_id": 405601,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.29,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/405601"
+  },
+  "P-131": {
+    "blueprint_id": 405602,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.29,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/405602"
+  },
+  "P-132": {
+    "blueprint_id": 405603,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.29,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/405603"
+  },
+  "P-133": {
+    "blueprint_id": 405604,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.29,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/405604"
+  },
+  "P-134": {
+    "blueprint_id": 405605,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.29,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/cards/405605"
+  },
+  "P-163": {
+    "blueprint_id": null,
+    "lowest_eur": 0.25,
+    "avg_eur": 0.25,
+    "listings_count": 1,
+    "url": "https://www.cardtrader.com/en/search?q=P-163"
   }
 }
