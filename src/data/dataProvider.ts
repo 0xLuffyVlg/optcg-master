@@ -240,9 +240,7 @@ export const allPrintsAsCards: Card[] = allRawCards.map(raw => {
     listings_count: raw.listings_count !== undefined && raw.listings_count !== null ? raw.listings_count : (vMatch?.listings_count || existing?.listings_count),
     scalpeurs_image_url: raw.image_url || existing?.scalpeurs_image_url,
     cardmarket_url: (raw as any).cardmarket_url || vMatch?.cardmarket_url || existing?.cardmarket_url,
-    cardmarket_url_jp: (raw as any).cardmarket_url_jp || vMatch?.cardmarket_url_jp || existing?.cardmarket_url_jp,
-    tcgplayer_url: (raw as any).tcgplayer_url || vMatch?.tcgplayer_url || existing?.tcgplayer_url,
-    detail_file: (raw as any).detail_file || (existing as any)?.detail_file || (baseCode ? `${baseCode}.json` : undefined),
+    detail_file: (raw as any).detail_file || (vMatch as any)?.detail_file || (raw.id.match(/-([2-9])-(\d+)$/) ? `${baseCode}-v${raw.id.match(/-([2-9])-(\d+)$/)![1]}.json` : ((existing as any)?.detail_file || (baseCode ? `${baseCode}.json` : undefined))),
     _imagePaths: [defaultImg, imgFilename, ...(existing?._imagePaths || [])].filter((v, i, a) => a.indexOf(v) === i),
     _defaultImagePath: defaultImg
   };

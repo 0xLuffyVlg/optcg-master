@@ -176,8 +176,18 @@ export function getCardSlug(
 
   const lang = (card.language || 'fr').toLowerCase();
   let varSuffix = '';
-  if (artworkKey && /_p(\d+)/i.test(artworkKey)) {
-    const p = parseInt(artworkKey.match(/_p(\d+)/i)![1], 10);
+  const key = String(artworkKey || (card as any).detail_file || (card as any)._defaultImagePath || (card as any).id || '').toLowerCase();
+
+  const vMatch = key.match(/[-_]v([0-9]+)/i);
+  const idVariantMatch = String((card as any).id || '').match(/-([2-9])-(\d+)$/);
+
+  if (vMatch) {
+    const v = parseInt(vMatch[1], 10);
+    if (v > 1) varSuffix = `-v${v}`;
+  } else if (idVariantMatch) {
+    varSuffix = `-v${idVariantMatch[1]}`;
+  } else if (/_p0?([0-9]+)/i.test(key)) {
+    const p = parseInt(key.match(/_p0?([0-9]+)/i)![1], 10);
     if (p > 1) varSuffix = `-v${p}`;
   } else if ('variant' in card && (card as any).variant && (card as any).variant > 1) {
     varSuffix = `-v${(card as any).variant}`;

@@ -656,3 +656,21 @@ export function validateDeck(deck: Deck): {
     restrictedCards
   };
 }
+
+/**
+ * Determines whether a given card is an Alternate Art / Parallel / Manga / SP / Variant
+ */
+export function isAltArtworkCard(c: Card | { id?: string; card_code?: string; variant?: number; art_type?: string; variant_type?: string; _defaultImagePath?: string; image_path?: string; image_url?: string; _isAlt?: boolean } | null | undefined): boolean {
+  if (!c) return false;
+  const anyC = c as any;
+  if (anyC._isAlt !== undefined) return anyC._isAlt;
+  if (anyC.variant && anyC.variant > 1) return (anyC._isAlt = true);
+  if (anyC.art_type && anyC.art_type !== 'REG_ART') return (anyC._isAlt = true);
+  if (anyC.variant_type && anyC.variant_type !== 'BASE') return (anyC._isAlt = true);
+  const id = (c.id || '').toLowerCase();
+  if (id.includes('_') || id.includes('-r')) return (anyC._isAlt = true);
+  if (/-[2-9]-[0-9]+/.test(id) || /-[0-9]+-[2-9]/.test(id)) return (anyC._isAlt = true);
+  const img = (anyC._defaultImagePath || anyC.image_path || anyC.image_url || anyC.scalpeurs_image_url || '').toLowerCase();
+  if (img.includes('_p') || img.includes('-p0') || img.includes('manga') || img.includes('sp') || img.includes('winner') || img.includes('parallel')) return (anyC._isAlt = true);
+  return (anyC._isAlt = false);
+}

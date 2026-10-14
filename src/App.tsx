@@ -389,7 +389,7 @@ function AppContent() {
       {/* Global Modals */}
       {selectedCard && (
         <CardDetailModal
-          key={selectedCard.card_code}
+          key={`${selectedCard.card_code}-${selectedCard.id || ''}-${(selectedCard as any).detail_file || ''}-${selectedCard._defaultImagePath || ''}`}
           card={selectedCard}
           onClose={() => handleSelectCard(null)}
         />

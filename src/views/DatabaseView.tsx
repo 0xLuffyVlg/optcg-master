@@ -24,7 +24,7 @@ import {
 } from 'lucide-react';
 import { Card } from '../types';
 import { allCards, allVariants, allRawCards, cardsByCode, allPrintsAsCards } from '../data/dataProvider';
-import { getCardImageUrl, getColorClass, handleCardImageError, matchesCardSearch, getCardmarketUrl, resolveCardmarketUrlForLanguage, getTcgplayerUrl } from '../utils/cardUtils';
+import { getCardImageUrl, getColorClass, handleCardImageError, matchesCardSearch, getCardmarketUrl, resolveCardmarketUrlForLanguage, getTcgplayerUrl, isAltArtworkCard } from '../utils/cardUtils';
 import { useDeck } from '../context/DeckContext';
 import { useCollection } from '../context/CollectionContext';
 import { getCardmarketPriceInfo, getCardPriceForArtwork, formatEur } from '../services/cardmarketPriceService';
@@ -153,18 +153,7 @@ const EFFECT_KEYWORDS = [
   { key: 'end of your turn', label: '⌛ End of Turn' }
 ];
 
-export const isAltArtworkCard = (c: Card): boolean => {
-  const anyC = c as any;
-  if (anyC._isAlt !== undefined) return anyC._isAlt;
-  if (anyC.variant && anyC.variant > 1) return (anyC._isAlt = true);
-  if (anyC.art_type && anyC.art_type !== 'REG_ART') return (anyC._isAlt = true);
-  const id = (c.id || '').toLowerCase();
-  if (id.includes('_') || id.includes('-r')) return (anyC._isAlt = true);
-  if (/-[2-9]-[0-9]+/.test(id) || /-[0-9]+-[2-9]/.test(id)) return (anyC._isAlt = true);
-  const img = (c._defaultImagePath || anyC.image_path || anyC.image_url || '').toLowerCase();
-  if (img.includes('_p') || img.includes('-p0') || img.includes('manga') || img.includes('sp') || img.includes('winner') || img.includes('parallel')) return (anyC._isAlt = true);
-  return (anyC._isAlt = false);
-};
+export { isAltArtworkCard } from '../utils/cardUtils';
 
 export const renderCircularFlag = (lang: 'ALL' | 'JP' | 'EN' | 'FR', sizeClass = 'w-7 h-7') => {
   if (lang === 'JP') {

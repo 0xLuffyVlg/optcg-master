@@ -32,7 +32,8 @@ import {
   resolveCardmarketUrlForLanguage,
   getTcgplayerUrl,
   formatCardPrice,
-  detectCardLanguage
+  detectCardLanguage,
+  isAltArtworkCard
 } from '../utils/cardUtils';
 import { getCardtraderUrl, getCardPriceForArtwork } from '../services/cardmarketPriceService';
 import { CardmarketLogo, TCGplayerLogo } from './MarketLogos';
@@ -212,6 +213,36 @@ const getCardColorHex = (colors?: string[]): string => {
   return '#f59e0b';
 };
 
+const resolveInitialVariantFile = (c: Card): string => {
+  const anyC = c as any;
+  const isAlt = isAltArtworkCard(c);
+
+  if (anyC.detail_file) {
+    if (!isAlt || !anyC.detail_file.endsWith('-v1.json')) {
+      return anyC.detail_file;
+    }
+  }
+
+  const idMatch = (c.id || '').match(/-([2-9])-(\d+)$/);
+  if (idMatch) {
+    return `${c.card_code}-v${idMatch[1]}.json`;
+  }
+  const vMatch = (c.id || '').match(/[-_]v([0-9]+)/i);
+  if (vMatch) {
+    return `${c.card_code}-v${vMatch[1]}.json`;
+  }
+  const pMatch = (c.id || '').match(/_p0?([0-9]+)/i) || (c._defaultImagePath || '').match(/_p0?([0-9]+)/i);
+  if (pMatch) {
+    const num = parseInt(pMatch[1], 10);
+    return `${c.card_code}-v${num + 1}.json`;
+  }
+  if (anyC.variant && anyC.variant > 1) {
+    return `${c.card_code}-v${anyC.variant}.json`;
+  }
+
+  return anyC.detail_file || `${c.card_code}-v1.json`;
+};
+
 export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose }) => {
   // Active card state to enable in-modal Prev / Next card browsing seamlessly
   const [activeCard, setActiveCard] = useState<Card | null>(card);
@@ -307,7 +338,7 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
         || card.set_code === 'PRB02';
       setEditionLang(isJp ? 'JP' : (cardLang === 'FR' ? 'FR' : 'EN'));
 
-      const initialFile = (card as any).detail_file || `${card.card_code}.json`;
+      const initialFile = resolveInitialVariantFile(card);
       setCurrentVariantFile(initialFile);
       setIsLoadingDetail(true);
 
@@ -332,7 +363,7 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
     }
   }, [card]);
 
-  // Handle switching variants via the menu déroulant
+  // Handle switching variants if needed
   const handleVariantChange = async (targetFile: string) => {
     setCurrentVariantFile(targetFile);
     setIsLoadingDetail(true);
@@ -368,59 +399,90 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
 
   if (!activeCard) return null;
 
-  // Image URL resolution from micro-fiche or activeCard
-  const fullImageUrl = cardDetail?.image_url && cardDetail.image_url.startsWith('http')
-    ? cardDetail.image_url
-    : (cardDetail?.image_path
-        ? (cardDetail.image_path.startsWith('http') ? cardDetail.image_path : getCardImageUrl(activeCard, cardDetail.image_path))
-        : getCardImageUrl(activeCard, activeCard._defaultImagePath));
+  // Image URL resolution: PRIORITIZE the clicked card's exact artwork from the grid
+  const fullImageUrl = useMemo(() => {
+    if (activeCard._defaultImagePath && !activeCard._defaultImagePath.endsWith('.json')) {
+      return getCardImageUrl(activeCard, activeCard._defaultImagePath);
+    }
+    if (activeCard.scalpeurs_image_url) {
+      return activeCard.scalpeurs_image_url;
+    }
+    if (cardDetail?.image_url && cardDetail.image_url.startsWith('http')) {
+      return cardDetail.image_url;
+    }
+    if (cardDetail?.image_path) {
+      return cardDetail.image_path.startsWith('http')
+        ? cardDetail.image_path
+        : getCardImageUrl(activeCard, cardDetail.image_path);
+    }
+    return getCardImageUrl(activeCard, activeCard._defaultImagePath);
+  }, [activeCard, cardDetail]);
 
   const isLeader = (cardDetail?.category || activeCard.category) === 'Leader';
   const ownedCopiesOfThisArtwork = getCardCountInCollection(activeCard.card_code, currentVariantFile || activeCard._defaultImagePath);
 
+  // Exact price baseline from verified artwork dataset
+  const artworkBasePrice = useMemo(() => {
+    return getCardPriceForArtwork(activeCard, currentVariantFile || activeCard._defaultImagePath);
+  }, [activeCard, currentVariantFile]);
+
   // Exact 1:1 Cardmarket and TCGplayer URLs strictly adapted to the chosen edition language
   const activeCardmarketUrl = useMemo(() => {
     if (editionLang === 'JP') {
-      // Priority 1: explicit JP URL from micro-fiche or card object
-      const jpExplicit = cardDetail?.cardmarket_url_jp || activeCard.cardmarket_url_jp;
+      const jpExplicit = activeCard.cardmarket_url_jp || cardDetail?.cardmarket_url_jp;
       if (jpExplicit) return resolveCardmarketUrlForLanguage(jpExplicit, 'JP');
-      // Priority 2: card.cardmarket_url already Japanese or Non-English slug
       if (activeCard.cardmarket_url && (activeCard.cardmarket_url.includes('-Japanese') || activeCard.cardmarket_url.includes('Non-English'))) {
         return resolveCardmarketUrlForLanguage(activeCard.cardmarket_url, 'JP');
       }
-      // Priority 3: resolve via card_links (getCardmarketUrl with jp language → consults byCode.jp)
-      const jpViaLinks = getCardmarketUrl(activeCard.card_code, currentVariantFile, { ...activeCard, language: 'jp' });
-      return resolveCardmarketUrlForLanguage(jpViaLinks || activeCard.cardmarket_url, 'JP');
+      return resolveCardmarketUrlForLanguage(artworkBasePrice.cardmarketUrl || activeCard.cardmarket_url, 'JP');
     } else if (editionLang === 'FR') {
-      // Priority: card_links byCode.fr first (getCardmarketUrl with fr language)
-      const frViaLinks = getCardmarketUrl(activeCard.card_code, currentVariantFile, { ...activeCard, language: 'fr' });
-      return resolveCardmarketUrlForLanguage(frViaLinks || cardDetail?.cardmarket_url || activeCard.cardmarket_url, 'FR');
+      return resolveCardmarketUrlForLanguage(artworkBasePrice.cardmarketUrl || cardDetail?.cardmarket_url || activeCard.cardmarket_url, 'FR');
     } else {
-      // EN: card_links byCode.en first
-      const enViaLinks = getCardmarketUrl(activeCard.card_code, currentVariantFile, { ...activeCard, language: 'en' });
-      return resolveCardmarketUrlForLanguage(enViaLinks || cardDetail?.cardmarket_url || activeCard.cardmarket_url, 'EN');
+      return resolveCardmarketUrlForLanguage(artworkBasePrice.cardmarketUrl || cardDetail?.cardmarket_url || activeCard.cardmarket_url, 'EN');
     }
-  }, [editionLang, cardDetail, activeCard, currentVariantFile]);
+  }, [editionLang, cardDetail, activeCard, artworkBasePrice]);
 
-  const activeTcgplayerUrl = cardDetail?.tcgplayer_url || getTcgplayerUrl(activeCard.card_code, currentVariantFile, activeCard);
+  const activeTcgplayerUrl = cardDetail?.tcgplayer_url || artworkBasePrice.tcgplayerUrl || getTcgplayerUrl(activeCard.card_code, currentVariantFile, activeCard);
 
-  const activePriceEur = (livePriceEur !== null && livePriceEur !== undefined)
-    ? livePriceEur
-    : (cardDetail?.price_eur !== undefined && cardDetail?.price_eur !== null
-        ? cardDetail.price_eur
-        : (activeCard.price_min_eur || activeCard.price_eur || 0));
+  // Active price: preserves verified alt price from being overridden by base card (<2€)
+  const activePriceEur = useMemo(() => {
+    const isAlt = isAltArtworkCard(activeCard);
+    const verifiedCardPrice = (activeCard.price_min_eur && activeCard.price_min_eur > 0)
+      ? activeCard.price_min_eur
+      : (activeCard.price_eur && activeCard.price_eur > 0 ? activeCard.price_eur : 0);
+
+    // If live price was fetched:
+    if (livePriceEur !== null && livePriceEur !== undefined) {
+      if (!isAlt || livePriceEur >= 2 || verifiedCardPrice <= 0) {
+        return livePriceEur;
+      }
+    }
+
+    // If cardDetail micro-fiche has a price:
+    if (cardDetail?.price_eur !== undefined && cardDetail?.price_eur !== null) {
+      if (!isAlt || cardDetail.price_eur >= 2 || verifiedCardPrice <= 0) {
+        return cardDetail.price_eur;
+      }
+    }
+
+    if (verifiedCardPrice > 0) return verifiedCardPrice;
+    if (artworkBasePrice.priceMinEur && artworkBasePrice.priceMinEur > 0) return artworkBasePrice.priceMinEur;
+    if (artworkBasePrice.priceEur && artworkBasePrice.priceEur > 0) return artworkBasePrice.priceEur;
+
+    return 0;
+  }, [livePriceEur, cardDetail, activeCard, artworkBasePrice]);
 
   const artworkPriceInfo = useMemo(() => {
-    const base = getCardPriceForArtwork(activeCard, currentVariantFile || activeCard._defaultImagePath);
+    const finalPrice = activePriceEur > 0 ? activePriceEur : (artworkBasePrice.priceMinEur || artworkBasePrice.priceEur);
     return {
-      ...base,
-      priceEur: activePriceEur || base.priceEur,
-      priceMinEur: activePriceEur || base.priceMinEur,
-      cardmarketPriceEur: activePriceEur || base.cardmarketPriceEur,
+      ...artworkBasePrice,
+      priceEur: finalPrice,
+      priceMinEur: finalPrice,
+      cardmarketPriceEur: finalPrice,
       cardmarketUrl: activeCardmarketUrl,
       tcgplayerUrl: activeTcgplayerUrl
     };
-  }, [activeCard, currentVariantFile, activePriceEur, activeCardmarketUrl, activeTcgplayerUrl]);
+  }, [artworkBasePrice, activePriceEur, activeCardmarketUrl, activeTcgplayerUrl]);
 
   const setInfo = getSetDetails(activeCard.set_code, activeCard.card_code);
   const cardColorHex = getCardColorHex(activeCard.color);
