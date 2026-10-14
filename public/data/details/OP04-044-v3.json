@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/op05-p153.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/527041_200w.jpg",
-  "price_eur": 100,
+  "price_eur": 99.98,
   "price_usd": 149.46,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Kaido-OP04-044",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/Kaido-OP04-044",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Kaido",
       "rarity": "SR",
-      "price_eur": 100,
+      "price_eur": 99.98,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Kaido-OP04-044-V1",
       "file": "OP04-044-v1.json"
     },
@@ -73,7 +73,7 @@
       "file": "OP04-044-v5.json"
     }
   ],
-  "price_min_eur": 100,
+  "price_min_eur": 99.98,
   "price_avg7_eur": 126.6,
   "price_avg30_eur": 130.19,
   "listings_count": 50

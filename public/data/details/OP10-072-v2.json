@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op10-p089.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617118_200w.jpg",
-  "price_eur": 10,
+  "price_eur": 9.99,
   "price_usd": 14.25,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Donquixote-Rosinante-OP10-072-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Non-English/Donquixote-Rosinante-OP10-072-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Donquixote Rosinante",
       "rarity": "SR",
-      "price_eur": 10,
+      "price_eur": 9.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Donquixote-Rosinante-OP10-072-V1?language=2",
       "file": "OP10-072-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP10-072-v2.json"
     }
   ],
-  "price_min_eur": 10,
+  "price_min_eur": 9.99,
   "price_avg7_eur": 10.91,
   "price_avg30_eur": 10.97,
   "listings_count": 33

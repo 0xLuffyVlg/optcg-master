@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/st29-p010.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671560_200w.jpg",
-  "price_eur": 1.3,
+  "price_eur": 1.37,
   "price_usd": 3.17,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Jinbe-ST29-005-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead-Asia-Region-Legal/Jinbe-ST29-005-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Jinbe",
       "rarity": "C",
-      "price_eur": 1.3,
+      "price_eur": 1.37,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Jinbe-ST29-005-V1?language=2",
       "file": "ST29-005-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "ST29-005-v2.json"
     }
   ],
-  "price_min_eur": 1.3,
+  "price_min_eur": 1.37,
   "price_avg7_eur": 1.96,
   "price_avg30_eur": 2.36,
   "listings_count": 46

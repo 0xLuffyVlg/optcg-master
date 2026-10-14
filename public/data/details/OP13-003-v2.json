@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op13-p006.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657255_200w.jpg",
-  "price_eur": 26,
+  "price_eur": 25,
   "price_usd": 29.04,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/GolDRoger-OP13-003-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/GolDRoger-OP13-003-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Gol.D.Roger (003)",
       "rarity": "L",
-      "price_eur": 26,
+      "price_eur": 25,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/GolDRoger-OP13-003-V1?language=2",
       "file": "OP13-003-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP13-003-v2.json"
     }
   ],
-  "price_min_eur": 26,
+  "price_min_eur": 25,
   "price_avg7_eur": 31.02,
   "price_avg30_eur": 29.24,
   "listings_count": 38

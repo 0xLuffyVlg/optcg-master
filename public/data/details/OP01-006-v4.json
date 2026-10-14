@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/prb01-p005.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/594067_200w.jpg",
-  "price_eur": 7.47,
+  "price_eur": 7.5,
   "price_usd": 0.69,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Otama-OP01-006-V1",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Otama-OP01-006",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Otama",
       "rarity": "UC",
-      "price_eur": 7.47,
+      "price_eur": 7.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Otama-OP01-006",
       "file": "OP01-006-v1.json"
     },
@@ -109,7 +109,7 @@
       "file": "OP01-006-v9.json"
     }
   ],
-  "price_min_eur": 7.47,
+  "price_min_eur": 7.5,
   "price_avg7_eur": 0.34,
   "price_avg30_eur": 0.29,
   "listings_count": 50

@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op01-p120.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454627_200w.jpg",
-  "price_eur": 27.95,
+  "price_eur": 27,
   "price_usd": 23.85,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Kaido-OP01-094-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Kaido-OP01-094-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Kaido (094)",
       "rarity": "SR",
-      "price_eur": 27.95,
+      "price_eur": 27,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Kaido-OP01-094-V1",
       "file": "OP01-094-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP01-094-v3.json"
     }
   ],
-  "price_min_eur": 27.95,
+  "price_min_eur": 27,
   "price_avg7_eur": 27.61,
   "price_avg30_eur": 32.49,
   "listings_count": 50

@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op17-p147.webp",
   "image_url": "/img/cards-fr/op17-p147-sm.webp",
-  "price_eur": 465,
+  "price_eur": 430,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Linlin-OP17-112-V3?language=2",
   "cardmarket_url_jp": null,
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Charlotte Linlin",
       "rarity": "SR",
-      "price_eur": 465,
+      "price_eur": 430,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Linlin-OP17-112-V1?language=2",
       "file": "OP17-112-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP17-112-v3.json"
     }
   ],
-  "price_min_eur": 465,
+  "price_min_eur": 430,
   "price_avg7_eur": 772.14,
   "price_avg30_eur": 772.14,
   "listings_count": 19

@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/op09-p153.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/596912_200w.jpg",
-  "price_eur": 88,
+  "price_eur": 88.9,
   "price_usd": 163.58,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Donquixote-Rosinante-OP04-119",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World-Non-English/Donquixote-Rosinante-OP04-119",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Donquixote Rosinante",
       "rarity": "SEC",
-      "price_eur": 88,
+      "price_eur": 88.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Donquixote-Rosinante-OP04-119-V1",
       "file": "OP04-119-v1.json"
     },
@@ -64,7 +64,7 @@
       "file": "OP04-119-v4.json"
     }
   ],
-  "price_min_eur": 88,
+  "price_min_eur": 88.9,
   "price_avg7_eur": 121.24,
   "price_avg30_eur": 103.64,
   "listings_count": 50

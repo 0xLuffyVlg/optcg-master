@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/promo-collab-p001.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/557296_200w.jpg",
-  "price_eur": 430,
+  "price_eur": 425,
   "price_usd": 367.29,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-OP05-060-V1",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/MonkeyDLuffy-OP05-060-V3",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Monkey.D.Luffy (060)",
       "rarity": "L",
-      "price_eur": 430,
+      "price_eur": 425,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/MonkeyDLuffy-OP05-060-V1",
       "file": "OP05-060-v1.json"
     },
@@ -82,7 +82,7 @@
       "file": "OP05-060-v6.json"
     }
   ],
-  "price_min_eur": 430,
+  "price_min_eur": 425,
   "price_avg7_eur": 476.86,
   "price_avg30_eur": 545.66,
   "listings_count": 50

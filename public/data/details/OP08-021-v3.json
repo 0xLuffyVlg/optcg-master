@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/eb02-p099.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629187_200w.jpg",
-  "price_eur": 525.99,
+  "price_eur": 750,
   "price_usd": 751.99,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Carrot-OP08-021",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection-Japanese/Carrot-OP08-021",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Carrot (021)",
       "rarity": "L",
-      "price_eur": 525.99,
+      "price_eur": 750,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Carrot-OP08-021-V1",
       "file": "OP08-021-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP08-021-v3.json"
     }
   ],
-  "price_min_eur": 525.99,
+  "price_min_eur": 750,
   "price_avg7_eur": 502.84,
   "price_avg30_eur": 294.36,
   "listings_count": 11

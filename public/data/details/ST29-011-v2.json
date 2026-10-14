@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/st29-p022.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671604_200w.jpg",
-  "price_eur": 0.99,
+  "price_eur": 1,
   "price_usd": 4.04,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Brook-ST29-011-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead-Asia-Region-Legal/Brook-ST29-011-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Brook",
       "rarity": "C",
-      "price_eur": 0.99,
+      "price_eur": 1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Brook-ST29-011-V1?language=2",
       "file": "ST29-011-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "ST29-011-v2.json"
     }
   ],
-  "price_min_eur": 0.99,
+  "price_min_eur": 1,
   "price_avg7_eur": 2.35,
   "price_avg30_eur": 1.79,
   "listings_count": 29

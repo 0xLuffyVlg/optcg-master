@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op16-p068.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696042_200w.jpg",
-  "price_eur": 4.99,
+  "price_eur": 5.5,
   "price_usd": 14.88,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Mr2BonKureiBentham-OP16-055-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Time-of-Battle-Asia-Region-Legal/Mr2BonKureiBentham-OP16-055-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Mr.2.Bon.Kurei(Bentham) (055)",
       "rarity": "R",
-      "price_eur": 4.99,
+      "price_eur": 5.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Mr2BonKureiBentham-OP16-055-V1?language=2",
       "file": "OP16-055-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP16-055-v2.json"
     }
   ],
-  "price_min_eur": 4.99,
+  "price_min_eur": 5.5,
   "price_avg7_eur": 5.19,
   "price_avg30_eur": 4.81,
   "listings_count": 37

@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/eb04-p033.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668671_200w.jpg",
-  "price_eur": 18,
+  "price_eur": 15,
   "price_usd": 30.23,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Nefeltari-Vivi-EB04-025-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal/Nefeltari-Vivi-EB04-025-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Nefeltari Vivi",
       "rarity": "SR",
-      "price_eur": 18,
+      "price_eur": 15,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Nefeltari-Vivi-EB04-025-V1?language=2",
       "file": "EB04-025-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "EB04-025-v2.json"
     }
   ],
-  "price_min_eur": 18,
+  "price_min_eur": 15,
   "price_avg7_eur": 15.76,
   "price_avg30_eur": 14.95,
   "listings_count": 29

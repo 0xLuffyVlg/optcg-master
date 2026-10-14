@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op12-p036.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643759_200w.jpg",
-  "price_eur": 7,
+  "price_eur": 6,
   "price_usd": 9.55,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Dracule-Mihawk-OP12-030-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/Dracule-Mihawk-OP12-030-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Dracule Mihawk",
       "rarity": "SR",
-      "price_eur": 7,
+      "price_eur": 6,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Dracule-Mihawk-OP12-030-V1?language=2",
       "file": "OP12-030-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP12-030-v3.json"
     }
   ],
-  "price_min_eur": 7,
+  "price_min_eur": 6,
   "price_avg7_eur": 8.16,
   "price_avg30_eur": 8.3,
   "listings_count": 39

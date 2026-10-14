@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/eb04-p046.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668752_200w.jpg",
-  "price_eur": 5,
+  "price_eur": 4.5,
   "price_usd": 5.23,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Foxy-EB04-036-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal/Foxy-EB04-036-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Foxy",
       "rarity": "SR",
-      "price_eur": 5,
+      "price_eur": 4.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Foxy-EB04-036-V1?language=2",
       "file": "EB04-036-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "EB04-036-v2.json"
     }
   ],
-  "price_min_eur": 5,
+  "price_min_eur": 4.5,
   "price_avg7_eur": 4.98,
   "price_avg30_eur": 4.95,
   "listings_count": 21

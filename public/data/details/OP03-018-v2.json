@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op03-p021.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/498784_200w.jpg",
-  "price_eur": 8,
+  "price_eur": 7.7,
   "price_usd": 10.94,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Fire-Fist-OP03-018-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/Fire-Fist-OP03-018-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Fire Fist",
       "rarity": "R",
-      "price_eur": 8,
+      "price_eur": 7.7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Fire-Fist-OP03-018-V1",
       "file": "OP03-018-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP03-018-v2.json"
     }
   ],
-  "price_min_eur": 8,
+  "price_min_eur": 7.7,
   "price_avg7_eur": 10.8,
   "price_avg30_eur": 10.97,
   "listings_count": 50

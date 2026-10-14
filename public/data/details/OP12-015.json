@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op12-p018.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643741_200w.jpg",
-  "price_eur": 4,
+  "price_eur": 5.5,
   "price_usd": 2.96,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/MonkeyDLuffy-OP12-015-V1?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/MonkeyDLuffy-OP12-015-V1",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Monkey.D.Luffy",
       "rarity": "SR",
-      "price_eur": 4,
+      "price_eur": 5.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/MonkeyDLuffy-OP12-015-V1?language=2",
       "file": "OP12-015-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP12-015-v3.json"
     }
   ],
-  "price_min_eur": 4,
+  "price_min_eur": 5.5,
   "price_avg7_eur": 5.71,
   "price_avg30_eur": 5.37,
   "listings_count": 21

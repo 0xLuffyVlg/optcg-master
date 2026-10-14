@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/eb04-p068.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685323_200w.jpg",
-  "price_eur": 4.9,
+  "price_eur": 4.99,
   "price_usd": 8.85,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Sanji-EB04-052-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal/Sanji-EB04-052-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Sanji (EB04-052)",
       "rarity": "R",
-      "price_eur": 4.9,
+      "price_eur": 4.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Sanji-EB04-052-V1?language=2",
       "file": "EB04-052-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "EB04-052-v2.json"
     }
   ],
-  "price_min_eur": 4.9,
+  "price_min_eur": 4.99,
   "price_avg7_eur": 5.13,
   "price_avg30_eur": 5.38,
   "listings_count": 23

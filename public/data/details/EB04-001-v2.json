@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/eb04-p002.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685296_200w.jpg",
-  "price_eur": 34,
+  "price_eur": 30,
   "price_usd": 46.1,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Jewelry-Bonney-EB04-001-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal/Jewelry-Bonney-EB04-001-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Jewelry Bonney (EB04-001)",
       "rarity": "L",
-      "price_eur": 34,
+      "price_eur": 30,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Jewelry-Bonney-EB04-001-V1?language=2",
       "file": "EB04-001-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "EB04-001-v2.json"
     }
   ],
-  "price_min_eur": 34,
+  "price_min_eur": 30,
   "price_avg7_eur": 35.16,
   "price_avg30_eur": 35.87,
   "listings_count": 25

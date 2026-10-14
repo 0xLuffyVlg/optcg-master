@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/op03-p154.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/501677_200w.jpg",
-  "price_eur": 60,
+  "price_eur": 59.99,
   "price_usd": 85.69,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/EustassCaptainKid-OP01-051",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/EustassCaptainKid-OP01-051",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Eustass\"Captain\"Kid",
       "rarity": "SR",
-      "price_eur": 60,
+      "price_eur": 59.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/EustassCaptainKid-OP01-051-V1",
       "file": "OP01-051-v1.json"
     },
@@ -73,7 +73,7 @@
       "file": "OP01-051-v5.json"
     }
   ],
-  "price_min_eur": 60,
+  "price_min_eur": 59.99,
   "price_avg7_eur": 62.49,
   "price_avg30_eur": 79.05,
   "listings_count": 50

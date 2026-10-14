@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op05-p143.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528315_200w.jpg",
-  "price_eur": 7.49,
+  "price_eur": 7.45,
   "price_usd": 14.73,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Kaido-OP05-118-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/Kaido-OP05-118-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Kaido (118)",
       "rarity": "SEC",
-      "price_eur": 7.49,
+      "price_eur": 7.45,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Kaido-OP05-118-V1",
       "file": "OP05-118-v1.json"
     },
@@ -64,7 +64,7 @@
       "file": "OP05-118-v4.json"
     }
   ],
-  "price_min_eur": 7.49,
+  "price_min_eur": 7.45,
   "price_avg7_eur": 9.67,
   "price_avg30_eur": 10.29,
   "listings_count": 50

@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op02-p013.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/483096_200w.jpg",
-  "price_eur": 0.99,
+  "price_eur": 1,
   "price_usd": 1.64,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Squard-OP02-009-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War-Japanese/Squard-OP02-009-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Squard",
       "rarity": "UC",
-      "price_eur": 0.99,
+      "price_eur": 1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Squard-OP02-009-V1",
       "file": "OP02-009-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP02-009-v2.json"
     }
   ],
-  "price_min_eur": 0.99,
+  "price_min_eur": 1,
   "price_avg7_eur": 2.23,
   "price_avg30_eur": 1.98,
   "listings_count": 50

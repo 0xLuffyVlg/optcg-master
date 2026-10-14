@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/prb01-p033.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586194_200w.jpg",
-  "price_eur": 1700,
+  "price_eur": 1690,
   "price_usd": 24.11,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Shanks-OP01-120-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/Shanks-OP01-120-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Shanks",
       "rarity": "SEC",
-      "price_eur": 1700,
+      "price_eur": 1690,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Shanks-OP01-120-V1",
       "file": "OP01-120-v1.json"
     },
@@ -82,7 +82,7 @@
       "file": "OP01-120-v6.json"
     }
   ],
-  "price_min_eur": 1700,
+  "price_min_eur": 1690,
   "price_avg7_eur": 1787.14,
   "price_avg30_eur": 857.4,
   "listings_count": 27

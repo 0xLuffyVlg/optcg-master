@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op17-p072.webp",
   "image_url": "/img/cards-fr/op17-p071-sm.webp",
-  "price_eur": 12.5,
+  "price_eur": 12.8,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Miss-Buckingham-Stussy-OP17-054-V2?language=2",
   "cardmarket_url_jp": null,
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Miss Buckingham Stussy",
       "rarity": "R",
-      "price_eur": 12.5,
+      "price_eur": 12.8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Miss-Buckingham-Stussy-OP17-054-V1?language=2",
       "file": "OP17-054-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP17-054-v2.json"
     }
   ],
-  "price_min_eur": 12.5,
+  "price_min_eur": 12.8,
   "price_avg7_eur": 16.35,
   "price_avg30_eur": 15.33,
   "listings_count": 23

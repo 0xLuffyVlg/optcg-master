@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/st10-p003.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/525044_200w.jpg",
-  "price_eur": 2.5,
+  "price_eur": 6,
   "price_usd": 3.71,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Captains/Trafalgar-Law-ST10-001",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Captains-Japanese/Trafalgar-Law-ST10-001",
@@ -32,12 +32,12 @@
       "variant_version": "v1",
       "name": "Trafalgar Law (001)",
       "rarity": "L",
-      "price_eur": 2.5,
+      "price_eur": 6,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Captains/Trafalgar-Law-ST10-001",
       "file": "ST10-001-v1.json"
     }
   ],
-  "price_min_eur": 2.5,
+  "price_min_eur": 6,
   "price_avg7_eur": 5.3,
   "price_avg30_eur": 4.39,
   "listings_count": 50

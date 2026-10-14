@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/op12-p147.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/646565_200w.jpg",
-  "price_eur": 33,
+  "price_eur": 34.95,
   "price_usd": 93.15,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Tashigi-OP06-050",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/Tashigi-OP06-050",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Tashigi",
       "rarity": "R",
-      "price_eur": 33,
+      "price_eur": 34.95,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Tashigi-OP06-050-V1",
       "file": "OP06-050-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP06-050-v3.json"
     }
   ],
-  "price_min_eur": 33,
+  "price_min_eur": 34.95,
   "price_avg7_eur": 44.11,
   "price_avg30_eur": 52.83,
   "listings_count": 50

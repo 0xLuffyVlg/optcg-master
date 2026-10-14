@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/eb02-p043.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629131_200w.jpg",
-  "price_eur": 4,
+  "price_eur": 4.78,
   "price_usd": 14.09,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Sanji-Pudding-EB02-035-V1?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection-Japanese/Sanji-Pudding-EB02-035-V1",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Sanji & Pudding",
       "rarity": "SR",
-      "price_eur": 4,
+      "price_eur": 4.78,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Sanji-Pudding-EB02-035-V1?language=2",
       "file": "EB02-035-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "EB02-035-v2.json"
     }
   ],
-  "price_min_eur": 4,
+  "price_min_eur": 4.78,
   "price_avg7_eur": 8.13,
   "price_avg30_eur": 7.63,
   "listings_count": 27

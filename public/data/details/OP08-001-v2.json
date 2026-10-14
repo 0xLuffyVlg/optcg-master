@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op08-p002.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558022_200w.jpg",
-  "price_eur": 41,
+  "price_eur": 39,
   "price_usd": 89.58,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Tony-TonyChopper-OP08-001-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends-Non-English/Tony-TonyChopper-OP08-001-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Tony Tony.Chopper (001)",
       "rarity": "L",
-      "price_eur": 41,
+      "price_eur": 39,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Tony-TonyChopper-OP08-001-V1",
       "file": "OP08-001-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP08-001-v3.json"
     }
   ],
-  "price_min_eur": 41,
+  "price_min_eur": 39,
   "price_avg7_eur": 50.63,
   "price_avg30_eur": 65.17,
   "listings_count": 50

@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/prb01-p031.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514047_200w.jpg",
-  "price_eur": 1.7,
+  "price_eur": 1.5,
   "price_usd": 2900,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Shanks-OP01-120",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournament-Promos-Japanese/Shanks-OP01-120",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Shanks",
       "rarity": "SEC",
-      "price_eur": 1.7,
+      "price_eur": 1.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Shanks-OP01-120-V1",
       "file": "OP01-120-v1.json"
     },
@@ -82,7 +82,7 @@
       "file": "OP01-120-v6.json"
     }
   ],
-  "price_min_eur": 1.7,
+  "price_min_eur": 1.5,
   "price_avg7_eur": 2.44,
   "price_avg30_eur": 2.33,
   "listings_count": 50

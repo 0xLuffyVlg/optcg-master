@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op03-p057.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/499287_200w.jpg",
-  "price_eur": 4.2,
+  "price_eur": 4.5,
   "price_usd": 7.15,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Zeff-OP03-047-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/Zeff-OP03-047-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Zeff",
       "rarity": "R",
-      "price_eur": 4.2,
+      "price_eur": 4.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Zeff-OP03-047-V1",
       "file": "OP03-047-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP03-047-v2.json"
     }
   ],
-  "price_min_eur": 4.2,
+  "price_min_eur": 4.5,
   "price_avg7_eur": 5.69,
   "price_avg30_eur": 6.39,
   "listings_count": 50

@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op07-p018.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545795_200w.jpg",
-  "price_eur": 5.94,
+  "price_eur": 5,
   "price_usd": 12.34,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/MonkeyDDragon-OP07-015-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future-Japanese/MonkeyDDragon-OP07-015-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Monkey.D.Dragon (015)",
       "rarity": "SR",
-      "price_eur": 5.94,
+      "price_eur": 5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/MonkeyDDragon-OP07-015-V1",
       "file": "OP07-015-v1.json"
     },
@@ -82,7 +82,7 @@
       "file": "OP07-015-v6.json"
     }
   ],
-  "price_min_eur": 5.94,
+  "price_min_eur": 5,
   "price_avg7_eur": 7.16,
   "price_avg30_eur": 7.74,
   "listings_count": 50

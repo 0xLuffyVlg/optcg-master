@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/eb01-p041.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544563_200w.jpg",
-  "price_eur": 3,
+  "price_eur": 2.89,
   "price_usd": 5.81,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Kalifa-EB01-031-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection-Japanese/Kalifa-EB01-031-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Kalifa",
       "rarity": "R",
-      "price_eur": 3,
+      "price_eur": 2.89,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Kalifa-EB01-031-V1",
       "file": "EB01-031-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "EB01-031-v2.json"
     }
   ],
-  "price_min_eur": 3,
+  "price_min_eur": 2.89,
   "price_avg7_eur": 7.13,
   "price_avg30_eur": 5.47,
   "listings_count": 50

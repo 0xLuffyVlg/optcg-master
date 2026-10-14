@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/promo-pre-release-p006.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/497407_200w.jpg",
-  "price_eur": 239.99,
+  "price_eur": 235,
   "price_usd": 10.03,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Nefeltari-Vivi-ST01-009-V1",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Straw-Hat-Crew-Non-English/Nefeltari-Vivi-ST01-009-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Nefeltari Vivi",
       "rarity": "C",
-      "price_eur": 239.99,
+      "price_eur": 235,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/STARTER-DECK-Straw-Hat-Crew/Nefeltari-Vivi-ST01-009-V1",
       "file": "ST01-009-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "ST01-009-v3.json"
     }
   ],
-  "price_min_eur": 239.99,
+  "price_min_eur": 235,
   "price_avg7_eur": 304.09,
   "price_avg30_eur": 292.03,
   "listings_count": 50

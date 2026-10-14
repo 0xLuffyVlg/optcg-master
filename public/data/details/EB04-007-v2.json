@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/eb04-p010.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685303_200w.jpg",
-  "price_eur": 32,
+  "price_eur": 31.99,
   "price_usd": 14.31,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Roronoa-Zoro-EB04-007-V1?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal/Roronoa-Zoro-EB04-007-V1",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Roronoa Zoro (Alternate Art)",
       "rarity": "SP",
-      "price_eur": 32,
+      "price_eur": 31.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Roronoa-Zoro-EB04-007-V1?language=2",
       "file": "EB04-007-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "EB04-007-v3.json"
     }
   ],
-  "price_min_eur": 32,
+  "price_min_eur": 31.99,
   "price_avg7_eur": 43.45,
   "price_avg30_eur": 42.67,
   "listings_count": 22

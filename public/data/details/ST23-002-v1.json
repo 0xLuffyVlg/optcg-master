@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/st23-p003.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/633762_200w.jpg",
-  "price_eur": 1,
+  "price_eur": 0.99,
   "price_usd": 2.42,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Red-Shanks/Shanks-ST23-002?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Red-Shanks-Non-English/Shanks-ST23-002",
@@ -32,12 +32,12 @@
       "variant_version": "v1",
       "name": "Shanks (002)",
       "rarity": "SR",
-      "price_eur": 1,
+      "price_eur": 0.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Red-Shanks/Shanks-ST23-002?language=2",
       "file": "ST23-002-v1.json"
     }
   ],
-  "price_min_eur": 1,
+  "price_min_eur": 0.99,
   "price_avg7_eur": 1.48,
   "price_avg30_eur": 1.32,
   "listings_count": 18

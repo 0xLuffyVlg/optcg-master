@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op01-p022.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454536_200w.jpg",
-  "price_eur": 349,
+  "price_eur": 375,
   "price_usd": 388.2,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Nami-OP01-016-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Nami-OP01-016-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Nami",
       "rarity": "R",
-      "price_eur": 349,
+      "price_eur": 375,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Nami-OP01-016-V1",
       "file": "OP01-016-v1.json"
     },
@@ -109,7 +109,7 @@
       "file": "OP01-016-v9.json"
     }
   ],
-  "price_min_eur": 349,
+  "price_min_eur": 375,
   "price_avg7_eur": 0.69,
   "price_avg30_eur": 0.55,
   "listings_count": 50

@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op07-p007.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545784_200w.jpg",
-  "price_eur": 2,
+  "price_eur": 2.43,
   "price_usd": 5.82,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Carina-OP07-005-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future-Japanese/Carina-OP07-005-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Carina",
       "rarity": "R",
-      "price_eur": 2,
+      "price_eur": 2.43,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Carina-OP07-005-V1",
       "file": "OP07-005-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP07-005-v2.json"
     }
   ],
-  "price_min_eur": 2,
+  "price_min_eur": 2.43,
   "price_avg7_eur": 3.91,
   "price_avg30_eur": 3.72,
   "listings_count": 50

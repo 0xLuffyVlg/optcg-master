@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op13-p147.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657396_200w.jpg",
-  "price_eur": 4,
+  "price_eur": 3.5,
   "price_usd": 4.98,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/S-Snake-OP13-114-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/S-Snake-OP13-114-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "S-Snake",
       "rarity": "R",
-      "price_eur": 4,
+      "price_eur": 3.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/S-Snake-OP13-114-V1?language=2",
       "file": "OP13-114-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP13-114-v2.json"
     }
   ],
-  "price_min_eur": 4,
+  "price_min_eur": 3.5,
   "price_avg7_eur": 3.85,
   "price_avg30_eur": 4.51,
   "listings_count": 28

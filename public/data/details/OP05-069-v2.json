@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op05-p084.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/527662_200w.jpg",
-  "price_eur": 9.5,
+  "price_eur": 9,
   "price_usd": 16.76,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Trafalgar-Law-OP05-069-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/Trafalgar-Law-OP05-069-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Trafalgar Law (069)",
       "rarity": "SR",
-      "price_eur": 9.5,
+      "price_eur": 9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Trafalgar-Law-OP05-069-V1",
       "file": "OP05-069-v1.json"
     },
@@ -73,7 +73,7 @@
       "file": "OP05-069-v5.json"
     }
   ],
-  "price_min_eur": 9.5,
+  "price_min_eur": 9,
   "price_avg7_eur": 21.18,
   "price_avg30_eur": 15.66,
   "listings_count": 50

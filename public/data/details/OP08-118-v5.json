@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op08-p140.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656246_200w.jpg",
-  "price_eur": 2.5,
+  "price_eur": 2.49,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Silvers-Rayleigh-OP08-118",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends-Non-English/Silvers-Rayleigh-OP08-118-V1",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Silvers Rayleigh",
       "rarity": "SEC",
-      "price_eur": 2.5,
+      "price_eur": 2.49,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Silvers-Rayleigh-OP08-118-V1",
       "file": "OP08-118-v1.json"
     },
@@ -73,5 +73,5 @@
       "file": "OP08-118-v5.json"
     }
   ],
-  "price_min_eur": 2.5
+  "price_min_eur": 2.49
 }

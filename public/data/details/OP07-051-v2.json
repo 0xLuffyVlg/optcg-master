@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op07-p063.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545840_200w.jpg",
-  "price_eur": 16.99,
+  "price_eur": 17,
   "price_usd": 56.09,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Boa-Hancock-OP07-051-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future-Japanese/Boa-Hancock-OP07-051-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Boa Hancock (051)",
       "rarity": "SR",
-      "price_eur": 16.99,
+      "price_eur": 17,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Boa-Hancock-OP07-051-V1",
       "file": "OP07-051-v1.json"
     },
@@ -91,7 +91,7 @@
       "file": "OP07-051-v7.json"
     }
   ],
-  "price_min_eur": 16.99,
+  "price_min_eur": 17,
   "price_avg7_eur": 133.61,
   "price_avg30_eur": 98.93,
   "listings_count": 50

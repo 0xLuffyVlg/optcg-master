@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/op10-p149.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617028_200w.jpg",
-  "price_eur": 29.99,
+  "price_eur": 34.99,
   "price_usd": 54.13,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Charlotte-Flampe-EB01-056",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Non-English/Charlotte-Flampe-EB01-056",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Charlotte Flampe",
       "rarity": "R",
-      "price_eur": 29.99,
+      "price_eur": 34.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Charlotte-Flampe-EB01-056-V1",
       "file": "EB01-056-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "EB01-056-v3.json"
     }
   ],
-  "price_min_eur": 29.99,
+  "price_min_eur": 34.99,
   "price_avg7_eur": 36.71,
   "price_avg30_eur": 45.65,
   "listings_count": 50

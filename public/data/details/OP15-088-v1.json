@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op15-p106.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685441_200w.jpg",
-  "price_eur": 5,
+  "price_eur": 4.99,
   "price_usd": 0.38,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Pirates-Docking-Six-OP15-088?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island-Asia-Region-Legal/Pirates-Docking-Six-OP15-088",
@@ -32,12 +32,12 @@
       "variant_version": "v1",
       "name": "Pirates Docking Six",
       "rarity": "R",
-      "price_eur": 5,
+      "price_eur": 4.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Pirates-Docking-Six-OP15-088?language=2",
       "file": "OP15-088-v1.json"
     }
   ],
-  "price_min_eur": 5,
+  "price_min_eur": 4.99,
   "price_avg7_eur": 5.37,
   "price_avg30_eur": 5.64,
   "listings_count": 34

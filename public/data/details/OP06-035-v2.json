@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op06-p044.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/539770_200w.jpg",
-  "price_eur": 6.42,
+  "price_eur": 6.43,
   "price_usd": 11.3,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Hody-Jones-OP06-035-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain-Japanese/Hody-Jones-OP06-035-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Hody Jones (035)",
       "rarity": "SR",
-      "price_eur": 6.42,
+      "price_eur": 6.43,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Hody-Jones-OP06-035-V1",
       "file": "OP06-035-v1.json"
     },
@@ -64,7 +64,7 @@
       "file": "OP06-035-v4.json"
     }
   ],
-  "price_min_eur": 6.42,
+  "price_min_eur": 6.43,
   "price_avg7_eur": 6.64,
   "price_avg30_eur": 9.11,
   "listings_count": 50

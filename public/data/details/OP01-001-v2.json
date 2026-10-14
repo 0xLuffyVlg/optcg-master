@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op01-p002.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454513_200w.jpg",
-  "price_eur": 625,
+  "price_eur": 600,
   "price_usd": 578.11,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Roronoa-Zoro-OP01-001-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Roronoa-Zoro-OP01-001-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Roronoa Zoro (001)",
       "rarity": "L",
-      "price_eur": 625,
+      "price_eur": 600,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Roronoa-Zoro-OP01-001-V1",
       "file": "OP01-001-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP01-001-v3.json"
     }
   ],
-  "price_min_eur": 625,
+  "price_min_eur": 600,
   "price_avg7_eur": 630.83,
   "price_avg30_eur": 613.93,
   "listings_count": 50

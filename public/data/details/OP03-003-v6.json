@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/prb01-p066.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586185_200w.jpg",
-  "price_eur": 2.5,
+  "price_eur": 2.45,
   "price_usd": 0.23,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Izo-OP03-003-V1",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EdwardNewgate-Non-English/Izo-OP03-003",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Izo",
       "rarity": "R",
-      "price_eur": 2.5,
+      "price_eur": 2.45,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Izo-OP03-003",
       "file": "OP03-003-v1.json"
     },
@@ -100,7 +100,7 @@
       "file": "OP03-003-v8.json"
     }
   ],
-  "price_min_eur": 2.5,
+  "price_min_eur": 2.45,
   "price_avg7_eur": 3.91,
   "price_avg30_eur": 3.82,
   "listings_count": 50

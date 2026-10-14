@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/prb01-p210.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593490_200w.jpg",
-  "price_eur": 18.3,
+  "price_eur": 18.29,
   "price_usd": 24.1,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Ryuma-OP06-036-V4",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/Ryuma-OP06-036-V3",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Ryuma",
       "rarity": "R",
-      "price_eur": 18.3,
+      "price_eur": 18.29,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Ryuma-OP06-036",
       "file": "OP06-036-v1.json"
     },
@@ -91,7 +91,7 @@
       "file": "OP06-036-v7.json"
     }
   ],
-  "price_min_eur": 18.3,
+  "price_min_eur": 18.29,
   "price_avg7_eur": 0.06,
   "price_avg30_eur": 0.09,
   "listings_count": 50

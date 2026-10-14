@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/op06-p147.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541666_200w.jpg",
-  "price_eur": 72,
+  "price_eur": 70,
   "price_usd": 77.62,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Charlotte-Linlin-OP03-114",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain-Japanese/Charlotte-Linlin-OP03-114",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Charlotte Linlin (114)",
       "rarity": "SR",
-      "price_eur": 72,
+      "price_eur": 70,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Charlotte-Linlin-OP03-114-V1",
       "file": "OP03-114-v1.json"
     },
@@ -64,7 +64,7 @@
       "file": "OP03-114-v4.json"
     }
   ],
-  "price_min_eur": 72,
+  "price_min_eur": 70,
   "price_avg7_eur": 77.43,
   "price_avg30_eur": 80.37,
   "listings_count": 50

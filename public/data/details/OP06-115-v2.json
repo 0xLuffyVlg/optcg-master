@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/prb02-p082.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656158_200w.jpg",
-  "price_eur": 12.2,
+  "price_eur": 14.64,
   "price_usd": 20.82,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Youre-the-One-Who-Should-Disappear-OP06-115-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Youre-the-One-Who-Should-Disappear-OP06-115-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "You're the One Who Should Disappear",
       "rarity": "R",
-      "price_eur": 12.2,
+      "price_eur": 14.64,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Youre-the-One-Who-Should-Disappear-OP06-115",
       "file": "OP06-115-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP06-115-v3.json"
     }
   ],
-  "price_min_eur": 12.2,
+  "price_min_eur": 14.64,
   "price_avg7_eur": 15.67,
   "price_avg30_eur": 14.12,
   "listings_count": 50

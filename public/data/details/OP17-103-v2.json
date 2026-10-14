@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-fr/op17-p135.webp",
   "image_url": "/img/cards-fr/op17-p135-sm.webp",
-  "price_eur": 137.5,
+  "price_eur": 140,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Katakuri-OP17-103-V2?language=2",
   "cardmarket_url_jp": null,
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Charlotte Katakuri",
       "rarity": "UC",
-      "price_eur": 137.5,
+      "price_eur": 140,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Katakuri-OP17-103?language=2",
       "file": "OP17-103-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP17-103-v2.json"
     }
   ],
-  "price_min_eur": 137.5,
+  "price_min_eur": 140,
   "price_avg7_eur": 128.18,
   "price_avg30_eur": 152.84,
   "listings_count": 50

@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/eb04-p041.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671342_200w.jpg",
-  "price_eur": 2.55,
+  "price_eur": 3,
   "price_usd": 0.14,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Queen-EB04-032?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal/Queen-EB04-032",
@@ -32,12 +32,12 @@
       "variant_version": "v1",
       "name": "Queen",
       "rarity": "R",
-      "price_eur": 2.55,
+      "price_eur": 3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Queen-EB04-032?language=2",
       "file": "EB04-032-v1.json"
     }
   ],
-  "price_min_eur": 2.55,
+  "price_min_eur": 3,
   "price_avg7_eur": 3.02,
   "price_avg30_eur": 2.77,
   "listings_count": 18

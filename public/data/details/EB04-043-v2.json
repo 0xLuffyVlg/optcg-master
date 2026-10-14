@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/eb04-p055.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685310_200w.jpg",
-  "price_eur": 3.39,
+  "price_eur": 3.3,
   "price_usd": 3.1,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Kaku-EB04-043-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal/Kaku-EB04-043-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Kaku",
       "rarity": "R",
-      "price_eur": 3.39,
+      "price_eur": 3.3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Kaku-EB04-043-V1?language=2",
       "file": "EB04-043-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "EB04-043-v2.json"
     }
   ],
-  "price_min_eur": 3.39,
+  "price_min_eur": 3.3,
   "price_avg7_eur": 4.52,
   "price_avg30_eur": 4.25,
   "listings_count": 24
