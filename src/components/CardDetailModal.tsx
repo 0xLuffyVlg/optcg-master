@@ -217,14 +217,6 @@ const getCardColorHex = (colors?: string[]): string => {
 
 const resolveInitialVariantFile = (c: Card): string => {
   const anyC = c as any;
-  const isAlt = isAltArtworkCard(c);
-
-  if (anyC.detail_file) {
-    if (!isAlt || !anyC.detail_file.endsWith('-v1.json')) {
-      return anyC.detail_file;
-    }
-  }
-
   if (anyC.variant && anyC.variant > 1) {
     return `${c.card_code}-v${anyC.variant}.json`;
   }
@@ -241,8 +233,10 @@ const resolveInitialVariantFile = (c: Card): string => {
     const num = parseInt(pMatch[1], 10);
     return `${c.card_code}-v${num + 1}.json`;
   }
-
-  return anyC.detail_file || `${c.card_code}-v1.json`;
+  if (anyC.detail_file) {
+    return anyC.detail_file;
+  }
+  return `${c.card_code}-v1.json`;
 };
 
 export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose }) => {
@@ -375,12 +369,29 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
         setCardDetail(detail);
         // Synchronize activeCard with the matching print if present
         const cleanTarget = targetFile.replace(/\.json$/i, '').toLowerCase();
+        const vNumMatch = targetFile.match(/-v(\d+)\.json$/i);
+        const targetV = vNumMatch ? parseInt(vNumMatch[1], 10) : undefined;
+
         const matchingPrint = allPrintsAsCards.find(c =>
           c.card_code.toUpperCase() === detail.code.toUpperCase() &&
-          ((c as any).detail_file?.toLowerCase() === targetFile.toLowerCase() || c.id.toLowerCase().includes(cleanTarget))
+          (
+            ((c as any).detail_file && (c as any).detail_file.toLowerCase() === targetFile.toLowerCase()) ||
+            (targetV !== undefined && (c as any).variant === targetV) ||
+            c.id.toLowerCase().includes(cleanTarget)
+          )
         );
         if (matchingPrint) {
           setActiveCard(matchingPrint);
+        } else {
+          setActiveCard(prev => prev ? {
+            ...prev,
+            detail_file: targetFile,
+            variant: targetV,
+            scalpeurs_image_url: detail.image_path ? (detail.image_path.startsWith('http') ? detail.image_path : `https://scalpeurs.com${detail.image_path}`) : prev.scalpeurs_image_url,
+            _defaultImagePath: detail.image_path ? (detail.image_path.startsWith('http') ? detail.image_path : `https://scalpeurs.com${detail.image_path}`) : prev._defaultImagePath,
+            cardmarket_url: detail.cardmarket_url || prev.cardmarket_url,
+            price_eur: detail.price_eur ?? prev.price_eur
+          } : null);
         }
       }
     } finally {
@@ -388,46 +399,45 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
     }
   };
 
-  // Listen to global language changes
-  useEffect(() => {
-    const handleLangChange = (e: any) => {
-      if (e.detail) setCardLang(e.detail);
-    };
-    window.addEventListener('optcg-language-changed', handleLangChange);
-    return () => window.removeEventListener('optcg-language-changed', handleLangChange);
-  }, []);
-
-  // Keyboard support: Escape to close
-  useEffect(() => {
-    const handleKeyDown = (e: KeyboardEvent) => {
-      if (e.key === 'Escape') {
-        onClose();
-      }
-    };
-    window.addEventListener('keydown', handleKeyDown);
-    return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [onClose]);
-
-  if (!activeCard) return null;
+  // Helper to format authentic Scalpeurs WebP image URL for the chosen language edition
+  const resolveScalpeursUrl = (urlOrPath?: string | null, lang: 'JP' | 'FR' | 'EN' = 'FR'): string => {
+    if (!urlOrPath) return '';
+    let u = urlOrPath.trim();
+    if (u.startsWith('/')) {
+      u = `https://scalpeurs.com${u}`;
+    }
+    u = u.replace('-sm.webp', '.webp');
+    if (lang === 'FR') {
+      u = u.replace(/\/cards-(jp|en)\//i, '/cards-fr/');
+    } else if (lang === 'EN') {
+      u = u.replace(/\/cards-(jp|fr)\//i, '/cards-en/');
+    } else if (lang === 'JP') {
+      u = u.replace(/\/cards-(fr|en)\//i, '/cards-jp/');
+    }
+    return u;
+  };
 
   // Image URL resolution: PRIORITIZE the active variant's image from the micro-fiche
   const fullImageUrl = useMemo(() => {
-    if (cardDetail?.image_url && cardDetail.image_url.startsWith('http')) {
-      return cardDetail.image_url;
-    }
+    // 1. Direct from cardDetail for currently active variant micro-fiche
     if (cardDetail?.image_path) {
-      return cardDetail.image_path.startsWith('http')
-        ? cardDetail.image_path
-        : getCardImageUrl(activeCard, cardDetail.image_path);
+      return resolveScalpeursUrl(cardDetail.image_path, editionLang);
     }
-    if (activeCard._defaultImagePath && !activeCard._defaultImagePath.endsWith('.json')) {
-      return getCardImageUrl(activeCard, activeCard._defaultImagePath);
+    if (cardDetail?.image_url) {
+      return resolveScalpeursUrl(cardDetail.image_url, editionLang);
     }
-    if (activeCard.scalpeurs_image_url) {
-      return activeCard.scalpeurs_image_url;
+
+    // 2. Direct from activeCard (the clicked print from the database)
+    if (activeCard?.scalpeurs_image_url && activeCard.scalpeurs_image_url.startsWith('http')) {
+      return resolveScalpeursUrl(activeCard.scalpeurs_image_url, editionLang);
     }
-    return getCardImageUrl(activeCard, activeCard._defaultImagePath);
-  }, [activeCard, cardDetail]);
+    if (activeCard?._defaultImagePath && activeCard._defaultImagePath.startsWith('http')) {
+      return resolveScalpeursUrl(activeCard._defaultImagePath, editionLang);
+    }
+
+    // 3. Fallback to getCardImageUrl for Bandai raw codes
+    return getCardImageUrl(activeCard, activeCard?._defaultImagePath);
+  }, [activeCard, cardDetail, editionLang]);
 
   const isLeader = (cardDetail?.category || activeCard.category) === 'Leader';
   const ownedCopiesOfThisArtwork = getCardCountInCollection(activeCard.card_code, currentVariantFile || activeCard._defaultImagePath);
@@ -629,6 +639,28 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
     );
   };
 
+  // Listen to global language changes
+  useEffect(() => {
+    const handleLangChange = (e: any) => {
+      if (e.detail) setCardLang(e.detail);
+    };
+    window.addEventListener('optcg-language-changed', handleLangChange);
+    return () => window.removeEventListener('optcg-language-changed', handleLangChange);
+  }, []);
+
+  // Keyboard support: Escape to close
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') {
+        onClose();
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [onClose]);
+
+  if (!activeCard) return null;
+
   return createPortal(
     <>
       {/* Modal Backdrop */}
@@ -823,6 +855,54 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
                       </div>
                     </div>
                   </div>
+
+                  {/* Interactive Variant Switcher Carousel (v1 Base, v2 Alt-Art, v3 Manga, etc.) */}
+                  {cardDetail?.all_variants && cardDetail.all_variants.length > 1 && (
+                    <div className="mt-3 w-full space-y-1.5 bg-[#090E17]/90 p-2.5 rounded-2xl border border-slate-800">
+                      <div className="flex items-center justify-between px-1 text-[11px] font-bold text-slate-400">
+                        <span className="flex items-center gap-1.5 text-amber-400">
+                          <Sparkles className="w-3.5 h-3.5" />
+                          <span>Versions &amp; Variantes ({cardDetail.all_variants.length})</span>
+                        </span>
+                        <span className="text-[10px] text-slate-500 font-mono">Changer d'illustration</span>
+                      </div>
+                      <div className="grid grid-cols-2 sm:grid-cols-3 gap-1.5 max-h-36 overflow-y-auto no-scrollbar">
+                        {cardDetail.all_variants.map((v) => {
+                          const isCurrent = currentVariantFile.toLowerCase() === v.file.toLowerCase();
+                          const vLabel = v.variant_version?.toUpperCase() || `V${v.variant_index}`;
+                          const isManga = (v.name || '').toLowerCase().includes('manga');
+                          const isSp = (v.name || '').toLowerCase().includes('sp') || (v.rarity || '').toUpperCase() === 'SP';
+
+                          return (
+                            <button
+                              key={v.file}
+                              type="button"
+                              onClick={() => handleVariantChange(v.file)}
+                              className={`p-1.5 rounded-xl border text-left transition-all cursor-pointer flex flex-col justify-between ${
+                                isCurrent
+                                  ? 'bg-amber-500/20 border-amber-400 shadow-md shadow-amber-500/20 ring-1 ring-amber-400/50'
+                                  : 'bg-slate-900/80 border-slate-800 hover:border-slate-700 hover:bg-slate-850'
+                              }`}
+                            >
+                              <div className="flex items-center justify-between gap-1 w-full">
+                                <span className={`px-1.5 py-0.2 rounded text-[9px] font-black uppercase ${
+                                  isManga ? 'bg-amber-400 text-slate-950' : (isSp ? 'bg-pink-500 text-white' : (isCurrent ? 'bg-amber-500/40 text-amber-300' : 'bg-slate-800 text-slate-300'))
+                                }`}>
+                                  {isManga ? '👑 Manga' : (isSp ? '⭐ SP' : vLabel)}
+                                </span>
+                                <span className="text-[10px] font-mono font-black text-emerald-400">
+                                  {v.price_eur ? `${formatCardPrice(v.price_eur, 'EUR')}` : '—'}
+                                </span>
+                              </div>
+                              <p className="text-[9.5px] font-bold text-slate-200 truncate mt-1">
+                                {v.name.replace(/Gol\.D\.Roger/i, '').replace(/Monkey\.D\.Luffy/i, '').replace(/Roronoa Zoro/i, '').replace(/Nami/i, '').replace(/Trafalgar Law/i, '').replace(/Donquixote Doflamingo/i, '').replace(/[()]/g, '').trim() || vLabel}
+                              </p>
+                            </button>
+                          );
+                        })}
+                      </div>
+                    </div>
+                  )}
                 </div>
 
               </div>

@@ -356,9 +356,9 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
 
     // Variant dissociation filter (Proposer les 3 vs Base vs Alt-Arts)
     if (variantTab === 'BASE') {
-      list = list.filter(card => !card.id.includes('_') && !card.id.includes('-r'));
+      list = list.filter(card => !isAltArtworkCard(card));
     } else if (variantTab === 'ALT') {
-      list = list.filter(card => card.id.includes('_') || card.id.includes('-r'));
+      list = list.filter(card => isAltArtworkCard(card));
     }
 
     // Set Group Filter (OP, ST, EB, PRB, P, JP) - only apply when not doing a global text search
@@ -1616,7 +1616,7 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
               </div>
               <div className="max-h-72 overflow-y-auto divide-y divide-slate-800/60 no-scrollbar">
                 {searchSuggestions.map((card, sIdx) => {
-                  const isAlt = card.id.includes('_') || card.id.includes('-r');
+                  const isAlt = isAltArtworkCard(card);
                   const cardImg = getCardImageUrl(card, card._defaultImagePath);
                   const priceInfo = getCardPriceForArtwork(card, card._defaultImagePath || card.id);
                   return (

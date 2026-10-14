@@ -12,6 +12,7 @@ export interface Card {
   language?: 'jp' | 'en' | 'fr' | string;
   category: CardCategory;
   rarity: string;
+  variant?: number;
   variant_type?: string;
   variant_label?: string;
   created_at?: string;

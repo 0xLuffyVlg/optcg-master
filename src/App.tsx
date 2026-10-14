@@ -100,18 +100,22 @@ function AppContent() {
         if (found) {
           updateRobotsMeta('index, follow');
           setNotFoundCardCode(null);
-          if (cleanCode !== found.card_code.toUpperCase()) {
-            const matchingImg = (found._imagePaths || []).find(img => 
-              img.toLowerCase().replace(/\.(webp|png|jpg|jpeg)$/i, '') === cleanCode.toLowerCase()
-            ) || `${cleanCode.toLowerCase()}.png`;
+          setSelectedCard(prev => {
+            if (prev && (prev.card_code.toUpperCase() === cleanCode || prev.card_code.toUpperCase() === baseCode)) {
+              return prev;
+            }
+            if (cleanCode !== found!.card_code.toUpperCase()) {
+              const matchingImg = (found!._imagePaths || []).find(img => 
+                img.toLowerCase().replace(/\.(webp|png|jpg|jpeg)$/i, '') === cleanCode.toLowerCase()
+              ) || `${cleanCode.toLowerCase()}.png`;
 
-            setSelectedCard({
-              ...found,
-              _defaultImagePath: matchingImg
-            });
-          } else {
-            setSelectedCard(found);
-          }
+              return {
+                ...found!,
+                _defaultImagePath: matchingImg
+              };
+            }
+            return found!;
+          });
           updateDocumentTitle(state.tab, `${found.name} (${found.card_code})`);
         } else {
           // Card code format is valid but does not exist in dataset -> 404 + noindex

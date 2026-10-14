@@ -215,6 +215,7 @@ export const allPrintsAsCards: Card[] = allRawCards.map(raw => {
     jp_name: raw.name_jp || existing?.jp_name,
     category,
     rarity: officialRarity,
+    variant: (raw as any).variant,
     variant_type: variantType,
     variant_label: variantLabel,
     color: Array.isArray(raw.color) && raw.color.length > 0 ? raw.color : (existing?.color || ['Red']),
