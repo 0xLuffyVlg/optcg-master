@@ -1385,7 +1385,7 @@
   },
   "EB01-006": {
     "idProduct": 754141,
-    "trend_eur": 3.9,
+    "trend_eur": 4,
     "low_eur": 0,
     "avg_eur": 6.85,
     "foil_trend_eur": 0,
@@ -1689,7 +1689,7 @@
   },
   "OP03-122": {
     "idProduct": 719399,
-    "trend_eur": 4.5,
+    "trend_eur": 4.49,
     "low_eur": 0,
     "avg_eur": 5.53,
     "foil_trend_eur": 0,
@@ -1929,7 +1929,7 @@
   },
   "OP05-119": {
     "idProduct": 733461,
-    "trend_eur": 3,
+    "trend_eur": 2.99,
     "low_eur": 0,
     "avg_eur": 4.32,
     "foil_trend_eur": 0,
@@ -4753,7 +4753,7 @@
   },
   "OP17-119": {
     "idProduct": 904148,
-    "trend_eur": 18,
+    "trend_eur": 19.5,
     "low_eur": 20,
     "avg_eur": 25.45,
     "foil_trend_eur": 0,
@@ -4809,7 +4809,7 @@
   },
   "P-107": {
     "idProduct": 845730,
-    "trend_eur": 100,
+    "trend_eur": 80,
     "low_eur": 115,
     "avg_eur": 147.45,
     "foil_trend_eur": 0,
@@ -9233,7 +9233,7 @@
   },
   "OP09-118": {
     "idProduct": 786547,
-    "trend_eur": 14.5,
+    "trend_eur": 14.9,
     "low_eur": 14,
     "avg_eur": 16.77,
     "foil_trend_eur": 0,
@@ -20201,7 +20201,7 @@
   },
   "ST11-001": {
     "idProduct": 750527,
-    "trend_eur": 1.5,
+    "trend_eur": 1,
     "low_eur": 0,
     "avg_eur": 1.92,
     "foil_trend_eur": 0,
@@ -21585,7 +21585,7 @@
   },
   "ST01-001": {
     "idProduct": 690965,
-    "trend_eur": 7,
+    "trend_eur": 6.99,
     "low_eur": 0,
     "avg_eur": 4.95,
     "foil_trend_eur": 0,
@@ -21841,7 +21841,7 @@
   },
   "P-022": {
     "idProduct": 692220,
-    "trend_eur": 17.99,
+    "trend_eur": 17.5,
     "low_eur": 0,
     "avg_eur": 22.53,
     "foil_trend_eur": 0,
@@ -21937,7 +21937,7 @@
   },
   "P-036": {
     "idProduct": 704114,
-    "trend_eur": 8.47,
+    "trend_eur": 8.45,
     "low_eur": 0,
     "avg_eur": 13.75,
     "foil_trend_eur": 0,
@@ -22073,7 +22073,7 @@
   },
   "P-071": {
     "idProduct": 788386,
-    "trend_eur": 5.5,
+    "trend_eur": 3.99,
     "low_eur": 0,
     "avg_eur": 4.67,
     "foil_trend_eur": 0,
@@ -22153,7 +22153,7 @@
   },
   "P-100": {
     "idProduct": 902498,
-    "trend_eur": 3.5,
+    "trend_eur": 3,
     "low_eur": 0,
     "avg_eur": 5.33,
     "foil_trend_eur": 0,
@@ -22265,7 +22265,7 @@
   },
   "P-072": {
     "idProduct": 804825,
-    "trend_eur": 9.5,
+    "trend_eur": 9.44,
     "low_eur": 0,
     "avg_eur": 20.34,
     "foil_trend_eur": 0,
@@ -22313,7 +22313,7 @@
   },
   "P-066": {
     "idProduct": 764457,
-    "trend_eur": 107.98,
+    "trend_eur": 102,
     "low_eur": 0,
     "avg_eur": 97.21,
     "foil_trend_eur": 0,
@@ -22409,7 +22409,7 @@
   },
   "P-120": {
     "idProduct": 883885,
-    "trend_eur": 5.77,
+    "trend_eur": 5.78,
     "low_eur": 0,
     "avg_eur": 6.35,
     "foil_trend_eur": 0,
@@ -22529,7 +22529,7 @@
   },
   "P-152": {
     "idProduct": 901255,
-    "trend_eur": 3,
+    "trend_eur": 3.48,
     "low_eur": 0,
     "avg_eur": 5.34,
     "foil_trend_eur": 0,

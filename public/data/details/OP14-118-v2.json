@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op14-p143.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/670875_200w.jpg",
-  "price_eur": 119,
+  "price_eur": 118.99,
   "price_usd": 227,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Youll-Frighten-Me-OP14-118-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven-Asia-Region-Legal/Youll-Frighten-Me-OP14-118-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "You'll Frighten Me...",
       "rarity": "R",
-      "price_eur": 119,
+      "price_eur": 118.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Youll-Frighten-Me-OP14-118-V1?language=2",
       "file": "OP14-118-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP14-118-v2.json"
     }
   ],
-  "price_min_eur": 119,
+  "price_min_eur": 118.99,
   "price_avg7_eur": 130.33,
   "price_avg30_eur": 142.27,
   "listings_count": 25

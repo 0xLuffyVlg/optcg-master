@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/promo-p-p146.webp",
   "image_url": "https://scalpeurs.com/img/cards-jp/promo-p-p146.webp",
-  "price_eur": 8.45,
+  "price_eur": 8,
   "price_usd": null,
   "cardmarket_url": null,
   "cardmarket_url_jp": null,
@@ -32,12 +32,12 @@
       "variant_version": "v1",
       "name": "Monkey.D.Luffy",
       "rarity": "P",
-      "price_eur": 8.45,
+      "price_eur": 8,
       "cardmarket_url": null,
       "file": "P-159-v1.json"
     }
   ],
-  "price_min_eur": 8.45,
+  "price_min_eur": 8,
   "price_avg7_eur": null,
   "price_avg30_eur": null,
   "listings_count": null
