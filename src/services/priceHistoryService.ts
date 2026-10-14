@@ -73,10 +73,11 @@ export function getCardPriceHistory(
   timeframe: '7d' | '30d' | '90d' | '180d' | 'max' = '30d',
   priceInfo?: ArtworkPriceResult
 ): PriceHistoryResult {
-  const currentPrice = priceInfo?.priceMinEur 
-    || priceInfo?.cardmarketPriceEur 
-    || card.price_min_eur 
-    || card.price_eur 
+  const currentPrice = (priceInfo?.priceEur && priceInfo.priceEur > 0 ? priceInfo.priceEur : null)
+    || (priceInfo?.cardmarketPriceEur && priceInfo.cardmarketPriceEur > 0 ? priceInfo.cardmarketPriceEur : null)
+    || (priceInfo?.priceMinEur && priceInfo.priceMinEur > 0 ? priceInfo.priceMinEur : null)
+    || (card.price_eur && card.price_eur > 0 ? card.price_eur : null)
+    || (card.price_min_eur && card.price_min_eur > 0 ? card.price_min_eur : null)
     || 0.25;
 
   const a7 = priceInfo?.priceAvg7Eur || card.price_avg7_eur || (currentPrice > 1 ? currentPrice * 1.04 : currentPrice);

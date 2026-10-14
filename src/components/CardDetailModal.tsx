@@ -223,6 +223,9 @@ const resolveInitialVariantFile = (c: Card): string => {
     }
   }
 
+  if (anyC.variant && anyC.variant > 1) {
+    return `${c.card_code}-v${anyC.variant}.json`;
+  }
   const idMatch = (c.id || '').match(/-([2-9])-(\d+)$/);
   if (idMatch) {
     return `${c.card_code}-v${idMatch[1]}.json`;
@@ -235,9 +238,6 @@ const resolveInitialVariantFile = (c: Card): string => {
   if (pMatch) {
     const num = parseInt(pMatch[1], 10);
     return `${c.card_code}-v${num + 1}.json`;
-  }
-  if (anyC.variant && anyC.variant > 1) {
-    return `${c.card_code}-v${anyC.variant}.json`;
   }
 
   return anyC.detail_file || `${c.card_code}-v1.json`;
@@ -421,9 +421,24 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
   const isLeader = (cardDetail?.category || activeCard.category) === 'Leader';
   const ownedCopiesOfThisArtwork = getCardCountInCollection(activeCard.card_code, currentVariantFile || activeCard._defaultImagePath);
 
+  // Exact price baseline from the clicked card object (matches DatabaseView 100%)
+  const gridVerifiedPrice = useMemo(() => {
+    if (!activeCard) return 0;
+    const directEur = (activeCard as any).price_eur;
+    if (directEur !== undefined && directEur !== null && directEur > 0) {
+      return directEur;
+    }
+    const directMin = activeCard.price_min_eur;
+    if (directMin !== undefined && directMin !== null && directMin > 0) {
+      return directMin;
+    }
+    const artPrice = getCardPriceForArtwork(activeCard, activeCard._defaultImagePath || activeCard.id || currentVariantFile);
+    return artPrice.priceEur || artPrice.priceMinEur || 0;
+  }, [activeCard, currentVariantFile]);
+
   // Exact price baseline from verified artwork dataset
   const artworkBasePrice = useMemo(() => {
-    return getCardPriceForArtwork(activeCard, currentVariantFile || activeCard._defaultImagePath);
+    return getCardPriceForArtwork(activeCard, activeCard._defaultImagePath || activeCard.id || currentVariantFile);
   }, [activeCard, currentVariantFile]);
 
   // Exact 1:1 Cardmarket and TCGplayer URLs strictly adapted to the chosen edition language
@@ -442,38 +457,41 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
     }
   }, [editionLang, cardDetail, activeCard, artworkBasePrice]);
 
-  const activeTcgplayerUrl = cardDetail?.tcgplayer_url || artworkBasePrice.tcgplayerUrl || getTcgplayerUrl(activeCard.card_code, currentVariantFile, activeCard);
+  const activeTcgplayerUrl = cardDetail?.tcgplayer_url || artworkBasePrice.tcgplayerUrl || getTcgplayerUrl(activeCard.card_code, currentVariantFile || activeCard._defaultImagePath || activeCard.id, activeCard);
 
-  // Active price: preserves verified alt price from being overridden by base card (<2€)
+  // Active price: NEVER let a base card price downgrade an alternate art or verified variant!
   const activePriceEur = useMemo(() => {
-    const isAlt = isAltArtworkCard(activeCard);
-    const verifiedCardPrice = (activeCard.price_min_eur && activeCard.price_min_eur > 0)
-      ? activeCard.price_min_eur
-      : (activeCard.price_eur && activeCard.price_eur > 0 ? activeCard.price_eur : 0);
-
-    // If live price was fetched:
-    if (livePriceEur !== null && livePriceEur !== undefined) {
-      if (!isAlt || livePriceEur >= 2 || verifiedCardPrice <= 0) {
-        return livePriceEur;
+    if (gridVerifiedPrice > 0) {
+      // If we have live price: only accept if it doesn't contradict the known variant price
+      if (livePriceEur !== null && livePriceEur !== undefined && livePriceEur > 0) {
+        if (gridVerifiedPrice <= 2) {
+          return livePriceEur;
+        }
+        // If gridVerifiedPrice > 2, reject base card fallback (e.g. 0.76 € vs 349 €)
+        if (livePriceEur >= gridVerifiedPrice * 0.4 && livePriceEur <= gridVerifiedPrice * 2.5) {
+          return livePriceEur;
+        }
       }
+      return gridVerifiedPrice;
     }
 
-    // If cardDetail micro-fiche has a price:
-    if (cardDetail?.price_eur !== undefined && cardDetail?.price_eur !== null) {
-      if (!isAlt || cardDetail.price_eur >= 2 || verifiedCardPrice <= 0) {
-        return cardDetail.price_eur;
-      }
+    if (livePriceEur !== null && livePriceEur !== undefined && livePriceEur > 0) {
+      return livePriceEur;
     }
-
-    if (verifiedCardPrice > 0) return verifiedCardPrice;
-    if (artworkBasePrice.priceMinEur && artworkBasePrice.priceMinEur > 0) return artworkBasePrice.priceMinEur;
-    if (artworkBasePrice.priceEur && artworkBasePrice.priceEur > 0) return artworkBasePrice.priceEur;
-
+    if (cardDetail?.price_eur !== undefined && cardDetail.price_eur !== null && cardDetail.price_eur > 0) {
+      return cardDetail.price_eur;
+    }
+    if (artworkBasePrice.priceEur && artworkBasePrice.priceEur > 0) {
+      return artworkBasePrice.priceEur;
+    }
+    if (artworkBasePrice.priceMinEur && artworkBasePrice.priceMinEur > 0) {
+      return artworkBasePrice.priceMinEur;
+    }
     return 0;
-  }, [livePriceEur, cardDetail, activeCard, artworkBasePrice]);
+  }, [gridVerifiedPrice, livePriceEur, cardDetail, artworkBasePrice]);
 
   const artworkPriceInfo = useMemo(() => {
-    const finalPrice = activePriceEur > 0 ? activePriceEur : (artworkBasePrice.priceMinEur || artworkBasePrice.priceEur);
+    const finalPrice = activePriceEur > 0 ? activePriceEur : (artworkBasePrice.priceMinEur || artworkBasePrice.priceEur || 0);
     return {
       ...artworkBasePrice,
       priceEur: finalPrice,

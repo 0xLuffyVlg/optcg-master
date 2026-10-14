@@ -37,20 +37,54 @@ export const CardPriceChart: React.FC<CardPriceChartProps> = ({
     let cancelled = false;
     setLiveData(null);
     fetchLiveCardPriceHistory(card, timeframe, artworkKey).then(res => {
-      if (!cancelled && res) {
+      if (!cancelled && res && res.currentPrice !== undefined && res.currentPrice !== null) {
+        // Protect against Scalpeurs API returning base card history for an alternate artwork
+        const targetPrice = artworkPriceInfo.priceEur || artworkPriceInfo.priceMinEur || (card as any).price_eur || 0;
+        if (targetPrice > 2 && res.currentPrice < targetPrice * 0.35) {
+          return;
+        }
         setLiveData(res);
       }
     });
     return () => {
       cancelled = true;
     };
-  }, [card, timeframe, artworkKey]);
+  }, [card, timeframe, artworkKey, artworkPriceInfo]);
+
+  // Verified current reference price prioritizing artworkPriceInfo (matches DatabaseView grid)
+  const currentRefPrice = useMemo(() => {
+    if (liveData?.currentPrice !== undefined && liveData?.currentPrice !== null) {
+      return liveData.currentPrice;
+    }
+    if (artworkPriceInfo.priceEur && artworkPriceInfo.priceEur > 0) {
+      return artworkPriceInfo.priceEur;
+    }
+    if (artworkPriceInfo.priceMinEur && artworkPriceInfo.priceMinEur > 0) {
+      return artworkPriceInfo.priceMinEur;
+    }
+    if (artworkPriceInfo.cardmarketPriceEur && artworkPriceInfo.cardmarketPriceEur > 0) {
+      return artworkPriceInfo.cardmarketPriceEur;
+    }
+    const cardEur = (card as any).price_eur;
+    if (cardEur && cardEur > 0) {
+      return cardEur;
+    }
+    if (cardDetail?.price_eur !== undefined && cardDetail.price_eur !== null && cardDetail.price_eur > 0) {
+      return cardDetail.price_eur;
+    }
+    return 0;
+  }, [liveData, artworkPriceInfo, cardDetail, card]);
 
   // Get historical data for the selected timeframe (use live data if available, or fall back to smooth moving-average history)
   const history = useMemo(() => {
     if (liveData) return liveData;
-    return getCardPriceHistory(card, timeframe, artworkPriceInfo);
-  }, [card, timeframe, artworkPriceInfo, liveData]);
+    return getCardPriceHistory(card, timeframe, {
+      ...artworkPriceInfo,
+      priceEur: currentRefPrice,
+      priceMinEur: currentRefPrice,
+      cardmarketPriceEur: currentRefPrice
+    });
+  }, [card, timeframe, artworkPriceInfo, liveData, currentRefPrice]);
 
   const isBaisse = history.changePercent < 0;
   const isHausse = history.changePercent > 0;
@@ -333,9 +367,9 @@ export const CardPriceChart: React.FC<CardPriceChartProps> = ({
           <span className="text-[9px] text-emerald-400/90 font-medium block truncate">1er Prix (NM)</span>
           <span className="text-xs font-bold text-emerald-400 whitespace-nowrap">
             {formatCardPrice(
-              (liveData?.currentPrice !== undefined && liveData?.currentPrice !== null)
-                ? liveData.currentPrice
-                : (cardDetail?.price_eur !== undefined && cardDetail.price_eur !== null ? cardDetail.price_eur : (artworkPriceInfo.priceMinEur || artworkPriceInfo.priceEur)),
+              (artworkPriceInfo.priceMinEur && artworkPriceInfo.priceMinEur > 0)
+                ? artworkPriceInfo.priceMinEur
+                : currentRefPrice,
               'EUR'
             )}
           </span>
@@ -346,9 +380,9 @@ export const CardPriceChart: React.FC<CardPriceChartProps> = ({
           <span className="text-[9px] text-blue-400/90 font-medium block truncate">Tendance</span>
           <span className="text-xs font-bold text-blue-400 whitespace-nowrap">
             {formatCardPrice(
-              (liveData?.currentPrice !== undefined && liveData?.currentPrice !== null)
-                ? liveData.currentPrice
-                : (cardDetail?.price_eur !== undefined && cardDetail.price_eur !== null ? cardDetail.price_eur : (artworkPriceInfo.cardmarketPriceEur || artworkPriceInfo.priceEur)),
+              (artworkPriceInfo.cardmarketPriceEur && artworkPriceInfo.cardmarketPriceEur > 0)
+                ? artworkPriceInfo.cardmarketPriceEur
+                : currentRefPrice,
               'EUR'
             )}
           </span>
@@ -358,7 +392,7 @@ export const CardPriceChart: React.FC<CardPriceChartProps> = ({
         <div className="px-2 py-1.5 rounded-lg bg-amber-950/20 border border-amber-600/30 flex flex-col justify-center">
           <span className="text-[9px] text-amber-400/90 font-medium block truncate">Moyenne</span>
           <span className="text-xs font-bold text-amber-300 whitespace-nowrap">
-            {artworkPriceInfo.priceAvg7Eur ? formatCardPrice(artworkPriceInfo.priceAvg7Eur, 'EUR') : formatCardPrice(cardDetail?.price_eur || artworkPriceInfo.cardmarketPriceEur, 'EUR')}
+            {artworkPriceInfo.priceAvg7Eur ? formatCardPrice(artworkPriceInfo.priceAvg7Eur, 'EUR') : formatCardPrice(currentRefPrice, 'EUR')}
           </span>
         </div>
 
@@ -385,9 +419,6 @@ export const CardPriceChart: React.FC<CardPriceChartProps> = ({
         <div className="space-y-1.5">
           {/* 1. Cardmarket Row */}
           {(() => {
-            const currentRefPrice = (liveData?.currentPrice !== undefined && liveData?.currentPrice !== null)
-              ? liveData.currentPrice
-              : (cardDetail?.price_eur !== undefined && cardDetail.price_eur !== null ? cardDetail.price_eur : (artworkPriceInfo.priceMinEur || artworkPriceInfo.priceEur || 0));
             const isCtValid = Boolean(artworkPriceInfo.cardtraderPriceEur && artworkPriceInfo.cardtraderPriceEur > 0 && (currentRefPrice <= 2 || (artworkPriceInfo.cardtraderPriceEur >= currentRefPrice * 0.4 && artworkPriceInfo.cardtraderPriceEur <= currentRefPrice * 3)));
 
             return (
