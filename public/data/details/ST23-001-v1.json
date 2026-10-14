@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/pack-promotion-ex-p035.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/633761_200w.jpg",
-  "price_eur": 8.5,
+  "price_eur": 100,
   "price_usd": 12.5,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Red-Shanks/Uta-ST23-001?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Red-Shanks-Non-English/Uta-ST23-001",
@@ -32,12 +32,12 @@
       "variant_version": "v1",
       "name": "Uta",
       "rarity": "SR",
-      "price_eur": 8.5,
+      "price_eur": 100,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Red-Shanks/Uta-ST23-001?language=2",
       "file": "ST23-001-v1.json"
     }
   ],
-  "price_min_eur": 8.5,
+  "price_min_eur": 100,
   "price_avg7_eur": 10.76,
   "price_avg30_eur": 10.61,
   "listings_count": 13

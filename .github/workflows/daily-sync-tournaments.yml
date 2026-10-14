@@ -2,8 +2,8 @@ name: Daily Tournaments Sync
 
 on:
   schedule:
-    # Tous les matins à 06:30 UTC (08:30 heure de Paris)
-    - cron: '30 6 * * *'
+    # Tous les matins à 04:30 UTC (06:30 heure de Paris)
+    - cron: '30 4 * * *'
   workflow_dispatch: # Permet de lancer manuellement depuis l'interface GitHub
 
 permissions:
@@ -31,5 +31,5 @@ jobs:
       - name: Commit and Push Updated Tournaments
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: auto-sync daily competitive tournaments [skip ci]"
-          file_pattern: "src/data/tournaments.json"
+          commit_message: "chore: auto-sync daily competitive tournaments"
+          file_pattern: "src/data/tournaments.json public/data/tournaments.json src/data/tournaments_initial.json"

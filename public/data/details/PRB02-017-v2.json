@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/prb02-p243.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653858_200w.jpg",
-  "price_eur": 42,
+  "price_eur": 41.99,
   "price_usd": 72.81,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Boa-Hancock-PRB02-017-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Boa-Hancock-PRB02-017-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Boa Hancock",
       "rarity": "SR",
-      "price_eur": 42,
+      "price_eur": 41.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Boa-Hancock-PRB02-017-V1?language=2",
       "file": "PRB02-017-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "PRB02-017-v2.json"
     }
   ],
-  "price_min_eur": 42,
+  "price_min_eur": 41.99,
   "price_avg7_eur": 53.53,
   "price_avg30_eur": 50.68,
   "listings_count": 27
