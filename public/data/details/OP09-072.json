@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Franky (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 4.99,
+      "price_eur": 5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Franky-OP09-072-V2?language=2",
       "file": "OP09-072-v2.json"
     },
@@ -55,8 +55,5 @@
       "file": "OP09-072-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.26,
-  "price_avg30_eur": 0.3,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

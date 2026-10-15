@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Sanji",
       "rarity": "C",
-      "price_eur": 5,
+      "price_eur": 0.4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Sanji-ST21-003-V1?language=2",
       "file": "ST21-003-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Sanji (Parallel)",
       "rarity": "C",
-      "price_eur": 0.02,
+      "price_eur": 7.71,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Sanji-ST21-003-V2?language=2",
       "file": "ST21-003-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Sanji - ST21-003 (Pirate Foil)",
       "rarity": "C",
-      "price_eur": 0.02,
+      "price_eur": 0.33,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Sanji-ST21-003-V2?language=2",
       "file": "ST21-003-v4.json"
     },
@@ -73,8 +73,5 @@
       "file": "ST21-003-v5.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.3,
-  "price_avg30_eur": 0.41,
-  "listings_count": 39
+  "price_min_eur": 0.02
 }

@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Buggy (Alternate Art)",
       "rarity": "R",
-      "price_eur": 880,
+      "price_eur": 15,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Buggy-OP09-051-V2?language=2",
       "file": "OP09-051-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Buggy (Alternate Art)",
       "rarity": "SP",
-      "price_eur": 1200,
+      "price_eur": 135,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Buggy-OP09-051-V3?language=2",
       "file": "OP09-051-v3.json"
     },
@@ -59,13 +59,10 @@
       "variant_version": "v4",
       "name": "Buggy (Manga)",
       "rarity": "R",
-      "price_eur": 149.99,
+      "price_eur": 995,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Buggy-OP09-051-V4?language=2",
       "file": "OP09-051-v4.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.08,
-  "price_avg30_eur": 0.06,
-  "listings_count": 29
+  "price_min_eur": 0.02
 }

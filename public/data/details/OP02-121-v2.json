@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op02-p154.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/485456_200w.jpg",
-  "price_eur": 13.42,
+  "price_eur": 13.4,
   "price_usd": 12.35,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Kuzan-OP02-121-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War-Japanese/Kuzan-OP02-121-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Kuzan (121)",
       "rarity": "SEC",
-      "price_eur": 13.42,
+      "price_eur": 13.4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Kuzan-OP02-121-V1",
       "file": "OP02-121-v1.json"
     },
@@ -64,7 +64,7 @@
       "file": "OP02-121-v4.json"
     }
   ],
-  "price_min_eur": 13.42,
+  "price_min_eur": 13.4,
   "price_avg7_eur": 25.47,
   "price_avg30_eur": 17.05,
   "listings_count": 50

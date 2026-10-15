@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Sakazuki (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 7.99,
+      "price_eur": 24.3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Sakazuki-OP16-065-V2?language=2",
       "file": "OP16-065-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Sakazuki (Manga)",
       "rarity": "SR",
-      "price_eur": 699,
+      "price_eur": 1011.97,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Sakazuki-OP16-065-V3?language=2",
       "file": "OP16-065-v3.json"
     }
   ],
-  "price_min_eur": 0.1,
-  "price_avg7_eur": 0.68,
-  "price_avg30_eur": 0.69,
-  "listings_count": 50
+  "price_min_eur": 0.1
 }

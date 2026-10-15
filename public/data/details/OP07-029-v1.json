@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Basil Hawkins (Parallel)",
       "rarity": "SR",
-      "price_eur": 2.5,
+      "price_eur": 3.31,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Basil-Hawkins-OP07-029-V2",
       "file": "OP07-029-v2.json"
     },
@@ -64,8 +64,5 @@
       "file": "OP07-029-v4.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.19,
-  "price_avg30_eur": 0.18,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

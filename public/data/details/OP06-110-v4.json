@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Nekomamushi (Offline Regional 2024 Vol. 3)",
       "rarity": "UC",
-      "price_eur": 20000,
+      "price_eur": 6.2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Nekomamushi-OP06-110-V1",
       "file": "OP06-110-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Nekomamushi (Jolly Roger Foil)",
       "rarity": "UC",
-      "price_eur": 0.02,
+      "price_eur": 0.06,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Nekomamushi-OP06-110-V1",
       "file": "OP06-110-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Nekomamushi (Full Art)",
       "rarity": "UC",
-      "price_eur": 0.02,
+      "price_eur": 5.59,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Nekomamushi-OP06-110-V3",
       "file": "OP06-110-v4.json"
     },
@@ -68,7 +68,7 @@
       "variant_version": "v5",
       "name": "Nekomamushi (Jolly Roger Foil)",
       "rarity": "UC",
-      "price_eur": 4,
+      "price_eur": 0.06,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Nekomamushi-OP06-110-V1",
       "file": "OP06-110-v5.json"
     },
@@ -82,8 +82,5 @@
       "file": "OP06-110-v6.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.05,
-  "price_avg30_eur": 0.11,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

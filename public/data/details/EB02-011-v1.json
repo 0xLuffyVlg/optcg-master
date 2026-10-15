@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Arlong (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 4.9,
+      "price_eur": 5.97,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Arlong-EB02-011-V2?language=2",
       "file": "EB02-011-v2.json"
     }
   ],
-  "price_min_eur": 1,
-  "price_avg7_eur": 1.75,
-  "price_avg30_eur": 1.74,
-  "listings_count": 47
+  "price_min_eur": 1
 }

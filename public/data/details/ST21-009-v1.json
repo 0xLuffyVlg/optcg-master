@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Nami (Parallel)",
       "rarity": "C",
-      "price_eur": 6.49,
+      "price_eur": 10.15,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Nami-ST21-009-V2?language=2",
       "file": "ST21-009-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.15,
-  "price_avg30_eur": 0.11,
-  "listings_count": 42
+  "price_min_eur": 0.02
 }

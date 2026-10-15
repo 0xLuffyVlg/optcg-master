@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Sabo (007)",
       "rarity": "C",
-      "price_eur": 3.9,
+      "price_eur": 0.12,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/Sabo-ST13-007-V1",
       "file": "ST13-007-v2.json"
     },
@@ -64,8 +64,5 @@
       "file": "ST13-007-v4.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.05,
-  "price_avg30_eur": 0.09,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

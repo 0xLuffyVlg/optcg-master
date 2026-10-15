@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Kaido (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 5,
+      "price_eur": 6.84,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Kaido-OP04-044-V2",
       "file": "OP04-044-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Kaido (044) (SP)",
       "rarity": "SR",
-      "price_eur": 109,
+      "price_eur": 142.76,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Kaido-OP04-044",
       "file": "OP04-044-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Kaido (OP04-044) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 0.02,
+      "price_eur": 10.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Kaido-OP04-044-V2",
       "file": "OP04-044-v4.json"
     },
@@ -68,13 +68,10 @@
       "variant_version": "v5",
       "name": "Kaido (OP04-044) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 7.82,
+      "price_eur": 10.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Kaido-OP04-044-V2",
       "file": "OP04-044-v5.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.28,
-  "price_avg30_eur": 0.24,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

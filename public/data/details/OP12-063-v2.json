@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op12-p079.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643802_200w.jpg",
-  "price_eur": 13,
+  "price_eur": 12,
   "price_usd": 27.08,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Vinsmoke-Reiju-OP12-063-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/Vinsmoke-Reiju-OP12-063-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Vinsmoke Reiju",
       "rarity": "SR",
-      "price_eur": 13,
+      "price_eur": 12,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Vinsmoke-Reiju-OP12-063-V1?language=2",
       "file": "OP12-063-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP12-063-v2.json"
     }
   ],
-  "price_min_eur": 13,
+  "price_min_eur": 12,
   "price_avg7_eur": 14.24,
   "price_avg30_eur": 14.62,
   "listings_count": 28

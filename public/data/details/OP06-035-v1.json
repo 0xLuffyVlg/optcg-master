@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Hody Jones (035) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 5.45,
+      "price_eur": 7.34,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Hody-Jones-OP06-035-V2",
       "file": "OP06-035-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Hody Jones (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 1.25,
+      "price_eur": 18.88,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Hody-Jones-OP06-035",
       "file": "OP06-035-v3.json"
     },
@@ -59,13 +59,10 @@
       "variant_version": "v4",
       "name": "Hody Jones (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 17.99,
+      "price_eur": 18.88,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Hody-Jones-OP06-035",
       "file": "OP06-035-v4.json"
     }
   ],
-  "price_min_eur": 0.9,
-  "price_avg7_eur": 2.56,
-  "price_avg30_eur": 2.58,
-  "listings_count": 50
+  "price_min_eur": 0.9
 }

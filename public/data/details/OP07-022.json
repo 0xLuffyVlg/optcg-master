@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Otama (Parallel)",
       "rarity": "R",
-      "price_eur": 11,
+      "price_eur": 5.77,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Otama-OP07-022-V2",
       "file": "OP07-022-v2.json"
     }
   ],
-  "price_min_eur": 0.25,
-  "price_avg7_eur": 2.67,
-  "price_avg30_eur": 2.75,
-  "listings_count": 50
+  "price_min_eur": 0.25
 }

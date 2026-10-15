@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op03-p048.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/498254_200w.jpg",
-  "price_eur": 230,
+  "price_eur": 220,
   "price_usd": 239.94,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Nami-OP03-040-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/Nami-OP03-040-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Nami (040)",
       "rarity": "L",
-      "price_eur": 230,
+      "price_eur": 220,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Nami-OP03-040-V1",
       "file": "OP03-040-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP03-040-v2.json"
     }
   ],
-  "price_min_eur": 230,
+  "price_min_eur": 220,
   "price_avg7_eur": 273.56,
   "price_avg30_eur": 252.65,
   "listings_count": 50

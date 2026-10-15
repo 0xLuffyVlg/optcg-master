@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Sanji (041) (Alternate Art)",
       "rarity": "L",
-      "price_eur": 19.49,
+      "price_eur": 18.44,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Sanji-OP12-041-V2?language=2",
       "file": "OP12-041-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.08,
-  "price_avg30_eur": 0.09,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

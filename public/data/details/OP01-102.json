@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Jack (Parallel)",
       "rarity": "R",
-      "price_eur": 8,
+      "price_eur": 5.62,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Jack-OP01-102-V2",
       "file": "OP01-102-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.12,
-  "price_avg30_eur": 0.15,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

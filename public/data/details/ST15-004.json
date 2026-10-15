@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/pack-standard-battle-p066.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/580989_200w.jpg",
-  "price_eur": 1,
+  "price_eur": 2.34,
   "price_usd": 2.83,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EdwardNewgate/Thatch-ST15-004?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EdwardNewgate-Non-English/Thatch-ST15-004",
@@ -32,13 +32,9 @@
       "variant_version": "v1",
       "name": "Thatch",
       "rarity": "C",
-      "price_eur": 1,
+      "price_eur": 2.34,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EdwardNewgate/Thatch-ST15-004?language=2",
       "file": "ST15-004-v1.json"
     }
-  ],
-  "price_min_eur": 1,
-  "price_avg7_eur": 1.91,
-  "price_avg30_eur": 1.88,
-  "listings_count": 14
+  ]
 }

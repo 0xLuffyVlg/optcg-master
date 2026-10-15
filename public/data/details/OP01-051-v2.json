@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op01-p065.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454576_200w.jpg",
-  "price_eur": 17.72,
+  "price_eur": 17.54,
   "price_usd": 33.01,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/EustassCaptainKid-OP01-051-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/EustassCaptainKid-OP01-051-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Eustass\"Captain\"Kid",
       "rarity": "SR",
-      "price_eur": 17.72,
+      "price_eur": 17.54,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/EustassCaptainKid-OP01-051-V1",
       "file": "OP01-051-v1.json"
     },
@@ -73,7 +73,7 @@
       "file": "OP01-051-v5.json"
     }
   ],
-  "price_min_eur": 17.72,
+  "price_min_eur": 17.54,
   "price_avg7_eur": 47.91,
   "price_avg30_eur": 60.43,
   "listings_count": 49

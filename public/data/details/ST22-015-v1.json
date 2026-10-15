@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/pcc-6assort-2-p006.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/647711_200w.jpg",
-  "price_eur": 0.02,
+  "price_eur": 0.44,
   "price_usd": 0.73,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/I-Am-Whitebeard-ST22-015?language=2",
   "cardmarket_url_jp": null,
@@ -32,13 +32,9 @@
       "variant_version": "v1",
       "name": "I Am Whitebeard!!",
       "rarity": "C",
-      "price_eur": 0.02,
+      "price_eur": 0.44,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/I-Am-Whitebeard-ST22-015?language=2",
       "file": "ST22-015-v1.json"
     }
-  ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.43,
-  "price_avg30_eur": 0.47,
-  "listings_count": 36
+  ]
 }

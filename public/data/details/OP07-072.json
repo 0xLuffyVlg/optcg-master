@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Porche (Parallel)",
       "rarity": "SR",
-      "price_eur": 4.75,
+      "price_eur": 7.32,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Porche-OP07-072-V2",
       "file": "OP07-072-v2.json"
     }
   ],
-  "price_min_eur": 0.13,
-  "price_avg7_eur": 1.18,
-  "price_avg30_eur": 1.2,
-  "listings_count": 50
+  "price_min_eur": 0.13
 }

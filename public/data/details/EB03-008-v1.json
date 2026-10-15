@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Hibari (Alternate Art)",
       "rarity": "R",
-      "price_eur": 6,
+      "price_eur": 9.06,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Hibari-EB03-008-V2?language=2",
       "file": "EB03-008-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.17,
-  "price_avg30_eur": 0.21,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

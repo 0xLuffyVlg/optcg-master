@@ -37,8 +37,5 @@
       "file": "OP15-072-v1.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.57,
-  "price_avg30_eur": 0.69,
-  "listings_count": 5
+  "price_min_eur": 0.02
 }

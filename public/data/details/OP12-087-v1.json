@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Nico Robin (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 15.5,
+      "price_eur": 25.66,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Nico-Robin-OP12-087-V2?language=2",
       "file": "OP12-087-v2.json"
     }
   ],
-  "price_min_eur": 0.1,
-  "price_avg7_eur": 0.98,
-  "price_avg30_eur": 0.98,
-  "listings_count": 50
+  "price_min_eur": 0.1
 }

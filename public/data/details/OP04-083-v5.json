@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/prb01-p126.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617589_200w.jpg",
-  "price_eur": 750,
+  "price_eur": 749.9,
   "price_usd": 53.71,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Sabo-OP04-083",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue-Japanese/Sabo-OP04-083-V5",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Sabo",
       "rarity": "SR",
-      "price_eur": 750,
+      "price_eur": 749.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Sabo-OP04-083-V1",
       "file": "OP04-083-v1.json"
     },
@@ -109,7 +109,7 @@
       "file": "OP04-083-v9.json"
     }
   ],
-  "price_min_eur": 750,
+  "price_min_eur": 749.9,
   "price_avg7_eur": 869.71,
   "price_avg30_eur": 611.48,
   "listings_count": 27

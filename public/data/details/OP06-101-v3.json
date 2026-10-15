@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/op07-p151.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545927_200w.jpg",
-  "price_eur": 310.92,
+  "price_eur": 304.35,
   "price_usd": 438.11,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/O-Nami-OP06-101",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future-Japanese/O-Nami-OP06-101",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "O-Nami",
       "rarity": "R",
-      "price_eur": 310.92,
+      "price_eur": 304.35,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/O-Nami-OP06-101-V1",
       "file": "OP06-101-v1.json"
     },
@@ -82,7 +82,7 @@
       "file": "OP06-101-v6.json"
     }
   ],
-  "price_min_eur": 310.92,
+  "price_min_eur": 304.35,
   "price_avg7_eur": 351.28,
   "price_avg30_eur": 392.78,
   "listings_count": 50

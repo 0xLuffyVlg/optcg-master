@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op04-p135.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/515310_200w.jpg",
-  "price_eur": 14.8,
+  "price_eur": 14.5,
   "price_usd": 18.92,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Yamato-OP04-112-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue-Japanese/Yamato-OP04-112-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Yamato",
       "rarity": "SR",
-      "price_eur": 14.8,
+      "price_eur": 14.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Yamato-OP04-112-V1",
       "file": "OP04-112-v1.json"
     },
@@ -73,7 +73,7 @@
       "file": "OP04-112-v5.json"
     }
   ],
-  "price_min_eur": 14.8,
+  "price_min_eur": 14.5,
   "price_avg7_eur": null,
   "price_avg30_eur": null,
   "listings_count": null

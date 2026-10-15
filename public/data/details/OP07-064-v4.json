@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/champ-card-set-p023.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617592_200w.jpg",
-  "price_eur": null,
+  "price_eur": 68.7,
   "price_usd": 81.03,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Sanji-OP07-064",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future-Japanese/Sanji-OP07-064-V4",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Sanji",
       "rarity": "SR",
-      "price_eur": 50,
+      "price_eur": 68.7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Sanji-OP07-064-V1",
       "file": "OP07-064-v1.json"
     },
@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Sanji (Parallel)",
       "rarity": "SR",
-      "price_eur": 5000,
+      "price_eur": 13.24,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Sanji-OP07-064-V2",
       "file": "OP07-064-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Sanji (Championship 2024 Top Player Pack)",
       "rarity": "SR",
-      "price_eur": 2000,
+      "price_eur": 294.13,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Sanji-OP07-064-V1",
       "file": "OP07-064-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Sanji (One Piece Japanese Version 2nd Anniversary Set)",
       "rarity": "SR",
-      "price_eur": null,
+      "price_eur": 68.7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Sanji-OP07-064",
       "file": "OP07-064-v4.json"
     },
@@ -90,9 +90,5 @@
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Sanji-OP07-064",
       "file": "OP07-064-v7.json"
     }
-  ],
-  "price_min_eur": null,
-  "price_avg7_eur": null,
-  "price_avg30_eur": null,
-  "listings_count": null
+  ]
 }

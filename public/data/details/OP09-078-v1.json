@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Gum-Gum Giant (Alternate Art)",
       "rarity": "R",
-      "price_eur": 399,
+      "price_eur": 701.2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Gum-Gum-Giant-OP09-078-V2?language=2",
       "file": "OP09-078-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.37,
-  "price_avg30_eur": 0.29,
-  "listings_count": 18
+  "price_min_eur": 0.02
 }

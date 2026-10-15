@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/champ-card-set-p021.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/622721_200w.jpg",
-  "price_eur": null,
+  "price_eur": 167.16,
   "price_usd": 300,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Camie-OP06-025-V3",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/Camie-OP06-025-V1",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Camie",
       "rarity": "R",
-      "price_eur": 300,
+      "price_eur": 167.16,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Camie-OP06-025-V1",
       "file": "OP06-025-v1.json"
     },
@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Camie (Alternate Art)",
       "rarity": "R",
-      "price_eur": 230,
+      "price_eur": 4.01,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Camie-OP06-025-V2",
       "file": "OP06-025-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Camie (Championship 2024 Top Player Pack)",
       "rarity": "R",
-      "price_eur": 500,
+      "price_eur": 134.1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Camie-OP06-025-V1",
       "file": "OP06-025-v3.json"
     },
@@ -59,13 +59,9 @@
       "variant_version": "v4",
       "name": "Camie (Championship 2024 Top Player Pack Vol. 2)",
       "rarity": "R",
-      "price_eur": null,
+      "price_eur": 167.16,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Camie-OP06-025-V3",
       "file": "OP06-025-v4.json"
     }
-  ],
-  "price_min_eur": null,
-  "price_avg7_eur": null,
-  "price_avg30_eur": null,
-  "listings_count": null
+  ]
 }

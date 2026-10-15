@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Krieg (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 2.9,
+      "price_eur": 4.72,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Krieg-OP03-025-V2",
       "file": "OP03-025-v2.json"
     }
   ],
-  "price_min_eur": 0.15,
-  "price_avg7_eur": 0.45,
-  "price_avg30_eur": 0.64,
-  "listings_count": 50
+  "price_min_eur": 0.15
 }

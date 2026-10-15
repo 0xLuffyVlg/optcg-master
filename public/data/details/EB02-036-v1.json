@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Nico Robin (Alternate Art)",
       "rarity": "R",
-      "price_eur": 19.35,
+      "price_eur": 34.41,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Nico-Robin-EB02-036-V2?language=2",
       "file": "EB02-036-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.2,
-  "price_avg30_eur": 0.23,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

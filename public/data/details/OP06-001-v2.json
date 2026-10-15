@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op06-p002.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/539285_200w.jpg",
-  "price_eur": 23.78,
+  "price_eur": 23.74,
   "price_usd": 35.57,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Uta-OP06-001-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain-Japanese/Uta-OP06-001-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Uta",
       "rarity": "L",
-      "price_eur": 23.78,
+      "price_eur": 23.74,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Uta-OP06-001-V1",
       "file": "OP06-001-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP06-001-v3.json"
     }
   ],
-  "price_min_eur": 23.78,
+  "price_min_eur": 23.74,
   "price_avg7_eur": 28.05,
   "price_avg30_eur": 27.03,
   "listings_count": 50

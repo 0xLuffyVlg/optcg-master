@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Hack (Regional Participation Pack 2026 Vol.1)",
       "rarity": "PR",
-      "price_eur": null,
+      "price_eur": 6.27,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Hack-OP12-089-V1?language=2",
       "file": "OP12-089-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.08,
-  "price_avg30_eur": 0.1,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

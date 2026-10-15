@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Crocodile (067) (Parallel)",
       "rarity": "SR",
-      "price_eur": 11.95,
+      "price_eur": 17.74,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Crocodile-OP01-067-V2",
       "file": "OP01-067-v2.json"
     }
   ],
-  "price_min_eur": 0.3,
-  "price_avg7_eur": 0.97,
-  "price_avg30_eur": 0.92,
-  "listings_count": 50
+  "price_min_eur": 0.3
 }

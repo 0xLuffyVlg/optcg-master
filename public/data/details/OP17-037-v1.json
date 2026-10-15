@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Cette nouvelle ère t'effraie-t-elle tant ?! (Alternate Art)",
       "rarity": "R",
-      "price_eur": 48,
+      "price_eur": 60,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Are-You-That-Afraid-of-the-New-Era-OP17-037-V2?language=2",
       "file": "OP17-037-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.12,
-  "price_avg30_eur": 0.2,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Usopp (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 7.99,
+      "price_eur": 7.3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Usopp-OP17-080-V2?language=2",
       "file": "OP17-080-v2.json"
     }
   ],
-  "price_min_eur": 0.4,
-  "price_avg7_eur": 1.7,
-  "price_avg30_eur": 2.09,
-  "listings_count": 50
+  "price_min_eur": 0.4
 }

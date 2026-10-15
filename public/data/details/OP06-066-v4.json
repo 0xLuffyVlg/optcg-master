@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/prb01-p229.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593553_200w.jpg",
-  "price_eur": 3,
+  "price_eur": 2.5,
   "price_usd": 0.14,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Yonji-OP06-066-V1",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/Vinsmoke-Yonji-OP06-066-V1",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Vinsmoke Yonji (066)",
       "rarity": "C",
-      "price_eur": 3,
+      "price_eur": 2.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Vinsmoke-Yonji-OP06-066",
       "file": "OP06-066-v1.json"
     },
@@ -73,7 +73,7 @@
       "file": "OP06-066-v5.json"
     }
   ],
-  "price_min_eur": 3,
+  "price_min_eur": 2.5,
   "price_avg7_eur": 3.98,
   "price_avg30_eur": 4.13,
   "listings_count": 50

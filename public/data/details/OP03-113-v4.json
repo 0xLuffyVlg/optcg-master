@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/prb01-p099.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586597_200w.jpg",
-  "price_eur": 2.99,
+  "price_eur": 2.98,
   "price_usd": 4.12,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Perospero-OP03-113-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/Charlotte-Perospero-OP03-113",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Charlotte Perospero",
       "rarity": "SR",
-      "price_eur": 2.99,
+      "price_eur": 2.98,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Charlotte-Perospero-OP03-113-V1",
       "file": "OP03-113-v1.json"
     },
@@ -64,7 +64,7 @@
       "file": "OP03-113-v4.json"
     }
   ],
-  "price_min_eur": 2.99,
+  "price_min_eur": 2.98,
   "price_avg7_eur": 4.1,
   "price_avg30_eur": 4.21,
   "listings_count": 50

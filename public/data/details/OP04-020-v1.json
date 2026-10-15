@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Issho (Alternate Art)",
       "rarity": "L",
-      "price_eur": 19.9,
+      "price_eur": 20.33,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Issho-OP04-020-V2",
       "file": "OP04-020-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.12,
-  "price_avg30_eur": 0.14,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

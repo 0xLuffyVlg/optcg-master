@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Stussy (Parallel)",
       "rarity": "SR",
-      "price_eur": 7,
+      "price_eur": 9.83,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Stussy-OP07-085-V2",
       "file": "OP07-085-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Stussy (SP)",
       "rarity": "SR",
-      "price_eur": 85,
+      "price_eur": 98.65,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Stussy-OP07-085",
       "file": "OP07-085-v3.json"
     }
   ],
-  "price_min_eur": 0.13,
-  "price_avg7_eur": 1.53,
-  "price_avg30_eur": 1.48,
-  "listings_count": 50
+  "price_min_eur": 0.13
 }

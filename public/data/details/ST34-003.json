@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/st34-p004.webp",
   "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST34-003.png",
-  "price_eur": 4.5,
+  "price_eur": 4,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-Charlotte-Katakuri/Charlotte-Brulee-ST34-003?language=2",
   "cardmarket_url_jp": null,
@@ -32,12 +32,12 @@
       "variant_version": "v1",
       "name": "Charlotte Brulee",
       "rarity": "C",
-      "price_eur": 4.5,
+      "price_eur": 4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-Charlotte-Katakuri/Charlotte-Brulee-ST34-003?language=2",
       "file": "ST34-003-v1.json"
     }
   ],
-  "price_min_eur": 4.5,
+  "price_min_eur": 4,
   "price_avg7_eur": 3.61,
   "price_avg30_eur": 3.13,
   "listings_count": 10

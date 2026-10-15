@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Jewelry Bonney (019) (Parallel)",
       "rarity": "L",
-      "price_eur": 25.23,
+      "price_eur": 35.45,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Jewelry-Bonney-OP07-019-V2",
       "file": "OP07-019-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Jewelry Bonney (SP)",
       "rarity": "L",
-      "price_eur": 1700,
+      "price_eur": 1093.11,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Jewelry-Bonney-OP07-019",
       "file": "OP07-019-v3.json"
     },
@@ -59,13 +59,10 @@
       "variant_version": "v4",
       "name": "Jewelry Bonney (OP07-019)",
       "rarity": "L",
-      "price_eur": 0.15,
+      "price_eur": 0.74,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Jewlery-Bonney/Jewelry-Bonney-OP07-019",
       "file": "OP07-019-v4.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.1,
-  "price_avg30_eur": 0.1,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

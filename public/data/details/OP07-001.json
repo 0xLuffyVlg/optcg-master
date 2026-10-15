@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Monkey.D.Dragon (001) (Parallel)",
       "rarity": "L",
-      "price_eur": 15,
+      "price_eur": 26.49,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/MonkeyDDragon-OP07-001-V2",
       "file": "OP07-001-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Monkey.D.Dragon (SP)",
       "rarity": "L",
-      "price_eur": 1500,
+      "price_eur": 585.28,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/MonkeyDDragon-OP07-001",
       "file": "OP07-001-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.06,
-  "price_avg30_eur": 0.08,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

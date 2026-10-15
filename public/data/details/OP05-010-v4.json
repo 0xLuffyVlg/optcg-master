@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/prb01-p148.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593434_200w.jpg",
-  "price_eur": 19.2,
+  "price_eur": 19,
   "price_usd": 4.48,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Nico-Robin-OP05-010-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/Nico-Robin-OP05-010",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Nico Robin",
       "rarity": "UC",
-      "price_eur": 19.2,
+      "price_eur": 19,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Nico-Robin-OP05-010",
       "file": "OP05-010-v1.json"
     },
@@ -73,7 +73,7 @@
       "file": "OP05-010-v5.json"
     }
   ],
-  "price_min_eur": 19.2,
+  "price_min_eur": 19,
   "price_avg7_eur": 19.21,
   "price_avg30_eur": 20.92,
   "listings_count": 42

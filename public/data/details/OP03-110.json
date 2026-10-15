@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Charlotte Smoothie (Jolly Roger Foil)",
       "rarity": "R",
-      "price_eur": null,
+      "price_eur": 0.09,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Smoothie-OP03-110-V1",
       "file": "OP03-110-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Charlotte Smoothie (Full Art)",
       "rarity": "R",
-      "price_eur": 0.02,
+      "price_eur": 3.05,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Smoothie-OP03-110-V3",
       "file": "OP03-110-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Charlotte Smoothie (Alternate Art)",
       "rarity": "R",
-      "price_eur": 0.02,
+      "price_eur": 4.31,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Smoothie-OP03-110-V4",
       "file": "OP03-110-v4.json"
     },
@@ -68,7 +68,7 @@
       "variant_version": "v5",
       "name": "Charlotte Smoothie (Jolly Roger Foil)",
       "rarity": "R",
-      "price_eur": 1.99,
+      "price_eur": 0.09,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Smoothie-OP03-110-V1",
       "file": "OP03-110-v5.json"
     },
@@ -77,7 +77,7 @@
       "variant_version": "v6",
       "name": "Charlotte Smoothie (Full Art)",
       "rarity": "R",
-      "price_eur": 3.9,
+      "price_eur": 3.05,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Smoothie-OP03-110-V3",
       "file": "OP03-110-v6.json"
     },
@@ -91,8 +91,5 @@
       "file": "OP03-110-v7.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.1,
-  "price_avg30_eur": 0.14,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

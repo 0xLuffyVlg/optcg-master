@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/op04-p147.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/516553_200w.jpg",
-  "price_eur": 130,
+  "price_eur": 125,
   "price_usd": 142.93,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/EdwardNewgate-OP02-004",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue-Japanese/EdwardNewgate-OP02-004",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Edward.Newgate (004)",
       "rarity": "SR",
-      "price_eur": 130,
+      "price_eur": 125,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/EdwardNewgate-OP02-004-V1",
       "file": "OP02-004-v1.json"
     },
@@ -82,7 +82,7 @@
       "file": "OP02-004-v6.json"
     }
   ],
-  "price_min_eur": 130,
+  "price_min_eur": 125,
   "price_avg7_eur": 174.29,
   "price_avg30_eur": 151.01,
   "listings_count": 50

@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "You Can Be My Samurai!! (Pirate Foil)",
       "rarity": "C",
-      "price_eur": 0.02,
+      "price_eur": 0.15,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/You-Can-Be-My-Samurai-OP01-055-V2",
       "file": "OP01-055-v2.json"
     },
@@ -55,8 +55,5 @@
       "file": "OP01-055-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.29,
-  "price_avg30_eur": 0.25,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

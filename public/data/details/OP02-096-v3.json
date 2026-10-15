@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Kuzan (096) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 6000,
+      "price_eur": 13.92,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Kuzan-OP02-096-V2",
       "file": "OP02-096-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Kuzan (Championship 2023)",
       "rarity": "PR",
-      "price_eur": 0.1,
+      "price_eur": 1242.49,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Kuzan-OP02-096",
       "file": "OP02-096-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Kuzan (OP02-096) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 5,
+      "price_eur": 6.89,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Kuzan-OP02-096",
       "file": "OP02-096-v4.json"
     },
@@ -73,8 +73,5 @@
       "file": "OP02-096-v5.json"
     }
   ],
-  "price_min_eur": 0.1,
-  "price_avg7_eur": 0.35,
-  "price_avg30_eur": 0.42,
-  "listings_count": 50
+  "price_min_eur": 0.1
 }

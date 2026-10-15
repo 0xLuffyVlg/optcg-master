@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Charlotte Perospero (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 3.3,
+      "price_eur": 4.6,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Charlotte-Perospero-OP03-113-V2",
       "file": "OP03-113-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Charlotte Perospero (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 0.03,
+      "price_eur": 4.18,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Perospero-OP03-113-V2",
       "file": "OP03-113-v3.json"
     },
@@ -59,13 +59,10 @@
       "variant_version": "v4",
       "name": "Charlotte Perospero (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 2.99,
+      "price_eur": 4.18,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Perospero-OP03-113-V2",
       "file": "OP03-113-v4.json"
     }
   ],
-  "price_min_eur": 0.03,
-  "price_avg7_eur": 0.34,
-  "price_avg30_eur": 0.34,
-  "listings_count": 50
+  "price_min_eur": 0.03
 }

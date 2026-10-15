@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Emporio.Ivankov (Full Art)",
       "rarity": "C",
-      "price_eur": 0.79,
+      "price_eur": 1.7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/EmporioIvankov-ST30-004-V2?language=2",
       "file": "ST30-004-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.35,
-  "price_avg30_eur": 0.29,
-  "listings_count": 32
+  "price_min_eur": 0.02
 }

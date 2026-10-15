@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Cavendish (Box Topper)",
       "rarity": "C",
-      "price_eur": 3.8,
+      "price_eur": 4.71,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Cavendish-OP01-008-V2",
       "file": "OP01-008-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.04,
-  "price_avg30_eur": 0.05,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

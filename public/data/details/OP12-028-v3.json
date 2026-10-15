@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Kouzuki Hiyori (Tournament Pack 2026 Vol. 1)",
       "rarity": "R",
-      "price_eur": 0.02,
+      "price_eur": 0.15,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Kouzuki-Hiyori-OP12-028-V1?language=2",
       "file": "OP12-028-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Kouzuki Hiyori (Winner Pack 2026 Vol. 1)",
       "rarity": "R",
-      "price_eur": 0.02,
+      "price_eur": 7.58,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Kouzuki-Hiyori-OP12-028-V2?language=2",
       "file": "OP12-028-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.06,
-  "price_avg30_eur": 0.1,
-  "listings_count": 21
+  "price_min_eur": 0.02
 }

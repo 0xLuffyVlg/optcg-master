@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Tashigi (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 4.7,
+      "price_eur": 5.89,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Tashigi-EB03-018-V2?language=2",
       "file": "EB03-018-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Tashigi (SP)",
       "rarity": "SR",
-      "price_eur": 115,
+      "price_eur": 126.26,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Tashigi-EB03-018-V3?language=2",
       "file": "EB03-018-v3.json"
     }
   ],
-  "price_min_eur": 0.14,
-  "price_avg7_eur": 0.83,
-  "price_avg30_eur": 0.79,
-  "listings_count": 50
+  "price_min_eur": 0.14
 }

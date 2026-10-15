@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Trafalgar Law (Online Regional 2023) [Participant]",
       "rarity": "PR",
-      "price_eur": 34.85,
+      "price_eur": 24.55,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Trafalgar-Law-OP02-035-V1",
       "file": "OP02-035-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.06,
-  "price_avg30_eur": 0.06,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

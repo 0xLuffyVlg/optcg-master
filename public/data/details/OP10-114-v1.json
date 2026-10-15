@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "X.Drake (Pirate Foil)",
       "rarity": "UC",
-      "price_eur": 0.02,
+      "price_eur": 0.16,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/XDrake-OP10-114-V2?language=2",
       "file": "OP10-114-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "X.Drake (Alternate Art)",
       "rarity": "UC",
-      "price_eur": 8.9,
+      "price_eur": 25.43,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/XDrake-OP10-114-V3?language=2",
       "file": "OP10-114-v3.json"
     },
@@ -73,8 +73,5 @@
       "file": "OP10-114-v5.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.43,
-  "price_avg30_eur": 0.43,
-  "listings_count": 11
+  "price_min_eur": 0.02
 }

@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op14-p149.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/646722_200w.jpg",
-  "price_eur": 47.5,
+  "price_eur": 48.99,
   "price_usd": 17.36,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Kid-Killer-EB01-003-V1",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection-Japanese/Kid-Killer-EB01-003-V3",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Kid & Killer",
       "rarity": "R",
-      "price_eur": 47.5,
+      "price_eur": 48.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Kid-Killer-EB01-003-V1",
       "file": "EB01-003-v1.json"
     },
@@ -64,5 +64,5 @@
       "file": "EB01-003-v4.json"
     }
   ],
-  "price_min_eur": 47.5
+  "price_min_eur": 48.99
 }

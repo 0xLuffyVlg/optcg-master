@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/champ2026-p038.webp",
   "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-003.png",
-  "price_eur": 1.6,
+  "price_eur": null,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Roronoa-Zoro/Dracule-Mihawk-ST32-003?language=2",
   "cardmarket_url_jp": null,
@@ -32,13 +32,9 @@
       "variant_version": "v1",
       "name": "Dracule Mihawk",
       "rarity": "SR",
-      "price_eur": 1.6,
+      "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Roronoa-Zoro/Dracule-Mihawk-ST32-003?language=2",
       "file": "ST32-003-v1.json"
     }
-  ],
-  "price_min_eur": 1.6,
-  "price_avg7_eur": 1.99,
-  "price_avg30_eur": 2.27,
-  "listings_count": 33
+  ]
 }

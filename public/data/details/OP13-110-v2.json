@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op13-p141.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657390_200w.jpg",
-  "price_eur": 7.5,
+  "price_eur": 7.4,
   "price_usd": 20.58,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Stussy-OP13-110-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/Stussy-OP13-110-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Stussy",
       "rarity": "SR",
-      "price_eur": 7.5,
+      "price_eur": 7.4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Stussy-OP13-110-V1?language=2",
       "file": "OP13-110-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP13-110-v2.json"
     }
   ],
-  "price_min_eur": 7.5,
+  "price_min_eur": 7.4,
   "price_avg7_eur": 10.13,
   "price_avg30_eur": 10.47,
   "listings_count": 48

@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op15-p074.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685409_200w.jpg",
-  "price_eur": 6,
+  "price_eur": 7,
   "price_usd": 7.07,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Enel-OP15-060-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island-Asia-Region-Legal/Enel-OP15-060-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Enel (OP15-060)",
       "rarity": "SR",
-      "price_eur": 6,
+      "price_eur": 7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Enel-OP15-060-V1?language=2",
       "file": "OP15-060-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP15-060-v3.json"
     }
   ],
-  "price_min_eur": 6,
+  "price_min_eur": 7,
   "price_avg7_eur": 6.33,
   "price_avg30_eur": 6.36,
   "listings_count": 28

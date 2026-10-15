@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op11-p023.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632377_200w.jpg",
-  "price_eur": 40,
+  "price_eur": 39.98,
   "price_usd": 49.44,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Honesty-Impact-OP11-018-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed-Non-English/Honesty-Impact-OP11-018-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Honesty Impact",
       "rarity": "R",
-      "price_eur": 40,
+      "price_eur": 39.98,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Honesty-Impact-OP11-018-V1?language=2",
       "file": "OP11-018-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP11-018-v2.json"
     }
   ],
-  "price_min_eur": 40,
+  "price_min_eur": 39.98,
   "price_avg7_eur": 44,
   "price_avg30_eur": 48.74,
   "listings_count": 30

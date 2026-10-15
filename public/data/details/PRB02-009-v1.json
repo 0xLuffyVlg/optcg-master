@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Mr.3(Galdino) - PRB02-009 (Alternate Art)",
       "rarity": "R",
-      "price_eur": 1.5,
+      "price_eur": 3.17,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Mr3Galdino-PRB02-009-V2?language=2",
       "file": "PRB02-009-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.44,
-  "price_avg30_eur": 0.55,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

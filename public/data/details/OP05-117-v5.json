@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/prb01-p192.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586809_200w.jpg",
-  "price_eur": 13.42,
+  "price_eur": 13.4,
   "price_usd": 0.4,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Upper-Yard-OP05-117-V1",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/Upper-Yard-OP05-117-V1",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Upper Yard",
       "rarity": "UC",
-      "price_eur": 13.42,
+      "price_eur": 13.4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Upper-Yeard-OP05-117",
       "file": "OP05-117-v1.json"
     },
@@ -91,7 +91,7 @@
       "file": "OP05-117-v7.json"
     }
   ],
-  "price_min_eur": 13.42,
+  "price_min_eur": 13.4,
   "price_avg7_eur": 19.87,
   "price_avg30_eur": 19.28,
   "listings_count": 50

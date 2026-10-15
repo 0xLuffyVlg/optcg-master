@@ -37,8 +37,5 @@
       "file": "ST24-005-v1.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.06,
-  "price_avg30_eur": 0.05,
-  "listings_count": 17
+  "price_min_eur": 0.02
 }

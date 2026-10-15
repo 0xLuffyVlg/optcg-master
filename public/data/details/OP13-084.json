@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "St. Shepherd Ju Peter (Alternate Art)",
       "rarity": "R",
-      "price_eur": 11,
+      "price_eur": 17.77,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/St-Shepherd-Ju-Peter-OP13-084-V2?language=2",
       "file": "OP13-084-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "St. Shepherd Ju Peter (Parallel)",
       "rarity": "R",
-      "price_eur": 299,
+      "price_eur": 646.61,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/St-Shepherd-Ju-Peter-OP13-084-V3?language=2",
       "file": "OP13-084-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.32,
-  "price_avg30_eur": 0.29,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

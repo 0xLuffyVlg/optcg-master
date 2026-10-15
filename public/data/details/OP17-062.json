@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Kaido (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 10,
+      "price_eur": 10.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Kaido-OP17-062-V2?language=2",
       "file": "OP17-062-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Kaido (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 164,
+      "price_eur": 198.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Kaido-OP17-062-V3?language=2",
       "file": "OP17-062-v3.json"
     },
@@ -59,13 +59,10 @@
       "variant_version": "v4",
       "name": "Kaido (Manga)",
       "rarity": "SR",
-      "price_eur": 725,
+      "price_eur": 850,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Kaido-OP17-062-V4?language=2",
       "file": "OP17-062-v4.json"
     }
   ],
-  "price_min_eur": 0.3,
-  "price_avg7_eur": 1.23,
-  "price_avg30_eur": 2.03,
-  "listings_count": 50
+  "price_min_eur": 0.3
 }

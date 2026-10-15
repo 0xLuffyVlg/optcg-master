@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Donquixote Rosinante (061) (Alternate Art)",
       "rarity": "L",
-      "price_eur": 20,
+      "price_eur": 31.73,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Donquixote-Rosinante-OP12-061-V2?language=2",
       "file": "OP12-061-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.17,
-  "price_avg30_eur": 0.11,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op11-p091.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632445_200w.jpg",
-  "price_eur": 5,
+  "price_eur": 4.99,
   "price_usd": 8.72,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Charlotte-Linlin-OP11-073-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed-Non-English/Charlotte-Linlin-OP11-073-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Charlotte Linlin",
       "rarity": "R",
-      "price_eur": 5,
+      "price_eur": 4.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Charlotte-Linlin-OP11-073-V1?language=2",
       "file": "OP11-073-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP11-073-v3.json"
     }
   ],
-  "price_min_eur": 5,
+  "price_min_eur": 4.99,
   "price_avg7_eur": 6.48,
   "price_avg30_eur": 6.21,
   "listings_count": 28

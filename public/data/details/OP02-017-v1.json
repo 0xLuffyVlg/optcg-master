@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Masked Deuce (Alternate Art)",
       "rarity": "R",
-      "price_eur": 2,
+      "price_eur": 3.49,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Masked-Deuce-OP02-017-V2",
       "file": "OP02-017-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.12,
-  "price_avg30_eur": 0.14,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Jinbe (Full Art)",
       "rarity": "C",
-      "price_eur": 1.9,
+      "price_eur": 1.05,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/Jinbe-ST30-006-V2?language=2",
       "file": "ST30-006-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.07,
-  "price_avg30_eur": 0.03,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

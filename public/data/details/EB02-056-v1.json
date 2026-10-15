@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Vegapunk (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 9.4,
+      "price_eur": 8.26,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Vegapunk-EB02-056-V2?language=2",
       "file": "EB02-056-v2.json"
     }
   ],
-  "price_min_eur": 1.2,
-  "price_avg7_eur": 2.54,
-  "price_avg30_eur": 2.61,
-  "listings_count": 47
+  "price_min_eur": 1.2
 }

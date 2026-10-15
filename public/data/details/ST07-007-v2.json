@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Charlotte Brulee (Full Art)",
       "rarity": "C",
-      "price_eur": 0.02,
+      "price_eur": 3.38,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Brulee-ST07-007-V3",
       "file": "ST07-007-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Charlotte Brulee",
       "rarity": "C",
-      "price_eur": 0.02,
+      "price_eur": 0.07,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Big-Mom-Pirates/Charlotte-Brulee-ST07-007",
       "file": "ST07-007-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Charlotte Brulee (Store Championship 2023 Participation Pack Vol.1)",
       "rarity": "PR",
-      "price_eur": 2,
+      "price_eur": 5.08,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Charlotte-Brulee-ST07-007",
       "file": "ST07-007-v4.json"
     },
@@ -82,8 +82,5 @@
       "file": "ST07-007-v6.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.02,
-  "price_avg30_eur": 0.06,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

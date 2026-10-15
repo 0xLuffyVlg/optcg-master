@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Roronoa Zoro - OP10-095 (Alternate Art)",
       "rarity": "R",
-      "price_eur": 3.5,
+      "price_eur": 6.96,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Roronoa-Zoro-OP10-095-V2?language=2",
       "file": "OP10-095-v2.json"
     },
@@ -55,8 +55,5 @@
       "file": "OP10-095-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.04,
-  "price_avg30_eur": 0.07,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

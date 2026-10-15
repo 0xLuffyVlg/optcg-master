@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/prb01-p130.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586602_200w.jpg",
-  "price_eur": 4,
+  "price_eur": 4.8,
   "price_usd": 7.46,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Bartolomeo-OP04-089-V4",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/Bartolomeo-OP04-089-V3",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Bartolomeo",
       "rarity": "R",
-      "price_eur": 4,
+      "price_eur": 4.8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Bartolomeo-OP04-089",
       "file": "OP04-089-v1.json"
     },
@@ -91,7 +91,7 @@
       "file": "OP04-089-v7.json"
     }
   ],
-  "price_min_eur": 4,
+  "price_min_eur": 4.8,
   "price_avg7_eur": 3.25,
   "price_avg30_eur": 3.49,
   "listings_count": 50

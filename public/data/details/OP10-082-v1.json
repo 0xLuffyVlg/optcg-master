@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Kuzan (Parallel)",
       "rarity": "SR",
-      "price_eur": 16,
+      "price_eur": 18.52,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Kuzan-OP10-082-V2?language=2",
       "file": "OP10-082-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Kuzan (SP)",
       "rarity": "SR",
-      "price_eur": 55,
+      "price_eur": 70.75,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Kuzan-OP10-082?language=2",
       "file": "OP10-082-v3.json"
     }
   ],
-  "price_min_eur": 0.35,
-  "price_avg7_eur": 1.8,
-  "price_avg30_eur": 1.64,
-  "listings_count": 50
+  "price_min_eur": 0.35
 }

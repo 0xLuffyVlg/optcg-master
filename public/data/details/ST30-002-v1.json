@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Inazuma (Full Art)",
       "rarity": "C",
-      "price_eur": 0.99,
+      "price_eur": 2.14,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/Inazuma-ST30-002-V2?language=2",
       "file": "ST30-002-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.19,
-  "price_avg30_eur": 0.23,
-  "listings_count": 38
+  "price_min_eur": 0.02
 }

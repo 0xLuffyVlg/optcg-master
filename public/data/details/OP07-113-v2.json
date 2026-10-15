@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/champ-card-set-p045.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/620096_200w.jpg",
-  "price_eur": null,
+  "price_eur": 594.08,
   "price_usd": 464.31,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Roronoa-Zoro-OP07-113",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future-Japanese/Roronoa-Zoro-OP07-113-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Roronoa Zoro (113)",
       "rarity": "UC",
-      "price_eur": 2.97,
+      "price_eur": 594.08,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Roronoa-Zoro-OP07-113",
       "file": "OP07-113-v1.json"
     },
@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Roronoa Zoro (One Piece Day Dallas 2025)",
       "rarity": "UC",
-      "price_eur": null,
+      "price_eur": 594.08,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Roronoa-Zoro-OP07-113",
       "file": "OP07-113-v2.json"
     },
@@ -63,9 +63,5 @@
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Roronoa-Zoro-OP07-113-V3",
       "file": "OP07-113-v4.json"
     }
-  ],
-  "price_min_eur": null,
-  "price_avg7_eur": null,
-  "price_avg30_eur": null,
-  "listings_count": null
+  ]
 }

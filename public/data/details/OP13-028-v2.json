@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op13-p037.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657285_200w.jpg",
-  "price_eur": 10,
+  "price_eur": 7.99,
   "price_usd": 0.59,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Shanks-OP13-028-V1?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/Shanks-OP13-028-V1",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Shanks (Alternate Art)",
       "rarity": "SP",
-      "price_eur": 10,
+      "price_eur": 7.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Shanks-OP13-028-V1?language=2",
       "file": "OP13-028-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP13-028-v3.json"
     }
   ],
-  "price_min_eur": 10,
+  "price_min_eur": 7.99,
   "price_avg7_eur": 8.76,
   "price_avg30_eur": 9.51,
   "listings_count": 27

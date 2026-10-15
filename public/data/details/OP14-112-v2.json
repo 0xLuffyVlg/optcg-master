@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op14-p136.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668343_200w.jpg",
-  "price_eur": 35.9,
+  "price_eur": 39,
   "price_usd": 107.62,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Boa-Hancock-OP14-112-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven-Asia-Region-Legal/Boa-Hancock-OP14-112-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Boa Hancock - OP14-112",
       "rarity": "SR",
-      "price_eur": 35.9,
+      "price_eur": 39,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Boa-Hancock-OP14-112-V1?language=2",
       "file": "OP14-112-v1.json"
     },
@@ -64,7 +64,7 @@
       "file": "OP14-112-v4.json"
     }
   ],
-  "price_min_eur": 35.9,
+  "price_min_eur": 39,
   "price_avg7_eur": 50.45,
   "price_avg30_eur": 48.66,
   "listings_count": 27

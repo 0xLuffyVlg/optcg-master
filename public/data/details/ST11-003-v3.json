@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Backlight",
       "rarity": "C",
-      "price_eur": 0.05,
+      "price_eur": 0.23,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Uta/Backlight-ST11-003",
       "file": "ST11-003-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Backlight (Starter Deck 11: Uta Deck Battle)",
       "rarity": "C",
-      "price_eur": 0.02,
+      "price_eur": 0.37,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Backlight-ST11-003",
       "file": "ST11-003-v3.json"
     },
@@ -64,8 +64,5 @@
       "file": "ST11-003-v4.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.05,
-  "price_avg30_eur": 0.07,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

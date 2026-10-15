@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Koala (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 5.9,
+      "price_eur": 8.3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Koala-EB03-042-V2?language=2",
       "file": "EB03-042-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Koala (SP)",
       "rarity": "SR",
-      "price_eur": 125,
+      "price_eur": 137.44,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Koala-EB03-042-V3?language=2",
       "file": "EB03-042-v3.json"
     }
   ],
-  "price_min_eur": 0.4,
-  "price_avg7_eur": 1.53,
-  "price_avg30_eur": 1.66,
-  "listings_count": 50
+  "price_min_eur": 0.4
 }

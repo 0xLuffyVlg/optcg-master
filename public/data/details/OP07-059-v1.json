@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Foxy (059) (Parallel)",
       "rarity": "L",
-      "price_eur": 16.83,
+      "price_eur": 19.05,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Foxy-OP07-059-V2",
       "file": "OP07-059-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Foxy (SP)",
       "rarity": "L",
-      "price_eur": 575,
+      "price_eur": 315.12,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Foxy-OP07-059",
       "file": "OP07-059-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.06,
-  "price_avg30_eur": 0.08,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

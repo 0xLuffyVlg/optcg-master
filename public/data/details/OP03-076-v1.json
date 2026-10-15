@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Rob Lucci (076) (Alternate Art)",
       "rarity": "L",
-      "price_eur": 28,
+      "price_eur": 33.07,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Rob-Lucci-OP03-076-V2",
       "file": "OP03-076-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.17,
-  "price_avg30_eur": 0.17,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

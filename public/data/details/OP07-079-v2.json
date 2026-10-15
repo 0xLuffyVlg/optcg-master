@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op07-p097.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545874_200w.jpg",
-  "price_eur": 14.55,
+  "price_eur": 14.01,
   "price_usd": 19.26,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Rob-Lucci-OP07-079-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future-Japanese/Rob-Lucci-OP07-079-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Rob Lucci (079)",
       "rarity": "L",
-      "price_eur": 14.55,
+      "price_eur": 14.01,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Rob-Lucci-OP07-079-V1",
       "file": "OP07-079-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP07-079-v3.json"
     }
   ],
-  "price_min_eur": 14.55,
+  "price_min_eur": 14.01,
   "price_avg7_eur": 15.33,
   "price_avg30_eur": 17.17,
   "listings_count": 50

@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/op09-p158.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/596917_200w.jpg",
-  "price_eur": 489.99,
+  "price_eur": 500,
   "price_usd": 805.62,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Boa-Hancock-OP07-051",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World-Non-English/Boa-Hancock-OP07-051",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Boa Hancock (051)",
       "rarity": "SR",
-      "price_eur": 489.99,
+      "price_eur": 500,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Boa-Hancock-OP07-051-V1",
       "file": "OP07-051-v1.json"
     },
@@ -91,7 +91,7 @@
       "file": "OP07-051-v7.json"
     }
   ],
-  "price_min_eur": 489.99,
+  "price_min_eur": 500,
   "price_avg7_eur": 736.44,
   "price_avg30_eur": 605.13,
   "listings_count": 50

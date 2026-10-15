@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Thousand Sunny",
       "rarity": "C",
-      "price_eur": 0.02,
+      "price_eur": 0.16,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-3D2Y/Thousand-Sunny-ST14-017",
       "file": "ST14-017-v2.json"
     },
@@ -55,8 +55,5 @@
       "file": "ST14-017-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.5,
-  "price_avg30_eur": 0.42,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

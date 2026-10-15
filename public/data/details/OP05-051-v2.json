@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op05-p062.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/527843_200w.jpg",
-  "price_eur": 2.9,
+  "price_eur": 2.8,
   "price_usd": 5.01,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Borsalino-OP05-051-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/Borsalino-OP05-051-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Borsalino",
       "rarity": "SR",
-      "price_eur": 2.9,
+      "price_eur": 2.8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Borsalino-OP05-051-V1",
       "file": "OP05-051-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP05-051-v3.json"
     }
   ],
-  "price_min_eur": 2.9,
+  "price_min_eur": 2.8,
   "price_avg7_eur": 3.45,
   "price_avg30_eur": 4.06,
   "listings_count": 50

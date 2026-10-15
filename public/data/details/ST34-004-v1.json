@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/cn-anniversary-p047.webp",
   "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST34-004.png",
-  "price_eur": 4.49,
+  "price_eur": null,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-Charlotte-Katakuri/Charlotte-Linlin-ST34-004?language=2",
   "cardmarket_url_jp": null,
@@ -32,13 +32,9 @@
       "variant_version": "v1",
       "name": "Charlotte Linlin",
       "rarity": "SR",
-      "price_eur": 4.49,
+      "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-Charlotte-Katakuri/Charlotte-Linlin-ST34-004?language=2",
       "file": "ST34-004-v1.json"
     }
-  ],
-  "price_min_eur": 4.49,
-  "price_avg7_eur": 4.27,
-  "price_avg30_eur": 4.64,
-  "listings_count": 24
+  ]
 }

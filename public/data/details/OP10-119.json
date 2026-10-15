@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Trafalgar Law (119) (Parallel)",
       "rarity": "SEC",
-      "price_eur": 70,
+      "price_eur": 28.03,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Trafalgar-Law-OP10-119-V2?language=2",
       "file": "OP10-119-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Trafalgar Law (119) (Manga)",
       "rarity": "SEC",
-      "price_eur": 389.99,
+      "price_eur": 620.58,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Trafalgar-Law-OP10-119-V3?language=2",
       "file": "OP10-119-v3.json"
     },
@@ -73,8 +73,5 @@
       "file": "OP10-119-v5.json"
     }
   ],
-  "price_min_eur": 0.9,
-  "price_avg7_eur": 4.66,
-  "price_avg30_eur": 4,
-  "listings_count": 50
+  "price_min_eur": 0.9
 }

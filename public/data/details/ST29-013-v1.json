@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Rob Lucci (Full Art)",
       "rarity": "C",
-      "price_eur": 0.8,
+      "price_eur": 1.55,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Rob-Lucci-ST29-013-V2?language=2",
       "file": "ST29-013-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.12,
-  "price_avg30_eur": 0.08,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

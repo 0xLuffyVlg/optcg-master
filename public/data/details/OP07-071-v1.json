@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Foxy (071) (Parallel)",
       "rarity": "R",
-      "price_eur": 3,
+      "price_eur": 4.72,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Foxy-OP07-071-V2",
       "file": "OP07-071-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.06,
-  "price_avg30_eur": 0.15,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/op04-p145.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/516554_200w.jpg",
-  "price_eur": 158,
+  "price_eur": 149,
   "price_usd": 213.07,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Trafalgar-Law-OP01-047",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue-Japanese/Trafalgar-Law-OP01-047",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Trafalgar Law (047)",
       "rarity": "SR",
-      "price_eur": 158,
+      "price_eur": 149,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Trafalgar-Law-OP01-047-V1",
       "file": "OP01-047-v1.json"
     },
@@ -73,7 +73,7 @@
       "file": "OP01-047-v5.json"
     }
   ],
-  "price_min_eur": 158,
+  "price_min_eur": 149,
   "price_avg7_eur": 142.66,
   "price_avg30_eur": 139.81,
   "listings_count": 45

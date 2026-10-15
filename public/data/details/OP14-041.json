@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Boa Hancock - OP14-041 (Alternate Art)",
       "rarity": "L",
-      "price_eur": 48,
+      "price_eur": 64.92,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Boa-Hancock-OP14-041-V2?language=2",
       "file": "OP14-041-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.08,
-  "price_avg30_eur": 0.08,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

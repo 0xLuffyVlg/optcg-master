@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Who's.Who (Box Topper)",
       "rarity": "UC",
-      "price_eur": 2.39,
+      "price_eur": 2.84,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/WhosWho-OP01-109-V2",
       "file": "OP01-109-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.06,
-  "price_avg30_eur": 0.07,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

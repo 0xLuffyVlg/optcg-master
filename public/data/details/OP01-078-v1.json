@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Boa Hancock (Parallel)",
       "rarity": "SR",
-      "price_eur": 90,
+      "price_eur": 116.88,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Boa-Hancock-OP01-078-V2",
       "file": "OP01-078-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Boa Hancock (SP)",
       "rarity": "SR",
-      "price_eur": 950,
+      "price_eur": 1286.33,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Boa-Hancock-OP01-078",
       "file": "OP01-078-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Boa Hancock (OP01-078) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 0.02,
+      "price_eur": 32.3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Boa-Hancock-OP01-078",
       "file": "OP01-078-v4.json"
     },
@@ -68,13 +68,10 @@
       "variant_version": "v5",
       "name": "Boa Hancock (OP01-078) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 25.18,
+      "price_eur": 32.3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Boa-Hancock-OP01-078",
       "file": "OP01-078-v5.json"
     }
   ],
-  "price_min_eur": 0.03,
-  "price_avg7_eur": 0.5,
-  "price_avg30_eur": 0.55,
-  "listings_count": 50
+  "price_min_eur": 0.03
 }

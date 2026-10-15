@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/champ-regional-en-ligne-p030.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/510726_200w.jpg",
-  "price_eur": null,
+  "price_eur": 13.08,
   "price_usd": 12.42,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Sanji-OP03-102",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/Sanji-OP03-102-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Sanji",
       "rarity": "R",
-      "price_eur": null,
+      "price_eur": 13.08,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Sanji-OP03-102",
       "file": "OP03-102-v1.json"
     },
@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Sanji (Store Championship Participation Pack Vol. 2)",
       "rarity": "PR",
-      "price_eur": null,
+      "price_eur": 13.08,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Sanji-OP03-102",
       "file": "OP03-102-v2.json"
     },
@@ -63,9 +63,5 @@
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sanji-OP03-102-V2",
       "file": "OP03-102-v4.json"
     }
-  ],
-  "price_min_eur": null,
-  "price_avg7_eur": null,
-  "price_avg30_eur": null,
-  "listings_count": null
+  ]
 }

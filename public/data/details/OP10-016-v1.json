@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Monet (Parallel)",
       "rarity": "SR",
-      "price_eur": 3,
+      "price_eur": 4.45,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Monet-OP10-016-V2?language=2",
       "file": "OP10-016-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.28,
-  "price_avg30_eur": 0.35,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

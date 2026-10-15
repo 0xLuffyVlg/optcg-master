@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op08-p116.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558136_200w.jpg",
-  "price_eur": 11.59,
+  "price_eur": 12.18,
   "price_usd": 13.17,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Kalgara-OP08-098-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends-Non-English/Kalgara-OP08-098-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Kalgara (098)",
       "rarity": "L",
-      "price_eur": 11.59,
+      "price_eur": 12.18,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Kalgara-OP08-098-V1",
       "file": "OP08-098-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP08-098-v3.json"
     }
   ],
-  "price_min_eur": 11.59,
+  "price_min_eur": 12.18,
   "price_avg7_eur": 14.23,
   "price_avg30_eur": 14.65,
   "listings_count": 50

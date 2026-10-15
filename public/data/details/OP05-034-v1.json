@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Baby 5 (034) (Alternate Art)",
       "rarity": "R",
-      "price_eur": 1.99,
+      "price_eur": 3.13,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Baby-5-OP05-034-V2",
       "file": "OP05-034-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Baby 5 (OP05-034) (Jolly Roger Foil)",
       "rarity": "R",
-      "price_eur": 0.02,
+      "price_eur": 0.1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Baby-5-OP05-034-V2",
       "file": "OP05-034-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Baby 5 (OP05-034) (Full Art)",
       "rarity": "R",
-      "price_eur": 0.02,
+      "price_eur": 3.67,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Baby-5-OP05-034-V3",
       "file": "OP05-034-v4.json"
     },
@@ -68,7 +68,7 @@
       "variant_version": "v5",
       "name": "Baby 5 (OP05-034) (Alternate Art)",
       "rarity": "R",
-      "price_eur": 2.8,
+      "price_eur": 9.09,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Baby-5-OP05-034-V4",
       "file": "OP05-034-v5.json"
     },
@@ -77,7 +77,7 @@
       "variant_version": "v6",
       "name": "Baby 5 (OP05-034) (Jolly Roger Foil)",
       "rarity": "R",
-      "price_eur": 7.99,
+      "price_eur": 0.1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Baby-5-OP05-034-V2",
       "file": "OP05-034-v6.json"
     },
@@ -100,8 +100,5 @@
       "file": "OP05-034-v8.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.08,
-  "price_avg30_eur": 0.08,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

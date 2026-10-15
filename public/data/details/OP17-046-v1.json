@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Gloriosa (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 13,
+      "price_eur": 10.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Gloriosa-OP17-046-V2?language=2",
       "file": "OP17-046-v2.json"
     }
   ],
-  "price_min_eur": 0.5,
-  "price_avg7_eur": 2.08,
-  "price_avg30_eur": 2.75,
-  "listings_count": 50
+  "price_min_eur": 0.5
 }

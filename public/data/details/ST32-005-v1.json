@@ -37,8 +37,5 @@
       "file": "ST32-005-v1.json"
     }
   ],
-  "price_min_eur": 0.3,
-  "price_avg7_eur": 0.7,
-  "price_avg30_eur": 0.59,
-  "listings_count": 12
+  "price_min_eur": 0.3
 }

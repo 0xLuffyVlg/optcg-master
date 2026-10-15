@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Charlotte Linlin (Alternate Art)",
       "rarity": "R",
-      "price_eur": 6,
+      "price_eur": 7.15,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Charlotte-Linlin-OP11-073-V2?language=2",
       "file": "OP11-073-v2.json"
     },
@@ -55,8 +55,5 @@
       "file": "OP11-073-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.13,
-  "price_avg30_eur": 0.17,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

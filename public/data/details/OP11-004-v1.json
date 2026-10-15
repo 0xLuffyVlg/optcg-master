@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Kujyaku (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 4,
+      "price_eur": 7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Kujyaku-OP11-004-V2?language=2",
       "file": "OP11-004-v2.json"
     },
@@ -55,8 +55,5 @@
       "file": "OP11-004-v3.json"
     }
   ],
-  "price_min_eur": 0.1,
-  "price_avg7_eur": 0.69,
-  "price_avg30_eur": 0.72,
-  "listings_count": 50
+  "price_min_eur": 0.1
 }

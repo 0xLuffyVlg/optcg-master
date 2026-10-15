@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op12-p074.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643797_200w.jpg",
-  "price_eur": 54.99,
+  "price_eur": 58,
   "price_usd": 65.37,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Boeuf-Burst-OP12-060-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/Boeuf-Burst-OP12-060-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Boeuf Burst",
       "rarity": "R",
-      "price_eur": 54.99,
+      "price_eur": 58,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Boeuf-Burst-OP12-060-V1?language=2",
       "file": "OP12-060-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP12-060-v2.json"
     }
   ],
-  "price_min_eur": 54.99,
+  "price_min_eur": 58,
   "price_avg7_eur": 70.36,
   "price_avg30_eur": 71.48,
   "listings_count": 33

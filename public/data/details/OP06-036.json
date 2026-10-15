@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Ryuma (Jolly Roger Foil)",
       "rarity": "R",
-      "price_eur": 0.02,
+      "price_eur": 0.11,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Ryuma-OP06-036-V1",
       "file": "OP06-036-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Ryuma (Full Art)",
       "rarity": "R",
-      "price_eur": 0.02,
+      "price_eur": 8.69,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Ryuma-OP06-036-V3",
       "file": "OP06-036-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Ryuma (Alternate Art)",
       "rarity": "R",
-      "price_eur": 0.02,
+      "price_eur": 23.09,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Ryuma-OP06-036-V4",
       "file": "OP06-036-v4.json"
     },
@@ -68,7 +68,7 @@
       "variant_version": "v5",
       "name": "Ryuma (Jolly Roger Foil)",
       "rarity": "R",
-      "price_eur": 18.02,
+      "price_eur": 0.11,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Ryuma-OP06-036-V1",
       "file": "OP06-036-v5.json"
     },
@@ -91,8 +91,5 @@
       "file": "OP06-036-v7.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.06,
-  "price_avg30_eur": 0.09,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

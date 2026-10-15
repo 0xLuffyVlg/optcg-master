@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Doll (Alternate Art)",
       "rarity": "R",
-      "price_eur": 6.9,
+      "price_eur": 10.22,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Doll-OP11-008-V2?language=2",
       "file": "OP11-008-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.13,
-  "price_avg30_eur": 0.13,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

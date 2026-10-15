@@ -46,8 +46,5 @@
       "file": "OP12-098-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.05,
-  "price_avg30_eur": 0.05,
-  "listings_count": 10
+  "price_min_eur": 0.02
 }

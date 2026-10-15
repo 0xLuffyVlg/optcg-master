@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Enel (OP15-060) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 7.9,
+      "price_eur": 8.95,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Enel-OP15-060-V2?language=2",
       "file": "OP15-060-v2.json"
     },
@@ -55,8 +55,5 @@
       "file": "OP15-060-v3.json"
     }
   ],
-  "price_min_eur": 0.1,
-  "price_avg7_eur": 0.52,
-  "price_avg30_eur": 0.52,
-  "listings_count": 50
+  "price_min_eur": 0.1
 }

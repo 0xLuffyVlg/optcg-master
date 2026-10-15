@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/champ2023-p015.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/525057_200w.jpg",
-  "price_eur": 0.44,
+  "price_eur": 1.22,
   "price_usd": 0.82,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Captains/EustassCaptainKid-ST10-013",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Captains-Japanese/EustassCaptainKid-ST10-013",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Eustass\"Captain\"Kid (013)",
       "rarity": "SR",
-      "price_eur": 0.44,
+      "price_eur": 1.22,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Captains/EustassCaptainKid-ST10-013",
       "file": "ST10-013-v1.json"
     },
@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Eustass\"Captain\"Kid (CS 2023 Top Players Pack)",
       "rarity": "SR",
-      "price_eur": 3999.99,
+      "price_eur": 328.51,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/EustassCaptainKid-ST10-013-V1",
       "file": "ST10-013-v2.json"
     },
@@ -54,9 +54,5 @@
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/EustassCaptainKid-ST10-013",
       "file": "ST10-013-v3.json"
     }
-  ],
-  "price_min_eur": 0.44,
-  "price_avg7_eur": 0.97,
-  "price_avg30_eur": 1.11,
-  "listings_count": 50
+  ]
 }

@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op06-p143.webp",
   "image_url": "/img/cards-fr/op09-p152-sm.webp",
-  "price_eur": 59.5,
+  "price_eur": 57,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Sanji-OP06-119-V5",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Sanji-OP06-119-V5",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Sanji",
       "rarity": "SEC",
-      "price_eur": 59.5,
+      "price_eur": 57,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Sanji-OP06-119-V1",
       "file": "OP06-119-v1.json"
     },
@@ -82,5 +82,5 @@
       "file": "OP06-119-v6.json"
     }
   ],
-  "price_min_eur": 59.5
+  "price_min_eur": 57
 }

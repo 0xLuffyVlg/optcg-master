@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Mr.2.Bon.Kurei (Bentham) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 4.5,
+      "price_eur": 8.75,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Mr2BonKureiBentham-OP14-091-V2?language=2",
       "file": "OP14-091-v2.json"
     }
   ],
-  "price_min_eur": 0.23,
-  "price_avg7_eur": 0.97,
-  "price_avg30_eur": 0.99,
-  "listings_count": 50
+  "price_min_eur": 0.23
 }

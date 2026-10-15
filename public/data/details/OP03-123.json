@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op03-p149.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/500120_200w.jpg",
-  "price_eur": 1.99,
+  "price_eur": 2.4,
   "price_usd": 3.18,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Charlotte-Katakuri-OP03-123-V1",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/Charlotte-Katakuri-OP03-123-V1",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Charlotte Katakuri (123)",
       "rarity": "SEC",
-      "price_eur": 1.99,
+      "price_eur": 2.4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Charlotte-Katakuri-OP03-123-V1",
       "file": "OP03-123-v1.json"
     },
@@ -73,7 +73,7 @@
       "file": "OP03-123-v5.json"
     }
   ],
-  "price_min_eur": 1.99,
+  "price_min_eur": 2.4,
   "price_avg7_eur": 966.25,
   "price_avg30_eur": 637.11,
   "listings_count": 8

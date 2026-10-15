@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/champ-card-set-p020.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/622720_200w.jpg",
-  "price_eur": null,
+  "price_eur": 154.57,
   "price_usd": 283.32,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Gedatsu-OP05-102-V3",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/Gedatsu-OP05-102-V4",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Gedatsu",
       "rarity": "R",
-      "price_eur": 790,
+      "price_eur": 154.57,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Gedatsu-OP05-102-V1",
       "file": "OP05-102-v1.json"
     },
@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Gedatsu (Alternate Art)",
       "rarity": "R",
-      "price_eur": null,
+      "price_eur": 3.37,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Gedatsu-OP05-102-V2",
       "file": "OP05-102-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Gedatsu (Championship 2024 Top Player Pack)",
       "rarity": "R",
-      "price_eur": 250,
+      "price_eur": 145.13,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Gedatsu-OP05-102-V1",
       "file": "OP05-102-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Gedatsu (Championship 2024 Top Player Pack Vol. 2)",
       "rarity": "R",
-      "price_eur": null,
+      "price_eur": 154.57,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Gedatsu-OP05-102-V3",
       "file": "OP05-102-v4.json"
     },
@@ -81,9 +81,5 @@
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Gedatsu-OP05-102",
       "file": "OP05-102-v6.json"
     }
-  ],
-  "price_min_eur": null,
-  "price_avg7_eur": null,
-  "price_avg30_eur": null,
-  "listings_count": null
+  ]
 }

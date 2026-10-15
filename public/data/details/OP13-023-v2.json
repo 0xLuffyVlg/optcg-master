@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op13-p030.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657279_200w.jpg",
-  "price_eur": 3.8,
+  "price_eur": 4,
   "price_usd": 9.31,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Uta-OP13-023-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English/Uta-OP13-023-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Uta",
       "rarity": "SR",
-      "price_eur": 3.8,
+      "price_eur": 4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Uta-OP13-023-V1?language=2",
       "file": "OP13-023-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP13-023-v2.json"
     }
   ],
-  "price_min_eur": 3.8,
+  "price_min_eur": 4,
   "price_avg7_eur": 4.4,
   "price_avg30_eur": 4.82,
   "listings_count": 45

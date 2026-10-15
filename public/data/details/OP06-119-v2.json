@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op06-p144.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541663_200w.jpg",
-  "price_eur": 21.95,
+  "price_eur": 21.92,
   "price_usd": 30.39,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Sanji-OP06-119-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain-Japanese/Sanji-OP06-119-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Sanji",
       "rarity": "SEC",
-      "price_eur": 21.95,
+      "price_eur": 21.92,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Sanji-OP06-119-V1",
       "file": "OP06-119-v1.json"
     },
@@ -82,7 +82,7 @@
       "file": "OP06-119-v6.json"
     }
   ],
-  "price_min_eur": 21.95,
+  "price_min_eur": 21.92,
   "price_avg7_eur": 25.61,
   "price_avg30_eur": 26.36,
   "listings_count": 50

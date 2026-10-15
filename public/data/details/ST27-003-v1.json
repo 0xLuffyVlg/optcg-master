@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/st27-p004.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/633092_200w.jpg",
-  "price_eur": 0.94,
+  "price_eur": 0.99,
   "price_usd": 1.38,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Black-MarshallDTeach/Kuzan-ST27-003?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Black-MarshallDTeach-Non-English/Kuzan-ST27-003",
@@ -32,13 +32,10 @@
       "variant_version": "v1",
       "name": "Kuzan",
       "rarity": "SR",
-      "price_eur": 0.94,
+      "price_eur": 0.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Black-MarshallDTeach/Kuzan-ST27-003?language=2",
       "file": "ST27-003-v1.json"
     }
   ],
-  "price_min_eur": 0.94,
-  "price_avg7_eur": 1.85,
-  "price_avg30_eur": 1.71,
-  "listings_count": 27
+  "price_min_eur": 0.99
 }

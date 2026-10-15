@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/eb03-p069.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672807_200w.jpg",
-  "price_eur": 7.9,
+  "price_eur": 7.98,
   "price_usd": 7.89,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Nico-Robin-EB03-055-V1?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition-Asia-Region-Legal/Nico-Robin-EB03-055-V1",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Nico Robin (055)",
       "rarity": "SR",
-      "price_eur": 7.9,
+      "price_eur": 7.98,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Nico-Robin-EB03-055-V1?language=2",
       "file": "EB03-055-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "EB03-055-v3.json"
     }
   ],
-  "price_min_eur": 7.9,
+  "price_min_eur": 7.98,
   "price_avg7_eur": 9.08,
   "price_avg30_eur": 9.02,
   "listings_count": 50

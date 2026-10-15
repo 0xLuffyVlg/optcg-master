@@ -37,8 +37,5 @@
       "file": "ST36-003-v1.json"
     }
   ],
-  "price_min_eur": 0.18,
-  "price_avg7_eur": 0.82,
-  "price_avg30_eur": 0.63,
-  "listings_count": 17
+  "price_min_eur": 0.18
 }

@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Trafalgar Law (Alternate Art)",
       "rarity": "SEC",
-      "price_eur": 12,
+      "price_eur": 26.46,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Trafalgar-Law-EB03-062-V2?language=2",
       "file": "EB03-062-v2.json"
     }
   ],
-  "price_min_eur": 7.5,
-  "price_avg7_eur": 9.96,
-  "price_avg30_eur": 9.77,
-  "listings_count": 50
+  "price_min_eur": 7.5
 }

@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Sanji (Full Art)",
       "rarity": "SR",
-      "price_eur": 2.95,
+      "price_eur": 6.22,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Sanji-ST29-004-V2?language=2",
       "file": "ST29-004-v2.json"
     }
   ],
-  "price_min_eur": 0.04,
-  "price_avg7_eur": 0.54,
-  "price_avg30_eur": 0.53,
-  "listings_count": 50
+  "price_min_eur": 0.04
 }

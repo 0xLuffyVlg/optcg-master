@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/champ-card-set-p019.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/622719_200w.jpg",
-  "price_eur": null,
+  "price_eur": 850.71,
   "price_usd": 500,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Perona-OP01-077-V3",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Perona-OP01-077-V4",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Perona",
       "rarity": "UC",
-      "price_eur": 1900,
+      "price_eur": 850.71,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Perona-OP01-077-V1",
       "file": "OP01-077-v1.json"
     },
@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Perona (Box Topper)",
       "rarity": "UC",
-      "price_eur": 2000,
+      "price_eur": 20.31,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Perona-OP01-077-V2",
       "file": "OP01-077-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Perona (Championship 2024 Top Player Pack)",
       "rarity": "UC",
-      "price_eur": 750,
+      "price_eur": 239.73,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Perona-OP01-077-V1",
       "file": "OP01-077-v3.json"
     },
@@ -59,13 +59,9 @@
       "variant_version": "v4",
       "name": "Perona (Championship 2024 Top Player Pack Vol. 2)",
       "rarity": "UC",
-      "price_eur": null,
+      "price_eur": 850.71,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Perona-OP01-077-V3",
       "file": "OP01-077-v4.json"
     }
-  ],
-  "price_min_eur": null,
-  "price_avg7_eur": null,
-  "price_avg30_eur": null,
-  "listings_count": null
+  ]
 }

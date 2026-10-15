@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/op06-p145.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/504477_200w.jpg",
-  "price_eur": 164.61,
+  "price_eur": 164.36,
   "price_usd": 44.94,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Nami-ST01-007",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/Nami-ST01-007-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Nami",
       "rarity": "C",
-      "price_eur": 164.61,
+      "price_eur": 164.36,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/STARTER-DECK-Straw-Hat-Crew/Nami-ST01-007-V1",
       "file": "ST01-007-v1.json"
     },
@@ -100,7 +100,7 @@
       "file": "ST01-007-v8.json"
     }
   ],
-  "price_min_eur": 164.61,
+  "price_min_eur": 164.36,
   "price_avg7_eur": 205.98,
   "price_avg30_eur": 260.47,
   "listings_count": 50

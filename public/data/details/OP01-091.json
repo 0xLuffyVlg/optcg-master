@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "King (091) (Parallel)",
       "rarity": "L",
-      "price_eur": 65,
+      "price_eur": 94.03,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/King-OP01-091-V2",
       "file": "OP01-091-v2.json"
     }
   ],
-  "price_min_eur": 0.03,
-  "price_avg7_eur": 0.25,
-  "price_avg30_eur": 0.26,
-  "listings_count": 50
+  "price_min_eur": 0.03
 }

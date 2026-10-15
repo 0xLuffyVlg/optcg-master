@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Charlotte Pudding (Regional Participation Pack 2026 Vol.1)",
       "rarity": "PR",
-      "price_eur": null,
+      "price_eur": 17.91,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Charlotte-Pudding-OP12-071-V1?language=2",
       "file": "OP12-071-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.91,
-  "price_avg30_eur": 0.76,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

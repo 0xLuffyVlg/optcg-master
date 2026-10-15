@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Donquixote Rosinante (022) (Alternate Art)",
       "rarity": "L",
-      "price_eur": 12.5,
+      "price_eur": 15.21,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Donquixote-Rosinante-OP05-022-V2",
       "file": "OP05-022-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Donquixote Rosinante (SP)",
       "rarity": "L",
-      "price_eur": 1250,
+      "price_eur": 563.05,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Donquixote-Rosinante-OP05-022",
       "file": "OP05-022-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.09,
-  "price_avg30_eur": 0.1,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

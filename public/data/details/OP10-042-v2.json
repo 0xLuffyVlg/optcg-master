@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op10-p053.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617082_200w.jpg",
-  "price_eur": 19.99,
+  "price_eur": 14,
   "price_usd": 29.63,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Usopp-OP10-042-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Non-English/Usopp-OP10-042-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Usopp (042)",
       "rarity": "L",
-      "price_eur": 19.99,
+      "price_eur": 14,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Usopp-OP10-042-V1?language=2",
       "file": "OP10-042-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP10-042-v3.json"
     }
   ],
-  "price_min_eur": 19.99,
+  "price_min_eur": 14,
   "price_avg7_eur": 18.31,
   "price_avg30_eur": 18.23,
   "listings_count": 30

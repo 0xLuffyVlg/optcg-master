@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/champ-regional-en-ligne-p020.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514034_200w.jpg",
-  "price_eur": null,
+  "price_eur": 22.28,
   "price_usd": 15.84,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Crocodile-OP02-053-V1",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War-Japanese/Crocodile-OP02-053-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Crocodile",
       "rarity": "C",
-      "price_eur": 3,
+      "price_eur": 22.28,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Crocodile-OP02-053",
       "file": "OP02-053-v1.json"
     },
@@ -41,13 +41,9 @@
       "variant_version": "v2",
       "name": "Crocodile (Online Regional 2023) [Participant]",
       "rarity": "PR",
-      "price_eur": null,
+      "price_eur": 22.28,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Crocodile-OP02-053-V1",
       "file": "OP02-053-v2.json"
     }
-  ],
-  "price_min_eur": null,
-  "price_avg7_eur": null,
-  "price_avg30_eur": null,
-  "listings_count": null
+  ]
 }

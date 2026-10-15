@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op07-p134.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545911_200w.jpg",
-  "price_eur": 3,
+  "price_eur": 3.61,
   "price_usd": 9.26,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Lilith-OP07-111-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future-Japanese/Lilith-OP07-111-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Lilith",
       "rarity": "SR",
-      "price_eur": 3,
+      "price_eur": 3.61,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Lilith-OP07-111-V1",
       "file": "OP07-111-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP07-111-v3.json"
     }
   ],
-  "price_min_eur": 3,
+  "price_min_eur": 3.61,
   "price_avg7_eur": 4.27,
   "price_avg30_eur": 5.32,
   "listings_count": 50

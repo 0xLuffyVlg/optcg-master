@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Ms. All Sunday (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 19,
+      "price_eur": 26.84,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Ms-All-Sunday-OP04-064-V2",
       "file": "OP04-064-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Ms. All Sunday (SP)",
       "rarity": "SR",
-      "price_eur": 195,
+      "price_eur": 248.57,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Ms-All-Sunday-OP04-064",
       "file": "OP04-064-v3.json"
     }
   ],
-  "price_min_eur": 0.05,
-  "price_avg7_eur": 0.78,
-  "price_avg30_eur": 0.76,
-  "listings_count": 50
+  "price_min_eur": 0.05
 }

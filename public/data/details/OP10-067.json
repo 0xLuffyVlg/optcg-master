@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Senor Pink (Parallel)",
       "rarity": "R",
-      "price_eur": 6.5,
+      "price_eur": 7.31,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Senor-Pink-OP10-067-V2?language=2",
       "file": "OP10-067-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.23,
-  "price_avg30_eur": 0.25,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

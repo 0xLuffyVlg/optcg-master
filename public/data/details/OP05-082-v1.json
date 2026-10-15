@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Shirahoshi (OP05-082) (Jolly Roger Foil)",
       "rarity": "R",
-      "price_eur": 0.02,
+      "price_eur": 0.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Shirahoshi-OP05-082-V1",
       "file": "OP05-082-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Shirahoshi (OP05-082) (Full Art)",
       "rarity": "R",
-      "price_eur": 0.05,
+      "price_eur": 18.42,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Shirahoshi-OP05-082-V3",
       "file": "OP05-082-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Shirahoshi (OP05-082) (Alternate Art)",
       "rarity": "R",
-      "price_eur": 13,
+      "price_eur": 46.74,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Shirahoshi-OP05-082-V4",
       "file": "OP05-082-v4.json"
     },
@@ -68,7 +68,7 @@
       "variant_version": "v5",
       "name": "Shirahoshi (OP05-082) (Jolly Roger Foil)",
       "rarity": "R",
-      "price_eur": 39.99,
+      "price_eur": 0.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Shirahoshi-OP05-082-V1",
       "file": "OP05-082-v5.json"
     },
@@ -91,8 +91,5 @@
       "file": "OP05-082-v7.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.3,
-  "price_avg30_eur": 0.33,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

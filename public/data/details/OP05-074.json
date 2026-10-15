@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Eustass\"Captain\"Kid (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 3.8,
+      "price_eur": 5.63,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/EustassCaptainKid-OP05-074-V2",
       "file": "OP05-074-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Eustass\"Captain\"Kid (Alternate Art) (Manga)",
       "rarity": "SR",
-      "price_eur": 699,
+      "price_eur": 812.33,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/EustassCaptainKid-OP05-074-V3",
       "file": "OP05-074-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Eustass\"Captain\"Kid (SP)",
       "rarity": "SR",
-      "price_eur": 48,
+      "price_eur": 52.39,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/EustassCaptainKid-OP05-074",
       "file": "OP05-074-v4.json"
     },
@@ -68,7 +68,7 @@
       "variant_version": "v5",
       "name": "Eustass\"Captain\"Kid (OP05-074) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 0.09,
+      "price_eur": 17.93,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/EustassCaptainKid-OP05-074-V2",
       "file": "OP05-074-v5.json"
     },
@@ -77,13 +77,10 @@
       "variant_version": "v6",
       "name": "Eustass\"Captain\"Kid (OP05-074) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 12,
+      "price_eur": 17.93,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/EustassCaptainKid-OP05-074-V2",
       "file": "OP05-074-v6.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.45,
-  "price_avg30_eur": 0.36,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

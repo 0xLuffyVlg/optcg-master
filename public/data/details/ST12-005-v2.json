@@ -55,8 +55,5 @@
       "file": "ST12-005-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.1,
-  "price_avg30_eur": 0.11,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

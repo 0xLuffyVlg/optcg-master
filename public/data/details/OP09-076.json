@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Roronoa Zoro - OP09-076 (Alternate Art)",
       "rarity": "R",
-      "price_eur": 20,
+      "price_eur": 27.37,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Roronoa-Zoro-OP09-076-V2?language=2",
       "file": "OP09-076-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.07,
-  "price_avg30_eur": 0.08,
-  "listings_count": 18
+  "price_min_eur": 0.02
 }

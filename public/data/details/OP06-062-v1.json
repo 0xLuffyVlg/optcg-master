@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Vinsmoke Judge (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 1.5,
+      "price_eur": 2.55,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Vinsmoke-Judge-OP06-062-V2",
       "file": "OP06-062-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.28,
-  "price_avg30_eur": 0.35,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

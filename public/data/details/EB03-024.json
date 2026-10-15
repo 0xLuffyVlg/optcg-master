@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/eb03-p029.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672767_200w.jpg",
-  "price_eur": 4.4,
+  "price_eur": 4,
   "price_usd": 1.69,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Nefeltari-Vivi-EB03-024-V1?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition-Asia-Region-Legal/Nefeltari-Vivi-EB03-024-V1",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Nefeltari Vivi (024)",
       "rarity": "SR",
-      "price_eur": 4.4,
+      "price_eur": 4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Nefeltari-Vivi-EB03-024-V1?language=2",
       "file": "EB03-024-v1.json"
     },
@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Nefeltari Vivi (024) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 19.8,
+      "price_eur": 20.68,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Nefeltari-Vivi-EB03-024-V2?language=2",
       "file": "EB03-024-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Nefeltari Vivi (024) (SP)",
       "rarity": "SR",
-      "price_eur": 350,
+      "price_eur": 522.45,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Nefeltari-Vivi-EB03-024-V3?language=2",
       "file": "EB03-024-v3.json"
     }
   ],
-  "price_min_eur": 4.4,
-  "price_avg7_eur": 4.51,
-  "price_avg30_eur": 3.43,
-  "listings_count": 15
+  "price_min_eur": 4
 }

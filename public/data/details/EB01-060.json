@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Did Someone Say...Kami? (Pirate Foil)",
       "rarity": "C",
-      "price_eur": 0.02,
+      "price_eur": 0.12,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Did-Someone-SayKami-EB01-060-V2",
       "file": "EB01-060-v2.json"
     },
@@ -55,8 +55,5 @@
       "file": "EB01-060-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.02,
-  "price_avg30_eur": 0.03,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

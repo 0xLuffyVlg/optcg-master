@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Monkey.D.Luffy (024) (Parallel)",
       "rarity": "SR",
-      "price_eur": 125,
+      "price_eur": 179.1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/MonkeyDLuffy-OP01-024-V2",
       "file": "OP01-024-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Monkey.D.Luffy (OP01-024) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 0.1,
+      "price_eur": 82.32,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/MonkeyDLuffy-OP01-024",
       "file": "OP01-024-v3.json"
     },
@@ -59,13 +59,10 @@
       "variant_version": "v4",
       "name": "Monkey.D.Luffy (OP01-024) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 54.07,
+      "price_eur": 82.32,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/MonkeyDLuffy-OP01-024",
       "file": "OP01-024-v4.json"
     }
   ],
-  "price_min_eur": 0.4,
-  "price_avg7_eur": 1.54,
-  "price_avg30_eur": 1.04,
-  "listings_count": 50
+  "price_min_eur": 0.4
 }

@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Tony Tony.Chopper (Parallel)",
       "rarity": "C",
-      "price_eur": 9,
+      "price_eur": 14.08,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Tony-TonyChopper-ST21-008-V2?language=2",
       "file": "ST21-008-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.07,
-  "price_avg30_eur": 0.08,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op03-p137.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/500092_200w.jpg",
-  "price_eur": 1.5,
+  "price_eur": 2,
   "price_usd": 1.64,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Charlotte-Linlin-OP03-114-V1",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength-Japanese/Charlotte-Linlin-OP03-114-V1",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Charlotte Linlin (114)",
       "rarity": "SR",
-      "price_eur": 1.5,
+      "price_eur": 2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Charlotte-Linlin-OP03-114-V1",
       "file": "OP03-114-v1.json"
     },
@@ -64,7 +64,7 @@
       "file": "OP03-114-v4.json"
     }
   ],
-  "price_min_eur": 1.5,
+  "price_min_eur": 2,
   "price_avg7_eur": 1637.57,
   "price_avg30_eur": 1197.87,
   "listings_count": 5

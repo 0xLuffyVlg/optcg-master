@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op15-p002.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685337_200w.jpg",
-  "price_eur": 12,
+  "price_eur": 11.99,
   "price_usd": 14.97,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Krieg-OP15-001-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island-Asia-Region-Legal/Krieg-OP15-001-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Krieg (OP15-001)",
       "rarity": "L",
-      "price_eur": 12,
+      "price_eur": 11.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Krieg-OP15-001-V1?language=2",
       "file": "OP15-001-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP15-001-v2.json"
     }
   ],
-  "price_min_eur": 12,
+  "price_min_eur": 11.99,
   "price_avg7_eur": 11.55,
   "price_avg30_eur": 11.71,
   "listings_count": 18

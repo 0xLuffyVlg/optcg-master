@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Kouzuki Oden (Parallel)",
       "rarity": "SR",
-      "price_eur": 3,
+      "price_eur": 5.3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Kouzuki-Oden-ST22-005-V2?language=2",
       "file": "ST22-005-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.33,
-  "price_avg30_eur": 0.4,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

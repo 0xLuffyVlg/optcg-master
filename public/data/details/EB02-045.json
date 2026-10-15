@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Trafalgar Law (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 18.5,
+      "price_eur": 14.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Trafalgar-Law-EB02-045-V2?language=2",
       "file": "EB02-045-v2.json"
     }
   ],
-  "price_min_eur": 0.2,
-  "price_avg7_eur": 1.22,
-  "price_avg30_eur": 1.25,
-  "listings_count": 50
+  "price_min_eur": 0.2
 }

@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Sengoku (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 6,
+      "price_eur": 7.11,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Sengoku-EB02-044-V2?language=2",
       "file": "EB02-044-v2.json"
     }
   ],
-  "price_min_eur": 0.5,
-  "price_avg7_eur": 1.45,
-  "price_avg30_eur": 1.61,
-  "listings_count": 41
+  "price_min_eur": 0.5
 }

@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op06-p141.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541659_200w.jpg",
-  "price_eur": 85,
+  "price_eur": 84,
   "price_usd": 147.59,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Roronoa-Zoro-OP06-118-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain-Japanese/Roronoa-Zoro-OP06-118-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Roronoa Zoro",
       "rarity": "SEC",
-      "price_eur": 85,
+      "price_eur": 84,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Roronoa-Zoro-OP06-118-V1",
       "file": "OP06-118-v1.json"
     },
@@ -100,7 +100,7 @@
       "file": "OP06-118-v8.json"
     }
   ],
-  "price_min_eur": 85,
+  "price_min_eur": 84,
   "price_avg7_eur": 89.78,
   "price_avg30_eur": 115.12,
   "listings_count": 50

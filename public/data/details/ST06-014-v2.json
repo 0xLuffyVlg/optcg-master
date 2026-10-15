@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Shockwave (Textured Foil)",
       "rarity": "C",
-      "price_eur": 0.02,
+      "price_eur": 2.44,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Shockwave-ST06-014-V2",
       "file": "ST06-014-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Shockwave",
       "rarity": "C",
-      "price_eur": 0.02,
+      "price_eur": 0.1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Absolute-Justice/Shockwave-ST06-014",
       "file": "ST06-014-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Shockwave (Jolly Roger Foil)",
       "rarity": "C",
-      "price_eur": 0.99,
+      "price_eur": 0.06,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Shockwave-ST06-014-V1",
       "file": "ST06-014-v4.json"
     },
@@ -73,8 +73,5 @@
       "file": "ST06-014-v5.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.11,
-  "price_avg30_eur": 0.09,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

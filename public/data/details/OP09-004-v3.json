@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op09-p008.webp",
   "image_url": "/img/cards-fr/op09-p008-sm.webp",
-  "price_eur": 160,
+  "price_eur": 155,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Shanks-OP09-004-V3?language=2",
   "cardmarket_url_jp": null,
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Shanks",
       "rarity": "SR",
-      "price_eur": 160,
+      "price_eur": 155,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Shanks-OP09-004-V1?language=2",
       "file": "OP09-004-v1.json"
     },
@@ -73,7 +73,7 @@
       "file": "OP09-004-v5.json"
     }
   ],
-  "price_min_eur": 160,
+  "price_min_eur": 155,
   "price_avg7_eur": 1764.29,
   "price_avg30_eur": 1489.81,
   "listings_count": 13

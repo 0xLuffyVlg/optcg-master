@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Trafalgar Law (Alternate Art) (069)",
       "rarity": "SR",
-      "price_eur": 9.9,
+      "price_eur": 13.41,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Trafalgar-Law-OP05-069-V2",
       "file": "OP05-069-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Trafalgar Law (069) (Alternate Art) (Manga)",
       "rarity": "SR",
-      "price_eur": 949.99,
+      "price_eur": 1207.2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Trafalgar-Law-OP05-069-V3",
       "file": "OP05-069-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Trafalgar Law (OP05-069) (Manga)",
       "rarity": "SR",
-      "price_eur": 1090,
+      "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Trafalgar-Law-OP05-069",
       "file": "OP05-069-v4.json"
     },
@@ -73,8 +73,5 @@
       "file": "OP05-069-v5.json"
     }
   ],
-  "price_min_eur": 0.1,
-  "price_avg7_eur": 0.43,
-  "price_avg30_eur": 0.53,
-  "listings_count": 50
+  "price_min_eur": 0.1
 }

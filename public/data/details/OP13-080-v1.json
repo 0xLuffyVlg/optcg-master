@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "St. Ethanbaron V. Nusjuro (Alternate Art)",
       "rarity": "R",
-      "price_eur": 13,
+      "price_eur": 20.18,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/St-Ethanbaron-V-Nusjuro-OP13-080-V2?language=2",
       "file": "OP13-080-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "St. Ethanbaron V. Nusjuro (Parallel)",
       "rarity": "R",
-      "price_eur": 299.9,
+      "price_eur": 503.17,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/St-Ethanbaron-V-Nusjuro-OP13-080-V3?language=2",
       "file": "OP13-080-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.27,
-  "price_avg30_eur": 0.29,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

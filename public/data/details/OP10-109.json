@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Basil Hawkins - OP10-109 (Alternate Art)",
       "rarity": "R",
-      "price_eur": 3.24,
+      "price_eur": 8.79,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Basil-Hawkins-OP10-109-V2?language=2",
       "file": "OP10-109-v2.json"
     },
@@ -55,8 +55,5 @@
       "file": "OP10-109-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.1,
-  "price_avg30_eur": 0.09,
-  "listings_count": 15
+  "price_min_eur": 0.02
 }

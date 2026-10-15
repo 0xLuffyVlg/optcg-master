@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Silvers Rayleigh (The Best)",
       "rarity": "R",
-      "price_eur": 0.02,
+      "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Silvers-Rayleigh-OP09-005?language=2",
       "file": "OP09-005-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.08,
-  "price_avg30_eur": 0.08,
-  "listings_count": 29
+  "price_min_eur": 0.02
 }

@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Charlotte Cracker (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 3.61,
+      "price_eur": 4.6,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Charlotte-Cracker-OP03-108-V2",
       "file": "OP03-108-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Charlotte Cracker (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 0.04,
+      "price_eur": 3.68,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Cracker-OP03-108-V2",
       "file": "OP03-108-v3.json"
     },
@@ -59,13 +59,10 @@
       "variant_version": "v4",
       "name": "Charlotte Cracker (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 2.6,
+      "price_eur": 3.68,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Cracker-OP03-108-V2",
       "file": "OP03-108-v4.json"
     }
   ],
-  "price_min_eur": 0.04,
-  "price_avg7_eur": 0.28,
-  "price_avg30_eur": 0.28,
-  "listings_count": 50
+  "price_min_eur": 0.04
 }

@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op17-p159.webp",
   "image_url": "/img/cards-fr/op17-p159-sm.webp",
-  "price_eur": 233,
+  "price_eur": 230,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Roronoa-Zoro-EB04-007-V1?language=2",
   "cardmarket_url_jp": null,
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Roronoa Zoro (Alternate Art)",
       "rarity": "SP",
-      "price_eur": 233,
+      "price_eur": 230,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Roronoa-Zoro-EB04-007-V1?language=2",
       "file": "EB04-007-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "EB04-007-v3.json"
     }
   ],
-  "price_min_eur": 233,
+  "price_min_eur": 230,
   "price_avg7_eur": 12.54,
   "price_avg30_eur": 12.17,
   "listings_count": 39

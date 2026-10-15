@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Vinsmoke Yonji (OP06-067) (Jolly Roger Foil)",
       "rarity": "R",
-      "price_eur": 0.02,
+      "price_eur": 0.04,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Yonji-OP06-067-V1",
       "file": "OP06-067-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Vinsmoke Yonji (OP06-067) (Full Art)",
       "rarity": "R",
-      "price_eur": 0.02,
+      "price_eur": 2.98,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Yonji-OP06-067-V3",
       "file": "OP06-067-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Vinsmoke Yonji (OP06-067) (Alternate Art)",
       "rarity": "R",
-      "price_eur": 1.5,
+      "price_eur": 4.16,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Yonji-OP06-067-V4",
       "file": "OP06-067-v4.json"
     },
@@ -68,7 +68,7 @@
       "variant_version": "v5",
       "name": "Vinsmoke Yonji (OP06-067) (Jolly Roger Foil)",
       "rarity": "R",
-      "price_eur": 3.99,
+      "price_eur": 0.04,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Yonji-OP06-067-V1",
       "file": "OP06-067-v5.json"
     },
@@ -91,8 +91,5 @@
       "file": "OP06-067-v7.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.03,
-  "price_avg30_eur": 0.06,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

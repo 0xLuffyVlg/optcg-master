@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Cavendish (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 0.8,
+      "price_eur": 17.78,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Cavendish-EB01-012-V2",
       "file": "EB01-012-v2.json"
     },
@@ -73,8 +73,5 @@
       "file": "EB01-012-v5.json"
     }
   ],
-  "price_min_eur": 0.8,
-  "price_avg7_eur": 0.9,
-  "price_avg30_eur": 1.31,
-  "listings_count": 50
+  "price_min_eur": 0.8
 }

@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Sanji (Alternate Art)",
       "rarity": "R",
-      "price_eur": 10,
+      "price_eur": 9.37,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Sanji-EB02-054-V2?language=2",
       "file": "EB02-054-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.22,
-  "price_avg30_eur": 0.27,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

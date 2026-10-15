@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op14-p033.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/670255_200w.jpg",
-  "price_eur": 14,
+  "price_eur": 12,
   "price_usd": 20.72,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Shanks-OP14-027-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven-Asia-Region-Legal/Shanks-OP14-027-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Shanks",
       "rarity": "R",
-      "price_eur": 14,
+      "price_eur": 12,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Shanks-OP14-027-V1?language=2",
       "file": "OP14-027-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP14-027-v2.json"
     }
   ],
-  "price_min_eur": 14,
+  "price_min_eur": 12,
   "price_avg7_eur": 11.73,
   "price_avg30_eur": 13.56,
   "listings_count": 34

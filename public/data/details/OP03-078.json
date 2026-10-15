@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Issho (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 4.21,
+      "price_eur": 5.8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Issho-OP03-078-V2",
       "file": "OP03-078-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Issho (SP)",
       "rarity": "SR",
-      "price_eur": 35,
+      "price_eur": 42.69,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Issho-OP03-078",
       "file": "OP03-078-v3.json"
     }
   ],
-  "price_min_eur": 0.4,
-  "price_avg7_eur": 1.02,
-  "price_avg30_eur": 1.05,
-  "listings_count": 50
+  "price_min_eur": 0.4
 }

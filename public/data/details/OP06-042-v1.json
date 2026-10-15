@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Vinsmoke Reiju (042) (Alternate Art)",
       "rarity": "L",
-      "price_eur": 24,
+      "price_eur": 29.19,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Vinsmoke-Reiju-OP06-042-V2",
       "file": "OP06-042-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Vinsmoke Reiju (SP)",
       "rarity": "L",
-      "price_eur": 1700,
+      "price_eur": 626.33,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Vinsmoke-Reiju-OP06-042",
       "file": "OP06-042-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.07,
-  "price_avg30_eur": 0.11,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

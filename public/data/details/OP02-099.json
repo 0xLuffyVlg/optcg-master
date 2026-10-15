@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Sakazuki (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 3799,
+      "price_eur": 13.28,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Sakazuki-OP02-099-V2",
       "file": "OP02-099-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Sakazuki (Championship 2023)",
       "rarity": "PR",
-      "price_eur": 50,
+      "price_eur": 1714.59,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Sakazuki-OP02-099",
       "file": "OP02-099-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Sakazuki (SP)",
       "rarity": "SR",
-      "price_eur": 0.02,
+      "price_eur": 87.53,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Sakazuki-OP02-099",
       "file": "OP02-099-v4.json"
     },
@@ -68,7 +68,7 @@
       "variant_version": "v5",
       "name": "Sakazuki (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 3.9,
+      "price_eur": 5.79,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Sakazuki-OP02-099",
       "file": "OP02-099-v5.json"
     },
@@ -82,8 +82,5 @@
       "file": "OP02-099-v6.json"
     }
   ],
-  "price_min_eur": 0.05,
-  "price_avg7_eur": 0.43,
-  "price_avg30_eur": 0.36,
-  "listings_count": 50
+  "price_min_eur": 0.05
 }

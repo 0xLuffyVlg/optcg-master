@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op02-p049.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/482429_200w.jpg",
-  "price_eur": 39.99,
+  "price_eur": 44.99,
   "price_usd": 79.05,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Nami-OP02-036-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War-Japanese/Nami-OP02-036-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Nami",
       "rarity": "SR",
-      "price_eur": 39.99,
+      "price_eur": 44.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Nami-OP02-036-V1",
       "file": "OP02-036-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "OP02-036-v3.json"
     }
   ],
-  "price_min_eur": 39.99,
+  "price_min_eur": 44.99,
   "price_avg7_eur": 71.79,
   "price_avg30_eur": 64.6,
   "listings_count": 50

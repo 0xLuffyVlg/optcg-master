@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Emporio.Ivankov (026) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 3.2,
+      "price_eur": 9.53,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/EmporioIvankov-OP16-026-V2?language=2",
       "file": "OP16-026-v2.json"
     }
   ],
-  "price_min_eur": 0.05,
-  "price_avg7_eur": 0.27,
-  "price_avg30_eur": 0.33,
-  "listings_count": 50
+  "price_min_eur": 0.05
 }

@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op16-p002.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693418_200w.jpg",
-  "price_eur": 38,
+  "price_eur": 37.99,
   "price_usd": 42,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/PortgasDAce-OP16-001-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Time-of-Battle-Asia-Region-Legal/PortgasDAce-OP16-001-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Portgas.D.Ace (001)",
       "rarity": "L",
-      "price_eur": 38,
+      "price_eur": 37.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/PortgasDAce-OP16-001-V1?language=2",
       "file": "OP16-001-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "OP16-001-v2.json"
     }
   ],
-  "price_min_eur": 38,
+  "price_min_eur": 37.99,
   "price_avg7_eur": 36.56,
   "price_avg30_eur": 37.9,
   "listings_count": 22

@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Shanks (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 14.89,
+      "price_eur": 18,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Shanks-OP17-022-V2?language=2",
       "file": "OP17-022-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Shanks (Manga)",
       "rarity": "SR",
-      "price_eur": 1020,
+      "price_eur": 1150,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Shanks-OP17-022-V3?language=2",
       "file": "OP17-022-v3.json"
     }
   ],
-  "price_min_eur": 1,
-  "price_avg7_eur": 3.4,
-  "price_avg30_eur": 4.77,
-  "listings_count": 50
+  "price_min_eur": 1
 }

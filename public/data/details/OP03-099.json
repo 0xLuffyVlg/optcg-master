@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Charlotte Katakuri (099) (Alternate Art)",
       "rarity": "L",
-      "price_eur": 88.99,
+      "price_eur": 89.54,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Charlotte-Katakuri-OP03-099-V2",
       "file": "OP03-099-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Charlotte Katakuri (OP03-099)",
       "rarity": "L",
-      "price_eur": null,
+      "price_eur": 0.82,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Charlotte-Katakuri/Charlotte-Katakuri-OP03-099",
       "file": "OP03-099-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.13,
-  "price_avg30_eur": 0.19,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

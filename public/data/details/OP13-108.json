@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Jewelry Bonney (108) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 9,
+      "price_eur": 16.81,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Jewelry-Bonney-OP13-108-V2?language=2",
       "file": "OP13-108-v2.json"
     },
@@ -55,8 +55,5 @@
       "file": "OP13-108-v3.json"
     }
   ],
-  "price_min_eur": 0.2,
-  "price_avg7_eur": 1.07,
-  "price_avg30_eur": 1.06,
-  "listings_count": 50
+  "price_min_eur": 0.2
 }

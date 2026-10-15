@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Edward.Newgate (001) (Alternate Art)",
       "rarity": "L",
-      "price_eur": 118,
+      "price_eur": 118.93,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/EdwardNewgate-OP02-001-V2",
       "file": "OP02-001-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Edward.Newgate (OP02-001)",
       "rarity": "L",
-      "price_eur": null,
+      "price_eur": 0.56,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EdwardNewgate/EdwardNewgate-OP02-001",
       "file": "OP02-001-v3.json"
     },
@@ -64,8 +64,5 @@
       "file": "OP02-001-v4.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.18,
-  "price_avg30_eur": 0.21,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

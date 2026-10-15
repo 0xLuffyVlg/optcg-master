@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Who's.Who (Alternate Art)",
       "rarity": "R",
-      "price_eur": 1.88,
+      "price_eur": 3.55,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/WhosWho-OP04-051-V2",
       "file": "OP04-051-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.09,
-  "price_avg30_eur": 0.09,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

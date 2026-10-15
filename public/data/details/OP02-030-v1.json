@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Kouzuki Oden (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 6.87,
+      "price_eur": 8.14,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Kouzuki-Oden-OP02-030-V2",
       "file": "OP02-030-v2.json"
     }
   ],
-  "price_min_eur": 0.4,
-  "price_avg7_eur": 1.07,
-  "price_avg30_eur": 0.94,
-  "listings_count": 50
+  "price_min_eur": 0.4
 }

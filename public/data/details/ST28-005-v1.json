@@ -37,8 +37,5 @@
       "file": "ST28-005-v1.json"
     }
   ],
-  "price_min_eur": 0.94,
-  "price_avg7_eur": 1.4,
-  "price_avg30_eur": 1.65,
-  "listings_count": 20
+  "price_min_eur": 0.94
 }

@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Stussy (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 7.99,
+      "price_eur": 10.52,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Stussy-OP13-110-V2?language=2",
       "file": "OP13-110-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.25,
-  "price_avg30_eur": 0.27,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

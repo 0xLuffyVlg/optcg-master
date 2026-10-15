@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Portgas.D.Ace (Parallel)",
       "rarity": "R",
-      "price_eur": 5.5,
+      "price_eur": 6.53,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/PortgasDAce-OP08-052-V2",
       "file": "OP08-052-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Portgas.D.Ace (TR)",
       "rarity": "TR",
-      "price_eur": 49,
+      "price_eur": 106.57,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/PortgasDAce-OP08-052",
       "file": "OP08-052-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.14,
-  "price_avg30_eur": 0.15,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

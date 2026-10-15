@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Iceburg (Alternate Art)",
       "rarity": "L",
-      "price_eur": 24.5,
+      "price_eur": 32,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Iceburg-OP03-058-V2",
       "file": "OP03-058-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.1,
-  "price_avg30_eur": 0.15,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

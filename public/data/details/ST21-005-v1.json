@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Jinbe (Parallel)",
       "rarity": "C",
-      "price_eur": 0.75,
+      "price_eur": 1.49,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Jinbe-ST21-005-V2?language=2",
       "file": "ST21-005-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.05,
-  "price_avg30_eur": 0.07,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

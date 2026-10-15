@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Lim (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 2,
+      "price_eur": 1.8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Lim-OP09-037-V2?language=2",
       "file": "OP09-037-v2.json"
     }
   ],
-  "price_min_eur": 0.03,
-  "price_avg7_eur": 0.25,
-  "price_avg30_eur": 0.23,
-  "listings_count": 50
+  "price_min_eur": 0.03
 }

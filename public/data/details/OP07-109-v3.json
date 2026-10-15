@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/champ2024-p029.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/579983_200w.jpg",
-  "price_eur": null,
+  "price_eur": 5484.36,
   "price_usd": 4199,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-OP07-109-V4",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/MonkeyDLuffy-OP07-109-V3",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Monkey.D.Luffy (109)",
       "rarity": "SR",
-      "price_eur": 3.4,
+      "price_eur": 5484.36,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/MonkeyDLuffy-OP07-109-V1",
       "file": "OP07-109-v1.json"
     },
@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Monkey.D.Luffy (109) (Parallel)",
       "rarity": "SR",
-      "price_eur": 5999.99,
+      "price_eur": 38.94,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/MonkeyDLuffy-OP07-109-V2",
       "file": "OP07-109-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Monkey.D.Luffy (CS 2024 Event Pack)",
       "rarity": "SR",
-      "price_eur": null,
+      "price_eur": 5484.36,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-OP07-109-V4",
       "file": "OP07-109-v3.json"
     },
@@ -59,7 +59,7 @@
       "variant_version": "v4",
       "name": "Monkey.D.Luffy (TR)",
       "rarity": "TR",
-      "price_eur": null,
+      "price_eur": 389.68,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/MonkeyDLuffy-OP07-109",
       "file": "OP07-109-v4.json"
     },
@@ -99,9 +99,5 @@
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/MonkeyDLuffy-OP07-109",
       "file": "OP07-109-v8.json"
     }
-  ],
-  "price_min_eur": null,
-  "price_avg7_eur": null,
-  "price_avg30_eur": null,
-  "listings_count": null
+  ]
 }

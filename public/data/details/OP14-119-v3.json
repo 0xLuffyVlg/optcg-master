@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op14-p146.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671448_200w.jpg",
-  "price_eur": 440,
+  "price_eur": 400,
   "price_usd": 707.8,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Dracule-Mihawk-OP14-119-V3?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven-Asia-Region-Legal/Dracule-Mihawk-OP14-119-V3",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Dracule Mihawk - OP14-119",
       "rarity": "SEC",
-      "price_eur": 440,
+      "price_eur": 400,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Dracule-Mihawk-OP14-119-V1?language=2",
       "file": "OP14-119-v1.json"
     },
@@ -64,7 +64,7 @@
       "file": "OP14-119-v4.json"
     }
   ],
-  "price_min_eur": 440,
+  "price_min_eur": 400,
   "price_avg7_eur": 587.37,
   "price_avg30_eur": 716.58,
   "listings_count": 24

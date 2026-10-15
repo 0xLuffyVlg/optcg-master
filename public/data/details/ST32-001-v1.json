@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/pack-promotion-ex-p043.webp",
   "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-001.png",
-  "price_eur": 0.02,
+  "price_eur": null,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Roronoa-Zoro/Kinemon-ST32-001?language=2",
   "cardmarket_url_jp": null,
@@ -32,13 +32,9 @@
       "variant_version": "v1",
       "name": "Kin'emon",
       "rarity": "C",
-      "price_eur": 0.02,
+      "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Roronoa-Zoro/Kinemon-ST32-001?language=2",
       "file": "ST32-001-v1.json"
     }
-  ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.27,
-  "price_avg30_eur": 0.23,
-  "listings_count": 24
+  ]
 }

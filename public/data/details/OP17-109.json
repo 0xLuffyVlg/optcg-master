@@ -37,8 +37,5 @@
       "file": "OP17-109-v1.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 1.15,
-  "price_avg30_eur": 0.9,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

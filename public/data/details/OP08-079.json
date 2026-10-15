@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Kaido (Parallel)",
       "rarity": "SR",
-      "price_eur": 7,
+      "price_eur": 9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Kaido-OP08-079-V2",
       "file": "OP08-079-v2.json"
     }
   ],
-  "price_min_eur": 0.05,
-  "price_avg7_eur": 0.33,
-  "price_avg30_eur": 0.48,
-  "listings_count": 50
+  "price_min_eur": 0.05
 }

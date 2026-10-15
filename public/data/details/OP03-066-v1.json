@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Paulie (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 3.19,
+      "price_eur": 4.34,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Paulie-OP03-066-V2",
       "file": "OP03-066-v2.json"
     }
   ],
-  "price_min_eur": 0.15,
-  "price_avg7_eur": 0.51,
-  "price_avg30_eur": 0.56,
-  "listings_count": 50
+  "price_min_eur": 0.15
 }

@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/eb02-p004.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629092_200w.jpg",
-  "price_eur": 29.99,
+  "price_eur": 27,
   "price_usd": 70.94,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Tony-TonyChopper-EB02-003-V2?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection-Japanese/Tony-TonyChopper-EB02-003-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Tony Tony.Chopper",
       "rarity": "R",
-      "price_eur": 29.99,
+      "price_eur": 27,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Tony-TonyChopper-EB02-003-V1?language=2",
       "file": "EB02-003-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "EB02-003-v2.json"
     }
   ],
-  "price_min_eur": 29.99,
+  "price_min_eur": 27,
   "price_avg7_eur": 27.84,
   "price_avg30_eur": 31.49,
   "listings_count": 19

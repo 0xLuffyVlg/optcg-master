@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Emporio.Ivankov (051) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 4.5,
+      "price_eur": 5.32,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/EmporioIvankov-OP02-051-V2",
       "file": "OP02-051-v2.json"
     }
   ],
-  "price_min_eur": 0.2,
-  "price_avg7_eur": 0.74,
-  "price_avg30_eur": 0.7,
-  "listings_count": 50
+  "price_min_eur": 0.2
 }

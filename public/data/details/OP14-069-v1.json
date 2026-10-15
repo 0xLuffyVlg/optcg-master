@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Donquixote Doflamingo - OP14-069 (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 7,
+      "price_eur": 9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Donquixote-Doflamingo-OP14-069-V2?language=2",
       "file": "OP14-069-v2.json"
     }
   ],
-  "price_min_eur": 0.5,
-  "price_avg7_eur": 0.73,
-  "price_avg30_eur": 0.78,
-  "listings_count": 50
+  "price_min_eur": 0.5
 }

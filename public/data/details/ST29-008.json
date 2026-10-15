@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Nami (Full Art)",
       "rarity": "C",
-      "price_eur": 9,
+      "price_eur": 24.23,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Nami-ST29-008-V2?language=2",
       "file": "ST29-008-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.15,
-  "price_avg30_eur": 0.16,
-  "listings_count": 41
+  "price_min_eur": 0.02
 }

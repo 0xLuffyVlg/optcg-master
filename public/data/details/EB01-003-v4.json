@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op14-p149.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671449_200w.jpg",
-  "price_eur": 47.5,
+  "price_eur": 48.99,
   "price_usd": 80.81,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Kid-Killer-EB01-003",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven-Asia-Region-Legal/Kid-Killer-EB01-003",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Kid & Killer",
       "rarity": "R",
-      "price_eur": 47.5,
+      "price_eur": 48.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Kid-Killer-EB01-003-V1",
       "file": "EB01-003-v1.json"
     },
@@ -64,5 +64,5 @@
       "file": "EB01-003-v4.json"
     }
   ],
-  "price_min_eur": 47.5
+  "price_min_eur": 48.99
 }

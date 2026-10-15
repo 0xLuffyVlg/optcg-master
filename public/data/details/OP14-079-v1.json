@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Crocodile - OP14-079 (Alternate Art)",
       "rarity": "L",
-      "price_eur": 25,
+      "price_eur": 22.89,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Crocodile-OP14-079-V2?language=2",
       "file": "OP14-079-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.09,
-  "price_avg30_eur": 0.11,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Whitey Bay (Parallel)",
       "rarity": "C",
-      "price_eur": 0.99,
+      "price_eur": 1.94,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Whitey-Bay-ST22-011-V2?language=2",
       "file": "ST22-011-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.29,
-  "price_avg30_eur": 0.24,
-  "listings_count": 30
+  "price_min_eur": 0.02
 }

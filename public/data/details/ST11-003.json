@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/promo-divers-p010.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/580998_200w.jpg",
-  "price_eur": 8,
+  "price_eur": 7.99,
   "price_usd": 0.18,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Uta/Backlight-ST11-003",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Uta-Non-English/Backlight-ST11-003",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Backlight",
       "rarity": "C",
-      "price_eur": 8,
+      "price_eur": 7.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Uta/Backlight-ST11-003",
       "file": "ST11-003-v1.json"
     },
@@ -64,7 +64,7 @@
       "file": "ST11-003-v4.json"
     }
   ],
-  "price_min_eur": 8,
+  "price_min_eur": 7.99,
   "price_avg7_eur": 0.2,
   "price_avg30_eur": 0.2,
   "listings_count": 50

@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Lilith (Parallel)",
       "rarity": "SR",
-      "price_eur": 3.16,
+      "price_eur": 5.27,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Lilith-OP07-111-V2",
       "file": "OP07-111-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Lilith - OP07-111 (SP)",
       "rarity": "SR",
-      "price_eur": 35,
+      "price_eur": 44.64,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Lilith-OP07-111",
       "file": "OP07-111-v3.json"
     }
   ],
-  "price_min_eur": 0.05,
-  "price_avg7_eur": 0.95,
-  "price_avg30_eur": 0.7,
-  "listings_count": 50
+  "price_min_eur": 0.05
 }

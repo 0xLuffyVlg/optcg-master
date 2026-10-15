@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Kuro (Alternate Art)",
       "rarity": "L",
-      "price_eur": 30,
+      "price_eur": 29.72,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Kuro-OP03-021-V2",
       "file": "OP03-021-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.08,
-  "price_avg30_eur": 0.16,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

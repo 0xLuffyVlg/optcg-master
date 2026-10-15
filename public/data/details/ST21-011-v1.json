@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Franky (Parallel)",
       "rarity": "C",
-      "price_eur": 0.99,
+      "price_eur": 1.53,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Franky-ST21-011-V2?language=2",
       "file": "ST21-011-v2.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.06,
-  "price_avg30_eur": 0.08,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

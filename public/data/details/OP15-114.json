@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Wyper (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 6.85,
+      "price_eur": 13.77,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Wyper-OP15-114-V2?language=2",
       "file": "OP15-114-v2.json"
     }
   ],
-  "price_min_eur": 0.4,
-  "price_avg7_eur": 1.26,
-  "price_avg30_eur": 1.6,
-  "listings_count": 50
+  "price_min_eur": 0.4
 }

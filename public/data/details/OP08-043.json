@@ -41,13 +41,10 @@
       "variant_version": "v2",
       "name": "Edward.Newgate (Parallel)",
       "rarity": "SR",
-      "price_eur": 5,
+      "price_eur": 6.93,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/EdwardNewgate-OP08-043-V2",
       "file": "OP08-043-v2.json"
     }
   ],
-  "price_min_eur": 0.1,
-  "price_avg7_eur": 0.69,
-  "price_avg30_eur": 0.64,
-  "listings_count": 50
+  "price_min_eur": 0.1
 }

@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Urouge (SP)",
       "rarity": "R",
-      "price_eur": null,
+      "price_eur": 32.49,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Urouge-OP07-021",
       "file": "OP07-021-v2.json"
     },
@@ -50,7 +50,7 @@
       "variant_version": "v3",
       "name": "Urouge (Offline Regional Participation Pack 2025 Vol.1)",
       "rarity": "R",
-      "price_eur": 24.03,
+      "price_eur": 4.52,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Urouge-OP07-021-V1",
       "file": "OP07-021-v3.json"
     },
@@ -73,8 +73,5 @@
       "file": "OP07-021-v5.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.05,
-  "price_avg30_eur": 0.03,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }

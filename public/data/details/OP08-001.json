@@ -41,7 +41,7 @@
       "variant_version": "v2",
       "name": "Tony Tony.Chopper (001) (Parallel)",
       "rarity": "L",
-      "price_eur": 40,
+      "price_eur": 64.81,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Tony-TonyChopper-OP08-001-V2",
       "file": "OP08-001-v2.json"
     },
@@ -50,13 +50,10 @@
       "variant_version": "v3",
       "name": "Tony Tony.Chopper (SP)",
       "rarity": "L",
-      "price_eur": 4806.64,
+      "price_eur": 1349.77,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Tony-TonyChopper-OP08-001",
       "file": "OP08-001-v3.json"
     }
   ],
-  "price_min_eur": 0.02,
-  "price_avg7_eur": 0.07,
-  "price_avg30_eur": 0.08,
-  "listings_count": 50
+  "price_min_eur": 0.02
 }
