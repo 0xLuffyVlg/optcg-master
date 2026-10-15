@@ -59,8 +59,14 @@ db.forEach(c => {
   let matchedVariantData = null;
   let matchedFile = null;
 
+  // Explicit override for 3on3 Cup Winner Zoro
+  if (imgBase === 'champ-3on3-p006.webp' || c.id === 'en-champ-3on3-ST01-013-2-6') {
+    matchedFile = 'ST01-013-v3.json';
+    matchedVariantData = detailFiles.get('st01-013-v3.json');
+  }
+
   // 1. DIRECT IMAGE MATCH with a variant file
-  if (imgBase && byImageBasename.has(imgBase)) {
+  if (!matchedVariantData && imgBase && byImageBasename.has(imgBase)) {
     const d = byImageBasename.get(imgBase);
     if (d.code && d.code.toUpperCase() === code) {
       matchedVariantData = d;

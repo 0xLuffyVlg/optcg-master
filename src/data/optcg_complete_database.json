@@ -392681,15 +392681,15 @@
     "price_avg7_eur": 1850,
     "price_avg30_eur": 1850,
     "listings_count": 2,
-    "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Roronoa-Zoro-ST01-013-V1",
-    "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Straw-Hat-Crew-Non-English/Roronoa-Zoro-ST01-013-V2",
-    "tcgplayer_url": "https://www.tcgplayer.com/product/455816",
-    "detail_file": "ST01-013-v2.json",
+    "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Roronoa-Zoro-ST01-013",
+    "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Straw-Hat-Crew-Non-English/Roronoa-Zoro-ST01-013-V3",
+    "tcgplayer_url": "https://www.tcgplayer.com/product/504480",
+    "detail_file": "ST01-013-v3.json",
     "art_type": "ALT_ART",
-    "variant": 2,
-    "variant_version": "v2",
-    "variant_name": "Roronoa Zoro - ST01-013 (Treasure Cup)",
-    "variant_label": "Roronoa Zoro - ST01-013 (Treasure Cup)"
+    "variant": 3,
+    "variant_version": "v3",
+    "variant_name": "Roronoa Zoro (Premium Card Collection -ONE PIECE FILM RED Edition-)",
+    "variant_label": "Roronoa Zoro (Premium Card Collection -ONE PIECE FILM RED Edition-)"
   },
   {
     "id": "en-champ-card-set-OP01-077-reg-1",

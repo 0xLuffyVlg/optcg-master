@@ -181234,14 +181234,19 @@
     },
     "champ-3on3-p006.webp": {
       "en": {
-        "cm": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Roronoa-Zoro-ST01-013-V1",
-        "cm_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Straw-Hat-Crew-Non-English/Roronoa-Zoro-ST01-013-V2",
-        "tcg": "https://www.tcgplayer.com/product/455816"
+        "cm": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Roronoa-Zoro-ST01-013",
+        "cm_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Straw-Hat-Crew-Non-English/Roronoa-Zoro-ST01-013-V3",
+        "tcg": "https://www.tcgplayer.com/product/504480"
       },
       "fr": {
-        "cm": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Roronoa-Zoro-ST01-013-V1",
-        "cm_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Straw-Hat-Crew-Non-English/Roronoa-Zoro-ST01-013-V2",
-        "tcg": "https://www.tcgplayer.com/product/455816"
+        "cm": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Roronoa-Zoro-ST01-013",
+        "cm_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Straw-Hat-Crew-Non-English/Roronoa-Zoro-ST01-013-V3",
+        "tcg": "https://www.tcgplayer.com/product/504480"
+      },
+      "jp": {
+        "cm": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Straw-Hat-Crew-Non-English/Roronoa-Zoro-ST01-013-V3",
+        "cm_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Straw-Hat-Crew-Non-English/Roronoa-Zoro-ST01-013-V3",
+        "tcg": "https://www.tcgplayer.com/product/504480"
       }
     },
     "champ-card-set-p001.webp": {
@@ -497733,9 +497738,9 @@
       "tcg": "https://www.tcgplayer.com/product/455814"
     },
     "en-champ-3on3-ST01-013-2-6": {
-      "cm": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Roronoa-Zoro-ST01-013-V1",
-      "cm_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Straw-Hat-Crew-Non-English/Roronoa-Zoro-ST01-013-V2",
-      "tcg": "https://www.tcgplayer.com/product/455816"
+      "cm": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Roronoa-Zoro-ST01-013",
+      "cm_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Straw-Hat-Crew-Non-English/Roronoa-Zoro-ST01-013-V3",
+      "tcg": "https://www.tcgplayer.com/product/504480"
     },
     "en-champ-card-set-OP01-077-reg-1": {
       "cm": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Perona-OP01-077-V1",
