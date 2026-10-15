@@ -155,12 +155,16 @@ for (const variant of allVariants) {
   }
 }
 
-// Variant lookup map by image path
+// Variant lookup map by image path and basename
 const variantLookupMap = new Map<string, CardVariant>();
 for (const v of allVariants) {
   if (v && v.image_path) {
     const cleanImg = v.image_path.toLowerCase().replace(/\.(webp|png|jpg)$/i, '');
     variantLookupMap.set(cleanImg, v);
+    const basename = v.image_path.split('/').pop()?.toLowerCase().replace(/\.(webp|png|jpg)$/i, '');
+    if (basename) {
+      variantLookupMap.set(basename, v);
+    }
   }
 }
 
@@ -184,12 +188,27 @@ export const allPrintsAsCards: Card[] = allRawCards.map(raw => {
   const defaultImg = raw.image_url || (raw.id.endsWith('.png') ? raw.id : raw.id + '.png');
   const imgFilename = raw.id.endsWith('.png') ? raw.id : raw.id + '.png';
   const cleanImg = raw.id.toLowerCase().replace(/\.(webp|png|jpg)$/i, '');
-  const vMatch = variantLookupMap.get(cleanImg);
+  const imgBasename = raw.image_url ? raw.image_url.split('/').pop()?.toLowerCase().replace(/\.(webp|png|jpg)$/i, '') : '';
+  const vMatch = (imgBasename ? variantLookupMap.get(imgBasename) : undefined) || variantLookupMap.get(cleanImg);
 
+  const rawAny = raw as any;
   const officialRarity = raw.rarity || existing?.rarity || 'C';
+  const idLow = raw.id.toLowerCase();
+  const isTourney = idLow.includes('champ') || idLow.includes('cup') || idLow.includes('treasure') || idLow.includes('winner') || idLow.includes('3on3');
+
   let variantType = 'BASE';
-  let variantLabel = 'Base';
-  if (vMatch?.variant_label) {
+  let variantLabel = rawAny.variant_name || rawAny.variant_label || vMatch?.variant_label || 'Base';
+
+  if (isTourney) {
+    variantType = 'WINNER';
+    if (variantLabel === 'Base') {
+      variantLabel = rawAny.variant_name || 'Tournament Promo 🏆';
+    }
+  } else if (rawAny.variant > 1 || rawAny.art_type === 'ALT_ART' || (rawAny.detail_file && /-v[2-9]/.test(rawAny.detail_file))) {
+    if (variantLabel.includes('Manga')) variantType = 'MANGA';
+    else if (variantLabel.includes('SP') || variantLabel.includes('Special')) variantType = 'SP';
+    else variantType = 'ALT';
+  } else if (vMatch?.variant_label && vMatch.variant_label !== 'Base') {
     variantLabel = vMatch.variant_label;
     if (vMatch.variant_label.includes('Manga')) variantType = 'MANGA';
     else if (vMatch.variant_label.includes('SP') || vMatch.variant_label.includes('Special')) variantType = 'SP';

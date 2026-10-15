@@ -456,8 +456,20 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
 
     let rawUrl = '';
 
-    // 1. Direct from activeCard (the exact print object the user clicked in the grid)
-    if (activeCard) {
+    // 1. Direct from cardDetail if it matches the active variant file
+    if (cardDetail && currentVariantFile && (
+      (cardDetail as any).file?.toLowerCase() === currentVariantFile.toLowerCase() ||
+      currentVariantFile.toLowerCase().includes((cardDetail.variant_version || '').toLowerCase())
+    )) {
+      if (editionLang === 'JP' && cardDetail.cardmarket_url_jp) {
+        rawUrl = cardDetail.cardmarket_url_jp;
+      } else if (cardDetail.cardmarket_url) {
+        rawUrl = cardDetail.cardmarket_url;
+      }
+    }
+
+    // 2. Direct from activeCard (the exact print object the user clicked in the grid)
+    if (!rawUrl && activeCard) {
       if (editionLang === 'JP') {
         rawUrl = activeCard.cardmarket_url_jp
           || (activeCard.cardmarket_url && (activeCard.cardmarket_url.includes('-Japanese') || activeCard.cardmarket_url.includes('Non-English')) ? activeCard.cardmarket_url : '')
@@ -468,7 +480,7 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
       }
     }
 
-    // 2. Direct from cardDetail for the currently active variant fiche if activeCard has none
+    // 3. Direct from cardDetail if not already tried
     if (!rawUrl && cardDetail) {
       if (editionLang === 'JP' && cardDetail.cardmarket_url_jp) {
         rawUrl = cardDetail.cardmarket_url_jp;
@@ -477,7 +489,7 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
       }
     }
 
-    // 3. Check all_variants in cardDetail for a matching file
+    // 4. Check all_variants in cardDetail for a matching file
     if (!rawUrl && cardDetail?.all_variants && currentVariantFile) {
       const vMatch = cardDetail.all_variants.find(
         (v) => v.file && v.file.toLowerCase() === currentVariantFile.toLowerCase()
@@ -487,7 +499,7 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
       }
     }
 
-    // 4. Fallback to cardLinks by id or path or code
+    // 5. Fallback to cardLinks by id or path or code
     if (!rawUrl && activeCard) {
       rawUrl = getCardmarketUrl(activeCard.card_code, activeCard._defaultImagePath || activeCard.id || currentVariantFile, activeCard)
         || artworkBasePrice.cardmarketUrl
@@ -557,7 +569,14 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
     (cardDetail?.variant_name || '').includes('Winner') || 
     (cardDetail?.variant_name || '').includes('Manga') || 
     (cardDetail?.variant_name || '').includes('SP') || 
+    (cardDetail?.variant_name || '').includes('1st Place') ||
+    (cardDetail?.variant_name || '').includes('CS') ||
+    (cardDetail?.variant_name || '').includes('Serial Number') ||
     (activeCard.variant_label || '').includes('Winner') ||
+    (activeCard.variant_label || '').includes('1st Place') ||
+    (activeCard.variant_label || '').includes('CS') ||
+    activeCard.variant_type === 'WINNER' ||
+    (activeCard.id || '').toLowerCase().includes('champ') ||
     (activeCard.card_code || '').includes('CHAMP')
   );
 
@@ -910,9 +929,20 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
                         {setInfo.code} · {setInfo.name}
                       </div>
                       <h1 className="text-2xl sm:text-3xl font-black text-white tracking-wide uppercase">
-                        {!isAltArtworkCard(activeCard)
-                          ? (activeCard.name_fr || activeCard.name)
-                          : (activeCard.variant_label ? `${activeCard.name_fr || activeCard.name} (${activeCard.variant_label})` : (cardDetail?.variant_name || activeCard.name_fr || activeCard.name))}
+                        {(() => {
+                          if (!isAltArtworkCard(activeCard)) {
+                            return activeCard.name_fr || activeCard.name;
+                          }
+                          const vName = activeCard.variant_label || cardDetail?.variant_name;
+                          if (!vName || vName === 'Base') {
+                            return activeCard.name_fr || activeCard.name;
+                          }
+                          const baseName = activeCard.name_fr || activeCard.name;
+                          if (vName.toLowerCase().startsWith(baseName.toLowerCase())) {
+                            return vName;
+                          }
+                          return `${baseName} (${vName})`;
+                        })()}
                       </h1>
                       {activeCard.jp_name && (
                         <div className="text-xs text-slate-400 font-medium font-mono">

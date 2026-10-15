@@ -688,7 +688,8 @@ export function isAltArtworkCard(c: Card | { id?: string; card_code?: string; va
   if (anyC.art_type && anyC.art_type !== 'REG_ART') return (anyC._isAlt = true);
   if (anyC.variant_type && anyC.variant_type !== 'BASE') return (anyC._isAlt = true);
   const id = (c.id || '').toLowerCase();
-  if (id.includes('_') || id.includes('-r')) return (anyC._isAlt = true);
+  if (id.includes('champ') || id.includes('cup') || id.includes('treasure') || id.includes('winner') || id.includes('3on3')) return (anyC._isAlt = true);
+  if (id.includes('_') || (id.includes('-r') && !id.includes('-reg-'))) return (anyC._isAlt = true);
   if (/-[2-9]-[0-9]+/.test(id) || /-[0-9]+-[2-9]/.test(id)) return (anyC._isAlt = true);
   const img = (anyC._defaultImagePath || anyC.image_path || anyC.image_url || anyC.scalpeurs_image_url || '').toLowerCase();
   if (img.includes('_p') || img.includes('-p0') || img.includes('manga') || img.includes('sp') || img.includes('winner') || img.includes('parallel')) return (anyC._isAlt = true);
