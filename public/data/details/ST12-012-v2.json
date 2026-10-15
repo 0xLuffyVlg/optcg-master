@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/op10-p145.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617174_200w.jpg",
-  "price_eur": 40,
+  "price_eur": 39.8,
   "price_usd": 58.29,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Charlotte-Pudding-ST12-012",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Non-English/Charlotte-Pudding-ST12-012",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Charlotte Pudding",
       "rarity": "C",
-      "price_eur": 40,
+      "price_eur": 39.8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Zoro-Sanji/Charlotte-Pudding-ST12-012",
       "file": "ST12-012-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "ST12-012-v2.json"
     }
   ],
-  "price_min_eur": 40,
+  "price_min_eur": 39.8,
   "price_avg7_eur": 46.19,
   "price_avg30_eur": 46.66,
   "listings_count": 50

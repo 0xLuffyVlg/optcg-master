@@ -18,9 +18,9 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/champ2022-p009.webp",
-  "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007.png",
-  "price_eur": 55,
+  "image_path": "/img/cards-fr/pack-dash-p005.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/pack-dash-p005.webp",
+  "price_eur": 0.1,
   "price_usd": 0.54,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/STARTER-DECK-Straw-Hat-Crew/Nami-ST01-007-V1",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Straw-Hat-Crew-Non-English/Nami-ST01-007",
@@ -100,7 +100,7 @@
       "file": "ST01-007-v8.json"
     }
   ],
-  "price_min_eur": 55,
+  "price_min_eur": 0.1,
   "price_avg7_eur": 20,
   "price_avg30_eur": 29.18,
   "listings_count": 50

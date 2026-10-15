@@ -18,11 +18,11 @@
   "rarity": "C",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op10-p148.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656032_200w.jpg",
-  "price_eur": 74,
+  "image_path": "/img/cards-fr/prb02-p294.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/prb02-p294.webp",
+  "price_eur": 0.44,
   "price_usd": 2.48,
-  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Uso-Hachi-ST18-001-V2?language=2",
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-MonkeyDLuffy/Uso-Hachi-ST18-001?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-MonkeyDLuffy-Non-English/Uso-Hachi-ST18-001",
   "tcgplayer_url": "https://www.tcgplayer.com/product/656032",
   "pricecharting_url": null,
@@ -82,7 +82,7 @@
       "file": "ST18-001-v6.json"
     }
   ],
-  "price_min_eur": 74,
+  "price_min_eur": 0.44,
   "price_avg7_eur": 1.99,
   "price_avg30_eur": 2.36,
   "listings_count": 28

@@ -3,7 +3,7 @@
   "variant_version": "v1",
   "variant_index": 1,
   "name": "Shanks",
-  "variant_name": "Shanks - ST16-004 (Alternate Art)",
+  "variant_name": "Shanks",
   "category": "CHARACTER",
   "cost": 9,
   "power": 11000,
@@ -18,11 +18,11 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op11-p148.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653839_200w.jpg",
-  "price_eur": 70,
+  "image_path": "/img/cards-fr/prb02-p284.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/prb02-p284.webp",
+  "price_eur": 1.99,
   "price_usd": 38.52,
-  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Shanks-ST16-004-V12?language=2",
+  "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Uta/Shanks-ST16-004?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Shanks-ST16-004-V2",
   "tcgplayer_url": "https://www.tcgplayer.com/product/653839",
   "pricecharting_url": "https://www.pricecharting.com/game/7969032",
@@ -64,7 +64,7 @@
       "file": "ST16-004-v4.json"
     }
   ],
-  "price_min_eur": 70,
+  "price_min_eur": 1.49,
   "price_avg7_eur": 3.26,
   "price_avg30_eur": 3.12,
   "listings_count": 14

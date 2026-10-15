@@ -18,9 +18,9 @@
   "rarity": "SR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/champ2022-p006.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/288242_200w.jpg",
-  "price_eur": 5500,
+  "image_path": "/img/cards-en/st01-p013.webp",
+  "image_url": "https://scalpeurs.com/img/cards-en/st01-p013.webp",
+  "price_eur": 0.5,
   "price_usd": 2.67,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/STARTER-DECK-Straw-Hat-Crew/Roronoa-Zoro-ST01-013-V1",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Straw-Hat-Crew-Non-English/Roronoa-Zoro-ST01-013",
@@ -64,7 +64,7 @@
       "file": "ST01-013-v4.json"
     }
   ],
-  "price_min_eur": 5500,
+  "price_min_eur": 0.5,
   "price_avg7_eur": 158.07,
   "price_avg30_eur": 112.38,
   "listings_count": 50

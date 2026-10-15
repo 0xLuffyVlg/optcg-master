@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op17-p084.webp",
   "image_url": "/img/cards-fr/op17-p083-sm.webp",
-  "price_eur": 170,
+  "price_eur": 169,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Kaido-OP17-062-V3?language=2",
   "cardmarket_url_jp": null,
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Kaido",
       "rarity": "SR",
-      "price_eur": 170,
+      "price_eur": 169,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Kaido-OP17-062-V1?language=2",
       "file": "OP17-062-v1.json"
     },
@@ -64,7 +64,7 @@
       "file": "OP17-062-v4.json"
     }
   ],
-  "price_min_eur": 170,
+  "price_min_eur": 169,
   "price_avg7_eur": 209.82,
   "price_avg30_eur": 247.5,
   "listings_count": 50

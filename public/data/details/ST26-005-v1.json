@@ -18,9 +18,9 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op15-p152.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632778_200w.jpg",
-  "price_eur": 290,
+  "image_path": "/img/cards-fr/op15-p152.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/op15-p152.webp",
+  "price_eur": 2,
   "price_usd": 2.07,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-Black-MonkeyDLuffy/MonkeyDLuffy-ST26-005?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-Black-MonkeyDLuffy-Non-English/MonkeyDLuffy-ST26-005",
@@ -46,7 +46,7 @@
       "file": "ST26-005-v2.json"
     }
   ],
-  "price_min_eur": 290,
+  "price_min_eur": 1.74,
   "price_avg7_eur": 2.47,
   "price_avg30_eur": 2.45,
   "listings_count": 15

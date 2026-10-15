@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/promo-jump-p015.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/686282_200w.jpg",
-  "price_eur": 7.5,
+  "price_eur": 7,
   "price_usd": 14.52,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Dracule-Mihawk-ST12-003-V3",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Zoro-Sanji-Japanese/Dracule-Mihawk-ST12-003-V3",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Dracule Mihawk",
       "rarity": "SR",
-      "price_eur": 7.5,
+      "price_eur": 7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Zoro-Sanji/Dracule-Mihawk-ST12-003",
       "file": "ST12-003-v1.json"
     },
@@ -55,5 +55,5 @@
       "file": "ST12-003-v3.json"
     }
   ],
-  "price_min_eur": 7.5
+  "price_min_eur": 7
 }

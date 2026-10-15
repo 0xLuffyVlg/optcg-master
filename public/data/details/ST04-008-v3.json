@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/champ-regional-en-ligne-p005.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/564258_200w.jpg",
-  "price_eur": 199,
+  "price_eur": 198.99,
   "price_usd": 1.59,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Jack-ST04-008",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/Jack-ST04-008-V1",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Jack",
       "rarity": "C",
-      "price_eur": 199,
+      "price_eur": 198.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Animal-Kingdom-Pirates/Jack-ST04-008-V1",
       "file": "ST04-008-v1.json"
     },
@@ -55,7 +55,7 @@
       "file": "ST04-008-v3.json"
     }
   ],
-  "price_min_eur": 199,
+  "price_min_eur": 198.99,
   "price_avg7_eur": 46.91,
   "price_avg30_eur": 39.36,
   "listings_count": 7

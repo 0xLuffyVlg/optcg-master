@@ -18,9 +18,9 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op15-p147.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629153_200w.jpg",
-  "price_eur": 99.99,
+  "image_path": "/img/cards-fr/op15-p147.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/op15-p147.webp",
+  "price_eur": 4.75,
   "price_usd": 14.35,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Enel-EB02-052-V1?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection-Japanese/Enel-EB02-052-V1",
@@ -55,7 +55,7 @@
       "file": "EB02-052-v3.json"
     }
   ],
-  "price_min_eur": 99.99,
+  "price_min_eur": 2.9,
   "price_avg7_eur": 5.79,
   "price_avg30_eur": 5.65,
   "listings_count": 50

@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/prb01-p287.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/288272_200w.jpg",
-  "price_eur": 3.5,
+  "price_eur": 3.49,
   "price_usd": 0.11,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-The-Seven-Warlords-of-the-Sea/Dracule-Mihawk-ST03-005-V1",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-The-Seven-Warlords-of-the-Sea-Non-English/Dracule-Mihawk-ST03-005",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Dracule Mihawk (ST03-005) (Jolly Roger Foil)",
       "rarity": "C",
-      "price_eur": 3.5,
+      "price_eur": 3.49,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Dracule-Mihawk-ST03-005-V1",
       "file": "ST03-005-v1.json"
     },
@@ -100,7 +100,7 @@
       "file": "ST03-005-v8.json"
     }
   ],
-  "price_min_eur": 3.5,
+  "price_min_eur": 3.49,
   "price_avg7_eur": null,
   "price_avg30_eur": null,
   "listings_count": null

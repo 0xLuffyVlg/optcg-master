@@ -18,9 +18,9 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb04-p085.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653840_200w.jpg",
-  "price_eur": 190,
+  "image_path": "/img/cards-fr/eb04-p085.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/eb04-p085.webp",
+  "price_eur": 0.8,
   "price_usd": 6.97,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Sabo-PRB02-014-V1?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Sabo-PRB02-014-V1",
@@ -55,7 +55,7 @@
       "file": "PRB02-014-v3.json"
     }
   ],
-  "price_min_eur": 190,
+  "price_min_eur": 0.8,
   "price_avg7_eur": 2.6,
   "price_avg30_eur": 3.27,
   "listings_count": 50

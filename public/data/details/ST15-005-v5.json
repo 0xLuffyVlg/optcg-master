@@ -20,7 +20,7 @@
   "language": "fr",
   "image_path": "/img/cards-jp/op16-p155.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680490_200w.jpg",
-  "price_eur": 130,
+  "price_eur": 134.9,
   "price_usd": 132.75,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/PortgasDAce-ST15-005?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/PortgasDAce-ST15-005-V1",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Portgas.D.Ace (SP)",
       "rarity": "SP",
-      "price_eur": 130,
+      "price_eur": 134.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EdwardNewgate/PortgasDAce-ST15-005?language=2",
       "file": "ST15-005-v1.json"
     },
@@ -82,5 +82,5 @@
       "file": "ST15-005-v6.json"
     }
   ],
-  "price_min_eur": 130
+  "price_min_eur": 134.9
 }

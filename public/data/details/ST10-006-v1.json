@@ -18,9 +18,9 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/promo-divers-p016.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/525049_200w.jpg",
-  "price_eur": 180,
+  "image_path": "/img/cards-fr/pack-divers-p029.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/pack-divers-p029.webp",
+  "price_eur": 0.5,
   "price_usd": 2.68,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Captains/MonkeyDLuffy-ST10-006",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Captains-Japanese/MonkeyDLuffy-ST10-006",
@@ -82,7 +82,7 @@
       "file": "ST10-006-v6.json"
     }
   ],
-  "price_min_eur": 180,
+  "price_min_eur": 0.5,
   "price_avg7_eur": 0.86,
   "price_avg30_eur": 0.94,
   "listings_count": 50

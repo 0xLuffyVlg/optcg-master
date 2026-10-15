@@ -3,7 +3,7 @@
   "variant_version": "v1",
   "variant_index": 1,
   "name": "Oden Kozuki",
-  "variant_name": "Oden Kozuki (Alternate Art)",
+  "variant_name": "Kouzuki Oden",
   "category": "CHARACTER",
   "cost": 5,
   "power": 6000,
@@ -18,9 +18,9 @@
   "rarity": "SP",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op17-p164.webp",
-  "image_url": "/img/cards-fr/op17-p164-sm.webp",
-  "price_eur": 75,
+  "image_path": "/img/cards-fr/op17-p164.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/op17-p164.webp",
+  "price_eur": 6.5,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Roronoa-Zoro/Kouzuki-Oden-ST32-002?language=2",
   "cardmarket_url_jp": null,
@@ -46,7 +46,7 @@
       "file": "ST32-002-v2.json"
     }
   ],
-  "price_min_eur": 75,
+  "price_min_eur": 4.9,
   "price_avg7_eur": 5.43,
   "price_avg30_eur": 5.09,
   "listings_count": 12

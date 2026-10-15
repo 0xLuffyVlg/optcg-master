@@ -18,9 +18,9 @@
   "rarity": "SR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op03-p152.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/288279_200w.jpg",
-  "price_eur": 65,
+  "image_path": "/img/cards-en/st03-p009.webp",
+  "image_url": "https://scalpeurs.com/img/cards-en/st03-p009.webp",
+  "price_eur": 0.7,
   "price_usd": 0.24,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-The-Seven-Warlords-of-the-Sea/Donquixote-Doflamingo-ST03-009-V1",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-The-Seven-Warlords-of-the-Sea-Non-English/Donquixote-Doflamingo-ST03-009",
@@ -46,7 +46,7 @@
       "file": "ST03-009-v2.json"
     }
   ],
-  "price_min_eur": 65,
+  "price_min_eur": 0.7,
   "price_avg7_eur": 15.9,
   "price_avg30_eur": 16.05,
   "listings_count": 50

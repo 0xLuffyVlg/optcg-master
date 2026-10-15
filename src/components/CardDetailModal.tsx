@@ -456,27 +456,8 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
 
     let rawUrl = '';
 
-    // 1. Direct from cardDetail for the currently active variant fiche
-    if (cardDetail) {
-      if (editionLang === 'JP' && cardDetail.cardmarket_url_jp) {
-        rawUrl = cardDetail.cardmarket_url_jp;
-      } else if (cardDetail.cardmarket_url) {
-        rawUrl = cardDetail.cardmarket_url;
-      }
-    }
-
-    // 2. Check all_variants in cardDetail for a matching file
-    if (!rawUrl && cardDetail?.all_variants && currentVariantFile) {
-      const vMatch = cardDetail.all_variants.find(
-        (v) => v.file && v.file.toLowerCase() === currentVariantFile.toLowerCase()
-      );
-      if (vMatch?.cardmarket_url) {
-        rawUrl = vMatch.cardmarket_url;
-      }
-    }
-
-    // 3. Fallback to activeCard (the exact print object from the grid)
-    if (!rawUrl && activeCard) {
+    // 1. Direct from activeCard (the exact print object the user clicked in the grid)
+    if (activeCard) {
       if (editionLang === 'JP') {
         rawUrl = activeCard.cardmarket_url_jp
           || (activeCard.cardmarket_url && (activeCard.cardmarket_url.includes('-Japanese') || activeCard.cardmarket_url.includes('Non-English')) ? activeCard.cardmarket_url : '')
@@ -484,6 +465,25 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
           || '';
       } else {
         rawUrl = activeCard.cardmarket_url || '';
+      }
+    }
+
+    // 2. Direct from cardDetail for the currently active variant fiche if activeCard has none
+    if (!rawUrl && cardDetail) {
+      if (editionLang === 'JP' && cardDetail.cardmarket_url_jp) {
+        rawUrl = cardDetail.cardmarket_url_jp;
+      } else if (cardDetail.cardmarket_url) {
+        rawUrl = cardDetail.cardmarket_url;
+      }
+    }
+
+    // 3. Check all_variants in cardDetail for a matching file
+    if (!rawUrl && cardDetail?.all_variants && currentVariantFile) {
+      const vMatch = cardDetail.all_variants.find(
+        (v) => v.file && v.file.toLowerCase() === currentVariantFile.toLowerCase()
+      );
+      if (vMatch?.cardmarket_url) {
+        rawUrl = vMatch.cardmarket_url;
       }
     }
 
@@ -495,18 +495,23 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
     }
 
     return resolveCardmarketUrlForLanguage(rawUrl, editionLang);
-  }, [editionLang, cardDetail, activeCard, artworkBasePrice, currentVariantFile]);
+  }, [editionLang, activeCard, cardDetail, artworkBasePrice, currentVariantFile]);
 
   const activeTcgplayerUrl = cardDetail?.tcgplayer_url || artworkBasePrice.tcgplayerUrl || getTcgplayerUrl(activeCard.card_code, currentVariantFile || activeCard._defaultImagePath || activeCard.id, activeCard);
 
   // Active price: accurately reflects the active variant's real price
   const activePriceEur = useMemo(() => {
-    // 1. Dedicated micro-fiche price for currentVariantFile
+    // 1. Grid verified price from activeCard (exact price displayed on the card in the grid)
+    if (gridVerifiedPrice > 0) {
+      return gridVerifiedPrice;
+    }
+
+    // 2. Dedicated micro-fiche price for currentVariantFile
     if (cardDetail?.price_eur !== undefined && cardDetail.price_eur !== null && cardDetail.price_eur > 0) {
       return cardDetail.price_eur;
     }
 
-    // 2. Matching variant in all_variants
+    // 3. Matching variant in all_variants
     if (cardDetail?.all_variants && currentVariantFile) {
       const vMatch = cardDetail.all_variants.find(
         (v) => v.file && v.file.toLowerCase() === currentVariantFile.toLowerCase()
@@ -516,20 +521,6 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
       }
     }
 
-    // 3. Grid verified price from activeCard
-    if (gridVerifiedPrice > 0) {
-      if (livePriceEur !== null && livePriceEur !== undefined && livePriceEur > 0) {
-        if (gridVerifiedPrice <= 2) return livePriceEur;
-        if (livePriceEur >= gridVerifiedPrice * 0.4 && livePriceEur <= gridVerifiedPrice * 2.5) {
-          return livePriceEur;
-        }
-      }
-      return gridVerifiedPrice;
-    }
-
-    if (livePriceEur !== null && livePriceEur !== undefined && livePriceEur > 0) {
-      return livePriceEur;
-    }
     if (artworkBasePrice.priceEur && artworkBasePrice.priceEur > 0) {
       return artworkBasePrice.priceEur;
     }
@@ -537,7 +528,7 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
       return artworkBasePrice.priceMinEur;
     }
     return 0;
-  }, [cardDetail, currentVariantFile, gridVerifiedPrice, livePriceEur, artworkBasePrice]);
+  }, [gridVerifiedPrice, cardDetail, currentVariantFile, artworkBasePrice]);
 
   const artworkPriceInfo = useMemo(() => {
     const finalPrice = activePriceEur > 0 ? activePriceEur : (artworkBasePrice.priceMinEur || artworkBasePrice.priceEur || 0);
@@ -562,10 +553,13 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
   const cardLoreText = getCardLore(activeCard, cardLang);
 
   // Determine if card is winner or promo
-  const isWinnerOrSpecial = (cardDetail?.variant_name || '').includes('Winner') || 
+  const isWinnerOrSpecial = isAltArtworkCard(activeCard) && (
+    (cardDetail?.variant_name || '').includes('Winner') || 
     (cardDetail?.variant_name || '').includes('Manga') || 
     (cardDetail?.variant_name || '').includes('SP') || 
-    (activeCard.card_code || '').includes('CHAMP');
+    (activeCard.variant_label || '').includes('Winner') ||
+    (activeCard.card_code || '').includes('CHAMP')
+  );
 
   const handleCopyLink = () => {
     const url = `https://www.optcg-master.fr/carte/${activeCard.card_code}`;
@@ -916,7 +910,9 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
                         {setInfo.code} · {setInfo.name}
                       </div>
                       <h1 className="text-2xl sm:text-3xl font-black text-white tracking-wide uppercase">
-                        {cardDetail?.variant_name || activeCard.name_fr || activeCard.name}
+                        {!isAltArtworkCard(activeCard)
+                          ? (activeCard.name_fr || activeCard.name)
+                          : (activeCard.variant_label ? `${activeCard.name_fr || activeCard.name} (${activeCard.variant_label})` : (cardDetail?.variant_name || activeCard.name_fr || activeCard.name))}
                       </h1>
                       {activeCard.jp_name && (
                         <div className="text-xs text-slate-400 font-medium font-mono">

@@ -18,9 +18,9 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op12-p153.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/543613_200w.jpg",
-  "price_eur": 90,
+  "image_path": "/img/cards-en/st13-p021.webp",
+  "image_url": "https://scalpeurs.com/img/cards-en/st13-p021.webp",
+  "price_eur": 2,
   "price_usd": 1.35,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/PortgasDAce-ST13-011-V1",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Brothers-Japanese/PortgasDAce-ST13-011-V1",
@@ -55,7 +55,7 @@
       "file": "ST13-011-v3.json"
     }
   ],
-  "price_min_eur": 90,
+  "price_min_eur": 2,
   "price_avg7_eur": 1.45,
   "price_avg30_eur": 1.55,
   "listings_count": 50

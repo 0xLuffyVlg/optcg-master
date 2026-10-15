@@ -18,9 +18,9 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/champ2025-p010.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/615592_200w.jpg",
-  "price_eur": 3500,
+  "image_path": "/img/cards-fr/ld01-p005.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/ld01-p005.webp",
+  "price_eur": 0.21,
   "price_usd": 1.55,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Roronoa-Zoro-ST21-015-V1?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Gear-5-Non-English/Roronoa-Zoro-ST21-015-V1",
@@ -55,7 +55,7 @@
       "file": "ST21-015-v3.json"
     }
   ],
-  "price_min_eur": 3500,
+  "price_min_eur": 0.21,
   "price_avg7_eur": 0.79,
   "price_avg30_eur": 0.96,
   "listings_count": 50

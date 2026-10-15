@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/op07-p145.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/539207_200w.jpg",
-  "price_eur": 69.95,
+  "price_eur": 68,
   "price_usd": 1251.96,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Trafalgar-Law-ST10-010",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournament-Promos-Japanese/Trafalgar-Law-ST10-010",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Trafalgar Law (ST10-010) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 69.95,
+      "price_eur": 68,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Trafalgar-Law-ST10-010-V2",
       "file": "ST10-010-v1.json"
     },
@@ -73,7 +73,7 @@
       "file": "ST10-010-v5.json"
     }
   ],
-  "price_min_eur": 69.95,
+  "price_min_eur": 68,
   "price_avg7_eur": 74.07,
   "price_avg30_eur": 78.57,
   "listings_count": 50

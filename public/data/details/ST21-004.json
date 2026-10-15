@@ -18,9 +18,9 @@
   "rarity": "C",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/cn-anniversary-p034.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/615570_200w.jpg",
-  "price_eur": 69,
+  "image_path": "/img/cards-fr/st21-p007.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/st21-p007.webp",
+  "price_eur": 0.02,
   "price_usd": 0.12,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Jewelry-Bonney-ST21-004-V1?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Gear-5-Non-English/Jewelry-Bonney-ST21-004-V1",
@@ -46,7 +46,7 @@
       "file": "ST21-004-v2.json"
     }
   ],
-  "price_min_eur": 69,
+  "price_min_eur": 0.02,
   "price_avg7_eur": 0.06,
   "price_avg30_eur": 0.06,
   "listings_count": 50

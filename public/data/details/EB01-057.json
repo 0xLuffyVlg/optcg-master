@@ -18,9 +18,9 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op11-p150.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544596_200w.jpg",
-  "price_eur": 9500,
+  "image_path": "/img/cards-fr/prb02-p014.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/prb02-p014.webp",
+  "price_eur": 0.04,
   "price_usd": 0.8,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Shirahoshi-EB01-057-V1",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection-Japanese/Shirahoshi-EB01-057-V1",
@@ -73,7 +73,7 @@
       "file": "EB01-057-v5.json"
     }
   ],
-  "price_min_eur": 9500,
+  "price_min_eur": 0.04,
   "price_avg7_eur": 0.31,
   "price_avg30_eur": 0.28,
   "listings_count": 50

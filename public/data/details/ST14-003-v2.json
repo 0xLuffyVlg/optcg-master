@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/op10-p146.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617175_200w.jpg",
-  "price_eur": 90,
+  "price_eur": 80,
   "price_usd": 131.36,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Sanji-ST14-003",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Non-English/Sanji-ST14-003",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Sanji",
       "rarity": "SR",
-      "price_eur": 90,
+      "price_eur": 80,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-3D2Y/Sanji-ST14-003",
       "file": "ST14-003-v1.json"
     },
@@ -46,7 +46,7 @@
       "file": "ST14-003-v2.json"
     }
   ],
-  "price_min_eur": 90,
+  "price_min_eur": 80,
   "price_avg7_eur": 113.55,
   "price_avg30_eur": 117.47,
   "listings_count": 50

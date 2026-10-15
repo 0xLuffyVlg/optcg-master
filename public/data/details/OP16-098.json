@@ -3,7 +3,7 @@
   "variant_version": "v1",
   "variant_index": 1,
   "name": "Yamato",
-  "variant_name": "Yamato (Alternate Art)",
+  "variant_name": "Yamato",
   "category": "CHARACTER",
   "cost": 6,
   "power": 5000,
@@ -18,9 +18,9 @@
   "rarity": "SP",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op16-p123.webp",
-  "image_url": "/img/cards-fr/op17-p162-sm.webp",
-  "price_eur": 150,
+  "image_path": "/img/cards-fr/op16-p123.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/op16-p123.webp",
+  "price_eur": 0.93,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Yamato-OP16-098-V1?language=2",
   "cardmarket_url_jp": null,
@@ -55,7 +55,7 @@
       "file": "OP16-098-v3.json"
     }
   ],
-  "price_min_eur": 150,
+  "price_min_eur": 0.93,
   "price_avg7_eur": 194.86,
   "price_avg30_eur": 220.72,
   "listings_count": 42

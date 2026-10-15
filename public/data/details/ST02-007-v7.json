@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-jp/op08-p145.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656193_200w.jpg",
-  "price_eur": 105,
+  "price_eur": 110,
   "price_usd": 0.71,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Jewelry-Bonney-ST02-007-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Jewelry-Bonney-ST02-007-V2",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Jewelry Bonney - ST02-007 (Pirate Foil)",
       "rarity": "C",
-      "price_eur": 105,
+      "price_eur": 110,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Jewelry-Bonney-ST02-007-V2",
       "file": "ST02-007-v1.json"
     },
@@ -91,5 +91,5 @@
       "file": "ST02-007-v7.json"
     }
   ],
-  "price_min_eur": 105
+  "price_min_eur": 110
 }

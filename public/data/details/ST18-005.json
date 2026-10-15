@@ -18,9 +18,9 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op11-p149.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/581035_200w.jpg",
-  "price_eur": 5999.99,
+  "image_path": "/img/cards-fr/st18-p006.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/st18-p006.webp",
+  "price_eur": 1,
   "price_usd": 5.3,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-MonkeyDLuffy/Luffy-Tarou-ST18-005?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-MonkeyDLuffy-Non-English/Luffy-Tarou-ST18-005",
@@ -46,7 +46,7 @@
       "file": "ST18-005-v2.json"
     }
   ],
-  "price_min_eur": 5999.99,
+  "price_min_eur": 0.8,
   "price_avg7_eur": 1.64,
   "price_avg30_eur": 1.75,
   "listings_count": 27

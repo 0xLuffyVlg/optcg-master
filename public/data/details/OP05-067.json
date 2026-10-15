@@ -3,7 +3,7 @@
   "variant_version": "v1",
   "variant_index": 1,
   "name": "Zoro-Juurou",
-  "variant_name": "Zoro-Juurou (Alternate Art)",
+  "variant_name": "Zoro-Juurou",
   "category": "CHARACTER",
   "cost": 3,
   "power": 4000,
@@ -18,9 +18,9 @@
   "rarity": "SP",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op05-p080.webp",
-  "image_url": "/img/cards-fr/op09-p154-sm.webp",
-  "price_eur": 220,
+  "image_path": "/img/cards-fr/pack-divers-p033.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/pack-divers-p033.webp",
+  "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": null,
   "cardmarket_url_jp": null,
@@ -82,7 +82,7 @@
       "file": "OP05-067-v6.json"
     }
   ],
-  "price_min_eur": 220,
+  "price_min_eur": 0.02,
   "price_avg7_eur": 103.14,
   "price_avg30_eur": 107.17,
   "listings_count": 50

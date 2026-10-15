@@ -18,9 +18,9 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op13-p167.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629124_200w.jpg",
-  "price_eur": 90,
+  "image_path": "/img/cards-fr/eb02-p036.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/eb02-p036.webp",
+  "price_eur": 0.02,
   "price_usd": 0.28,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/PortgasDAce-EB02-028?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection-Japanese/PortgasDAce-EB02-028",
@@ -46,7 +46,7 @@
       "file": "EB02-028-v2.json"
     }
   ],
-  "price_min_eur": 90,
+  "price_min_eur": 0.02,
   "price_avg7_eur": 0.09,
   "price_avg30_eur": 0.13,
   "listings_count": 50

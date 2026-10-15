@@ -20,7 +20,7 @@
   "language": "en",
   "image_path": "/img/cards-en/op08-p146.webp",
   "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/503022_200w.jpg",
-  "price_eur": 41.5,
+  "price_eur": 40,
   "price_usd": 4.4,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Gecko-Moria-ST03-004",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/Gecko-Moria-ST03-004-V1",
@@ -32,7 +32,7 @@
       "variant_version": "v1",
       "name": "Gecko Moria",
       "rarity": "C",
-      "price_eur": 41.5,
+      "price_eur": 40,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-The-Seven-Warlords-of-the-Sea/Gecko-Moria-ST03-004-V1",
       "file": "ST03-004-v1.json"
     },
@@ -64,7 +64,7 @@
       "file": "ST03-004-v4.json"
     }
   ],
-  "price_min_eur": 41.5,
+  "price_min_eur": 40,
   "price_avg7_eur": 43.37,
   "price_avg30_eur": 51.39,
   "listings_count": 50

@@ -18,9 +18,9 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op12-p154.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/581034_200w.jpg",
-  "price_eur": 108,
+  "image_path": "/img/cards-fr/st18-p005.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/st18-p005.webp",
+  "price_eur": 0.99,
   "price_usd": 2.25,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-MonkeyDLuffy/Zoro-Juurou-ST18-004?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-MonkeyDLuffy-Non-English/Zoro-Juurou-ST18-004",
@@ -55,7 +55,7 @@
       "file": "ST18-004-v3.json"
     }
   ],
-  "price_min_eur": 108,
+  "price_min_eur": 0.99,
   "price_avg7_eur": 1.32,
   "price_avg30_eur": 1.6,
   "listings_count": 31

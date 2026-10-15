@@ -3,7 +3,7 @@
   "variant_version": "v1",
   "variant_index": 1,
   "name": "Monkey D. Garp",
-  "variant_name": "Monkey D. Garp (Alternate Art)",
+  "variant_name": "Monkey.D.Garp",
   "category": "CHARACTER",
   "cost": 8,
   "power": 8000,
@@ -18,9 +18,9 @@
   "rarity": "SP",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op12-p068.webp",
-  "image_url": "/img/cards-fr/op17-p160-sm.webp",
-  "price_eur": 80,
+  "image_path": "/img/cards-fr/op12-p068.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/op12-p068.webp",
+  "price_eur": 0.08,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/MonkeyDGarp-OP12-056-V1?language=2",
   "cardmarket_url_jp": null,
@@ -55,7 +55,7 @@
       "file": "OP12-056-v3.json"
     }
   ],
-  "price_min_eur": 80,
+  "price_min_eur": 0.08,
   "price_avg7_eur": 104.91,
   "price_avg30_eur": 94.04,
   "listings_count": 34

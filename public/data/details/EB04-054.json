@@ -3,7 +3,7 @@
   "variant_version": "v1",
   "variant_index": 1,
   "name": "Bartholomew Kuma",
-  "variant_name": "Bartholomew Kuma (SP)",
+  "variant_name": "Bartholomew Kuma",
   "category": "CHARACTER",
   "cost": 7,
   "power": 7000,
@@ -18,9 +18,9 @@
   "rarity": "SP",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op16-p150.webp",
-  "image_url": "/cards-jp/op16-p150.webp",
-  "price_eur": 73.97,
+  "image_path": "/img/cards-fr/op16-p150.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/op16-p150.webp",
+  "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Bartholomew-Kuma-EB04-054?language=2",
   "cardmarket_url_jp": null,
@@ -55,7 +55,7 @@
       "file": "EB04-054-v3.json"
     }
   ],
-  "price_min_eur": 73.97,
+  "price_min_eur": 0.02,
   "price_avg7_eur": null,
   "price_avg30_eur": null,
   "listings_count": null
