@@ -101,7 +101,16 @@ function AppContent() {
           updateRobotsMeta('index, follow');
           setNotFoundCardCode(null);
           setSelectedCard(prev => {
-            if (prev && (prev.card_code.toUpperCase() === cleanCode || prev.card_code.toUpperCase() === baseCode)) {
+            // Only keep previous card if BOTH card_code AND detail_file match.
+            // This prevents a promo/alt variant from staying when the user
+            // navigates to the base card URL (e.g. /carte/ST01-013).
+            const prevDetailFile = (prev as any)?.detail_file;
+            const foundDetailFile = (found as any)?.detail_file;
+            if (
+              prev &&
+              (prev.card_code.toUpperCase() === cleanCode || prev.card_code.toUpperCase() === baseCode) &&
+              prevDetailFile && foundDetailFile && prevDetailFile === foundDetailFile
+            ) {
               return prev;
             }
             if (cleanCode !== found!.card_code.toUpperCase()) {
