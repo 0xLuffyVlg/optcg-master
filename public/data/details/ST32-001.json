@@ -23,10 +23,11 @@
   "image_fr": "https://scalpeurs.com/img/cards-fr/st32-p002.webp",
   "image_en": "https://scalpeurs.com/img/cards-en/st32-p002.webp",
   "image_jp": "https://scalpeurs.com/img/cards-jp/pack-promotion-ex-p043.webp",
-  "price_eur": null,
+  "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Roronoa-Zoro/Kinemon-ST32-001?language=2",
   "cardmarket_url_jp": null,
   "tcgplayer_url": "https://www.tcgplayer.com/product/706323",
-  "pricecharting_url": "https://www.pricecharting.com/game/13768329"
+  "pricecharting_url": "https://www.pricecharting.com/game/13768329",
+  "price_min_eur": 0.02
 }

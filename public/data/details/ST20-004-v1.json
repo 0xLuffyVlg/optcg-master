@@ -23,10 +23,11 @@
   "image_fr": "https://scalpeurs.com/img/cards-fr/st20-p005.webp",
   "image_en": "https://scalpeurs.com/img/cards-en/st20-p005.webp",
   "image_jp": "https://scalpeurs.com/img/cards-jp/promo-divers-p030.webp",
-  "price_eur": 0.23,
+  "price_eur": 0.02,
   "price_usd": 0.23,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Charlotte-Katakuri/Charlotte-Pudding-ST20-004?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Charlotte-Katakuri-Non-English/Charlotte-Pudding-ST20-004",
   "tcgplayer_url": "https://www.tcgplayer.com/product/581064",
-  "pricecharting_url": "https://www.pricecharting.com/game/8828178"
+  "pricecharting_url": "https://www.pricecharting.com/game/8828178",
+  "price_min_eur": 0.02
 }
