@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op05-p046.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528583_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op05-p046.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op05-p046.webp",
   "price_eur": 0.02,
   "price_usd": 0.22,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Charlestone-OP05-038",
@@ -34,11 +34,15 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Charlestone-OP05-038",
-      "file": "OP05-038-v1.json"
+      "file": "OP05-038-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op05-p046.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op05-p046.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op05-p046.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 6.48,
   "price_avg30_eur": 3.6,
-  "listings_count": 11
+  "listings_count": 11,
+  "image": "https://scalpeurs.com/img/cards-jp/op05-p046.webp"
 }

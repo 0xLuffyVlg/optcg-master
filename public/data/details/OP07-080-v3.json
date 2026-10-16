@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op07-p098.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/607975_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op07-p098.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op07-p098.webp",
   "price_eur": 0.02,
   "price_usd": 2.48,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Kaku-OP07-080-V2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Kaku-OP07-080",
-      "file": "OP07-080-v1.json"
+      "file": "OP07-080-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p098.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p098.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p098.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "R",
       "price_eur": 0.04,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Kaku-OP07-080-V1",
-      "file": "OP07-080-v2.json"
+      "file": "OP07-080-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p098.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p098.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p098.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "R",
       "price_eur": 2.46,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Kaku-OP07-080-V2",
-      "file": "OP07-080-v3.json"
+      "file": "OP07-080-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p098.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p098.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p098.webp"
     },
     {
       "variant_index": 4,
@@ -61,8 +70,12 @@
       "rarity": "R",
       "price_eur": 17.65,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Kaku-OP07-080-V3",
-      "file": "OP07-080-v4.json"
+      "file": "OP07-080-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p098.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p098.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p098.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op07-p098.webp"
 }

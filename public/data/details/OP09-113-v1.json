@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op09-p141.webp",
-  "image_url": "/img/cards-fr/op09-p141-sm.webp",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op09-p141.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op09-p141.webp",
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Morley-OP09-113?language=2",
@@ -34,8 +34,12 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Morley-OP09-113?language=2",
-      "file": "OP09-113-v1.json"
+      "file": "OP09-113-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op09-p141.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op09-p141.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op09-p141.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op09-p141.webp"
 }

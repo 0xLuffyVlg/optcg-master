@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb04-p082.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671450_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p082.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p082.webp",
   "price_eur": 115,
   "price_usd": 89.22,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/EustassCaptainKid-EB04-039-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 115,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/EustassCaptainKid-EB04-039-V1?language=2",
-      "file": "EB04-039-v1.json"
+      "file": "EB04-039-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p050.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb04-p050.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p050.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 99.98,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/EustassCaptainKid-EB04-039-V2?language=2",
-      "file": "EB04-039-v2.json"
+      "file": "EB04-039-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p082.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb04-p082.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p082.webp"
     }
   ],
   "price_min_eur": 115,
   "price_avg7_eur": 90.01,
   "price_avg30_eur": 88.85,
-  "listings_count": 16
+  "listings_count": 16,
+  "image": "https://scalpeurs.com/img/cards-jp/eb04-p082.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op14-p134.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/670596_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op14-p134.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op14-p134.webp",
   "price_eur": 12,
   "price_usd": 37.76,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Perona-OP14-111-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 12,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Perona-OP14-111-V1?language=2",
-      "file": "OP14-111-v1.json"
+      "file": "OP14-111-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p133.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p133.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p133.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 12.49,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Perona-OP14-111-V2?language=2",
-      "file": "OP14-111-v2.json"
+      "file": "OP14-111-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p134.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p134.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p134.webp"
     }
   ],
   "price_min_eur": 12,
   "price_avg7_eur": 14.48,
   "price_avg30_eur": 14.38,
-  "listings_count": 37
+  "listings_count": 37,
+  "image": "https://scalpeurs.com/img/cards-jp/op14-p134.webp"
 }

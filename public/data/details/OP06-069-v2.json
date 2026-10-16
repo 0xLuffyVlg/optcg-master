@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op06-p084.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541064_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op06-p084.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op06-p084.webp",
   "price_eur": 8,
   "price_usd": 14.5,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Vinsmoke-Reiju-OP06-069-V2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Vinsmoke-Reiju-OP06-069-V1",
-      "file": "OP06-069-v1.json"
+      "file": "OP06-069-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p083.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p083.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p083.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 7.21,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Vinsmoke-Reiju-OP06-069-V2",
-      "file": "OP06-069-v2.json"
+      "file": "OP06-069-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p084.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p084.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p084.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "SR",
       "price_eur": 24.47,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Reiju-OP06-069",
-      "file": "OP06-069-v3.json"
+      "file": "OP06-069-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p083.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p083.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p083.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "SR",
       "price_eur": 0.09,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Vinsmoke-Reiju-OP06-069",
-      "file": "OP06-069-v4.json"
+      "file": "OP06-069-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p237.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p237.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p237.webp"
     },
     {
       "variant_index": 5,
@@ -70,11 +82,15 @@
       "rarity": "SR",
       "price_eur": 22,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Reiju-OP06-069",
-      "file": "OP06-069-v5.json"
+      "file": "OP06-069-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p238.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p238.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p238.webp"
     }
   ],
   "price_min_eur": 8,
   "price_avg7_eur": 9.01,
   "price_avg30_eur": 9.61,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op06-p084.webp"
 }

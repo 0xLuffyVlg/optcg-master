@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p085.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/453519_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p085.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p085.webp",
   "price_eur": 0.3,
   "price_usd": 0.97,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Crocodile-OP01-067-V1",
@@ -34,17 +34,24 @@
       "rarity": "SR",
       "price_eur": 0.3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Crocodile-OP01-067-V1",
-      "file": "OP01-067-v1.json"
+      "file": "OP01-067-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p085.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p085.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p085.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Crocodile (067) (Parallel)",
       "rarity": "SR",
-      "price_eur": 17.74,
+      "price_eur": 12,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Crocodile-OP01-067-V2",
-      "file": "OP01-067-v2.json"
+      "file": "OP01-067-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p086.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p086.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p086.webp"
     }
   ],
-  "price_min_eur": 0.3
+  "price_min_eur": 0.3,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p085.webp"
 }

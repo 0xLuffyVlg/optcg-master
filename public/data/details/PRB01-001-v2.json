@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/prb01-p273.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586608_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p273.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p273.webp",
   "price_eur": 59.99,
   "price_usd": 115.27,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Sanji-PRB01-001-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "L",
       "price_eur": 59.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Sanji-PRB01-001-V1?language=2",
-      "file": "PRB01-001-v1.json"
+      "file": "PRB01-001-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p272.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p272.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p272.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "L",
       "price_eur": 60,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Sanji-PRB01-001-V2?language=2",
-      "file": "PRB01-001-v2.json"
+      "file": "PRB01-001-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p273.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p273.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p273.webp"
     }
   ],
   "price_min_eur": 59.99,
   "price_avg7_eur": 86,
   "price_avg30_eur": 98.14,
-  "listings_count": 13
+  "listings_count": 13,
+  "image": "https://scalpeurs.com/img/cards-jp/prb01-p273.webp"
 }

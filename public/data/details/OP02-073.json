@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op02-p094.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/486413_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op02-p094.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op02-p094.webp",
   "price_eur": 0.02,
   "price_usd": 0.21,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Little-Sadi-OP02-073-V1",
@@ -34,20 +34,27 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Little-Sadi-OP02-073-V1",
-      "file": "OP02-073-v1.json"
+      "file": "OP02-073-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p094.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p094.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p094.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Little Sadi (Alternate Art)",
       "rarity": "R",
-      "price_eur": 4.95,
+      "price_eur": 4.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Little-Sadi-OP02-073-V2",
-      "file": "OP02-073-v2.json"
+      "file": "OP02-073-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p095.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p095.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p095.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.06,
   "price_avg30_eur": 1.14,
-  "listings_count": 45
+  "listings_count": 45,
+  "image": "https://scalpeurs.com/img/cards-jp/op02-p094.webp"
 }

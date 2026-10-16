@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op14-p111.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/670640_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op14-p111.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op14-p111.webp",
   "price_eur": 8,
   "price_usd": 14.65,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Mr2BonKureiBentham-OP14-091-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Mr2BonKureiBentham-OP14-091-V1?language=2",
-      "file": "OP14-091-v1.json"
+      "file": "OP14-091-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p110.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p110.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p110.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "SR",
       "price_eur": 4.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Mr2BonKureiBentham-OP14-091-V2?language=2",
-      "file": "OP14-091-v2.json"
+      "file": "OP14-091-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p111.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p111.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p111.webp"
     }
   ],
   "price_min_eur": 8,
   "price_avg7_eur": 8.49,
   "price_avg30_eur": 8.42,
-  "listings_count": 35
+  "listings_count": 35,
+  "image": "https://scalpeurs.com/img/cards-jp/op14-p111.webp"
 }

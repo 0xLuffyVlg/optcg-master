@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/pcc-uta-p005.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/477317_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/pcc-uta-p005.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/pcc-uta-p005.webp",
   "price_eur": 4.5,
   "price_usd": 1.03,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-ONE-PIECE-FILM-edition/Uta-ST05-004",
@@ -34,20 +34,27 @@
       "rarity": "SR",
       "price_eur": 4.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-ONE-PIECE-FILM-edition/Uta-ST05-004",
-      "file": "ST05-004-v1.json"
+      "file": "ST05-004-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/pcc-uta-p005.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/pcc-uta-p005.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/pcc-uta-p005.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Uta - ST05-004 (Premium Card Collection -Uta-)",
       "rarity": "SR",
-      "price_eur": 4.06,
+      "price_eur": 4.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Uta-ST05-004",
-      "file": "ST05-004-v2.json"
+      "file": "ST05-004-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/pcc-uta-p005.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/pcc-uta-p005.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/pcc-uta-p005.webp"
     }
   ],
   "price_min_eur": 4.5,
   "price_avg7_eur": 0.55,
   "price_avg30_eur": 0.67,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/pcc-uta-p005.webp"
 }

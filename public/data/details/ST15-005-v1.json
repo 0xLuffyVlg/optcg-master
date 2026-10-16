@@ -18,7 +18,7 @@
   "rarity": "SP",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-fr/op16-p155.webp",
+  "image_path": "https://scalpeurs.com/img/cards-fr/op16-p155.webp",
   "image_url": "https://scalpeurs.com/img/cards-fr/op16-p155.webp",
   "price_eur": 1.5,
   "price_usd": null,
@@ -34,7 +34,10 @@
       "rarity": "SP",
       "price_eur": 134.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EdwardNewgate/PortgasDAce-ST15-005?language=2",
-      "file": "ST15-005-v1.json"
+      "file": "ST15-005-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/op16-p155.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/op16-p155.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/op16-p155.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 350,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EdwardNewgate/PortgasDAce-ST15-005?language=2",
-      "file": "ST15-005-v2.json"
+      "file": "ST15-005-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/pack-divers-p007.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/pack-divers-p007.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/pack-divers-p007.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "SR",
       "price_eur": 20000,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/PortgasDAce-ST15-005-V1?language=2",
-      "file": "ST15-005-v3.json"
+      "file": "ST15-005-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/pack-divers-p013.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/pack-divers-p013.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/pack-divers-p013.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "SR",
       "price_eur": 4.26,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/PortgasDAce-ST15-005-V3?language=2",
-      "file": "ST15-005-v4.json"
+      "file": "ST15-005-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p155.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p155.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p155.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "SR",
       "price_eur": 122.69,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/PortgasDAce-ST15-005?language=2",
-      "file": "ST15-005-v5.json"
+      "file": "ST15-005-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p155.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p155.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p155.webp"
     },
     {
       "variant_index": 6,
@@ -79,11 +94,15 @@
       "rarity": "SR",
       "price_eur": 217,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/PortgasDAce-ST15-005?language=2",
-      "file": "ST15-005-v6.json"
+      "file": "ST15-005-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p155.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p155.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p155.webp"
     }
   ],
   "price_min_eur": 3.05,
   "price_avg7_eur": null,
   "price_avg30_eur": null,
-  "listings_count": null
+  "listings_count": null,
+  "image": "https://scalpeurs.com/img/cards-fr/op16-p155.webp"
 }

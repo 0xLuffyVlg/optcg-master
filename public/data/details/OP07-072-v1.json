@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op07-p088.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545865_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op07-p088.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op07-p088.webp",
   "price_eur": 0.13,
   "price_usd": 1.09,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Porche-OP07-072-V1",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.13,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Porche-OP07-072-V1",
-      "file": "OP07-072-v1.json"
+      "file": "OP07-072-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p088.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p088.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p088.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "SR",
       "price_eur": 7.32,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Porche-OP07-072-V2",
-      "file": "OP07-072-v2.json"
+      "file": "OP07-072-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p089.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p089.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p089.webp"
     }
   ],
-  "price_min_eur": 0.13
+  "price_min_eur": 0.13,
+  "image": "https://scalpeurs.com/img/cards-jp/op07-p088.webp"
 }

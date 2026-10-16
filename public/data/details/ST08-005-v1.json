@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/st08-p005.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/503224_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st08-p005.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st08-p005.webp",
   "price_eur": 0.15,
   "price_usd": 1.11,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-MonkeyDLuffy/Shanks-ST08-005",
@@ -34,8 +34,12 @@
       "rarity": "SR",
       "price_eur": 0.15,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-MonkeyDLuffy/Shanks-ST08-005",
-      "file": "ST08-005-v1.json"
+      "file": "ST08-005-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st08-p005.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st08-p005.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st08-p005.webp"
     }
   ],
-  "price_min_eur": 0.15
+  "price_min_eur": 0.15,
+  "image": "https://scalpeurs.com/img/cards-jp/st08-p005.webp"
 }

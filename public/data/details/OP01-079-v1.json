@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p102.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454610_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p102.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p102.webp",
   "price_eur": 0.04,
   "price_usd": 1.45,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Ms-All-Sunday-OP01-079",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.04,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Ms-All-Sunday-OP01-079",
-      "file": "OP01-079-v1.json"
+      "file": "OP01-079-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p102.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p102.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p102.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "PR",
       "price_eur": 8.6,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Ms-All-Sunday-OP01-079",
-      "file": "OP01-079-v2.json"
+      "file": "OP01-079-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p102.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p102.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p102.webp"
     }
   ],
   "price_min_eur": 0.04,
   "price_avg7_eur": 4.18,
   "price_avg30_eur": 4.45,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p102.webp"
 }

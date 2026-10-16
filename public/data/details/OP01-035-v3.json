@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-en/op07-p146.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/503247_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-en/op07-p146.webp",
+  "image_url": "https://scalpeurs.com/img/cards-en/op07-p146.webp",
   "price_eur": 29.9,
   "price_usd": 7.68,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Okiku-OP01-035-V2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 29.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Okiku-OP01-035",
-      "file": "OP01-035-v1.json"
+      "file": "OP01-035-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p045.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p045.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p045.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "R",
       "price_eur": 0.4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Okiku-OP01-035",
-      "file": "OP01-035-v2.json"
+      "file": "OP01-035-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p045.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p045.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p045.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "R",
       "price_eur": 29.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Okiku-OP01-035-V2",
-      "file": "OP01-035-v3.json"
+      "file": "OP01-035-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op07-p146.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op07-p146.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op07-p146.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "R",
       "price_eur": 9.84,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Okiku-OP01-035",
-      "file": "OP01-035-v4.json"
+      "file": "OP01-035-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p045.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p045.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p045.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "R",
       "price_eur": 37.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Okiku-OP01-035",
-      "file": "OP01-035-v5.json"
+      "file": "OP01-035-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p045.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p045.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p045.webp"
     },
     {
       "variant_index": 6,
@@ -79,11 +94,15 @@
       "rarity": "R",
       "price_eur": 1.3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Okiku-OP01-035-V3",
-      "file": "OP01-035-v6.json"
+      "file": "OP01-035-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p045.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p045.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p045.webp"
     }
   ],
   "price_min_eur": 29.9,
   "price_avg7_eur": 33.69,
   "price_avg30_eur": 35.78,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-en/op07-p146.webp"
 }

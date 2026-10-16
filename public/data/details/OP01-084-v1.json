@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p107.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454615_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p107.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p107.webp",
   "price_eur": 0.02,
   "price_usd": 0.13,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Mr2BonKureiBentham-OP01-084",
@@ -34,7 +34,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Mr2BonKureiBentham-OP01-084",
-      "file": "OP01-084-v1.json"
+      "file": "OP01-084-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p107.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p107.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p107.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "PR",
       "price_eur": 8.89,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Mr2BonKureiBentham-OP01-084",
-      "file": "OP01-084-v2.json"
+      "file": "OP01-084-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p107.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p107.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p107.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.52,
   "price_avg30_eur": 0.42,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p107.webp"
 }

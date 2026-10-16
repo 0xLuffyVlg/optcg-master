@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op12-p024.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643747_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op12-p024.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op12-p024.webp",
   "price_eur": 0.02,
   "price_usd": 0.19,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Roronoa-Zoro-OP12-020-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "L",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Roronoa-Zoro-OP12-020-V1?language=2",
-      "file": "OP12-020-v1.json"
+      "file": "OP12-020-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p024.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p024.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p024.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "L",
       "price_eur": 35,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Roronoa-Zoro-OP12-020-V2?language=2",
-      "file": "OP12-020-v2.json"
+      "file": "OP12-020-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p025.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p025.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p025.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "L",
       "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Roronoa-Zoro-OP12-020-V1?language=2",
-      "file": "OP12-020-v3.json"
+      "file": "OP12-020-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p024.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p024.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p024.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "L",
       "price_eur": 9.43,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Learn-Together-Deck-Set-01/Roronoa-Zoro-OP12-020?language=2",
-      "file": "OP12-020-v4.json"
+      "file": "OP12-020-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p024.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p024.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p024.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "L",
       "price_eur": 511.45,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Roronoa-Zoro-OP12-020?language=2",
-      "file": "OP12-020-v5.json"
+      "file": "OP12-020-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p024.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p024.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p024.webp"
     },
     {
       "variant_index": 6,
@@ -79,11 +94,15 @@
       "rarity": "L",
       "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Roronoa-Zoro-OP12-020-V6?language=2",
-      "file": "OP12-020-v6.json"
+      "file": "OP12-020-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p024.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p024.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p024.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.46,
   "price_avg30_eur": 1.47,
-  "listings_count": 30
+  "listings_count": 30,
+  "image": "https://scalpeurs.com/img/cards-jp/op12-p024.webp"
 }

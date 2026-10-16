@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op02-p043.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/485236_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op02-p043.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op02-p043.webp",
   "price_eur": 3,
   "price_usd": 9.57,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Kouzuki-Toki-OP02-031-V2",
@@ -34,7 +34,10 @@
       "rarity": "UC",
       "price_eur": 3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Kouzuki-Toki-OP02-031-V1",
-      "file": "OP02-031-v1.json"
+      "file": "OP02-031-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p042.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p042.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p042.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "UC",
       "price_eur": 3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Kouzuki-Toki-OP02-031-V2",
-      "file": "OP02-031-v2.json"
+      "file": "OP02-031-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p043.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p043.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p043.webp"
     }
   ],
   "price_min_eur": 3,
   "price_avg7_eur": 4.37,
   "price_avg30_eur": 4.01,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op02-p043.webp"
 }

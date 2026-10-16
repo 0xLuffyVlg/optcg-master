@@ -18,7 +18,7 @@
   "rarity": "R",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-fr/op16-p080.webp",
+  "image_path": "https://scalpeurs.com/img/cards-fr/op16-p080.webp",
   "image_url": "https://scalpeurs.com/img/cards-fr/op16-p080.webp",
   "price_eur": 0.02,
   "price_usd": 0.18,
@@ -34,11 +34,15 @@
       "rarity": "R",
       "price_eur": 110,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Koby-OP16-064-V1?language=2",
-      "file": "OP16-064-v1.json"
+      "file": "OP16-064-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/op16-p080.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/op16-p080.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/op16-p080.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.2,
   "price_avg30_eur": 0.15,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-fr/op16-p080.webp"
 }

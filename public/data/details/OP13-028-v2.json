@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op13-p037.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657285_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op13-p037.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op13-p037.webp",
   "price_eur": 7.99,
   "price_usd": 0.59,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Shanks-OP13-028-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SP",
       "price_eur": 7.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Shanks-OP13-028-V1?language=2",
-      "file": "OP13-028-v1.json"
+      "file": "OP13-028-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/op13-p036.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/op13-p036.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/op13-p036.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 7.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Shanks-OP13-028-V1?language=2",
-      "file": "OP13-028-v2.json"
+      "file": "OP13-028-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p037.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p037.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p037.webp"
     },
     {
       "variant_index": 3,
@@ -52,11 +58,15 @@
       "rarity": "SR",
       "price_eur": 15.87,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Shanks-OP13-028-V2?language=2",
-      "file": "OP13-028-v3.json"
+      "file": "OP13-028-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p036.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p036.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p036.webp"
     }
   ],
   "price_min_eur": 7.99,
   "price_avg7_eur": 8.76,
   "price_avg30_eur": 9.51,
-  "listings_count": 27
+  "listings_count": 27,
+  "image": "https://scalpeurs.com/img/cards-jp/op13-p037.webp"
 }

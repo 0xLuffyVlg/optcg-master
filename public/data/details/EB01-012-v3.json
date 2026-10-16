@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/eb01-p016.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/590988_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p016.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p016.webp",
   "price_eur": 0.8,
   "price_usd": 1850,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Cavendish-EB01-012-V2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Cavendish-EB01-012-V1",
-      "file": "EB01-012-v1.json"
+      "file": "EB01-012-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb01-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p016.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 0.8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Cavendish-EB01-012-V2",
-      "file": "EB01-012-v2.json"
+      "file": "EB01-012-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p017.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb01-p017.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p017.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "SR",
       "price_eur": 1938.51,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Cavendish-EB01-012-V2",
-      "file": "EB01-012-v3.json"
+      "file": "EB01-012-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb01-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p016.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "SR",
       "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Cavendish-EB01-012-V1",
-      "file": "EB01-012-v4.json"
+      "file": "EB01-012-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb01-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p016.webp"
     },
     {
       "variant_index": 5,
@@ -70,8 +82,12 @@
       "rarity": "SR",
       "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Cavendish-EB01-012-V1",
-      "file": "EB01-012-v5.json"
+      "file": "EB01-012-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb01-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p016.webp"
     }
   ],
-  "price_min_eur": 0.8
+  "price_min_eur": 0.8,
+  "image": "https://scalpeurs.com/img/cards-jp/eb01-p016.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb02-p029.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629117_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p029.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p029.webp",
   "price_eur": 14.9,
   "price_usd": 38.38,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Usopp-EB02-022-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 14.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Usopp-EB02-022-V1?language=2",
-      "file": "EB02-022-v1.json"
+      "file": "EB02-022-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p028.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb02-p028.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p028.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 16.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Usopp-EB02-022-V2?language=2",
-      "file": "EB02-022-v2.json"
+      "file": "EB02-022-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p029.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb02-p029.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p029.webp"
     }
   ],
   "price_min_eur": 14.9,
   "price_avg7_eur": 18.17,
   "price_avg30_eur": 20.12,
-  "listings_count": 16
+  "listings_count": 16,
+  "image": "https://scalpeurs.com/img/cards-jp/eb02-p029.webp"
 }

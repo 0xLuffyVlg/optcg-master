@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p064.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454575_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p064.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p064.webp",
   "price_eur": 0.19,
   "price_usd": 0.73,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/EustassCaptainKid-OP01-051-V1",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.19,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/EustassCaptainKid-OP01-051-V1",
-      "file": "OP01-051-v1.json"
+      "file": "OP01-051-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p064.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p064.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p064.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 47.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/EustassCaptainKid-OP01-051-V2",
-      "file": "OP01-051-v2.json"
+      "file": "OP01-051-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p065.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p065.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p065.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "SR",
       "price_eur": 60,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/EustassCaptainKid-OP01-051",
-      "file": "OP01-051-v3.json"
+      "file": "OP01-051-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op03-p154.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op03-p154.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op03-p154.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "SR",
       "price_eur": 0.1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/EustassCaptainKid-OP01-051-V2",
-      "file": "OP01-051-v4.json"
+      "file": "OP01-051-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p022.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p022.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p022.webp"
     },
     {
       "variant_index": 5,
@@ -70,11 +82,15 @@
       "rarity": "SR",
       "price_eur": 5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/EustassCaptainKid-OP01-051-V2",
-      "file": "OP01-051-v5.json"
+      "file": "OP01-051-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p023.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p023.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p023.webp"
     }
   ],
   "price_min_eur": 0.19,
   "price_avg7_eur": 3.69,
   "price_avg30_eur": 3.68,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p064.webp"
 }

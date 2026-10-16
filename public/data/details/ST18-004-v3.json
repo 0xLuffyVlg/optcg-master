@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-en/op12-p154.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/646566_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-en/op12-p154.webp",
+  "image_url": "https://scalpeurs.com/img/cards-en/op12-p154.webp",
   "price_eur": 108,
   "price_usd": 227.1,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Zoro-Juurou-ST18-004?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 108,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-MonkeyDLuffy/Zoro-Juurou-ST18-004?language=2",
-      "file": "ST18-004-v1.json"
+      "file": "ST18-004-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/st18-p005.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/st18-p005.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/st18-p005.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "TR",
       "price_eur": 63.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Zoro-Juurou-ST18-004?language=2",
-      "file": "ST18-004-v2.json"
+      "file": "ST18-004-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op09-p152.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op09-p152.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op09-p152.webp"
     },
     {
       "variant_index": 3,
@@ -52,11 +58,15 @@
       "rarity": "SR",
       "price_eur": 108.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Zoro-Juurou-ST18-004?language=2",
-      "file": "ST18-004-v3.json"
+      "file": "ST18-004-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op12-p154.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op12-p154.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op12-p154.webp"
     }
   ],
   "price_min_eur": 108,
   "price_avg7_eur": 164.37,
   "price_avg30_eur": 191.78,
-  "listings_count": 30
+  "listings_count": 30,
+  "image": "https://scalpeurs.com/img/cards-en/op12-p154.webp"
 }

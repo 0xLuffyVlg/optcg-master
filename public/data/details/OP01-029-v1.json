@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p037.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454550_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p037.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p037.webp",
   "price_eur": 0.02,
   "price_usd": 0.28,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Radical-Beam-OP01-029",
@@ -34,7 +34,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Radical-Beam-OP01-029",
-      "file": "OP01-029-v1.json"
+      "file": "OP01-029-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p037.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p037.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p037.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Radical-Beam-OP01-029-V1",
-      "file": "OP01-029-v2.json"
+      "file": "OP01-029-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p010.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p010.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p010.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "UC",
       "price_eur": 0.2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Radical-Beam-OP01-029-V2",
-      "file": "OP01-029-v3.json"
+      "file": "OP01-029-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p011.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p011.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p011.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "UC",
       "price_eur": 0.98,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Radical-Beam-OP01-029",
-      "file": "OP01-029-v4.json"
+      "file": "OP01-029-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p011.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p011.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p011.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "UC",
       "price_eur": 0.13,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Radical-Beam-OP01-029-V1",
-      "file": "OP01-029-v5.json"
+      "file": "OP01-029-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p037.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p037.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p037.webp"
     },
     {
       "variant_index": 6,
@@ -79,11 +94,15 @@
       "rarity": "UC",
       "price_eur": 2.92,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Radical-Beam-OP01-029-V2",
-      "file": "OP01-029-v6.json"
+      "file": "OP01-029-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p037.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p037.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p037.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 2.69,
   "price_avg30_eur": 2.65,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p037.webp"
 }

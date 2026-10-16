@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op11-p018.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632372_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op11-p018.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op11-p018.webp",
   "price_eur": 0.02,
   "price_usd": 0.15,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Borsalino-OP11-014?language=2",
@@ -34,8 +34,12 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Borsalino-OP11-014?language=2",
-      "file": "OP11-014-v1.json"
+      "file": "OP11-014-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p018.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p018.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p018.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op11-p018.webp"
 }

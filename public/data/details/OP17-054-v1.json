@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op17-p071.webp",
-  "image_url": "/img/cards-fr/op17-p070-sm.webp",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op17-p071.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op17-p071.webp",
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Miss-Buckingham-Stussy-OP17-054-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Miss-Buckingham-Stussy-OP17-054-V1?language=2",
-      "file": "OP17-054-v1.json"
+      "file": "OP17-054-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p071.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p071.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p071.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "R",
       "price_eur": 9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Miss-Buckingham-Stussy-OP17-054-V2?language=2",
-      "file": "OP17-054-v2.json"
+      "file": "OP17-054-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p072.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p072.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p072.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op17-p071.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/st22-p015.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/647697_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st22-p015.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st22-p015.webp",
   "price_eur": 0.02,
   "price_usd": 0.06,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Decalvan-Brothers-ST22-008-V1?language=2",
@@ -34,17 +34,24 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Decalvan-Brothers-ST22-008-V1?language=2",
-      "file": "ST22-008-v1.json"
+      "file": "ST22-008-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st22-p015.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st22-p015.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st22-p015.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Decalvan Brothers (Parallel)",
       "rarity": "C",
-      "price_eur": 0.57,
+      "price_eur": 0.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Decalvan-Brothers-ST22-008-V2?language=2",
-      "file": "ST22-008-v2.json"
+      "file": "ST22-008-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st22-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st22-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st22-p016.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/st22-p015.webp"
 }

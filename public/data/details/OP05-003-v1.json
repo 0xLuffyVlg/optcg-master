@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op05-p005.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528532_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op05-p005.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op05-p005.webp",
   "price_eur": 0.02,
   "price_usd": 0.25,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Inazuma-OP05-003",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Inazuma-OP05-003",
-      "file": "OP05-003-v1.json"
+      "file": "OP05-003-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op05-p005.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op05-p005.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op05-p005.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 17.56,
   "price_avg30_eur": 11.86,
-  "listings_count": 14
+  "listings_count": 14,
+  "image": "https://scalpeurs.com/img/cards-jp/op05-p005.webp"
 }

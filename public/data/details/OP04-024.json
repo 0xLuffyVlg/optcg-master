@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op04-p028.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/512875_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op04-p028.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op04-p028.webp",
   "price_eur": 0.08,
   "price_usd": 0.6,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Sugar-OP04-024-V1",
@@ -34,26 +34,36 @@
       "rarity": "SR",
       "price_eur": 0.08,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Sugar-OP04-024-V1",
-      "file": "OP04-024-v1.json"
+      "file": "OP04-024-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op04-p028.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op04-p028.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op04-p028.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Sugar (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 6.84,
+      "price_eur": 4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Sugar-OP04-024-V2",
-      "file": "OP04-024-v2.json"
+      "file": "OP04-024-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op04-p029.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op04-p029.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op04-p029.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Sugar (SP)",
       "rarity": "SR",
-      "price_eur": 66.25,
+      "price_eur": 45,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Sugar-OP04-024",
-      "file": "OP04-024-v3.json"
+      "file": "OP04-024-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op06-p148.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op06-p148.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op06-p148.webp"
     }
   ],
-  "price_min_eur": 0.08
+  "price_min_eur": 0.08,
+  "image": "https://scalpeurs.com/img/cards-jp/op04-p028.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/st19-p004.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/581048_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st19-p004.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st19-p004.webp",
   "price_eur": 0.35,
   "price_usd": 0.97,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Smoker/Tashigi-ST19-003?language=2",
@@ -34,8 +34,12 @@
       "rarity": "SR",
       "price_eur": 0.35,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Smoker/Tashigi-ST19-003?language=2",
-      "file": "ST19-003-v1.json"
+      "file": "ST19-003-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st19-p004.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st19-p004.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st19-p004.webp"
     }
   ],
-  "price_min_eur": 0.35
+  "price_min_eur": 0.35,
+  "image": "https://scalpeurs.com/img/cards-jp/st19-p004.webp"
 }

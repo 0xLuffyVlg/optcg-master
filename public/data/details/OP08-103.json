@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op08-p121.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558141_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op08-p121.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op08-p121.webp",
   "price_eur": 0.02,
   "price_usd": 0.07,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Charlotte-Custard-OP08-103",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Charlotte-Custard-OP08-103",
-      "file": "OP08-103-v1.json"
+      "file": "OP08-103-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p121.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p121.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p121.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.63,
   "price_avg30_eur": 0.47,
-  "listings_count": 25
+  "listings_count": 25,
+  "image": "https://scalpeurs.com/img/cards-jp/op08-p121.webp"
 }

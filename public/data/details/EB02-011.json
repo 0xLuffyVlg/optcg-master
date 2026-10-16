@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb02-p014.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629102_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p014.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p014.webp",
   "price_eur": 1,
   "price_usd": 1.54,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Arlong-EB02-011-V1?language=2",
@@ -34,17 +34,24 @@
       "rarity": "SR",
       "price_eur": 1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Arlong-EB02-011-V1?language=2",
-      "file": "EB02-011-v1.json"
+      "file": "EB02-011-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p014.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb02-p014.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p014.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Arlong (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 5.97,
+      "price_eur": 4.8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Arlong-EB02-011-V2?language=2",
-      "file": "EB02-011-v2.json"
+      "file": "EB02-011-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p015.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb02-p015.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p015.webp"
     }
   ],
-  "price_min_eur": 1
+  "price_min_eur": 1,
+  "image": "https://scalpeurs.com/img/cards-jp/eb02-p014.webp"
 }

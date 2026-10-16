@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op03-p122.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/500063_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op03-p122.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op03-p122.webp",
   "price_eur": 0.02,
   "price_usd": 0.44,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Sanji-OP03-102",
@@ -34,38 +34,51 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Sanji-OP03-102",
-      "file": "OP03-102-v1.json"
+      "file": "OP03-102-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p122.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p122.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p122.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Sanji (Store Championship Participation Pack Vol. 2)",
       "rarity": "PR",
-      "price_eur": null,
+      "price_eur": 13.08,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Sanji-OP03-102",
-      "file": "OP03-102-v2.json"
+      "file": "OP03-102-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p030.webp",
+      "image": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p030.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p030.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Sanji (Offline Regional 2024) [Participant]",
       "rarity": "R",
-      "price_eur": 27.77,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Sanji-OP03-102-V1",
-      "file": "OP03-102-v3.json"
+      "file": "OP03-102-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p122.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p122.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p122.webp"
     },
     {
       "variant_index": 4,
       "variant_version": "v4",
       "name": "Sanji (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
       "rarity": "R",
-      "price_eur": 2.95,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sanji-OP03-102-V2",
-      "file": "OP03-102-v4.json"
+      "file": "OP03-102-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p122.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p122.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p122.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": null,
   "price_avg30_eur": null,
-  "listings_count": null
+  "listings_count": null,
+  "image": "https://scalpeurs.com/img/cards-jp/op03-p122.webp"
 }

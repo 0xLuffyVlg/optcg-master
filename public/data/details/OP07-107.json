@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op07-p127.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545904_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op07-p127.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op07-p127.webp",
   "price_eur": 0.02,
   "price_usd": 0.37,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Franky-OP07-107-V1",
@@ -34,35 +34,48 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Franky-OP07-107-V1",
-      "file": "OP07-107-v1.json"
+      "file": "OP07-107-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p127.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p127.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p127.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Franky (Parallel)",
       "rarity": "R",
-      "price_eur": 4.65,
+      "price_eur": 3.33,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Franky-OP07-107-V2",
-      "file": "OP07-107-v2.json"
+      "file": "OP07-107-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p128.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p128.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p128.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Franky - OP07-107 (Reprint)",
       "rarity": "R",
-      "price_eur": null,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Franky-OP07-107",
-      "file": "OP07-107-v3.json"
+      "file": "OP07-107-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p127.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p127.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p127.webp"
     },
     {
       "variant_index": 4,
       "variant_version": "v4",
       "name": "Franky - OP07-107 (Reprint)",
       "rarity": "R",
-      "price_eur": null,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Franky-OP07-107",
-      "file": "OP07-107-v4.json"
+      "file": "OP07-107-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p127.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p127.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p127.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op07-p127.webp"
 }

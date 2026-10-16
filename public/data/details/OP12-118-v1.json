@@ -18,8 +18,8 @@
   "rarity": "SEC",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op12-p142.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643865_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op12-p142.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op12-p142.webp",
   "price_eur": 3.8,
   "price_usd": 21.05,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Jewelry-Bonney-OP12-118-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SEC",
       "price_eur": 3.8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Jewelry-Bonney-OP12-118-V1?language=2",
-      "file": "OP12-118-v1.json"
+      "file": "OP12-118-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p142.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p142.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p142.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SEC",
       "price_eur": 15,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Jewelry-Bonney-OP12-118-V2?language=2",
-      "file": "OP12-118-v2.json"
+      "file": "OP12-118-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p143.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p143.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p143.webp"
     },
     {
       "variant_index": 3,
@@ -52,11 +58,15 @@
       "rarity": "SEC",
       "price_eur": 400,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Jewelry-Bonney-OP12-118-V3?language=2",
-      "file": "OP12-118-v3.json"
+      "file": "OP12-118-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p144.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p144.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p144.webp"
     }
   ],
   "price_min_eur": 3.8,
   "price_avg7_eur": 6.92,
   "price_avg30_eur": 8.3,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op12-p142.webp"
 }

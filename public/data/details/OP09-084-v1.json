@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op09-p107.webp",
-  "image_url": "/img/cards-fr/op09-p107-sm.webp",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op09-p107.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op09-p107.webp",
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Catarina-Devon-OP09-084?language=2",
@@ -34,7 +34,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Catarina-Devon-OP09-084?language=2",
-      "file": "OP09-084-v1.json"
+      "file": "OP09-084-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op09-p107.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op09-p107.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op09-p107.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Catarina-Devon-OP09-084-V2?language=2",
-      "file": "OP09-084-v2.json"
+      "file": "OP09-084-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p149.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p149.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p149.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.69,
   "price_avg30_eur": 1.32,
-  "listings_count": 5
+  "listings_count": 5,
+  "image": "https://scalpeurs.com/img/cards-jp/op09-p107.webp"
 }

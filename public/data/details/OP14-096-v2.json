@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op14-p117.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/670874_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op14-p117.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op14-p117.webp",
   "price_eur": 81.99,
   "price_usd": 132.54,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Ground-Death-OP14-096-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 81.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Ground-Death-OP14-096-V1?language=2",
-      "file": "OP14-096-v1.json"
+      "file": "OP14-096-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p116.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p116.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p116.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 79.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Ground-Death-OP14-096-V2?language=2",
-      "file": "OP14-096-v2.json"
+      "file": "OP14-096-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p117.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p117.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p117.webp"
     }
   ],
   "price_min_eur": 81.99,
   "price_avg7_eur": 87.85,
   "price_avg30_eur": 87.75,
-  "listings_count": 29
+  "listings_count": 29,
+  "image": "https://scalpeurs.com/img/cards-jp/op14-p117.webp"
 }

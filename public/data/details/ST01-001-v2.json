@@ -18,8 +18,8 @@
   "rarity": "PR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-en/champ2023-p001.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/451393_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-en/champ2023-p001.webp",
+  "image_url": "https://scalpeurs.com/img/cards-en/champ2023-p001.webp",
   "price_eur": 74500,
   "price_usd": 7000,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-ST01-001",
@@ -34,7 +34,10 @@
       "rarity": "L",
       "price_eur": 74500,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/STARTER-DECK-Straw-Hat-Crew/MonkeyDLuffy-ST01-001-V1",
-      "file": "ST01-001-v1.json"
+      "file": "ST01-001-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/st01-p001.webp",
+      "image": "https://scalpeurs.com/img/cards-en/st01-p001.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/st01-p001.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "PR",
       "price_eur": 66091.29,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-ST01-001",
-      "file": "ST01-001-v2.json"
+      "file": "ST01-001-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/champ2023-p001.webp",
+      "image": "https://scalpeurs.com/img/cards-en/champ2023-p001.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/champ2023-p001.webp"
     }
   ],
   "price_min_eur": 74500,
   "price_avg7_eur": 6271.57,
   "price_avg30_eur": 5160.23,
-  "listings_count": 11
+  "listings_count": 11,
+  "image": "https://scalpeurs.com/img/cards-en/champ2023-p001.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/prb02-p297.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656028_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p297.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p297.webp",
   "price_eur": 0.02,
   "price_usd": 0.99,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/O-Nami-ST18-002-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/O-Nami-ST18-002-V2?language=2",
-      "file": "ST18-002-v1.json"
+      "file": "ST18-002-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p297.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p297.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p297.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "C",
       "price_eur": 0.28,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-MonkeyDLuffy/O-Nami-ST18-002?language=2",
-      "file": "ST18-002-v2.json"
+      "file": "ST18-002-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p298.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p298.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p298.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "C",
       "price_eur": 0.25,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/O-Nami-ST18-002-V2?language=2",
-      "file": "ST18-002-v3.json"
+      "file": "ST18-002-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p297.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p297.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p297.webp"
     },
     {
       "variant_index": 4,
@@ -61,8 +70,12 @@
       "rarity": "C",
       "price_eur": 16.73,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/O-Nami-ST18-002-V1?language=2",
-      "file": "ST18-002-v4.json"
+      "file": "ST18-002-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p297.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p297.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p297.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/prb02-p297.webp"
 }

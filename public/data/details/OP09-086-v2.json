@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/prb02-p151.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654098_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p151.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p151.webp",
   "price_eur": 12.99,
   "price_usd": 59.46,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Jesus-Burgess-OP09-086-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 12.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Jesus-Burgess-OP09-086?language=2",
-      "file": "OP09-086-v1.json"
+      "file": "OP09-086-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op09-p109.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op09-p109.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op09-p109.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 13,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Jesus-Burgess-OP09-086-V2?language=2",
-      "file": "OP09-086-v2.json"
+      "file": "OP09-086-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p151.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p151.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p151.webp"
     }
   ],
   "price_min_eur": 12.99,
   "price_avg7_eur": 32.36,
   "price_avg30_eur": 30.51,
-  "listings_count": 35
+  "listings_count": 35,
+  "image": "https://scalpeurs.com/img/cards-jp/prb02-p151.webp"
 }

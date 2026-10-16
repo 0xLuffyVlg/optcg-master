@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/promo-divers-p016.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/620095_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/promo-divers-p016.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/promo-divers-p016.webp",
   "price_eur": 180,
   "price_usd": 611.93,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-ST10-006-V2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 180,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Captains/MonkeyDLuffy-ST10-006",
-      "file": "ST10-006-v1.json"
+      "file": "ST10-006-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/pack-divers-p029.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/pack-divers-p029.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/pack-divers-p029.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "C",
       "price_eur": 980,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-ST10-006",
-      "file": "ST10-006-v2.json"
+      "file": "ST10-006-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/promo-divers-p007.webp",
+      "image": "https://scalpeurs.com/img/cards-en/promo-divers-p007.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/promo-divers-p007.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "SR",
       "price_eur": 1497.61,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/MonkeyDLuffy-ST10-006",
-      "file": "ST10-006-v3.json"
+      "file": "ST10-006-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/promo-divers-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/promo-divers-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/promo-divers-p016.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "SR",
       "price_eur": 997.79,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-ST10-006-V2",
-      "file": "ST10-006-v4.json"
+      "file": "ST10-006-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/promo-divers-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/promo-divers-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/promo-divers-p016.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "SR",
       "price_eur": 49.83,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-ST10-006-V1",
-      "file": "ST10-006-v5.json"
+      "file": "ST10-006-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/promo-divers-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/promo-divers-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/promo-divers-p016.webp"
     },
     {
       "variant_index": 6,
@@ -79,8 +94,12 @@
       "rarity": "C",
       "price_eur": 1.22,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-ST10-006-V3",
-      "file": "ST10-006-v6.json"
+      "file": "ST10-006-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/promo-divers-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/promo-divers-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/promo-divers-p016.webp"
     }
   ],
-  "price_min_eur": 180
+  "price_min_eur": 180,
+  "image": "https://scalpeurs.com/img/cards-jp/promo-divers-p016.webp"
 }

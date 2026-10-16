@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op11-p067.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680492_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op11-p067.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op11-p067.webp",
   "price_eur": 0.45,
   "price_usd": 192.48,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Nami-OP11-054?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.45,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Nami-OP11-054-V1?language=2",
-      "file": "OP11-054-v1.json"
+      "file": "OP11-054-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p067.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p067.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p067.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 19.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Nami-OP11-054-V2?language=2",
-      "file": "OP11-054-v2.json"
+      "file": "OP11-054-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p068.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p068.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p068.webp"
     },
     {
       "variant_index": 3,
@@ -52,8 +58,12 @@
       "rarity": "SR",
       "price_eur": 210.4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Nami-OP11-054?language=2",
-      "file": "OP11-054-v3.json"
+      "file": "OP11-054-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p067.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p067.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p067.webp"
     }
   ],
-  "price_min_eur": 0.45
+  "price_min_eur": 0.45,
+  "image": "https://scalpeurs.com/img/cards-jp/op11-p067.webp"
 }

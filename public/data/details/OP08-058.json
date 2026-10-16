@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op08-p068.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558088_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op08-p068.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op08-p068.webp",
   "price_eur": 0.02,
   "price_usd": 0.12,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Charlotte-Pudding-OP08-058-V1",
@@ -34,26 +34,36 @@
       "rarity": "L",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Charlotte-Pudding-OP08-058-V1",
-      "file": "OP08-058-v1.json"
+      "file": "OP08-058-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p068.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p068.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p068.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Charlotte Pudding (058) (Parallel)",
       "rarity": "L",
-      "price_eur": 26.09,
+      "price_eur": 39.8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Charlotte-Pudding-OP08-058-V2",
-      "file": "OP08-058-v2.json"
+      "file": "OP08-058-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p069.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p069.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p069.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Charlotte Pudding (SP)",
       "rarity": "L",
-      "price_eur": 554.76,
+      "price_eur": 2100,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Charlotte-Pudding-OP08-058",
-      "file": "OP08-058-v3.json"
+      "file": "OP08-058-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/eb02-p101.webp",
+      "image": "https://scalpeurs.com/img/cards-en/eb02-p101.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/eb02-p101.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op08-p068.webp"
 }

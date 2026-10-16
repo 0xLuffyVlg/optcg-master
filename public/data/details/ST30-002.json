@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/st30-p003.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695418_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st30-p003.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st30-p003.webp",
   "price_eur": 0.02,
   "price_usd": 0.23,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/Inazuma-ST30-002-V1?language=2",
@@ -34,17 +34,24 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/Inazuma-ST30-002-V1?language=2",
-      "file": "ST30-002-v1.json"
+      "file": "ST30-002-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st30-p003.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st30-p003.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st30-p003.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Inazuma (Full Art)",
       "rarity": "C",
-      "price_eur": 2.14,
+      "price_eur": 0.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/Inazuma-ST30-002-V2?language=2",
-      "file": "ST30-002-v2.json"
+      "file": "ST30-002-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st30-p004.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st30-p004.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st30-p004.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/st30-p003.webp"
 }

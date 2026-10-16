@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op08-p117.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/649685_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op08-p117.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op08-p117.webp",
   "price_eur": 0.02,
   "price_usd": 4.09,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Kalgara-OP08-099-V1",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Kalgara-OP08-099",
-      "file": "OP08-099-v1.json"
+      "file": "OP08-099-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p117.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p117.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p117.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Kalgara-OP08-099-V2",
-      "file": "OP08-099-v2.json"
+      "file": "OP08-099-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p119.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p119.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p119.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "C",
       "price_eur": 1.59,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Kalgara-OP08-099-V1",
-      "file": "OP08-099-v3.json"
+      "file": "OP08-099-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p117.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p117.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p117.webp"
     },
     {
       "variant_index": 4,
@@ -61,8 +70,12 @@
       "rarity": "C",
       "price_eur": 0.06,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Kalgara-OP08-099-V2",
-      "file": "OP08-099-v4.json"
+      "file": "OP08-099-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p117.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p117.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p117.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op08-p117.webp"
 }

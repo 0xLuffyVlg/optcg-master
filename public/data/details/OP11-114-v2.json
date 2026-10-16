@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op11-p139.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632493_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op11-p139.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op11-p139.webp",
   "price_eur": 50,
   "price_usd": 66.66,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Gum-Gum-Fire-Fist-Pistol-Red-Hawk-OP11-114-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 50,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Gum-Gum-Fire-Fist-Pistol-Red-Hawk-OP11-114-V1?language=2",
-      "file": "OP11-114-v1.json"
+      "file": "OP11-114-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p138.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p138.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p138.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 55,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Gum-Gum-Fire-Fist-Pistol-Red-Hawk-OP11-114-V2?language=2",
-      "file": "OP11-114-v2.json"
+      "file": "OP11-114-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p139.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p139.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p139.webp"
     }
   ],
   "price_min_eur": 50,
   "price_avg7_eur": 67.48,
   "price_avg30_eur": 72.71,
-  "listings_count": 34
+  "listings_count": 34,
+  "image": "https://scalpeurs.com/img/cards-jp/op11-p139.webp"
 }

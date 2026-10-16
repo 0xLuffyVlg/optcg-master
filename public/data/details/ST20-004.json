@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/promo-divers-p030.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/581064_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/promo-divers-p030.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/promo-divers-p030.webp",
   "price_eur": 0.23,
   "price_usd": 0.23,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Charlotte-Katakuri/Charlotte-Pudding-ST20-004?language=2",
@@ -34,7 +34,11 @@
       "rarity": "C",
       "price_eur": 0.23,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Charlotte-Katakuri/Charlotte-Pudding-ST20-004?language=2",
-      "file": "ST20-004-v1.json"
+      "file": "ST20-004-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/promo-divers-p030.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/promo-divers-p030.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/promo-divers-p030.webp"
     }
-  ]
+  ],
+  "image": "https://scalpeurs.com/img/cards-jp/promo-divers-p030.webp"
 }

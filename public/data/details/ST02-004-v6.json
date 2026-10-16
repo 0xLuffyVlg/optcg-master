@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/prb01-p281.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593578_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p281.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p281.webp",
   "price_eur": 0.02,
   "price_usd": 0.96,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/CaponeGangBege-ST02-004-V3",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/CaponeGangBege-ST02-004-V1",
-      "file": "ST02-004-v1.json"
+      "file": "ST02-004-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p281.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p281.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p281.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/CaponeGangBege-ST02-004-V3",
-      "file": "ST02-004-v2.json"
+      "file": "ST02-004-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p282.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p282.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p282.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/CaponeGangBege-ST02-004-V4",
-      "file": "ST02-004-v3.json"
+      "file": "ST02-004-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p283.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p283.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p283.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "C",
       "price_eur": 0.47,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Worst-Generation/CaponeGangBege-ST02-004-V1",
-      "file": "ST02-004-v4.json"
+      "file": "ST02-004-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p284.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p284.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p284.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "C",
       "price_eur": 1.8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/CaponeGangBege-ST02-004-V1",
-      "file": "ST02-004-v5.json"
+      "file": "ST02-004-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p284.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p284.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p284.webp"
     },
     {
       "variant_index": 6,
@@ -79,7 +94,10 @@
       "rarity": "C",
       "price_eur": 1.43,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/CaponeGangBege-ST02-004-V3",
-      "file": "ST02-004-v6.json"
+      "file": "ST02-004-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p281.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p281.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p281.webp"
     },
     {
       "variant_index": 7,
@@ -88,7 +106,10 @@
       "rarity": "C",
       "price_eur": 2.37,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/CaponeGangBege-ST02-004-V4",
-      "file": "ST02-004-v7.json"
+      "file": "ST02-004-v7.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p281.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p281.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p281.webp"
     },
     {
       "variant_index": 8,
@@ -97,8 +118,12 @@
       "rarity": "C",
       "price_eur": 0.46,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/CaponeGangBege-ST02-004",
-      "file": "ST02-004-v8.json"
+      "file": "ST02-004-v8.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p281.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p281.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p281.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/prb01-p281.webp"
 }

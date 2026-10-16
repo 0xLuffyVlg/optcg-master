@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-fr/op12-p155.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/661702_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-fr/op12-p155.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/op12-p155.webp",
   "price_eur": 98,
   "price_usd": 1.34,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sabo-OP10-049-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 98,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Sabo-OP10-049?language=2",
-      "file": "OP10-049-v1.json"
+      "file": "OP10-049-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op10-p062.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op10-p062.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op10-p062.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "R",
       "price_eur": 99.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sabo-OP10-049-V2?language=2",
-      "file": "OP10-049-v2.json"
+      "file": "OP10-049-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/op12-p155.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/op12-p155.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/op12-p155.webp"
     },
     {
       "variant_index": 3,
@@ -52,11 +58,15 @@
       "rarity": "R",
       "price_eur": 2.29,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sabo-OP10-049-V1?language=2",
-      "file": "OP10-049-v3.json"
+      "file": "OP10-049-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op10-p062.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op10-p062.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op10-p062.webp"
     }
   ],
   "price_min_eur": 98,
   "price_avg7_eur": 108.78,
   "price_avg30_eur": 112.15,
-  "listings_count": 36
+  "listings_count": 36,
+  "image": "https://scalpeurs.com/img/cards-fr/op12-p155.webp"
 }

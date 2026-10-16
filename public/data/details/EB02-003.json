@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb02-p003.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629091_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p003.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p003.webp",
   "price_eur": 0.02,
   "price_usd": 0.87,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Tony-TonyChopper-EB02-003-V1?language=2",
@@ -34,17 +34,24 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Tony-TonyChopper-EB02-003-V1?language=2",
-      "file": "EB02-003-v1.json"
+      "file": "EB02-003-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p003.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb02-p003.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p003.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Tony Tony.Chopper (Alternate Art)",
       "rarity": "R",
-      "price_eur": 40.58,
+      "price_eur": 27,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Tony-TonyChopper-EB02-003-V2?language=2",
-      "file": "EB02-003-v2.json"
+      "file": "EB02-003-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p004.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb02-p004.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p004.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/eb02-p003.webp"
 }

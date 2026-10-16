@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/st30-p028.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695441_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st30-p028.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st30-p028.webp",
   "price_eur": 2.39,
   "price_usd": 7.15,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/Mr3Galdino-ST30-014-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 2.39,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/Mr3Galdino-ST30-014-V1?language=2",
-      "file": "ST30-014-v1.json"
+      "file": "ST30-014-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st30-p027.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st30-p027.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st30-p027.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "C",
       "price_eur": 2.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/Mr3Galdino-ST30-014-V2?language=2",
-      "file": "ST30-014-v2.json"
+      "file": "ST30-014-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st30-p028.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st30-p028.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st30-p028.webp"
     }
   ],
   "price_min_eur": 2.39,
   "price_avg7_eur": 4.23,
   "price_avg30_eur": 4.09,
-  "listings_count": 36
+  "listings_count": 36,
+  "image": "https://scalpeurs.com/img/cards-jp/st30-p028.webp"
 }

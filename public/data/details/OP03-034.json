@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op03-p041.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/499906_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op03-p041.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op03-p041.webp",
   "price_eur": 0.02,
   "price_usd": 0.06,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Buchi-OP03-034",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Buchi-OP03-034",
-      "file": "OP03-034-v1.json"
+      "file": "OP03-034-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p041.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p041.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p041.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.41,
   "price_avg30_eur": 1.54,
-  "listings_count": 9
+  "listings_count": 9,
+  "image": "https://scalpeurs.com/img/cards-jp/op03-p041.webp"
 }

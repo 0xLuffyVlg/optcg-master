@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb04-p049.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/669240_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p049.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p049.webp",
   "price_eur": 20,
   "price_usd": 62.19,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Rosinante-Law-EB04-038-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 20,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Rosinante-Law-EB04-038-V1?language=2",
-      "file": "EB04-038-v1.json"
+      "file": "EB04-038-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p048.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb04-p048.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p048.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "SR",
       "price_eur": 18.49,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Rosinante-Law-EB04-038-V2?language=2",
-      "file": "EB04-038-v2.json"
+      "file": "EB04-038-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p049.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb04-p049.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p049.webp"
     }
   ],
   "price_min_eur": 20,
   "price_avg7_eur": 18.1,
   "price_avg30_eur": 17.39,
-  "listings_count": 29
+  "listings_count": 29,
+  "image": "https://scalpeurs.com/img/cards-jp/eb04-p049.webp"
 }

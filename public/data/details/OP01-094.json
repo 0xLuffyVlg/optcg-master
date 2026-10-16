@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p119.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/453521_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p119.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p119.webp",
   "price_eur": 2,
   "price_usd": 1.6,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Kaido-OP01-094-V1",
@@ -34,29 +34,39 @@
       "rarity": "SR",
       "price_eur": 2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Kaido-OP01-094-V1",
-      "file": "OP01-094-v1.json"
+      "file": "OP01-094-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p119.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p119.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p119.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Kaido (094) (Parallel)",
       "rarity": "SR",
-      "price_eur": 26,
+      "price_eur": 27,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Kaido-OP01-094-V2",
-      "file": "OP01-094-v2.json"
+      "file": "OP01-094-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p120.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p120.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p120.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Kaido (Treasure Cup)",
       "rarity": "SR",
-      "price_eur": 1633.33,
+      "price_eur": 2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Kaido-OP01-094",
-      "file": "OP01-094-v3.json"
+      "file": "OP01-094-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p119.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p119.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p119.webp"
     }
   ],
   "price_min_eur": 2,
   "price_avg7_eur": 1514.29,
   "price_avg30_eur": 1514.29,
-  "listings_count": 3
+  "listings_count": 3,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p119.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op15-p076.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685411_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op15-p076.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op15-p076.webp",
   "price_eur": 5,
   "price_usd": 7.25,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Ohm-OP15-061-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Ohm-OP15-061-V1?language=2",
-      "file": "OP15-061-v1.json"
+      "file": "OP15-061-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p075.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p075.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p075.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 5.8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Ohm-OP15-061-V2?language=2",
-      "file": "OP15-061-v2.json"
+      "file": "OP15-061-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p076.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p076.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p076.webp"
     }
   ],
   "price_min_eur": 5,
   "price_avg7_eur": 7.73,
   "price_avg30_eur": 7.13,
-  "listings_count": 29
+  "listings_count": 29,
+  "image": "https://scalpeurs.com/img/cards-jp/op15-p076.webp"
 }

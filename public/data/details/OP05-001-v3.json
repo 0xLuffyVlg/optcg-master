@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-en/eb02-p080.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629168_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-en/eb02-p080.webp",
+  "image_url": "https://scalpeurs.com/img/cards-en/eb02-p080.webp",
   "price_eur": 1500,
   "price_usd": 950,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Sabo-OP05-001",
@@ -34,7 +34,10 @@
       "rarity": "L",
       "price_eur": 1500,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Sabo-OP05-001-V1",
-      "file": "OP05-001-v1.json"
+      "file": "OP05-001-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op05-p001.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op05-p001.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op05-p001.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "L",
       "price_eur": 13,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Sabo-OP05-001-V2",
-      "file": "OP05-001-v2.json"
+      "file": "OP05-001-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op05-p002.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op05-p002.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op05-p002.webp"
     },
     {
       "variant_index": 3,
@@ -52,11 +58,15 @@
       "rarity": "L",
       "price_eur": 1500,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Sabo-OP05-001",
-      "file": "OP05-001-v3.json"
+      "file": "OP05-001-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/eb02-p080.webp",
+      "image": "https://scalpeurs.com/img/cards-en/eb02-p080.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/eb02-p080.webp"
     }
   ],
   "price_min_eur": 1500,
   "price_avg7_eur": 593.99,
   "price_avg30_eur": 267.69,
-  "listings_count": 9
+  "listings_count": 9,
+  "image": "https://scalpeurs.com/img/cards-en/eb02-p080.webp"
 }

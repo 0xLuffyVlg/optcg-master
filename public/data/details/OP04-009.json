@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op04-p010.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/516735_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op04-p010.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op04-p010.webp",
   "price_eur": 0.02,
   "price_usd": 0.14,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Super-Spot-Billed-Duck-Troops-OP04-009",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Super-Spot-Billed-Duck-Troops-OP04-009",
-      "file": "OP04-009-v1.json"
+      "file": "OP04-009-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op04-p010.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op04-p010.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op04-p010.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 4.88,
   "price_avg30_eur": 3.45,
-  "listings_count": 6
+  "listings_count": 6,
+  "image": "https://scalpeurs.com/img/cards-jp/op04-p010.webp"
 }

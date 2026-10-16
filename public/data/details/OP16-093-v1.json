@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op16-p118.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696076_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op16-p118.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op16-p118.webp",
   "price_eur": 0.02,
   "price_usd": 0.06,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Bartholomew-Kuma-OP16-093?language=2",
@@ -34,11 +34,15 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Bartholomew-Kuma-OP16-093?language=2",
-      "file": "OP16-093-v1.json"
+      "file": "OP16-093-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p118.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p118.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p118.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.49,
   "price_avg30_eur": 0.5,
-  "listings_count": 12
+  "listings_count": 12,
+  "image": "https://scalpeurs.com/img/cards-jp/op16-p118.webp"
 }

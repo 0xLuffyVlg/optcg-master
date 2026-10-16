@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op10-p024.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617053_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op10-p024.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op10-p024.webp",
   "price_eur": 0.02,
   "price_usd": 0.31,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Divine-Departure-OP10-019-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Divine-Departure-OP10-019-V1?language=2",
-      "file": "OP10-019-v1.json"
+      "file": "OP10-019-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op10-p024.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op10-p024.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op10-p024.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 0.05,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Divine-Departure-OP10-019-V2?language=2",
-      "file": "OP10-019-v2.json"
+      "file": "OP10-019-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op10-p025.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op10-p025.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op10-p025.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.22,
   "price_avg30_eur": 0.24,
-  "listings_count": 15
+  "listings_count": 15,
+  "image": "https://scalpeurs.com/img/cards-jp/op10-p024.webp"
 }

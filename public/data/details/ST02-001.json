@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/promo-divers-p002.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/288249_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/promo-divers-p002.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/promo-divers-p002.webp",
   "price_eur": 15.99,
   "price_usd": 1.72,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Worst-Generation/EustassCaptainKid-ST02-001-V1",
@@ -34,20 +34,27 @@
       "rarity": "L",
       "price_eur": 15.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Worst-Generation/EustassCaptainKid-ST02-001-V1",
-      "file": "ST02-001-v1.json"
+      "file": "ST02-001-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/promo-divers-p002.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/promo-divers-p002.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/promo-divers-p002.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Eustass\"Captain\"Kid (Premium Card Collection -Leader Collection-)",
       "rarity": "L",
-      "price_eur": 30.73,
+      "price_eur": 15.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/EustassCaptainKid-ST02-001",
-      "file": "ST02-001-v2.json"
+      "file": "ST02-001-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/promo-divers-p002.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/promo-divers-p002.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/promo-divers-p002.webp"
     }
   ],
   "price_min_eur": 15.99,
   "price_avg7_eur": 74.42,
   "price_avg30_eur": 57.06,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/promo-divers-p002.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op11-p124.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632478_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op11-p124.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op11-p124.webp",
   "price_eur": 3.6,
   "price_usd": 7.86,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/CaponeGangBege-OP11-101-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 3.6,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/CaponeGangBege-OP11-101-V1?language=2",
-      "file": "OP11-101-v1.json"
+      "file": "OP11-101-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p123.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p123.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p123.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "SR",
       "price_eur": 3.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/CaponeGangBege-OP11-101-V2?language=2",
-      "file": "OP11-101-v2.json"
+      "file": "OP11-101-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p124.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p124.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p124.webp"
     }
   ],
   "price_min_eur": 3.6,
   "price_avg7_eur": 4.66,
   "price_avg30_eur": 5.93,
-  "listings_count": 33
+  "listings_count": 33,
+  "image": "https://scalpeurs.com/img/cards-jp/op11-p124.webp"
 }

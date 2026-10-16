@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/eb01-p020.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/607976_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p020.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p020.webp",
   "price_eur": 0.02,
   "price_usd": 0.45,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sanji-EB01-014-V1",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Sanji-EB01-014",
-      "file": "EB01-014-v1.json"
+      "file": "EB01-014-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p020.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb01-p020.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p020.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "R",
       "price_eur": 0.49,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sanji-EB01-014-V1",
-      "file": "EB01-014-v2.json"
+      "file": "EB01-014-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p020.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb01-p020.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p020.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "R",
       "price_eur": 18.92,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sanji-EB01-014-V2",
-      "file": "EB01-014-v3.json"
+      "file": "EB01-014-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p020.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb01-p020.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p020.webp"
     },
     {
       "variant_index": 4,
@@ -61,8 +70,12 @@
       "rarity": "R",
       "price_eur": 73.42,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sanji-EB01-014-V3",
-      "file": "EB01-014-v4.json"
+      "file": "EB01-014-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p020.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb01-p020.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p020.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/eb01-p020.webp"
 }

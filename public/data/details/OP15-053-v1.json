@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op15-p064.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685399_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op15-p064.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op15-p064.webp",
   "price_eur": 0.7,
   "price_usd": 2.32,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Rebecca-OP15-053-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Rebecca-OP15-053-V1?language=2",
-      "file": "OP15-053-v1.json"
+      "file": "OP15-053-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p064.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p064.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p064.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "SR",
       "price_eur": 19.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Rebecca-OP15-053-V2?language=2",
-      "file": "OP15-053-v2.json"
+      "file": "OP15-053-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p065.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p065.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p065.webp"
     }
   ],
-  "price_min_eur": 0.7
+  "price_min_eur": 0.7,
+  "image": "https://scalpeurs.com/img/cards-jp/op15-p064.webp"
 }

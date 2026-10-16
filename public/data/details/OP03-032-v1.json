@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op03-p039.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/499904_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op03-p039.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op03-p039.webp",
   "price_eur": 0.02,
   "price_usd": 0.1,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Buggy-OP03-032",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Buggy-OP03-032",
-      "file": "OP03-032-v1.json"
+      "file": "OP03-032-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p039.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p039.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p039.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "C",
       "price_eur": 0.29,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Buggy-OP03-032",
-      "file": "OP03-032-v2.json"
+      "file": "OP03-032-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p039.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p039.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p039.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 6.49,
   "price_avg30_eur": 2.61,
-  "listings_count": 7
+  "listings_count": 7,
+  "image": "https://scalpeurs.com/img/cards-jp/op03-p039.webp"
 }

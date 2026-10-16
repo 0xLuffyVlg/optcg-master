@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/st21-p016.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/615579_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st21-p016.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st21-p016.webp",
   "price_eur": 7.5,
   "price_usd": 31.28,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Tony-TonyChopper-ST21-008-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 7.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Tony-TonyChopper-ST21-008-V1?language=2",
-      "file": "ST21-008-v1.json"
+      "file": "ST21-008-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st21-p015.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st21-p015.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st21-p015.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "C",
       "price_eur": 9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Tony-TonyChopper-ST21-008-V2?language=2",
-      "file": "ST21-008-v2.json"
+      "file": "ST21-008-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st21-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st21-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st21-p016.webp"
     }
   ],
   "price_min_eur": 7.5,
   "price_avg7_eur": 10.69,
   "price_avg30_eur": 11.85,
-  "listings_count": 19
+  "listings_count": 19,
+  "image": "https://scalpeurs.com/img/cards-jp/st21-p016.webp"
 }

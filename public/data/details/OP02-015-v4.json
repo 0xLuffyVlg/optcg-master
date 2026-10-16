@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-en/prb01-p040.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593296_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-en/prb01-p040.webp",
+  "image_url": "https://scalpeurs.com/img/cards-en/prb01-p040.webp",
   "price_eur": 0.02,
   "price_usd": 3.74,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Makino-OP02-015-V3",
@@ -34,7 +34,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Makino-OP02-015",
-      "file": "OP02-015-v1.json"
+      "file": "OP02-015-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p021.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p021.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p021.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Makino-OP02-015",
-      "file": "OP02-015-v2.json"
+      "file": "OP02-015-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p040.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p040.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p040.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Makino-OP02-015-V1",
-      "file": "OP02-015-v3.json"
+      "file": "OP02-015-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p041.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p041.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p041.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Makino-OP02-015-V3",
-      "file": "OP02-015-v4.json"
+      "file": "OP02-015-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p040.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p040.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p040.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "UC",
       "price_eur": 2.2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Makino-OP02-015-V1",
-      "file": "OP02-015-v5.json"
+      "file": "OP02-015-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p041.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p041.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p041.webp"
     },
     {
       "variant_index": 6,
@@ -79,11 +94,15 @@
       "rarity": "UC",
       "price_eur": 3.06,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Makino-OP02-015-V3",
-      "file": "OP02-015-v6.json"
+      "file": "OP02-015-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p021.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p021.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p021.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.19,
   "price_avg30_eur": 0.17,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-en/prb01-p040.webp"
 }

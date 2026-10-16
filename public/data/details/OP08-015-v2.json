@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op08-p019.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558039_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op08-p019.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op08-p019.webp",
   "price_eur": 1.95,
   "price_usd": 2.55,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/DrKureha-OP08-015-V2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 1.95,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/DrKureha-OP08-015-V1",
-      "file": "OP08-015-v1.json"
+      "file": "OP08-015-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p018.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p018.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p018.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 1.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/DrKureha-OP08-015-V2",
-      "file": "OP08-015-v2.json"
+      "file": "OP08-015-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p019.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p019.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p019.webp"
     }
   ],
   "price_min_eur": 1.95,
   "price_avg7_eur": 2.76,
   "price_avg30_eur": 2.63,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op08-p019.webp"
 }

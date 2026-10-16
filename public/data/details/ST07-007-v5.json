@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/prb01-p309.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593676_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p309.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p309.webp",
   "price_eur": 0.02,
   "price_usd": 0.36,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Brulee-ST07-007-V1",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Brulee-ST07-007-V1",
-      "file": "ST07-007-v1.json"
+      "file": "ST07-007-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p309.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p309.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p309.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Brulee-ST07-007-V3",
-      "file": "ST07-007-v2.json"
+      "file": "ST07-007-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p310.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p310.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p310.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Big-Mom-Pirates/Charlotte-Brulee-ST07-007",
-      "file": "ST07-007-v3.json"
+      "file": "ST07-007-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p311.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p311.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p311.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "PR",
       "price_eur": 2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Charlotte-Brulee-ST07-007",
-      "file": "ST07-007-v4.json"
+      "file": "ST07-007-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p311.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p311.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p311.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "C",
       "price_eur": 0.13,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Brulee-ST07-007-V1",
-      "file": "ST07-007-v5.json"
+      "file": "ST07-007-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p309.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p309.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p309.webp"
     },
     {
       "variant_index": 6,
@@ -79,8 +94,12 @@
       "rarity": "C",
       "price_eur": 3.38,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Charlotte-Brulee-ST07-007-V3",
-      "file": "ST07-007-v6.json"
+      "file": "ST07-007-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p309.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p309.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p309.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/prb01-p309.webp"
 }

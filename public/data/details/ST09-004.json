@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/st09-p004.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/504465_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st09-p004.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st09-p004.webp",
   "price_eur": 0.02,
   "price_usd": 0.13,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Yamato/Kaido-ST09-004",
@@ -34,8 +34,12 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Yamato/Kaido-ST09-004",
-      "file": "ST09-004-v1.json"
+      "file": "ST09-004-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st09-p004.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st09-p004.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st09-p004.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/st09-p004.webp"
 }

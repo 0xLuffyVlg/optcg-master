@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op12-p075.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643798_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op12-p075.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op12-p075.webp",
   "price_eur": 0.02,
   "price_usd": 0.16,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Donquixote-Rosinante-OP12-061-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "L",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Donquixote-Rosinante-OP12-061-V1?language=2",
-      "file": "OP12-061-v1.json"
+      "file": "OP12-061-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p075.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p075.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p075.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "L",
       "price_eur": 31.73,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Donquixote-Rosinante-OP12-061-V2?language=2",
-      "file": "OP12-061-v2.json"
+      "file": "OP12-061-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p076.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p076.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p076.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op12-p075.webp"
 }

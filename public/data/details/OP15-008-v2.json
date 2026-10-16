@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op15-p013.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685348_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op15-p013.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op15-p013.webp",
   "price_eur": 4,
   "price_usd": 7.73,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Krieg-OP15-008-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Krieg-OP15-008-V1?language=2",
-      "file": "OP15-008-v1.json"
+      "file": "OP15-008-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p012.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p012.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p012.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "SR",
       "price_eur": 4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Krieg-OP15-008-V2?language=2",
-      "file": "OP15-008-v2.json"
+      "file": "OP15-008-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p013.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p013.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p013.webp"
     }
   ],
   "price_min_eur": 4,
   "price_avg7_eur": 4.97,
   "price_avg30_eur": 5.5,
-  "listings_count": 27
+  "listings_count": 27,
+  "image": "https://scalpeurs.com/img/cards-jp/op15-p013.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op12-p124.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643847_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op12-p124.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op12-p124.webp",
   "price_eur": 0.02,
   "price_usd": 0.52,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Shirahoshi-OP12-102-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Shirahoshi-OP12-102-V1?language=2",
-      "file": "OP12-102-v1.json"
+      "file": "OP12-102-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p124.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p124.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p124.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "SR",
       "price_eur": 4.97,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Shirahoshi-OP12-102-V2?language=2",
-      "file": "OP12-102-v2.json"
+      "file": "OP12-102-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p125.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p125.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p125.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op12-p124.webp"
 }

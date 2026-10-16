@@ -18,7 +18,7 @@
   "rarity": "L",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-en/st01-p001.webp",
+  "image_path": "https://scalpeurs.com/img/cards-en/st01-p001.webp",
   "image_url": "https://scalpeurs.com/img/cards-en/st01-p001.webp",
   "price_eur": 7,
   "price_usd": 80.07,
@@ -32,22 +32,29 @@
       "variant_version": "v1",
       "name": "Monkey.D.Luffy (001)",
       "rarity": "L",
-      "price_eur": 249.9,
+      "price_eur": 7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/STARTER-DECK-Straw-Hat-Crew/MonkeyDLuffy-ST01-001-V1",
-      "file": "ST01-001-v1.json"
+      "file": "ST01-001-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/st01-p001.webp",
+      "image": "https://scalpeurs.com/img/cards-en/st01-p001.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/st01-p001.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Monkey.D.Luffy - ST01-001 [Serial Number]",
       "rarity": "PR",
-      "price_eur": 66091.29,
+      "price_eur": 74500,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-ST01-001",
-      "file": "ST01-001-v2.json"
+      "file": "ST01-001-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/champ2023-p001.webp",
+      "image": "https://scalpeurs.com/img/cards-en/champ2023-p001.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/champ2023-p001.webp"
     }
   ],
   "price_min_eur": 7,
   "price_avg7_eur": 675.43,
   "price_avg30_eur": 709.22,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-en/st01-p001.webp"
 }

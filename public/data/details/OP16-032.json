@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op16-p039.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695308_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op16-p039.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op16-p039.webp",
   "price_eur": 0.1,
   "price_usd": 1.42,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Boa-Hancock-OP16-032-V1?language=2",
@@ -34,17 +34,24 @@
       "rarity": "SR",
       "price_eur": 0.1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Boa-Hancock-OP16-032-V1?language=2",
-      "file": "OP16-032-v1.json"
+      "file": "OP16-032-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p039.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p039.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p039.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Boa Hancock (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 38.95,
+      "price_eur": 14.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Boa-Hancock-OP16-032-V2?language=2",
-      "file": "OP16-032-v2.json"
+      "file": "OP16-032-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p040.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p040.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p040.webp"
     }
   ],
-  "price_min_eur": 0.1
+  "price_min_eur": 0.1,
+  "image": "https://scalpeurs.com/img/cards-jp/op16-p039.webp"
 }

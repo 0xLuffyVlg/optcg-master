@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op17-p104.webp",
-  "image_url": "/img/cards-fr/op17-p103-sm.webp",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op17-p104.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op17-p104.webp",
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/MonkeyDLuffy-OP17-079-V1?language=2",
@@ -34,26 +34,36 @@
       "rarity": "L",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/MonkeyDLuffy-OP17-079-V1?language=2",
-      "file": "OP17-079-v1.json"
+      "file": "OP17-079-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p104.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p104.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p104.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Monkey D. Luffy (Alternate Art)",
       "rarity": "L",
-      "price_eur": 45,
+      "price_eur": 39.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/MonkeyDLuffy-OP17-079-V2?language=2",
-      "file": "OP17-079-v2.json"
+      "file": "OP17-079-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p105.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p105.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p105.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Monkey D. Luffy (Manga)",
       "rarity": "L",
-      "price_eur": 1000,
+      "price_eur": 600,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/MonkeyDLuffy-OP17-079-V3?language=2",
-      "file": "OP17-079-v3.json"
+      "file": "OP17-079-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p106.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p106.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p106.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op17-p104.webp"
 }

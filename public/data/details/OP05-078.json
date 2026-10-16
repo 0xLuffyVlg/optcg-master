@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op05-p096.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528638_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op05-p096.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op05-p096.webp",
   "price_eur": 0.02,
   "price_usd": 0.12,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Punk-Rotten-OP05-078",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Punk-Rotten-OP05-078",
-      "file": "OP05-078-v1.json"
+      "file": "OP05-078-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op05-p096.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op05-p096.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op05-p096.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 19.48,
   "price_avg30_eur": 17.48,
-  "listings_count": 16
+  "listings_count": 16,
+  "image": "https://scalpeurs.com/img/cards-jp/op05-p096.webp"
 }

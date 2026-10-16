@@ -18,8 +18,8 @@
   "rarity": "SEC",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op17-p157.webp",
-  "image_url": "/img/cards-fr/op17-p157-sm.webp",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op17-p157.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op17-p157.webp",
   "price_eur": 17.97,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Loki-OP17-119-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SEC",
       "price_eur": 17.97,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Loki-OP17-119-V1?language=2",
-      "file": "OP17-119-v1.json"
+      "file": "OP17-119-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p157.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p157.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p157.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "SEC",
       "price_eur": 33,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Loki-OP17-119-V2?language=2",
-      "file": "OP17-119-v2.json"
+      "file": "OP17-119-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p158.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p158.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p158.webp"
     }
   ],
   "price_min_eur": 17.97,
   "price_avg7_eur": 25.52,
   "price_avg30_eur": 25.12,
-  "listings_count": 42
+  "listings_count": 42,
+  "image": "https://scalpeurs.com/img/cards-jp/op17-p157.webp"
 }

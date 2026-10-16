@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op07-p041.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545818_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op07-p041.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op07-p041.webp",
   "price_eur": 0.02,
   "price_usd": 0.1,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Roronoa-Zoro-OP07-034",
@@ -34,8 +34,12 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Roronoa-Zoro-OP07-034",
-      "file": "OP07-034-v1.json"
+      "file": "OP07-034-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p041.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p041.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p041.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op07-p041.webp"
 }

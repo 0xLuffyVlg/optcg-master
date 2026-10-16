@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op06-p004.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593483_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op06-p004.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op06-p004.webp",
   "price_eur": 0.02,
   "price_usd": 16.35,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/EmporioIvankov-OP06-003-V2",
@@ -34,7 +34,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/EmporioIvankov-OP06-003",
-      "file": "OP06-003-v1.json"
+      "file": "OP06-003-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p004.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p004.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p004.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/EmporioIvankov-OP06-003-V1",
-      "file": "OP06-003-v2.json"
+      "file": "OP06-003-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p199.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p199.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p199.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/EmporioIvankov-OP06-003-V2",
-      "file": "OP06-003-v3.json"
+      "file": "OP06-003-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p200.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p200.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p200.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "UC",
       "price_eur": 8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/EmporioIvankov-OP06-003-V1",
-      "file": "OP06-003-v4.json"
+      "file": "OP06-003-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p200.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p200.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p200.webp"
     },
     {
       "variant_index": 5,
@@ -70,8 +82,12 @@
       "rarity": "UC",
       "price_eur": 11.71,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/EmporioIvankov-OP06-003-V2",
-      "file": "OP06-003-v5.json"
+      "file": "OP06-003-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p004.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p004.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p004.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op06-p004.webp"
 }

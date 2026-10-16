@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb02-p053.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629141_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p053.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p053.webp",
   "price_eur": 0.02,
   "price_usd": 0.05,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Jonathan-EB02-043?language=2",
@@ -34,8 +34,12 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Jonathan-EB02-043?language=2",
-      "file": "EB02-043-v1.json"
+      "file": "EB02-043-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p053.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb02-p053.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p053.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/eb02-p053.webp"
 }

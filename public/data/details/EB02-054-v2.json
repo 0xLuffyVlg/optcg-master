@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb02-p069.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629157_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p069.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p069.webp",
   "price_eur": 9.98,
   "price_usd": 13.81,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Sanji-EB02-054-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 9.98,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Sanji-EB02-054-V1?language=2",
-      "file": "EB02-054-v1.json"
+      "file": "EB02-054-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p068.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb02-p068.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p068.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 10,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Sanji-EB02-054-V2?language=2",
-      "file": "EB02-054-v2.json"
+      "file": "EB02-054-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p069.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb02-p069.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p069.webp"
     }
   ],
   "price_min_eur": 9.98,
   "price_avg7_eur": 9.9,
   "price_avg30_eur": 9.36,
-  "listings_count": 7
+  "listings_count": 7,
+  "image": "https://scalpeurs.com/img/cards-jp/eb02-p069.webp"
 }

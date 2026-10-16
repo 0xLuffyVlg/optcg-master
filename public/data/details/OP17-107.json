@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op17-p139.webp",
-  "image_url": "/img/cards-fr/op17-p139-sm.webp",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op17-p139.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op17-p139.webp",
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Daifuku-OP17-107?language=2",
@@ -34,20 +34,27 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Daifuku-OP17-107?language=2",
-      "file": "OP17-107-v1.json"
+      "file": "OP17-107-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p139.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p139.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p139.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Charlotte Daifuku (Alternate Art)",
       "rarity": "UC",
-      "price_eur": 2.99,
+      "price_eur": 1.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Daifuku-OP17-107-V2?language=2",
-      "file": "OP17-107-v2.json"
+      "file": "OP17-107-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p140.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p140.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p140.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.82,
   "price_avg30_eur": 1.54,
-  "listings_count": 23
+  "listings_count": 23,
+  "image": "https://scalpeurs.com/img/cards-jp/op17-p139.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op15-p035.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685370_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op15-p035.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op15-p035.webp",
   "price_eur": 0.02,
   "price_usd": 0.12,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Meowban-Brothers-OP15-028?language=2",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Meowban-Brothers-OP15-028?language=2",
-      "file": "OP15-028-v1.json"
+      "file": "OP15-028-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p035.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p035.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p035.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.37,
   "price_avg30_eur": 1.39,
-  "listings_count": 5
+  "listings_count": 5,
+  "image": "https://scalpeurs.com/img/cards-jp/op15-p035.webp"
 }

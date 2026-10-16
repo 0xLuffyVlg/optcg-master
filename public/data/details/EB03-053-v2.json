@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb03-p067.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672805_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p067.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p067.webp",
   "price_eur": 30,
   "price_usd": 96.92,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Nami-EB03-053-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 30,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Nami-EB03-053-V1?language=2",
-      "file": "EB03-053-v1.json"
+      "file": "EB03-053-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p066.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb03-p066.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p066.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 32,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Nami-EB03-053-V2?language=2",
-      "file": "EB03-053-v2.json"
+      "file": "EB03-053-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p067.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb03-p067.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p067.webp"
     },
     {
       "variant_index": 3,
@@ -52,11 +58,15 @@
       "rarity": "SR",
       "price_eur": 690,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Nami-EB03-053-V3?language=2",
-      "file": "EB03-053-v3.json"
+      "file": "EB03-053-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p089.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb03-p089.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p089.webp"
     }
   ],
   "price_min_eur": 30,
   "price_avg7_eur": 39.3,
   "price_avg30_eur": 42.05,
-  "listings_count": 26
+  "listings_count": 26,
+  "image": "https://scalpeurs.com/img/cards-jp/eb03-p067.webp"
 }

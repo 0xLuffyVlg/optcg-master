@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op13-p140.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657389_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op13-p140.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op13-p140.webp",
   "price_eur": 0.02,
   "price_usd": 0.29,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Stussy-OP13-110-V1?language=2",
@@ -34,17 +34,24 @@
       "rarity": "SR",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Stussy-OP13-110-V1?language=2",
-      "file": "OP13-110-v1.json"
+      "file": "OP13-110-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p140.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p140.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p140.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Stussy (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 10.52,
+      "price_eur": 7.4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Stussy-OP13-110-V2?language=2",
-      "file": "OP13-110-v2.json"
+      "file": "OP13-110-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p141.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p141.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p141.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op13-p140.webp"
 }

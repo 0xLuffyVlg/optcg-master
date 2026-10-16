@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op08-p105.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558125_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op08-p105.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op08-p105.webp",
   "price_eur": 0.02,
   "price_usd": 0.05,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Duval-OP08-088",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Duval-OP08-088",
-      "file": "OP08-088-v1.json"
+      "file": "OP08-088-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p105.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p105.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p105.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.33,
   "price_avg30_eur": 0.32,
-  "listings_count": 46
+  "listings_count": 46,
+  "image": "https://scalpeurs.com/img/cards-jp/op08-p105.webp"
 }

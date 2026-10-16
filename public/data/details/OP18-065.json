@@ -18,7 +18,7 @@
   "rarity": "SR",
   "block": null,
   "language": "en",
-  "image_path": "/img/cards-jp/op18-p011.webp",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op18-p011.webp",
   "image_url": "https://scalpeurs.com/img/cards-jp/op18-p011.webp",
   "price_eur": null,
   "price_usd": null,
@@ -34,7 +34,11 @@
       "rarity": "SR",
       "price_eur": null,
       "cardmarket_url": null,
-      "file": "OP18-065-v1.json"
+      "file": "OP18-065-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op18-p011.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op18-p011.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op18-p011.webp"
     }
-  ]
+  ],
+  "image": "https://scalpeurs.com/img/cards-jp/op18-p011.webp"
 }

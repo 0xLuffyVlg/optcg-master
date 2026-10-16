@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op14-p109.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/670630_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op14-p109.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op14-p109.webp",
   "price_eur": 5,
   "price_usd": 5.17,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Mr1DazBonez-OP14-090-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Mr1DazBonez-OP14-090-V1?language=2",
-      "file": "OP14-090-v1.json"
+      "file": "OP14-090-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p108.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p108.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p108.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 5.3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Mr1DazBonez-OP14-090-V2?language=2",
-      "file": "OP14-090-v2.json"
+      "file": "OP14-090-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p109.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p109.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p109.webp"
     }
   ],
   "price_min_eur": 5,
   "price_avg7_eur": 6.76,
   "price_avg30_eur": 5.5,
-  "listings_count": 24
+  "listings_count": 24,
+  "image": "https://scalpeurs.com/img/cards-jp/op14-p109.webp"
 }

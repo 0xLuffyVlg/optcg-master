@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": null,
   "language": "fr",
-  "image_path": "/img/cards-jp/op16-p080.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696052_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op16-p080.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op16-p080.webp",
   "price_eur": 0.02,
   "price_usd": 1185.61,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Kuzan-OP16-063-V3?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Kuzan-OP16-063-V1?language=2",
-      "file": "OP16-063-v1.json"
+      "file": "OP16-063-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p078.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p078.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p078.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "R",
       "price_eur": 4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Kuzan-OP16-063-V2?language=2",
-      "file": "OP16-063-v2.json"
+      "file": "OP16-063-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p079.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p079.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p079.webp"
     },
     {
       "variant_index": 3,
@@ -52,11 +58,15 @@
       "rarity": "R",
       "price_eur": 600,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Kuzan-OP16-063-V3?language=2",
-      "file": "OP16-063-v3.json"
+      "file": "OP16-063-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p080.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p080.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p080.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 761.71,
   "price_avg30_eur": 873.03,
-  "listings_count": 10
+  "listings_count": 10,
+  "image": "https://scalpeurs.com/img/cards-jp/op16-p080.webp"
 }

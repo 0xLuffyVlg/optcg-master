@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb02-p019.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629107_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p019.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p019.webp",
   "price_eur": 0.29,
   "price_usd": 1.54,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Jewelry-Bonney-EB02-015-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.29,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Jewelry-Bonney-EB02-015-V1?language=2",
-      "file": "EB02-015-v1.json"
+      "file": "EB02-015-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p019.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb02-p019.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p019.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "SR",
       "price_eur": 10,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Jewelry-Bonney-EB02-015-V2?language=2",
-      "file": "EB02-015-v2.json"
+      "file": "EB02-015-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p020.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb02-p020.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p020.webp"
     }
   ],
   "price_min_eur": 0.29,
   "price_avg7_eur": 0.84,
   "price_avg30_eur": 0.93,
-  "listings_count": 42
+  "listings_count": 42,
+  "image": "https://scalpeurs.com/img/cards-jp/eb02-p019.webp"
 }

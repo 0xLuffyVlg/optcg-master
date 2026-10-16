@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p138.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454644_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p138.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p138.webp",
   "price_eur": 0.02,
   "price_usd": 0.13,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/WhosWho-OP01-109-V1",
@@ -34,17 +34,24 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/WhosWho-OP01-109-V1",
-      "file": "OP01-109-v1.json"
+      "file": "OP01-109-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p138.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p138.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p138.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Who's.Who (Box Topper)",
       "rarity": "UC",
-      "price_eur": 2.84,
+      "price_eur": 2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/WhosWho-OP01-109-V2",
-      "file": "OP01-109-v2.json"
+      "file": "OP01-109-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p139.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p139.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p139.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p138.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op11-p119.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632473_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op11-p119.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op11-p119.webp",
   "price_eur": 0.02,
   "price_usd": 0.5,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/After-All-These-Years-Im-Losing-My-Edge-OP11-097?language=2",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/After-All-These-Years-Im-Losing-My-Edge-OP11-097?language=2",
-      "file": "OP11-097-v1.json"
+      "file": "OP11-097-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p119.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p119.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p119.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 6.33,
   "price_avg30_eur": 4.26,
-  "listings_count": 1
+  "listings_count": 1,
+  "image": "https://scalpeurs.com/img/cards-jp/op11-p119.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op05-p110.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/654571_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op05-p110.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op05-p110.webp",
   "price_eur": 0.1,
   "price_usd": 130.83,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Rebecca-OP05-091-V2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Rebecca-OP05-091-V1",
-      "file": "OP05-091-v1.json"
+      "file": "OP05-091-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op05-p110.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op05-p110.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op05-p110.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 84,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Rebecca-OP05-091-V2",
-      "file": "OP05-091-v2.json"
+      "file": "OP05-091-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op05-p111.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op05-p111.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op05-p111.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "SR",
       "price_eur": 94.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Rebecca-OP05-091",
-      "file": "OP05-091-v3.json"
+      "file": "OP05-091-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op06-p151.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op06-p151.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op06-p151.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "SR",
       "price_eur": 3800.83,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Rebecca-OP05-091-V1",
-      "file": "OP05-091-v4.json"
+      "file": "OP05-091-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op05-p110.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op05-p110.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op05-p110.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "SR",
       "price_eur": 89.85,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Rebecca-OP05-091-V2",
-      "file": "OP05-091-v5.json"
+      "file": "OP05-091-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op05-p110.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op05-p110.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op05-p110.webp"
     },
     {
       "variant_index": 6,
@@ -79,8 +94,12 @@
       "rarity": "SR",
       "price_eur": 89.85,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Rebecca-OP05-091-V2",
-      "file": "OP05-091-v6.json"
+      "file": "OP05-091-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op05-p110.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op05-p110.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op05-p110.webp"
     }
   ],
-  "price_min_eur": 0.1
+  "price_min_eur": 0.1,
+  "image": "https://scalpeurs.com/img/cards-jp/op05-p110.webp"
 }

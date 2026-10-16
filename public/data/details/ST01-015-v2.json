@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-en/champ-regional-en-ligne-p031.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/539195_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p031.webp",
+  "image_url": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p031.webp",
   "price_eur": 34.96,
   "price_usd": 22.8,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Gum-Gum-Jet-Pistol-ST01-015-V1",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 34.96,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/STARTER-DECK-Straw-Hat-Crew/Gum-Gum-Jet-Pistol-ST01-015-V1",
-      "file": "ST01-015-v1.json"
+      "file": "ST01-015-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/pack-regional-en-ligne-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-en/pack-regional-en-ligne-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/pack-regional-en-ligne-p016.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,11 @@
       "rarity": "C",
       "price_eur": 34.96,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Gum-Gum-Jet-Pistol-ST01-015-V1",
-      "file": "ST01-015-v2.json"
+      "file": "ST01-015-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p031.webp",
+      "image": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p031.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p031.webp"
     }
-  ]
+  ],
+  "image": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p031.webp"
 }

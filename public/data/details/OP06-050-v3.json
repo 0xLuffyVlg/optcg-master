@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-en/op12-p147.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/646565_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-en/op12-p147.webp",
+  "image_url": "https://scalpeurs.com/img/cards-en/op12-p147.webp",
   "price_eur": 33,
   "price_usd": 93.15,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Tashigi-OP06-050",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 33,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Tashigi-OP06-050-V1",
-      "file": "OP06-050-v1.json"
+      "file": "OP06-050-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p061.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p061.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p061.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "R",
       "price_eur": 4.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Tashigi-OP06-050-V2",
-      "file": "OP06-050-v2.json"
+      "file": "OP06-050-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p062.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p062.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p062.webp"
     },
     {
       "variant_index": 3,
@@ -52,11 +58,15 @@
       "rarity": "R",
       "price_eur": 33.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Tashigi-OP06-050",
-      "file": "OP06-050-v3.json"
+      "file": "OP06-050-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op12-p147.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op12-p147.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op12-p147.webp"
     }
   ],
   "price_min_eur": 33,
   "price_avg7_eur": 44.11,
   "price_avg30_eur": 52.83,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-en/op12-p147.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/prb02-p316.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653836_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p316.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p316.webp",
   "price_eur": 160,
   "price_usd": 369.06,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/My-EraBegins-OP09-096-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 160,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/My-EraBegins-OP09-096?language=2",
-      "file": "OP09-096-v1.json"
+      "file": "OP09-096-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op09-p122.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op09-p122.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op09-p122.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 160,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/My-EraBegins-OP09-096-V2?language=2",
-      "file": "OP09-096-v2.json"
+      "file": "OP09-096-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p316.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p316.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p316.webp"
     }
   ],
   "price_min_eur": 160,
   "price_avg7_eur": 213.43,
   "price_avg30_eur": 249.7,
-  "listings_count": 26
+  "listings_count": 26,
+  "image": "https://scalpeurs.com/img/cards-jp/prb02-p316.webp"
 }

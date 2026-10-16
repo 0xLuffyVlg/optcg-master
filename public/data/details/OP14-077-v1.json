@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op14-p092.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671412_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op14-p092.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op14-p092.webp",
   "price_eur": 0.02,
   "price_usd": 0.14,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Penta-Chromatic-String-OP14-077?language=2",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Penta-Chromatic-String-OP14-077?language=2",
-      "file": "OP14-077-v1.json"
+      "file": "OP14-077-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p092.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p092.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p092.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 2.36,
   "price_avg30_eur": 1.87,
-  "listings_count": 4
+  "listings_count": 4,
+  "image": "https://scalpeurs.com/img/cards-jp/op14-p092.webp"
 }

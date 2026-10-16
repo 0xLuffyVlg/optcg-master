@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/st10-p013.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/525054_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st10-p013.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st10-p013.webp",
   "price_eur": 0.02,
   "price_usd": 0.21,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Captains/Heat-ST10-011",
@@ -34,8 +34,12 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Captains/Heat-ST10-011",
-      "file": "ST10-011-v1.json"
+      "file": "ST10-011-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st10-p013.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st10-p013.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st10-p013.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/st10-p013.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op02-p073.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/486396_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op02-p073.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op02-p073.webp",
   "price_eur": 0.02,
   "price_usd": 0.07,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Bartholomew-Kuma-OP02-057",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Bartholomew-Kuma-OP02-057",
-      "file": "OP02-057-v1.json"
+      "file": "OP02-057-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p073.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p073.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p073.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.93,
   "price_avg30_eur": 0.67,
-  "listings_count": 37
+  "listings_count": 37,
+  "image": "https://scalpeurs.com/img/cards-jp/op02-p073.webp"
 }

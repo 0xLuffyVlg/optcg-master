@@ -18,8 +18,8 @@
   "rarity": "SEC",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op04-p141.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/515312_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op04-p141.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op04-p141.webp",
   "price_eur": 4,
   "price_usd": 8.92,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Nefeltari-Vivi-OP04-118-V1",
@@ -34,7 +34,10 @@
       "rarity": "SEC",
       "price_eur": 4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Nefeltari-Vivi-OP04-118-V1",
-      "file": "OP04-118-v1.json"
+      "file": "OP04-118-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op04-p141.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op04-p141.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op04-p141.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "SEC",
       "price_eur": 18.89,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Nefeltari-Vivi-OP04-118-V2",
-      "file": "OP04-118-v2.json"
+      "file": "OP04-118-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op04-p142.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op04-p142.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op04-p142.webp"
     }
   ],
   "price_min_eur": 4,
   "price_avg7_eur": 5.94,
   "price_avg30_eur": 5.08,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op04-p141.webp"
 }

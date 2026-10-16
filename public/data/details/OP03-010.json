@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op03-p011.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/499888_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op03-p011.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op03-p011.webp",
   "price_eur": 0.02,
   "price_usd": 0.04,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Fossa-OP03-010",
@@ -34,11 +34,15 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Fossa-OP03-010",
-      "file": "OP03-010-v1.json"
+      "file": "OP03-010-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p011.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p011.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p011.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.86,
   "price_avg30_eur": 0.96,
-  "listings_count": 43
+  "listings_count": 43,
+  "image": "https://scalpeurs.com/img/cards-jp/op03-p011.webp"
 }

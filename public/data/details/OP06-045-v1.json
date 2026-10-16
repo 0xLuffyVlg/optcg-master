@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op06-p056.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541610_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op06-p056.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op06-p056.webp",
   "price_eur": 0.02,
   "price_usd": 0.07,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Kuzan-OP06-045",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Kuzan-OP06-045",
-      "file": "OP06-045-v1.json"
+      "file": "OP06-045-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p056.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p056.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p056.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.31,
   "price_avg30_eur": 1.15,
-  "listings_count": 23
+  "listings_count": 23,
+  "image": "https://scalpeurs.com/img/cards-jp/op06-p056.webp"
 }

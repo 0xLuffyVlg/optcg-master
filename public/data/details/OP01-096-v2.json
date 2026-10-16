@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p123.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454630_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p123.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p123.webp",
   "price_eur": 9,
   "price_usd": 12.62,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/King-OP01-096-V2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/King-OP01-096-V1",
-      "file": "OP01-096-v1.json"
+      "file": "OP01-096-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p122.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p122.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p122.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "SR",
       "price_eur": 45,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/King-OP01-096-V2",
-      "file": "OP01-096-v2.json"
+      "file": "OP01-096-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p123.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p123.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p123.webp"
     }
   ],
   "price_min_eur": 9,
   "price_avg7_eur": 60.54,
   "price_avg30_eur": 70.66,
-  "listings_count": 41
+  "listings_count": 41,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p123.webp"
 }

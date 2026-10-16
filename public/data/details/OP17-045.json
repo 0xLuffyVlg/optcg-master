@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op17-p058.webp",
-  "image_url": "/img/cards-fr/op17-p057-sm.webp",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op17-p058.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op17-p058.webp",
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Kyo-OP17-045-V1?language=2",
@@ -34,20 +34,27 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Kyo-OP17-045-V1?language=2",
-      "file": "OP17-045-v1.json"
+      "file": "OP17-045-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p058.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p058.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p058.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Kyo (Alternate Art)",
       "rarity": "UC",
-      "price_eur": 4,
+      "price_eur": 4.7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Kyo-OP17-045-V2?language=2",
-      "file": "OP17-045-v2.json"
+      "file": "OP17-045-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p059.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p059.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p059.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.98,
   "price_avg30_eur": 2.49,
-  "listings_count": 21
+  "listings_count": 21,
+  "image": "https://scalpeurs.com/img/cards-jp/op17-p058.webp"
 }

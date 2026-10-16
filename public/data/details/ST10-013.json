@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/champ2023-p015.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/525057_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/champ2023-p015.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/champ2023-p015.webp",
   "price_eur": 1.22,
   "price_usd": 0.82,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Captains/EustassCaptainKid-ST10-013",
@@ -34,16 +34,22 @@
       "rarity": "SR",
       "price_eur": 1.22,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Captains/EustassCaptainKid-ST10-013",
-      "file": "ST10-013-v1.json"
+      "file": "ST10-013-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/champ2023-p015.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/champ2023-p015.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/champ2023-p015.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Eustass\"Captain\"Kid (CS 2023 Top Players Pack)",
       "rarity": "SR",
-      "price_eur": 328.51,
+      "price_eur": 129,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/EustassCaptainKid-ST10-013-V1",
-      "file": "ST10-013-v2.json"
+      "file": "ST10-013-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/set-storage-box-p011.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/set-storage-box-p011.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/set-storage-box-p011.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,11 @@
       "rarity": "SR",
       "price_eur": 545.92,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/EustassCaptainKid-ST10-013",
-      "file": "ST10-013-v3.json"
+      "file": "ST10-013-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/champ2023-p015.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/champ2023-p015.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/champ2023-p015.webp"
     }
-  ]
+  ],
+  "image": "https://scalpeurs.com/img/cards-jp/champ2023-p015.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op14-p035.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671372_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op14-p035.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op14-p035.webp",
   "price_eur": 0.02,
   "price_usd": 0.26,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Tashigi-OP14-029?language=2",
@@ -34,38 +34,51 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Tashigi-OP14-029?language=2",
-      "file": "OP14-029-v1.json"
+      "file": "OP14-029-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p035.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p035.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p035.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Tashigi (Dash Pack)",
       "rarity": "R",
-      "price_eur": 1.53,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Tashigi-OP14-029-V1?language=2",
-      "file": "OP14-029-v2.json"
+      "file": "OP14-029-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p035.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p035.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p035.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Tashigi (SP)",
       "rarity": "R",
-      "price_eur": 99.78,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Tashigi-OP14-029?language=2",
-      "file": "OP14-029-v3.json"
+      "file": "OP14-029-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p035.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p035.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p035.webp"
     },
     {
       "variant_index": 4,
       "variant_version": "v4",
       "name": "Tashigi (SP)",
       "rarity": "SP",
-      "price_eur": 79.99,
+      "price_eur": 45,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Tashigi-OP14-029-V4?language=2",
-      "file": "OP14-029-v4.json"
+      "file": "OP14-029-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p035.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p035.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p035.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.04,
   "price_avg30_eur": 1.25,
-  "listings_count": 30
+  "listings_count": 30,
+  "image": "https://scalpeurs.com/img/cards-jp/op14-p035.webp"
 }

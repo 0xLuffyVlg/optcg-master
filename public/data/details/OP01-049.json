@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p062.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454573_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p062.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p062.webp",
   "price_eur": 0.02,
   "price_usd": 0.29,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Bepo-OP01-049",
@@ -34,11 +34,15 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Bepo-OP01-049",
-      "file": "OP01-049-v1.json"
+      "file": "OP01-049-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p062.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p062.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p062.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.46,
   "price_avg30_eur": 0.42,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p062.webp"
 }

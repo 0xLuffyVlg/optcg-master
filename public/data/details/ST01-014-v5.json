@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/prb01-p278.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593901_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p278.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p278.webp",
   "price_eur": 0.02,
   "price_usd": 4.54,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Guard-Point-ST01-014-V3",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Guard-Point-ST01-014-V1",
-      "file": "ST01-014-v1.json"
+      "file": "ST01-014-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p278.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p278.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p278.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Guard-Point-ST01-014-V3",
-      "file": "ST01-014-v2.json"
+      "file": "ST01-014-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p279.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p279.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p279.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/STARTER-DECK-Straw-Hat-Crew/Guard-Point-ST01-014-V1",
-      "file": "ST01-014-v3.json"
+      "file": "ST01-014-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p280.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p280.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p280.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "C",
       "price_eur": 1.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Guard-Point-ST01-014-V1",
-      "file": "ST01-014-v4.json"
+      "file": "ST01-014-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p280.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p280.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p280.webp"
     },
     {
       "variant_index": 5,
@@ -70,8 +82,12 @@
       "rarity": "C",
       "price_eur": 3.31,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Guard-Point-ST01-014-V3",
-      "file": "ST01-014-v5.json"
+      "file": "ST01-014-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p278.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p278.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p278.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/prb01-p278.webp"
 }

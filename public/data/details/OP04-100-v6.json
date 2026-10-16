@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-en/prb01-p137.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586484_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-en/prb01-p137.webp",
+  "image_url": "https://scalpeurs.com/img/cards-en/prb01-p137.webp",
   "price_eur": 3,
   "price_usd": 2.99,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/CaponeGangBege-OP04-100-V4",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/CaponeGangBege-OP04-100-V1",
-      "file": "OP04-100-v1.json"
+      "file": "OP04-100-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op04-p120.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op04-p120.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op04-p120.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "R",
       "price_eur": 4700,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/CaponeGangBege-OP04-100-V2",
-      "file": "OP04-100-v2.json"
+      "file": "OP04-100-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op04-p121.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op04-p121.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op04-p121.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/CaponeGangBege-OP04-100-V1",
-      "file": "OP04-100-v3.json"
+      "file": "OP04-100-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p136.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p136.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p136.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/CaponeGangBege-OP04-100-V1",
-      "file": "OP04-100-v4.json"
+      "file": "OP04-100-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p137.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p137.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p137.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "R",
       "price_eur": 1.75,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/CaponeGangBege-OP04-100-V3",
-      "file": "OP04-100-v5.json"
+      "file": "OP04-100-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p136.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p136.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p136.webp"
     },
     {
       "variant_index": 6,
@@ -79,7 +94,10 @@
       "rarity": "R",
       "price_eur": 3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/CaponeGangBege-OP04-100-V4",
-      "file": "OP04-100-v6.json"
+      "file": "OP04-100-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p137.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p137.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p137.webp"
     },
     {
       "variant_index": 7,
@@ -88,7 +106,10 @@
       "rarity": "R",
       "price_eur": 0.59,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/CaponeGangBege-OP04-100-V1",
-      "file": "OP04-100-v7.json"
+      "file": "OP04-100-v7.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op04-p120.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op04-p120.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op04-p120.webp"
     },
     {
       "variant_index": 8,
@@ -97,7 +118,10 @@
       "rarity": "R",
       "price_eur": 3.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/CaponeGangBege-OP04-100-V3",
-      "file": "OP04-100-v8.json"
+      "file": "OP04-100-v8.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op04-p120.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op04-p120.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op04-p120.webp"
     },
     {
       "variant_index": 9,
@@ -106,11 +130,15 @@
       "rarity": "R",
       "price_eur": 4.67,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/CaponeGangBege-OP04-100-V4",
-      "file": "OP04-100-v9.json"
+      "file": "OP04-100-v9.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op04-p120.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op04-p120.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op04-p120.webp"
     }
   ],
   "price_min_eur": 3,
   "price_avg7_eur": 3.25,
   "price_avg30_eur": 4.93,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-en/prb01-p137.webp"
 }

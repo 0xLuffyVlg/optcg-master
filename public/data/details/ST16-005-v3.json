@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/prb02-p286.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656053_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p286.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p286.webp",
   "price_eur": 0.02,
   "price_usd": 0.26,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/MonkeyDLuffy-ST16-005-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/MonkeyDLuffy-ST16-005-V2?language=2",
-      "file": "ST16-005-v1.json"
+      "file": "ST16-005-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p286.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p286.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p286.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Uta/MonkeyDLuffy-ST16-005?language=2",
-      "file": "ST16-005-v2.json"
+      "file": "ST16-005-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p287.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p287.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p287.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "C",
       "price_eur": 0.16,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/MonkeyDLuffy-ST16-005-V2?language=2",
-      "file": "ST16-005-v3.json"
+      "file": "ST16-005-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p286.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p286.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p286.webp"
     },
     {
       "variant_index": 4,
@@ -61,8 +70,12 @@
       "rarity": "C",
       "price_eur": 1.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-ST16-005-V3?language=2",
-      "file": "ST16-005-v4.json"
+      "file": "ST16-005-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p286.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p286.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p286.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/prb02-p286.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op03-p048.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/498254_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op03-p048.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op03-p048.webp",
   "price_eur": 220,
   "price_usd": 239.94,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Nami-OP03-040-V2",
@@ -34,7 +34,10 @@
       "rarity": "L",
       "price_eur": 220,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Nami-OP03-040-V1",
-      "file": "OP03-040-v1.json"
+      "file": "OP03-040-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p047.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p047.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p047.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "L",
       "price_eur": 230,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Nami-OP03-040-V2",
-      "file": "OP03-040-v2.json"
+      "file": "OP03-040-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p048.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p048.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p048.webp"
     }
   ],
   "price_min_eur": 220,
   "price_avg7_eur": 273.56,
   "price_avg30_eur": 252.65,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op03-p048.webp"
 }

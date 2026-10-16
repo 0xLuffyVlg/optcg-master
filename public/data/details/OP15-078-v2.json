@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op15-p095.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685430_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op15-p095.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op15-p095.webp",
   "price_eur": 27,
   "price_usd": 46.87,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Mamaragan-OP15-078-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 27,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Mamaragan-OP15-078-V1?language=2",
-      "file": "OP15-078-v1.json"
+      "file": "OP15-078-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p094.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p094.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p094.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "SR",
       "price_eur": 26.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Mamaragan-OP15-078-V2?language=2",
-      "file": "OP15-078-v2.json"
+      "file": "OP15-078-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p095.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p095.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p095.webp"
     }
   ],
   "price_min_eur": 27,
   "price_avg7_eur": 39.69,
   "price_avg30_eur": 38.06,
-  "listings_count": 25
+  "listings_count": 25,
+  "image": "https://scalpeurs.com/img/cards-jp/op15-p095.webp"
 }

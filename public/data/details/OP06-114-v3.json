@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/prb01-p258.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593570_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p258.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p258.webp",
   "price_eur": 4,
   "price_usd": 11.53,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Wyper-OP06-114-V3",
@@ -34,7 +34,10 @@
       "rarity": "UC",
       "price_eur": 4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Wyper-OP06-114",
-      "file": "OP06-114-v1.json"
+      "file": "OP06-114-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p136.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p136.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p136.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Wyper-OP06-114-V1",
-      "file": "OP06-114-v2.json"
+      "file": "OP06-114-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p257.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p257.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p257.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Wyper-OP06-114-V3",
-      "file": "OP06-114-v3.json"
+      "file": "OP06-114-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p258.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p258.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p258.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "UC",
       "price_eur": 5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Wyper-OP06-114-V1",
-      "file": "OP06-114-v4.json"
+      "file": "OP06-114-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p258.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p258.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p258.webp"
     },
     {
       "variant_index": 5,
@@ -70,11 +82,15 @@
       "rarity": "UC",
       "price_eur": 4.79,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Wyper-OP06-114-V3",
-      "file": "OP06-114-v5.json"
+      "file": "OP06-114-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p136.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p136.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p136.webp"
     }
   ],
   "price_min_eur": 4,
   "price_avg7_eur": 0.06,
   "price_avg30_eur": 0.09,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/prb01-p258.webp"
 }

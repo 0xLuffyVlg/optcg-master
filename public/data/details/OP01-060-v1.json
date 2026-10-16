@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p074.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454585_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p074.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p074.webp",
   "price_eur": 0.05,
   "price_usd": 0.48,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Donquixote-Doflamingo-OP01-060-V1",
@@ -34,7 +34,10 @@
       "rarity": "L",
       "price_eur": 0.05,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Donquixote-Doflamingo-OP01-060-V1",
-      "file": "OP01-060-v1.json"
+      "file": "OP01-060-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p074.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p074.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p074.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "L",
       "price_eur": 220.79,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Donquixote-Doflamingo-OP01-060-V2",
-      "file": "OP01-060-v2.json"
+      "file": "OP01-060-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p075.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p075.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p075.webp"
     },
     {
       "variant_index": 3,
@@ -52,8 +58,12 @@
       "rarity": "L",
       "price_eur": 0.94,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Donquixote-Doflamingo/Donquixote-Doflamingo-OP01-060",
-      "file": "OP01-060-v3.json"
+      "file": "OP01-060-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/st17-p001.webp",
+      "image": "https://scalpeurs.com/img/cards-en/st17-p001.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/st17-p001.webp"
     }
   ],
-  "price_min_eur": 0.05
+  "price_min_eur": 0.05,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p074.webp"
 }

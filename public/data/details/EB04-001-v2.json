@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb04-p002.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685296_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p002.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p002.webp",
   "price_eur": 30,
   "price_usd": 46.1,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Jewelry-Bonney-EB04-001-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "L",
       "price_eur": 30,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Jewelry-Bonney-EB04-001-V1?language=2",
-      "file": "EB04-001-v1.json"
+      "file": "EB04-001-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p001.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb04-p001.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p001.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "L",
       "price_eur": 37,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Jewelry-Bonney-EB04-001-V2?language=2",
-      "file": "EB04-001-v2.json"
+      "file": "EB04-001-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p002.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb04-p002.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p002.webp"
     }
   ],
   "price_min_eur": 30,
   "price_avg7_eur": 35.16,
   "price_avg30_eur": 35.87,
-  "listings_count": 25
+  "listings_count": 25,
+  "image": "https://scalpeurs.com/img/cards-jp/eb04-p002.webp"
 }

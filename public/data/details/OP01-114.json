@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p144.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454652_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p144.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p144.webp",
   "price_eur": 0.02,
   "price_usd": 0.27,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/XDrake-OP01-114",
@@ -34,29 +34,39 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/XDrake-OP01-114",
-      "file": "OP01-114-v1.json"
+      "file": "OP01-114-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p144.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p144.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p144.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "X.Drake (CS 2023 Top Players Pack)",
       "rarity": "R",
-      "price_eur": null,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/XDrake-OP01-114-V1",
-      "file": "OP01-114-v2.json"
+      "file": "OP01-114-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/pack-championship-p047.webp",
+      "image": "https://scalpeurs.com/img/cards-en/pack-championship-p047.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/pack-championship-p047.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "X.Drake (Premium Card Collection -Best Selection Vol. 2-)",
       "rarity": "R",
-      "price_eur": 0.8,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/XDrake-OP01-114",
-      "file": "OP01-114-v3.json"
+      "file": "OP01-114-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p144.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p144.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p144.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.77,
   "price_avg30_eur": 0.91,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p144.webp"
 }

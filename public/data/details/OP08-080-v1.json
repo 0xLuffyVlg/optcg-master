@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op08-p095.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558115_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op08-p095.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op08-p095.webp",
   "price_eur": 0.02,
   "price_usd": 0.13,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Queen-OP08-080-V1",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Queen-OP08-080-V1",
-      "file": "OP08-080-v1.json"
+      "file": "OP08-080-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p095.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p095.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p095.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "R",
       "price_eur": 3.33,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Queen-OP08-080-V2",
-      "file": "OP08-080-v2.json"
+      "file": "OP08-080-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p096.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p096.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p096.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op08-p095.webp"
 }

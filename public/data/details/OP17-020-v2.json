@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op17-p025.webp",
-  "image_url": "/img/cards-fr/op17-p025-sm.webp",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op17-p025.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op17-p025.webp",
   "price_eur": 24.5,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Shanks-OP17-020-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "L",
       "price_eur": 24.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Shanks-OP17-020-V1?language=2",
-      "file": "OP17-020-v1.json"
+      "file": "OP17-020-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p024.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p024.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p024.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "L",
       "price_eur": 27,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Shanks-OP17-020-V2?language=2",
-      "file": "OP17-020-v2.json"
+      "file": "OP17-020-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p025.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p025.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p025.webp"
     }
   ],
   "price_min_eur": 24.5,
   "price_avg7_eur": 30.7,
   "price_avg30_eur": 27.82,
-  "listings_count": 28
+  "listings_count": 28,
+  "image": "https://scalpeurs.com/img/cards-jp/op17-p025.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op02-p028.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/486340_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op02-p028.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op02-p028.webp",
   "price_eur": 0.02,
   "price_usd": 0.05,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/LittleOars-Jr-OP02-020",
@@ -34,11 +34,15 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/LittleOars-Jr-OP02-020",
-      "file": "OP02-020-v1.json"
+      "file": "OP02-020-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p028.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p028.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p028.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.21,
   "price_avg30_eur": 0.99,
-  "listings_count": 32
+  "listings_count": 32,
+  "image": "https://scalpeurs.com/img/cards-jp/op02-p028.webp"
 }

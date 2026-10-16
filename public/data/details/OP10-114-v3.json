@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/prb02-p177.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656151_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p177.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p177.webp",
   "price_eur": 8.9,
   "price_usd": 45.58,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/XDrake-OP10-114-V3?language=2",
@@ -34,7 +34,10 @@
       "rarity": "UC",
       "price_eur": 8.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/XDrake-OP10-114?language=2",
-      "file": "OP10-114-v1.json"
+      "file": "OP10-114-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op10-p136.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op10-p136.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op10-p136.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/XDrake-OP10-114-V2?language=2",
-      "file": "OP10-114-v2.json"
+      "file": "OP10-114-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p176.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p176.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p176.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "UC",
       "price_eur": 8.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/XDrake-OP10-114-V3?language=2",
-      "file": "OP10-114-v3.json"
+      "file": "OP10-114-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p177.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p177.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p177.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "UC",
       "price_eur": 0.16,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/XDrake-OP10-114-V2?language=2",
-      "file": "OP10-114-v4.json"
+      "file": "OP10-114-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op10-p136.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op10-p136.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op10-p136.webp"
     },
     {
       "variant_index": 5,
@@ -70,11 +82,15 @@
       "rarity": "UC",
       "price_eur": 25.43,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/XDrake-OP10-114-V3?language=2",
-      "file": "OP10-114-v5.json"
+      "file": "OP10-114-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op10-p136.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op10-p136.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op10-p136.webp"
     }
   ],
   "price_min_eur": 8.9,
   "price_avg7_eur": 14.5,
   "price_avg30_eur": 17.84,
-  "listings_count": 35
+  "listings_count": 35,
+  "image": "https://scalpeurs.com/img/cards-jp/prb02-p177.webp"
 }

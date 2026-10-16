@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p129.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454636_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p129.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p129.webp",
   "price_eur": 0.02,
   "price_usd": 0.25,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Sasaki-OP01-101",
@@ -34,7 +34,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Sasaki-OP01-101",
-      "file": "OP01-101-v1.json"
+      "file": "OP01-101-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p129.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p129.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p129.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "PR",
       "price_eur": 0.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Sasaki-OP01-101",
-      "file": "OP01-101-v2.json"
+      "file": "OP01-101-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/pack-championship-p036.webp",
+      "image": "https://scalpeurs.com/img/cards-en/pack-championship-p036.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/pack-championship-p036.webp"
     },
     {
       "variant_index": 3,
@@ -52,11 +58,15 @@
       "rarity": "UC",
       "price_eur": 23.23,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Sasaki-OP01-101-V1",
-      "file": "OP01-101-v3.json"
+      "file": "OP01-101-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p129.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p129.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p129.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.28,
   "price_avg30_eur": 0.3,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p129.webp"
 }

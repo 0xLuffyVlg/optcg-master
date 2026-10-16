@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/eb01-p044.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544566_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p044.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p044.webp",
   "price_eur": 0.2,
   "price_usd": 2.81,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Ms-Wednesday-EB01-034-V1",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Ms-Wednesday-EB01-034-V1",
-      "file": "EB01-034-v1.json"
+      "file": "EB01-034-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p044.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb01-p044.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p044.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "SR",
       "price_eur": 7.23,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Ms-Wednesday-EB01-034-V2",
-      "file": "EB01-034-v2.json"
+      "file": "EB01-034-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p045.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb01-p045.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p045.webp"
     }
   ],
-  "price_min_eur": 0.2
+  "price_min_eur": 0.2,
+  "image": "https://scalpeurs.com/img/cards-jp/eb01-p044.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op14-p001.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/666518_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op14-p001.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op14-p001.webp",
   "price_eur": 0.02,
   "price_usd": 0.12,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Trafalgar-Law-OP14-001-V1?language=2",
@@ -34,17 +34,24 @@
       "rarity": "L",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Trafalgar-Law-OP14-001-V1?language=2",
-      "file": "OP14-001-v1.json"
+      "file": "OP14-001-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p001.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p001.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p001.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Trafalgar Law - OP14-001 (Alternate Art)",
       "rarity": "L",
-      "price_eur": 14.74,
+      "price_eur": 16.2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Trafalgar-Law-OP14-001-V2?language=2",
-      "file": "OP14-001-v2.json"
+      "file": "OP14-001-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p002.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p002.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p002.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op14-p001.webp"
 }

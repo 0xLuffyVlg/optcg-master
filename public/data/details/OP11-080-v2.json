@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op11-p099.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632453_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op11-p099.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op11-p099.webp",
   "price_eur": 230,
   "price_usd": 347.18,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Gear-Two-OP11-080-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 230,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Gear-Two-OP11-080-V1?language=2",
-      "file": "OP11-080-v1.json"
+      "file": "OP11-080-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p098.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p098.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p098.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 248,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Gear-Two-OP11-080-V2?language=2",
-      "file": "OP11-080-v2.json"
+      "file": "OP11-080-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p099.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p099.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p099.webp"
     }
   ],
   "price_min_eur": 230,
   "price_avg7_eur": 346.92,
   "price_avg30_eur": 340.17,
-  "listings_count": 34
+  "listings_count": 34,
+  "image": "https://scalpeurs.com/img/cards-jp/op11-p099.webp"
 }

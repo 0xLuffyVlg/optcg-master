@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op08-p081.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617593_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op08-p081.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op08-p081.webp",
   "price_eur": 0.2,
   "price_usd": 35.39,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Charlotte-Linlin-OP08-069",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Charlotte-Linlin-OP08-069-V1",
-      "file": "OP08-069-v1.json"
+      "file": "OP08-069-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p081.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p081.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p081.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 6,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Charlotte-Linlin-OP08-069-V2",
-      "file": "OP08-069-v2.json"
+      "file": "OP08-069-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p082.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p082.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p082.webp"
     },
     {
       "variant_index": 3,
@@ -52,8 +58,12 @@
       "rarity": "SR",
       "price_eur": 29.14,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Charlotte-Linlin-OP08-069",
-      "file": "OP08-069-v3.json"
+      "file": "OP08-069-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p081.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p081.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p081.webp"
     }
   ],
-  "price_min_eur": 0.2
+  "price_min_eur": 0.2,
+  "image": "https://scalpeurs.com/img/cards-jp/op08-p081.webp"
 }

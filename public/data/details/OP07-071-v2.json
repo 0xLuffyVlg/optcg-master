@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op07-p087.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545864_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op07-p087.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op07-p087.webp",
   "price_eur": 3.5,
   "price_usd": 4.48,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Foxy-OP07-071-V2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 3.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Foxy-OP07-071-V1",
-      "file": "OP07-071-v1.json"
+      "file": "OP07-071-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p086.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p086.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p086.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Foxy-OP07-071-V2",
-      "file": "OP07-071-v2.json"
+      "file": "OP07-071-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p087.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p087.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p087.webp"
     }
   ],
   "price_min_eur": 3.5,
   "price_avg7_eur": 5.21,
   "price_avg30_eur": 5.22,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op07-p087.webp"
 }

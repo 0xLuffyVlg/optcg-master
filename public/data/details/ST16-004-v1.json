@@ -18,7 +18,7 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-fr/prb02-p284.webp",
+  "image_path": "https://scalpeurs.com/img/cards-fr/prb02-p284.webp",
   "image_url": "https://scalpeurs.com/img/cards-fr/prb02-p284.webp",
   "price_eur": 1.99,
   "price_usd": 38.52,
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 70,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Shanks-ST16-004-V12?language=2",
-      "file": "ST16-004-v1.json"
+      "file": "ST16-004-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/prb02-p284.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/prb02-p284.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/prb02-p284.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 340,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Uta/Shanks-ST16-004?language=2",
-      "file": "ST16-004-v2.json"
+      "file": "ST16-004-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p285.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p285.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p285.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "SR",
       "price_eur": 12000,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Shanks-ST16-004?language=2",
-      "file": "ST16-004-v3.json"
+      "file": "ST16-004-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/pack-divers-p014.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/pack-divers-p014.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/pack-divers-p014.webp"
     },
     {
       "variant_index": 4,
@@ -61,11 +70,15 @@
       "rarity": "SR",
       "price_eur": 16.62,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Shanks-ST16-004-V12?language=2",
-      "file": "ST16-004-v4.json"
+      "file": "ST16-004-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p148.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p148.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p148.webp"
     }
   ],
   "price_min_eur": 1.49,
   "price_avg7_eur": 3.26,
   "price_avg30_eur": 3.12,
-  "listings_count": 14
+  "listings_count": 14,
+  "image": "https://scalpeurs.com/img/cards-fr/prb02-p284.webp"
 }

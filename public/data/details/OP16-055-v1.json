@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op16-p067.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696041_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op16-p067.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op16-p067.webp",
   "price_eur": 3.8,
   "price_usd": 0.27,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Mr2BonKureiBentham-OP16-055-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 3.8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Mr2BonKureiBentham-OP16-055-V1?language=2",
-      "file": "OP16-055-v1.json"
+      "file": "OP16-055-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p067.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p067.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p067.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 3.8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Mr2BonKureiBentham-OP16-055-V2?language=2",
-      "file": "OP16-055-v2.json"
+      "file": "OP16-055-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p068.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p068.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p068.webp"
     }
   ],
   "price_min_eur": 3.8,
   "price_avg7_eur": 0.11,
   "price_avg30_eur": 0.13,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op16-p067.webp"
 }

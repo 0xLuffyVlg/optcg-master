@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/prb02-p212.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653424_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p212.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p212.webp",
   "price_eur": 0.04,
   "price_usd": 3.08,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Trafalgar-Law-PRB02-002-V1?language=2",
@@ -34,17 +34,24 @@
       "rarity": "SR",
       "price_eur": 0.04,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Trafalgar-Law-PRB02-002-V1?language=2",
-      "file": "PRB02-002-v1.json"
+      "file": "PRB02-002-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p212.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p212.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p212.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Trafalgar Law - PRB02-002 (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 16.17,
+      "price_eur": 8.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Trafalgar-Law-PRB02-002-V2?language=2",
-      "file": "PRB02-002-v2.json"
+      "file": "PRB02-002-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p213.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p213.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p213.webp"
     }
   ],
-  "price_min_eur": 0.04
+  "price_min_eur": 0.04,
+  "image": "https://scalpeurs.com/img/cards-jp/prb02-p212.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op03-p093.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/499498_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op03-p093.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op03-p093.webp",
   "price_eur": 4,
   "price_usd": 5.19,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Issho-OP03-078-V2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Issho-OP03-078-V1",
-      "file": "OP03-078-v1.json"
+      "file": "OP03-078-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p092.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p092.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p092.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 4.21,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Issho-OP03-078-V2",
-      "file": "OP03-078-v2.json"
+      "file": "OP03-078-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p093.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p093.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p093.webp"
     },
     {
       "variant_index": 3,
@@ -52,11 +58,15 @@
       "rarity": "SR",
       "price_eur": 35,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Issho-OP03-078",
-      "file": "OP03-078-v3.json"
+      "file": "OP03-078-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op07-p149.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op07-p149.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op07-p149.webp"
     }
   ],
   "price_min_eur": 4,
   "price_avg7_eur": 5.11,
   "price_avg30_eur": 5.57,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op03-p093.webp"
 }

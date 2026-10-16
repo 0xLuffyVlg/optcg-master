@@ -18,7 +18,7 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-fr/st18-p006.webp",
+  "image_path": "https://scalpeurs.com/img/cards-fr/st18-p006.webp",
   "image_url": "https://scalpeurs.com/img/cards-fr/st18-p006.webp",
   "price_eur": 1,
   "price_usd": 5.3,
@@ -32,22 +32,29 @@
       "variant_version": "v1",
       "name": "Luffy-Tarou",
       "rarity": "SR",
-      "price_eur": 5999.99,
+      "price_eur": 1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-MonkeyDLuffy/Luffy-Tarou-ST18-005?language=2",
-      "file": "ST18-005-v1.json"
+      "file": "ST18-005-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/st18-p006.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/st18-p006.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/st18-p006.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Luffy-Tarou (SP)",
       "rarity": "SR",
-      "price_eur": 380,
+      "price_eur": 190,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Luffy-Tarou-ST18-005?language=2",
-      "file": "ST18-005-v2.json"
+      "file": "ST18-005-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op11-p155.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op11-p155.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op11-p155.webp"
     }
   ],
   "price_min_eur": 0.8,
   "price_avg7_eur": 1.64,
   "price_avg30_eur": 1.75,
-  "listings_count": 27
+  "listings_count": 27,
+  "image": "https://scalpeurs.com/img/cards-fr/st18-p006.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op12-p074.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643797_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op12-p074.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op12-p074.webp",
   "price_eur": 58,
   "price_usd": 65.37,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Boeuf-Burst-OP12-060-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 58,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Boeuf-Burst-OP12-060-V1?language=2",
-      "file": "OP12-060-v1.json"
+      "file": "OP12-060-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p073.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p073.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p073.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 58,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Boeuf-Burst-OP12-060-V2?language=2",
-      "file": "OP12-060-v2.json"
+      "file": "OP12-060-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p074.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p074.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p074.webp"
     }
   ],
   "price_min_eur": 58,
   "price_avg7_eur": 70.36,
   "price_avg30_eur": 71.48,
-  "listings_count": 33
+  "listings_count": 33,
+  "image": "https://scalpeurs.com/img/cards-jp/op12-p074.webp"
 }

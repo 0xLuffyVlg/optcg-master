@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op16-p144.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696100_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op16-p144.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op16-p144.webp",
   "price_eur": 70,
   "price_usd": 115.21,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Zehahahahaha-OP16-116-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 70,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Zehahahahaha-OP16-116-V1?language=2",
-      "file": "OP16-116-v1.json"
+      "file": "OP16-116-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p143.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p143.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p143.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 90,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Zehahahahaha-OP16-116-V2?language=2",
-      "file": "OP16-116-v2.json"
+      "file": "OP16-116-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p144.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p144.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p144.webp"
     }
   ],
   "price_min_eur": 70,
   "price_avg7_eur": 74.64,
   "price_avg30_eur": 82,
-  "listings_count": 41
+  "listings_count": 41,
+  "image": "https://scalpeurs.com/img/cards-jp/op16-p144.webp"
 }

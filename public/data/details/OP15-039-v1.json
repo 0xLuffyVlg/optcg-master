@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op15-p047.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685382_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op15-p047.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op15-p047.webp",
   "price_eur": 0.02,
   "price_usd": 0.11,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Rebecca-OP15-039-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "L",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Rebecca-OP15-039-V1?language=2",
-      "file": "OP15-039-v1.json"
+      "file": "OP15-039-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p047.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p047.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p047.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "L",
       "price_eur": 15.63,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Rebecca-OP15-039-V2?language=2",
-      "file": "OP15-039-v2.json"
+      "file": "OP15-039-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p048.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p048.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p048.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op15-p047.webp"
 }

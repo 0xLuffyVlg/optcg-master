@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op16-p001.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693417_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op16-p001.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op16-p001.webp",
   "price_eur": 0.02,
   "price_usd": 0.18,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/PortgasDAce-OP16-001-V1?language=2",
@@ -34,17 +34,24 @@
       "rarity": "L",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/PortgasDAce-OP16-001-V1?language=2",
-      "file": "OP16-001-v1.json"
+      "file": "OP16-001-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p001.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p001.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p001.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Portgas.D.Ace (001) (Alternate Art)",
       "rarity": "L",
-      "price_eur": 42.44,
+      "price_eur": 37.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/PortgasDAce-OP16-001-V2?language=2",
-      "file": "OP16-001-v2.json"
+      "file": "OP16-001-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p002.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p002.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p002.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op16-p001.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op17-p130.webp",
-  "image_url": "/img/cards-fr/op17-p129-sm.webp",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op17-p130.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op17-p130.webp",
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Linlin-OP17-099-V1?language=2",
@@ -34,17 +34,24 @@
       "rarity": "L",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Linlin-OP17-099-V1?language=2",
-      "file": "OP17-099-v1.json"
+      "file": "OP17-099-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p130.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p130.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p130.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Charlotte Linlin (Alternate Art)",
       "rarity": "L",
-      "price_eur": 19,
+      "price_eur": 14.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Linlin-OP17-099-V2?language=2",
-      "file": "OP17-099-v2.json"
+      "file": "OP17-099-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p131.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p131.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p131.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op17-p130.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op10-p086.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617115_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op10-p086.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op10-p086.webp",
   "price_eur": 0.29,
   "price_usd": 1.61,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Donquixote-Doflamingo-OP10-071-V1?language=2",
@@ -34,17 +34,24 @@
       "rarity": "SR",
       "price_eur": 0.29,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Donquixote-Doflamingo-OP10-071-V1?language=2",
-      "file": "OP10-071-v1.json"
+      "file": "OP10-071-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op10-p086.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op10-p086.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op10-p086.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Donquixote Doflamingo (Parallel)",
       "rarity": "SR",
-      "price_eur": 12.19,
+      "price_eur": 6,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Donquixote-Doflamingo-OP10-071-V2?language=2",
-      "file": "OP10-071-v2.json"
+      "file": "OP10-071-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op10-p087.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op10-p087.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op10-p087.webp"
     }
   ],
-  "price_min_eur": 0.29
+  "price_min_eur": 0.29,
+  "image": "https://scalpeurs.com/img/cards-jp/op10-p086.webp"
 }

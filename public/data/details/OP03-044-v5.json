@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op03-p053.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617588_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op03-p053.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op03-p053.webp",
   "price_eur": 0.02,
   "price_usd": 33.27,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Kaya-OP03-044",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Kaya-OP03-044",
-      "file": "OP03-044-v1.json"
+      "file": "OP03-044-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p053.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p053.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p053.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "R",
       "price_eur": 0.45,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Kaya-OP03-044-V1",
-      "file": "OP03-044-v2.json"
+      "file": "OP03-044-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p053.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p053.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p053.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "R",
       "price_eur": 7.08,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Kaya-OP03-044-V2",
-      "file": "OP03-044-v3.json"
+      "file": "OP03-044-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p053.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p053.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p053.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "R",
       "price_eur": 20.13,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Kaya-OP03-044",
-      "file": "OP03-044-v4.json"
+      "file": "OP03-044-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p053.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p053.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p053.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "R",
       "price_eur": 23.22,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Kaya-OP03-044",
-      "file": "OP03-044-v5.json"
+      "file": "OP03-044-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p053.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p053.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p053.webp"
     },
     {
       "variant_index": 6,
@@ -79,7 +94,10 @@
       "rarity": "R",
       "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Kaya-OP03-044",
-      "file": "OP03-044-v6.json"
+      "file": "OP03-044-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p053.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p053.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p053.webp"
     },
     {
       "variant_index": 7,
@@ -88,8 +106,12 @@
       "rarity": "R",
       "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Kaya-OP03-044",
-      "file": "OP03-044-v7.json"
+      "file": "OP03-044-v7.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p053.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p053.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p053.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op03-p053.webp"
 }

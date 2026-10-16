@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op06-p022.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541072_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op06-p022.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op06-p022.webp",
   "price_eur": 0.02,
   "price_usd": 0.21,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Gum-Gum-King-Kong-Gatling-OP06-018",
@@ -34,11 +34,15 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Gum-Gum-King-Kong-Gatling-OP06-018",
-      "file": "OP06-018-v1.json"
+      "file": "OP06-018-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p022.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p022.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p022.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.19,
   "price_avg30_eur": 0.19,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op06-p022.webp"
 }

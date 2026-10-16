@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/st05-p010.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/477323_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st05-p010.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st05-p010.webp",
   "price_eur": 0.02,
   "price_usd": 0.24,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-ONE-PIECE-FILM-edition/Zephyr-ST05-010",
@@ -34,8 +34,12 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-ONE-PIECE-FILM-edition/Zephyr-ST05-010",
-      "file": "ST05-010-v1.json"
+      "file": "ST05-010-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st05-p010.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st05-p010.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st05-p010.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/st05-p010.webp"
 }

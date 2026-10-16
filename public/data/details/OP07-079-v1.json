@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op07-p096.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545873_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op07-p096.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op07-p096.webp",
   "price_eur": 0.02,
   "price_usd": 0.16,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Rob-Lucci-OP07-079-V1",
@@ -34,7 +34,10 @@
       "rarity": "L",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Rob-Lucci-OP07-079-V1",
-      "file": "OP07-079-v1.json"
+      "file": "OP07-079-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p096.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p096.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p096.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "L",
       "price_eur": 17.46,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Rob-Lucci-OP07-079-V2",
-      "file": "OP07-079-v2.json"
+      "file": "OP07-079-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p097.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p097.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p097.webp"
     },
     {
       "variant_index": 3,
@@ -52,8 +58,12 @@
       "rarity": "L",
       "price_eur": 489.58,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Rob-Lucci-OP07-079",
-      "file": "OP07-079-v3.json"
+      "file": "OP07-079-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/eb02-p095.webp",
+      "image": "https://scalpeurs.com/img/cards-en/eb02-p095.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/eb02-p095.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op07-p096.webp"
 }

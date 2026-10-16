@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/st05-p011.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/477324_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st05-p011.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st05-p011.webp",
   "price_eur": 0.49,
   "price_usd": 0.71,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-ONE-PIECE-FILM-edition/Douglas-Bullet-ST05-011",
@@ -34,11 +34,15 @@
       "rarity": "SR",
       "price_eur": 0.49,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-ONE-PIECE-FILM-edition/Douglas-Bullet-ST05-011",
-      "file": "ST05-011-v1.json"
+      "file": "ST05-011-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st05-p011.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st05-p011.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st05-p011.webp"
     }
   ],
   "price_min_eur": 0.49,
   "price_avg7_eur": 0.77,
   "price_avg30_eur": 1.03,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/st05-p011.webp"
 }

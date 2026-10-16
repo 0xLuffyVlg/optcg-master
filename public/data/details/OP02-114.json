@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op02-p143.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/485246_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op02-p143.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op02-p143.webp",
   "price_eur": 0.1,
   "price_usd": 0.56,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Borsalino-OP02-114-V1",
@@ -34,44 +34,60 @@
       "rarity": "SR",
       "price_eur": 0.1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Borsalino-OP02-114-V1",
-      "file": "OP02-114-v1.json"
+      "file": "OP02-114-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p143.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p143.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p143.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Borsalino (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 8.31,
+      "price_eur": 4.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Borsalino-OP02-114-V2",
-      "file": "OP02-114-v2.json"
+      "file": "OP02-114-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p144.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p144.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p144.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Borsalino (Championship 2023)",
       "rarity": "PR",
-      "price_eur": 802.34,
+      "price_eur": 0.09,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Borsalino-OP02-114",
-      "file": "OP02-114-v3.json"
+      "file": "OP02-114-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p057.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p057.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p057.webp"
     },
     {
       "variant_index": 4,
       "variant_version": "v4",
       "name": "Borsalino (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 5.83,
+      "price_eur": 3.2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Borsalino-OP02-114",
-      "file": "OP02-114-v4.json"
+      "file": "OP02-114-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p058.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p058.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p058.webp"
     },
     {
       "variant_index": 5,
       "variant_version": "v5",
       "name": "Borsalino (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 5.83,
+      "price_eur": 0.1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Borsalino-OP02-114",
-      "file": "OP02-114-v5.json"
+      "file": "OP02-114-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p143.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p143.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p143.webp"
     }
   ],
-  "price_min_eur": 0.1
+  "price_min_eur": 0.1,
+  "image": "https://scalpeurs.com/img/cards-jp/op02-p143.webp"
 }

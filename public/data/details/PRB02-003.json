@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/prb02-p214.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653261_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p214.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p214.webp",
   "price_eur": 0.7,
   "price_usd": 7.76,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/LuckyRoux-PRB02-003-V1?language=2",
@@ -34,17 +34,24 @@
       "rarity": "R",
       "price_eur": 0.7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/LuckyRoux-PRB02-003-V1?language=2",
-      "file": "PRB02-003-v1.json"
+      "file": "PRB02-003-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p214.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p214.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p214.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Lucky.Roux (Alternate Art)",
       "rarity": "R",
-      "price_eur": 11.26,
+      "price_eur": 6,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/LuckyRoux-PRB02-003-V2?language=2",
-      "file": "PRB02-003-v2.json"
+      "file": "PRB02-003-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p215.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p215.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p215.webp"
     }
   ],
-  "price_min_eur": 0.7
+  "price_min_eur": 0.7,
+  "image": "https://scalpeurs.com/img/cards-jp/prb02-p214.webp"
 }

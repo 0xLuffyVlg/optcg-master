@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/st10-p018.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/525061_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st10-p018.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st10-p018.webp",
   "price_eur": 0.02,
   "price_usd": 0.24,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Captains/Gum-Gum-Kong-Gatling-ST10-016",
@@ -34,8 +34,12 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-The-Three-Captains/Gum-Gum-Kong-Gatling-ST10-016",
-      "file": "ST10-016-v1.json"
+      "file": "ST10-016-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st10-p018.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st10-p018.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st10-p018.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/st10-p018.webp"
 }

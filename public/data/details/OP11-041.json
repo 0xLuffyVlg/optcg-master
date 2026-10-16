@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op11-p051.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632405_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op11-p051.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op11-p051.webp",
   "price_eur": 0.02,
   "price_usd": 0.22,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Nami-OP11-041-V1?language=2",
@@ -34,38 +34,51 @@
       "rarity": "L",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Nami-OP11-041-V1?language=2",
-      "file": "OP11-041-v1.json"
+      "file": "OP11-041-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p051.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p051.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p051.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Nami (041) (Alternate Art)",
       "rarity": "L",
-      "price_eur": 35,
+      "price_eur": 34.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Nami-OP11-041-V2?language=2",
-      "file": "OP11-041-v2.json"
+      "file": "OP11-041-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p052.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p052.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p052.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Nami - OP11-041 (Nami Deck)",
       "rarity": "L",
-      "price_eur": 12.19,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Learn-Together-Deck-Set-01/Nami-OP11-041?language=2",
-      "file": "OP11-041-v3.json"
+      "file": "OP11-041-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p051.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p051.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p051.webp"
     },
     {
       "variant_index": 4,
       "variant_version": "v4",
       "name": "Nami (Whole Cake Island Arc)",
       "rarity": "L",
-      "price_eur": 670.56,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Nami-OP11-041?language=2",
-      "file": "OP11-041-v4.json"
+      "file": "OP11-041-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p051.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p051.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p051.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 7.84,
   "price_avg30_eur": 9.19,
-  "listings_count": 39
+  "listings_count": 39,
+  "image": "https://scalpeurs.com/img/cards-jp/op11-p051.webp"
 }

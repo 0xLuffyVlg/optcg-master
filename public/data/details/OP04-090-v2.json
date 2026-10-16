@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op04-p110.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/515279_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op04-p110.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op04-p110.webp",
   "price_eur": 19,
   "price_usd": 39.58,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/MonkeyDLuffy-OP04-090-V2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 19,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/MonkeyDLuffy-OP04-090-V1",
-      "file": "OP04-090-v1.json"
+      "file": "OP04-090-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op04-p109.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op04-p109.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op04-p109.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "SR",
       "price_eur": 17.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/MonkeyDLuffy-OP04-090-V2",
-      "file": "OP04-090-v2.json"
+      "file": "OP04-090-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op04-p110.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op04-p110.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op04-p110.webp"
     }
   ],
   "price_min_eur": 19,
   "price_avg7_eur": 18.68,
   "price_avg30_eur": 22.6,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op04-p110.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op12-p120.webp",
-  "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-098.png",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op12-p120.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op12-p120.webp",
   "price_eur": 0.02,
   "price_usd": 6.81,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Hair-Removal-Fist-OP12-098-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Hair-Removal-Fist-OP12-098?language=2",
-      "file": "OP12-098-v1.json"
+      "file": "OP12-098-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p120.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p120.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p120.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "UC",
       "price_eur": 2.96,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Hair-Removal-Fist-OP12-098-V1?language=2",
-      "file": "OP12-098-v2.json"
+      "file": "OP12-098-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p120.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p120.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p120.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op12-p120.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op04-p114.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/516805_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op04-p114.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op04-p114.webp",
   "price_eur": 0.02,
   "price_usd": 0.16,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Trueno-Bastardo-OP04-094",
@@ -34,8 +34,12 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Trueno-Bastardo-OP04-094",
-      "file": "OP04-094-v1.json"
+      "file": "OP04-094-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op04-p114.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op04-p114.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op04-p114.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op04-p114.webp"
 }

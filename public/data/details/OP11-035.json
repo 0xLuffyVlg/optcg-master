@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op11-p044.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632398_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op11-p044.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op11-p044.webp",
   "price_eur": 0.02,
   "price_usd": 0.06,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Fisher-Tiger-OP11-035?language=2",
@@ -34,11 +34,15 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Fisher-Tiger-OP11-035?language=2",
-      "file": "OP11-035-v1.json"
+      "file": "OP11-035-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p044.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p044.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p044.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.43,
   "price_avg30_eur": 0.26,
-  "listings_count": 6
+  "listings_count": 6,
+  "image": "https://scalpeurs.com/img/cards-jp/op11-p044.webp"
 }

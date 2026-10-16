@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/st26-p004.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632777_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st26-p004.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st26-p004.webp",
   "price_eur": 0.94,
   "price_usd": 1.57,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-Black-MonkeyDLuffy/Nico-Robin-ST26-003?language=2",
@@ -34,8 +34,12 @@
       "rarity": "SR",
       "price_eur": 0.94,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-Black-MonkeyDLuffy/Nico-Robin-ST26-003?language=2",
-      "file": "ST26-003-v1.json"
+      "file": "ST26-003-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st26-p004.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st26-p004.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st26-p004.webp"
     }
   ],
-  "price_min_eur": 0.94
+  "price_min_eur": 0.94,
+  "image": "https://scalpeurs.com/img/cards-jp/st26-p004.webp"
 }

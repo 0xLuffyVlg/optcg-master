@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p009.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454518_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p009.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p009.webp",
   "price_eur": 0.02,
   "price_usd": 0.35,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Otama-OP01-006",
@@ -34,34 +34,46 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Otama-OP01-006",
-      "file": "OP01-006-v1.json"
+      "file": "OP01-006-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p009.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p009.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p009.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Otama (Online Regional 2023) [Participant]",
       "rarity": "PR",
-      "price_eur": 90000,
+      "price_eur": 0.05,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Otama-OP01-006-V1",
-      "file": "OP01-006-v2.json"
+      "file": "OP01-006-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p003.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p003.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p003.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Otama (Japanese 1st Anniversary Set)",
       "rarity": "UC",
-      "price_eur": 0.02,
+      "price_eur": 7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Otama-OP01-006",
-      "file": "OP01-006-v3.json"
+      "file": "OP01-006-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p004.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p004.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p004.webp"
     },
     {
       "variant_index": 4,
       "variant_version": "v4",
       "name": "Otama (Jolly Roger Foil)",
       "rarity": "UC",
-      "price_eur": 0.05,
+      "price_eur": 7.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Otama-OP01-006-V1",
-      "file": "OP01-006-v4.json"
+      "file": "OP01-006-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p005.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p005.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p005.webp"
     },
     {
       "variant_index": 5,
@@ -70,47 +82,63 @@
       "rarity": "UC",
       "price_eur": 7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Otama-OP01-006-V3",
-      "file": "OP01-006-v5.json"
+      "file": "OP01-006-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p004.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p004.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p004.webp"
     },
     {
       "variant_index": 6,
       "variant_version": "v6",
       "name": "Otama (Alternate Art)",
       "rarity": "UC",
-      "price_eur": 7.47,
+      "price_eur": 7.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Otama-OP01-006-V4",
-      "file": "OP01-006-v6.json"
+      "file": "OP01-006-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p005.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p005.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p005.webp"
     },
     {
       "variant_index": 7,
       "variant_version": "v7",
       "name": "Otama (Jolly Roger Foil)",
       "rarity": "UC",
-      "price_eur": 0.35,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Otama-OP01-006-V1",
-      "file": "OP01-006-v7.json"
+      "file": "OP01-006-v7.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p009.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p009.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p009.webp"
     },
     {
       "variant_index": 8,
       "variant_version": "v8",
       "name": "Otama (Full Art)",
       "rarity": "UC",
-      "price_eur": 7.94,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Otama-OP01-006-V3",
-      "file": "OP01-006-v8.json"
+      "file": "OP01-006-v8.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p009.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p009.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p009.webp"
     },
     {
       "variant_index": 9,
       "variant_version": "v9",
       "name": "Otama (Alternate Art)",
       "rarity": "UC",
-      "price_eur": 7.98,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Otama-OP01-006-V4",
-      "file": "OP01-006-v9.json"
+      "file": "OP01-006-v9.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p009.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p009.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p009.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 16.12,
   "price_avg30_eur": 13.57,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p009.webp"
 }

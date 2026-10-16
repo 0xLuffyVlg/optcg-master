@@ -18,8 +18,8 @@
   "rarity": "PR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/st06-p002.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/483106_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st06-p002.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st06-p002.webp",
   "price_eur": 0.02,
   "price_usd": 0.73,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Koby-ST06-002",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Absolute-Justice/Koby-ST06-002",
-      "file": "ST06-002-v1.json"
+      "file": "ST06-002-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st06-p002.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st06-p002.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st06-p002.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "PR",
       "price_eur": 0.25,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Koby-ST06-002",
-      "file": "ST06-002-v2.json"
+      "file": "ST06-002-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st06-p002.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st06-p002.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st06-p002.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/st06-p002.webp"
 }

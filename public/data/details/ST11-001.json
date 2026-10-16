@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/st11-p011.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/580997_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st11-p011.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st11-p011.webp",
   "price_eur": 0.1,
   "price_usd": 0.49,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Uta/Uta-ST11-001",
@@ -34,26 +34,36 @@
       "rarity": "L",
       "price_eur": 0.1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Uta/Uta-ST11-001",
-      "file": "ST11-001-v1.json"
+      "file": "ST11-001-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st11-p011.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st11-p011.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st11-p011.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Uta (001)",
       "rarity": "L",
-      "price_eur": 1.06,
+      "price_eur": 0.39,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Uta/Uta-ST11-001",
-      "file": "ST11-001-v2.json"
+      "file": "ST11-001-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/st16-p001.webp",
+      "image": "https://scalpeurs.com/img/cards-en/st16-p001.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/st16-p001.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Uta (ST11-001)",
       "rarity": "L",
-      "price_eur": 0.61,
+      "price_eur": 0.1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Uta/Uta-ST11-001",
-      "file": "ST11-001-v3.json"
+      "file": "ST11-001-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st11-p011.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st11-p011.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st11-p011.webp"
     }
   ],
-  "price_min_eur": 0.1
+  "price_min_eur": 0.1,
+  "image": "https://scalpeurs.com/img/cards-jp/st11-p011.webp"
 }

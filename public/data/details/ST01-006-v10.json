@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/prb01-p274.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/586180_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp",
   "price_eur": 0.02,
   "price_usd": 10.35,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Tony-TonyChopper-ST01-006-V1",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Tony-TonyChopper-ST01-006-V1",
-      "file": "ST01-006-v1.json"
+      "file": "ST01-006-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "C",
       "price_eur": 14.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Tony-TonyChopper-ST01-006-V3",
-      "file": "ST01-006-v2.json"
+      "file": "ST01-006-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p275.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p275.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p275.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "C",
       "price_eur": 699.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Tony-TonyChopper-ST01-006-V4",
-      "file": "ST01-006-v3.json"
+      "file": "ST01-006-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p276.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p276.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p276.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "C",
       "price_eur": 12,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/STARTER-DECK-Straw-Hat-Crew/Tony-TonyChopper-ST01-006-V1",
-      "file": "ST01-006-v4.json"
+      "file": "ST01-006-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p277.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p277.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p277.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "PR",
       "price_eur": 408.14,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Tony-TonyChopper-ST01-006",
-      "file": "ST01-006-v5.json"
+      "file": "ST01-006-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp"
     },
     {
       "variant_index": 6,
@@ -79,7 +94,10 @@
       "rarity": "PR",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Tony-TonyChopper-ST01-006",
-      "file": "ST01-006-v6.json"
+      "file": "ST01-006-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p274.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p274.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p274.webp"
     },
     {
       "variant_index": 7,
@@ -88,7 +106,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Tony-TonyChopper-ST01-006-V2",
-      "file": "ST01-006-v7.json"
+      "file": "ST01-006-v7.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p275.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p275.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p275.webp"
     },
     {
       "variant_index": 8,
@@ -97,7 +118,10 @@
       "rarity": "C",
       "price_eur": 22,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Tony-TonyChopper-ST01-006-V2",
-      "file": "ST01-006-v8.json"
+      "file": "ST01-006-v8.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p276.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p276.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p276.webp"
     },
     {
       "variant_index": 9,
@@ -106,7 +130,10 @@
       "rarity": "C",
       "price_eur": 38.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Tony-TonyChopper-ST01-006-V3",
-      "file": "ST01-006-v9.json"
+      "file": "ST01-006-v9.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p277.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p277.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p277.webp"
     },
     {
       "variant_index": 10,
@@ -115,7 +142,10 @@
       "rarity": "C",
       "price_eur": 0.31,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Tony-TonyChopper-ST01-006-V1",
-      "file": "ST01-006-v10.json"
+      "file": "ST01-006-v10.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp"
     },
     {
       "variant_index": 11,
@@ -124,7 +154,10 @@
       "rarity": "C",
       "price_eur": 21.2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Tony-TonyChopper-ST01-006-V3",
-      "file": "ST01-006-v11.json"
+      "file": "ST01-006-v11.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp"
     },
     {
       "variant_index": 12,
@@ -133,8 +166,12 @@
       "rarity": "C",
       "price_eur": 36.79,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Tony-TonyChopper-ST01-006-V4",
-      "file": "ST01-006-v12.json"
+      "file": "ST01-006-v12.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/prb01-p274.webp"
 }

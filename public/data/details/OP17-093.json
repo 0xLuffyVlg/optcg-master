@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op17-p123.webp",
-  "image_url": "/img/cards-fr/op17-p122-sm.webp",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op17-p123.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op17-p123.webp",
   "price_eur": 2,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/MonkeyDLuffy-OP17-093-V1?language=2",
@@ -34,20 +34,27 @@
       "rarity": "SR",
       "price_eur": 2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/MonkeyDLuffy-OP17-093-V1?language=2",
-      "file": "OP17-093-v1.json"
+      "file": "OP17-093-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p123.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p123.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p123.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Monkey D. Luffy (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 22,
+      "price_eur": 20,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/MonkeyDLuffy-OP17-093-V2?language=2",
-      "file": "OP17-093-v2.json"
+      "file": "OP17-093-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p124.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p124.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p124.webp"
     }
   ],
   "price_min_eur": 2,
   "price_avg7_eur": 3.46,
   "price_avg30_eur": 4.01,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op17-p123.webp"
 }

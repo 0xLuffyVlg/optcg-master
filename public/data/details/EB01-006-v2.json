@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/eb01-p009.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/544531_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p009.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p009.webp",
   "price_eur": 54.65,
   "price_usd": 162.77,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Tony-TonyChopper-EB01-006-V2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 54.65,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Tony-TonyChopper-EB01-006-V1",
-      "file": "EB01-006-v1.json"
+      "file": "EB01-006-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p008.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb01-p008.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p008.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 57,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Tony-TonyChopper-EB01-006-V2",
-      "file": "EB01-006-v2.json"
+      "file": "EB01-006-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p009.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb01-p009.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p009.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "SR",
       "price_eur": 3980,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection/Tony-TonyChopper-EB01-006-V3",
-      "file": "EB01-006-v3.json"
+      "file": "EB01-006-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p010.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb01-p010.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p010.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "SR",
       "price_eur": 134.87,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Tony-TonyChopper-EB01-006-V2",
-      "file": "EB01-006-v4.json"
+      "file": "EB01-006-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p008.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb01-p008.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p008.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "SR",
       "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Tony-TonyChopper-EB01-006",
-      "file": "EB01-006-v5.json"
+      "file": "EB01-006-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb01-p008.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb01-p008.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb01-p008.webp"
     },
     {
       "variant_index": 6,
@@ -79,11 +94,15 @@
       "rarity": "SR",
       "price_eur": 2700,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Tony-TonyChopper-EB01-006",
-      "file": "EB01-006-v6.json"
+      "file": "EB01-006-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p001.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p001.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p001.webp"
     }
   ],
   "price_min_eur": 54.65,
   "price_avg7_eur": 55.16,
   "price_avg30_eur": 69.01,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/eb01-p009.webp"
 }

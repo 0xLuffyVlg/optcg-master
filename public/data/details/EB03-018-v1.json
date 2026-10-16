@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb03-p022.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672760_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p022.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p022.webp",
   "price_eur": 0.14,
   "price_usd": 0.52,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Tashigi-EB03-018-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.14,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Tashigi-EB03-018-V1?language=2",
-      "file": "EB03-018-v1.json"
+      "file": "EB03-018-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p022.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb03-p022.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p022.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 5.89,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Tashigi-EB03-018-V2?language=2",
-      "file": "EB03-018-v2.json"
+      "file": "EB03-018-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p023.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb03-p023.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p023.webp"
     },
     {
       "variant_index": 3,
@@ -52,8 +58,12 @@
       "rarity": "SR",
       "price_eur": 126.26,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Tashigi-EB03-018-V3?language=2",
-      "file": "EB03-018-v3.json"
+      "file": "EB03-018-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p083.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb03-p083.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p083.webp"
     }
   ],
-  "price_min_eur": 0.14
+  "price_min_eur": 0.14,
+  "image": "https://scalpeurs.com/img/cards-jp/eb03-p022.webp"
 }

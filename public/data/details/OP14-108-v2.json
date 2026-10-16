@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op14-p130.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671438_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op14-p130.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op14-p130.webp",
   "price_eur": 0.02,
   "price_usd": 0.2,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Silvers-Rayleigh-OP14-108?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SP",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Silvers-Rayleigh-OP14-108?language=2",
-      "file": "OP14-108-v1.json"
+      "file": "OP14-108-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/op14-p130.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/op14-p130.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/op14-p130.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "R",
       "price_eur": 0.21,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Silvers-Rayleigh-OP14-108?language=2",
-      "file": "OP14-108-v2.json"
+      "file": "OP14-108-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p130.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p130.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p130.webp"
     },
     {
       "variant_index": 3,
@@ -52,8 +58,12 @@
       "rarity": "R",
       "price_eur": 2.38,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Silvers-Rayleigh-OP14-108-V1?language=2",
-      "file": "OP14-108-v3.json"
+      "file": "OP14-108-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p130.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p130.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p130.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op14-p130.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op13-p130.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657379_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op13-p130.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op13-p130.webp",
   "price_eur": 0.02,
   "price_usd": 0.06,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Atlas-OP13-101?language=2",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Atlas-OP13-101?language=2",
-      "file": "OP13-101-v1.json"
+      "file": "OP13-101-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p130.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p130.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p130.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.22,
   "price_avg30_eur": 1.14,
-  "listings_count": 7
+  "listings_count": 7,
+  "image": "https://scalpeurs.com/img/cards-jp/op13-p130.webp"
 }

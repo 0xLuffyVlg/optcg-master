@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op16-p069.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696043_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op16-p069.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op16-p069.webp",
   "price_eur": 13,
   "price_usd": 7.58,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Mr3Galdino-OP16-056-V1?language=2",
@@ -34,20 +34,27 @@
       "rarity": "SR",
       "price_eur": 13,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Mr3Galdino-OP16-056-V1?language=2",
-      "file": "OP16-056-v1.json"
+      "file": "OP16-056-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p069.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p069.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p069.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Mr.3(Galdino) (056) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 8,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Mr3Galdino-OP16-056-V2?language=2",
-      "file": "OP16-056-v2.json"
+      "file": "OP16-056-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p070.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p070.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p070.webp"
     }
   ],
   "price_min_eur": 13,
   "price_avg7_eur": 4.23,
   "price_avg30_eur": 3.43,
-  "listings_count": 43
+  "listings_count": 43,
+  "image": "https://scalpeurs.com/img/cards-jp/op16-p069.webp"
 }

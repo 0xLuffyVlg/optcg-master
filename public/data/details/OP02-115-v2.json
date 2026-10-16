@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op02-p146.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/484822_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op02-p146.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op02-p146.webp",
   "price_eur": 8,
   "price_usd": 13.22,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/MonkeyDGarp-OP02-115-V2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/MonkeyDGarp-OP02-115-V1",
-      "file": "OP02-115-v1.json"
+      "file": "OP02-115-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p145.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p145.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p145.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/MonkeyDGarp-OP02-115-V2",
-      "file": "OP02-115-v2.json"
+      "file": "OP02-115-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p146.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p146.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p146.webp"
     }
   ],
   "price_min_eur": 8,
   "price_avg7_eur": 9.52,
   "price_avg30_eur": 15.35,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op02-p146.webp"
 }

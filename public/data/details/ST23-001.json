@@ -18,7 +18,7 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-fr/st23-p002.webp",
+  "image_path": "https://scalpeurs.com/img/cards-fr/st23-p002.webp",
   "image_url": "https://scalpeurs.com/img/cards-fr/st23-p002.webp",
   "price_eur": 7.9,
   "price_usd": 12.5,
@@ -32,13 +32,17 @@
       "variant_version": "v1",
       "name": "Uta",
       "rarity": "SR",
-      "price_eur": 100,
+      "price_eur": 7.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Red-Shanks/Uta-ST23-001?language=2",
-      "file": "ST23-001-v1.json"
+      "file": "ST23-001-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/st23-p002.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/st23-p002.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/st23-p002.webp"
     }
   ],
   "price_min_eur": 8.5,
   "price_avg7_eur": 10.76,
   "price_avg30_eur": 10.61,
-  "listings_count": 13
+  "listings_count": 13,
+  "image": "https://scalpeurs.com/img/cards-fr/st23-p002.webp"
 }

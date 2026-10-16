@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb04-p017.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668658_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p017.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p017.webp",
   "price_eur": 0.04,
   "price_usd": 0.38,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Carrot-EB04-013-V1?language=2",
@@ -34,17 +34,24 @@
       "rarity": "SR",
       "price_eur": 0.04,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Carrot-EB04-013-V1?language=2",
-      "file": "EB04-013-v1.json"
+      "file": "EB04-013-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p017.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb04-p017.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p017.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Carrot (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 6.44,
+      "price_eur": 7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Carrot-EB04-013-V2?language=2",
-      "file": "EB04-013-v2.json"
+      "file": "EB04-013-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p018.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb04-p018.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p018.webp"
     }
   ],
-  "price_min_eur": 0.04
+  "price_min_eur": 0.04,
+  "image": "https://scalpeurs.com/img/cards-jp/eb04-p017.webp"
 }

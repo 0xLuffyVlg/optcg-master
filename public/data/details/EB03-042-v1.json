@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb03-p053.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672791_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p053.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p053.webp",
   "price_eur": 0.4,
   "price_usd": 0.72,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Koala-EB03-042-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Koala-EB03-042-V1?language=2",
-      "file": "EB03-042-v1.json"
+      "file": "EB03-042-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p053.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb03-p053.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p053.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 8.3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Koala-EB03-042-V2?language=2",
-      "file": "EB03-042-v2.json"
+      "file": "EB03-042-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p054.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb03-p054.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p054.webp"
     },
     {
       "variant_index": 3,
@@ -52,8 +58,12 @@
       "rarity": "SR",
       "price_eur": 137.44,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Koala-EB03-042-V3?language=2",
-      "file": "EB03-042-v3.json"
+      "file": "EB03-042-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p087.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb03-p087.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p087.webp"
     }
   ],
-  "price_min_eur": 0.4
+  "price_min_eur": 0.4,
+  "image": "https://scalpeurs.com/img/cards-jp/eb03-p053.webp"
 }

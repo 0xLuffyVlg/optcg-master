@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/st13-p017.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/543611_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st13-p017.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st13-p017.webp",
   "price_eur": 0.02,
   "price_usd": 0.2,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/Shanks-ST13-009-V1",
@@ -34,17 +34,24 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/Shanks-ST13-009-V1",
-      "file": "ST13-009-v1.json"
+      "file": "ST13-009-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st13-p017.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st13-p017.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st13-p017.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Shanks (Parallel)",
       "rarity": "C",
-      "price_eur": 4.35,
+      "price_eur": 4.25,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/Shanks-ST13-009-V2",
-      "file": "ST13-009-v2.json"
+      "file": "ST13-009-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st13-p018.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st13-p018.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st13-p018.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/st13-p017.webp"
 }

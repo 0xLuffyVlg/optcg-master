@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op07-p121.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545898_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op07-p121.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op07-p121.webp",
   "price_eur": 0.02,
   "price_usd": 0.16,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Shaka-OP07-101",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Shaka-OP07-101",
-      "file": "OP07-101-v1.json"
+      "file": "OP07-101-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p121.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p121.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p121.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 2.29,
   "price_avg30_eur": 3.12,
-  "listings_count": 29
+  "listings_count": 29,
+  "image": "https://scalpeurs.com/img/cards-jp/op07-p121.webp"
 }

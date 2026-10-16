@@ -18,7 +18,7 @@
   "rarity": "P",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/promo-p-p001.webp",
+  "image_path": "https://scalpeurs.com/img/cards-jp/promo-p-p001.webp",
   "image_url": "https://scalpeurs.com/img/cards-jp/promo-p-p001.webp",
   "price_eur": 4.49,
   "price_usd": null,
@@ -34,11 +34,15 @@
       "rarity": "P",
       "price_eur": 4.49,
       "cardmarket_url": null,
-      "file": "P-001-v1.json"
+      "file": "P-001-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/promo-p-p001.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/promo-p-p001.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/promo-p-p001.webp"
     }
   ],
   "price_min_eur": 4.49,
   "price_avg7_eur": null,
   "price_avg30_eur": null,
-  "listings_count": null
+  "listings_count": null,
+  "image": "https://scalpeurs.com/img/cards-jp/promo-p-p001.webp"
 }

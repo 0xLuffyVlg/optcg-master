@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op13-p110.webp",
-  "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-086.png",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op13-p110.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op13-p110.webp",
   "price_eur": 0.02,
   "price_usd": 8.68,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Saint-Shalria-OP13-086-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Saint-Shalria-OP13-086?language=2",
-      "file": "OP13-086-v1.json"
+      "file": "OP13-086-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p110.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p110.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p110.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "UC",
       "price_eur": 4.1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Saint-Shalria-OP13-086-V1?language=2",
-      "file": "OP13-086-v2.json"
+      "file": "OP13-086-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p110.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p110.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p110.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op13-p110.webp"
 }

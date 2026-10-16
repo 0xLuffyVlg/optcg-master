@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op12-p088.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643811_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op12-p088.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op12-p088.webp",
   "price_eur": 0.02,
   "price_usd": 1.36,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Charlotte-Pudding-OP12-071?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Charlotte-Pudding-OP12-071?language=2",
-      "file": "OP12-071-v1.json"
+      "file": "OP12-071-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p088.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p088.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p088.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "PR",
       "price_eur": 17.91,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Charlotte-Pudding-OP12-071-V1?language=2",
-      "file": "OP12-071-v2.json"
+      "file": "OP12-071-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/champ-card-set-p046.webp",
+      "image": "https://scalpeurs.com/img/cards-en/champ-card-set-p046.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/champ-card-set-p046.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op12-p088.webp"
 }

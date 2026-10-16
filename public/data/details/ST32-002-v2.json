@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op17-p164.webp",
-  "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-002.png",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op17-p164.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op17-p164.webp",
   "price_eur": 75,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Roronoa-Zoro/Kouzuki-Oden-ST32-002-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SP",
       "price_eur": 75,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Roronoa-Zoro/Kouzuki-Oden-ST32-002?language=2",
-      "file": "ST32-002-v1.json"
+      "file": "ST32-002-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/op17-p164.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/op17-p164.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/op17-p164.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "SR",
       "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Roronoa-Zoro/Kouzuki-Oden-ST32-002-V2?language=2",
-      "file": "ST32-002-v2.json"
+      "file": "ST32-002-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p164.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p164.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p164.webp"
     }
   ],
-  "price_min_eur": 75
+  "price_min_eur": 75,
+  "image": "https://scalpeurs.com/img/cards-jp/op17-p164.webp"
 }

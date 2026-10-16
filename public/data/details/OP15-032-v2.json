@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op15-p040.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685375_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op15-p040.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op15-p040.webp",
   "price_eur": 20,
   "price_usd": 37.68,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Brook-OP15-032-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 20,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Brook-OP15-032-V1?language=2",
-      "file": "OP15-032-v1.json"
+      "file": "OP15-032-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p039.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p039.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p039.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "SR",
       "price_eur": 19,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Brook-OP15-032-V2?language=2",
-      "file": "OP15-032-v2.json"
+      "file": "OP15-032-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p040.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p040.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p040.webp"
     }
   ],
   "price_min_eur": 20,
   "price_avg7_eur": 22.01,
   "price_avg30_eur": 20.89,
-  "listings_count": 17
+  "listings_count": 17,
+  "image": "https://scalpeurs.com/img/cards-jp/op15-p040.webp"
 }

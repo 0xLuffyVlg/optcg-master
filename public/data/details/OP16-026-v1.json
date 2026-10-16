@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op16-p032.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696011_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op16-p032.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op16-p032.webp",
   "price_eur": 0.05,
   "price_usd": 0.39,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/EmporioIvankov-OP16-026-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.05,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/EmporioIvankov-OP16-026-V1?language=2",
-      "file": "OP16-026-v1.json"
+      "file": "OP16-026-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p032.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p032.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p032.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "SR",
       "price_eur": 9.53,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/EmporioIvankov-OP16-026-V2?language=2",
-      "file": "OP16-026-v2.json"
+      "file": "OP16-026-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p033.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p033.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p033.webp"
     }
   ],
-  "price_min_eur": 0.05
+  "price_min_eur": 0.05,
+  "image": "https://scalpeurs.com/img/cards-jp/op16-p032.webp"
 }

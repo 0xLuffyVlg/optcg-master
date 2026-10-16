@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op14-p029.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671367_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op14-p029.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op14-p029.webp",
   "price_eur": 0.02,
   "price_usd": 0.09,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Kinemon-OP14-024?language=2",
@@ -34,11 +34,15 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Kinemon-OP14-024?language=2",
-      "file": "OP14-024-v1.json"
+      "file": "OP14-024-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p029.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p029.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p029.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.18,
   "price_avg30_eur": 1.55,
-  "listings_count": 3
+  "listings_count": 3,
+  "image": "https://scalpeurs.com/img/cards-jp/op14-p029.webp"
 }

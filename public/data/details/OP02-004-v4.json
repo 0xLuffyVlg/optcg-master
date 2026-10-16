@@ -18,8 +18,8 @@
   "rarity": "PR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-en/prb01-p036.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514045_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-en/prb01-p036.webp",
+  "image_url": "https://scalpeurs.com/img/cards-en/prb01-p036.webp",
   "price_eur": 0.04,
   "price_usd": 2200,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/EdwardNewgate-OP02-004",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.04,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/EdwardNewgate-OP02-004-V1",
-      "file": "OP02-004-v1.json"
+      "file": "OP02-004-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p006.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p006.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p006.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 14.95,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/EdwardNewgate-OP02-004-V2",
-      "file": "OP02-004-v2.json"
+      "file": "OP02-004-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p007.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p007.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p007.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "SR",
       "price_eur": 120,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/EdwardNewgate-OP02-004",
-      "file": "OP02-004-v3.json"
+      "file": "OP02-004-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op04-p147.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op04-p147.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op04-p147.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "PR",
       "price_eur": 0.04,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/EdwardNewgate-OP02-004",
-      "file": "OP02-004-v4.json"
+      "file": "OP02-004-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p036.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p036.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p036.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "SR",
       "price_eur": 6,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/EdwardNewgate-OP02-004",
-      "file": "OP02-004-v5.json"
+      "file": "OP02-004-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p037.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p037.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p037.webp"
     },
     {
       "variant_index": 6,
@@ -79,11 +94,15 @@
       "rarity": "SR",
       "price_eur": 7.37,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/EdwardNewgate-OP02-004",
-      "file": "OP02-004-v6.json"
+      "file": "OP02-004-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p006.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p006.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p006.webp"
     }
   ],
   "price_min_eur": 0.04,
   "price_avg7_eur": 0.4,
   "price_avg30_eur": 0.56,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-en/prb01-p036.webp"
 }

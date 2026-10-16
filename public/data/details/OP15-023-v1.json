@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op15-p029.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685364_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op15-p029.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op15-p029.webp",
   "price_eur": 0.02,
   "price_usd": 0.21,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Arlong-OP15-023?language=2",
@@ -34,11 +34,15 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Arlong-OP15-023?language=2",
-      "file": "OP15-023-v1.json"
+      "file": "OP15-023-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p029.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p029.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p029.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.99,
   "price_avg30_eur": 1.87,
-  "listings_count": 26
+  "listings_count": 26,
+  "image": "https://scalpeurs.com/img/cards-jp/op15-p029.webp"
 }

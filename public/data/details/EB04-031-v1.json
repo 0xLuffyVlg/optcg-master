@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb04-p039.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671341_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p039.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p039.webp",
   "price_eur": 0.02,
   "price_usd": 0.14,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/King-EB04-031-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/King-EB04-031-V1?language=2",
-      "file": "EB04-031-v1.json"
+      "file": "EB04-031-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p039.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb04-p039.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p039.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "R",
       "price_eur": 16.62,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/King-EB04-031-V2?language=2",
-      "file": "EB04-031-v2.json"
+      "file": "EB04-031-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p040.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb04-p040.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p040.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/eb04-p039.webp"
 }

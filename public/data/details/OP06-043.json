@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op06-p053.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541048_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op06-p053.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op06-p053.webp",
   "price_eur": 0.5,
   "price_usd": 0.82,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Aramaki-OP06-043-V1",
@@ -34,17 +34,24 @@
       "rarity": "SR",
       "price_eur": 0.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Aramaki-OP06-043-V1",
-      "file": "OP06-043-v1.json"
+      "file": "OP06-043-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p053.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p053.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p053.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Aramaki (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 9.07,
+      "price_eur": 3.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Aramaki-OP06-043-V2",
-      "file": "OP06-043-v2.json"
+      "file": "OP06-043-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p054.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p054.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p054.webp"
     }
   ],
-  "price_min_eur": 0.5
+  "price_min_eur": 0.5,
+  "image": "https://scalpeurs.com/img/cards-jp/op06-p053.webp"
 }

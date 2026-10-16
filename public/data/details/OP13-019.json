@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op13-p025.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657274_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op13-p025.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op13-p025.webp",
   "price_eur": 0.02,
   "price_usd": 0.12,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/But-Ace-Here-Said-You-Deserved-It-OP13-019?language=2",
@@ -34,17 +34,24 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/But-Ace-Here-Said-You-Deserved-It-OP13-019?language=2",
-      "file": "OP13-019-v1.json"
+      "file": "OP13-019-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p025.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p025.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p025.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "But Ace Here Said You Deserved It!! (3rd Anniversary Treasure Campaign Pack)",
       "rarity": "R",
-      "price_eur": 0.77,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/But-Ace-Here-Said-You-Deserved-It-OP13-019-V1?language=2",
-      "file": "OP13-019-v2.json"
+      "file": "OP13-019-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p025.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p025.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p025.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op13-p025.webp"
 }

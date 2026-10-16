@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/prb02-p069.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656130_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p069.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p069.webp",
   "price_eur": 17,
   "price_usd": 67.48,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Gravity-Blade-Raging-Tiger-OP06-058-V2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 17,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Gravity-Blade-Raging-Tiger-OP06-058",
-      "file": "OP06-058-v1.json"
+      "file": "OP06-058-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p070.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p070.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p070.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "R",
       "price_eur": 16.14,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Gravity-Blade-Raging-Tiger-OP06-058-V2",
-      "file": "OP06-058-v2.json"
+      "file": "OP06-058-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p069.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p069.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p069.webp"
     },
     {
       "variant_index": 3,
@@ -52,11 +58,15 @@
       "rarity": "R",
       "price_eur": 24.81,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Gravity-Blade-Raging-Tiger-OP06-058-V2",
-      "file": "OP06-058-v3.json"
+      "file": "OP06-058-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p070.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p070.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p070.webp"
     }
   ],
   "price_min_eur": 17,
   "price_avg7_eur": 14.01,
   "price_avg30_eur": 15.47,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/prb02-p069.webp"
 }

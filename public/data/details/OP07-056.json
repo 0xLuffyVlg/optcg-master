@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op07-p069.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545846_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op07-p069.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op07-p069.webp",
   "price_eur": 0.02,
   "price_usd": 0.22,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Slave-Arrow-OP07-056",
@@ -34,7 +34,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Slave-Arrow-OP07-056",
-      "file": "OP07-056-v1.json"
+      "file": "OP07-056-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p069.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p069.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p069.webp"
     },
     {
       "variant_index": 2,
@@ -43,20 +46,27 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Slave-Arrow-OP07-056-V2",
-      "file": "OP07-056-v2.json"
+      "file": "OP07-056-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p101.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p101.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p101.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Slave Arrow (Pirate Foil)",
       "rarity": "UC",
-      "price_eur": 0.2,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Slave-Arrow-OP07-056-V2",
-      "file": "OP07-056-v3.json"
+      "file": "OP07-056-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p069.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p069.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p069.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 5,
   "price_avg30_eur": 3.84,
-  "listings_count": 14
+  "listings_count": 14,
+  "image": "https://scalpeurs.com/img/cards-jp/op07-p069.webp"
 }

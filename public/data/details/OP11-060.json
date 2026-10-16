@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op11-p074.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632428_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op11-p074.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op11-p074.webp",
   "price_eur": 0.02,
   "price_usd": 0.17,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Lets-Crash-This-Wedding-OP11-060?language=2",
@@ -34,17 +34,24 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Lets-Crash-This-Wedding-OP11-060?language=2",
-      "file": "OP11-060-v1.json"
+      "file": "OP11-060-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p074.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p074.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p074.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Let's Crash This Wedding!!! (Premium Card Collection -Best Selection Vol. 5-)",
       "rarity": "R",
-      "price_eur": 4.56,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Lets-Crash-This-Wedding-OP11-060-V1?language=2",
-      "file": "OP11-060-v2.json"
+      "file": "OP11-060-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p074.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p074.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p074.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op11-p074.webp"
 }

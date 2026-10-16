@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op02-p046.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/486354_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op02-p046.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op02-p046.webp",
   "price_eur": 0.02,
   "price_usd": 0.31,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Tony-TonyChopper-OP02-034",
@@ -34,17 +34,24 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Tony-TonyChopper-OP02-034",
-      "file": "OP02-034-v1.json"
+      "file": "OP02-034-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p046.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p046.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p046.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Tony Tony.Chopper (Store Championship 2023 Participation Pack Vol.1)",
       "rarity": "PR",
-      "price_eur": 47.03,
+      "price_eur": 4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Tony-TonyChopper-OP02-034",
-      "file": "OP02-034-v2.json"
+      "file": "OP02-034-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/pack-event-p008.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/pack-event-p008.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/pack-event-p008.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op02-p046.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op10-p077.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617106_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op10-p077.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op10-p077.webp",
   "price_eur": 0.02,
   "price_usd": 0.26,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Vinsmoke-Sanji-OP10-063?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Vinsmoke-Sanji-OP10-063?language=2",
-      "file": "OP10-063-v1.json"
+      "file": "OP10-063-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op10-p077.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op10-p077.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op10-p077.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "TR",
       "price_eur": 92.48,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Vinsmoke-Sanji-OP10-063?language=2",
-      "file": "OP10-063-v2.json"
+      "file": "OP10-063-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op12-p155.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op12-p155.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op12-p155.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op10-p077.webp"
 }

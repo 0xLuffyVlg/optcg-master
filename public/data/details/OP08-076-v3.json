@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op08-p090.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656241_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op08-p090.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op08-p090.webp",
   "price_eur": 0.02,
   "price_usd": 1.15,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Its-to-Die-For-OP08-076-V2",
@@ -34,7 +34,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Its-to-Die-For-OP08-076",
-      "file": "OP08-076-v1.json"
+      "file": "OP08-076-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p090.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p090.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p090.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Its-to-Die-For-OP08-076-V2",
-      "file": "OP08-076-v2.json"
+      "file": "OP08-076-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p115.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p115.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p115.webp"
     },
     {
       "variant_index": 3,
@@ -52,8 +58,12 @@
       "rarity": "UC",
       "price_eur": 0.14,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Its-to-Die-For-OP08-076-V2",
-      "file": "OP08-076-v3.json"
+      "file": "OP08-076-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p090.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p090.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p090.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op08-p090.webp"
 }

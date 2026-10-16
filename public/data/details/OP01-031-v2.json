@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p040.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454552_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p040.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p040.webp",
   "price_eur": 74,
   "price_usd": 78.95,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Kouzuki-Oden-OP01-031-V2",
@@ -34,7 +34,10 @@
       "rarity": "L",
       "price_eur": 74,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Kouzuki-Oden-OP01-031-V1",
-      "file": "OP01-031-v1.json"
+      "file": "OP01-031-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p039.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p039.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p039.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "L",
       "price_eur": 72,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Kouzuki-Oden-OP01-031-V2",
-      "file": "OP01-031-v2.json"
+      "file": "OP01-031-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p040.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p040.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p040.webp"
     }
   ],
   "price_min_eur": 74,
   "price_avg7_eur": 81.3,
   "price_avg30_eur": 89.79,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p040.webp"
 }

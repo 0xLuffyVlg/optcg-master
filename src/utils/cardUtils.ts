@@ -263,6 +263,19 @@ export function getCardmarketUrl(
 
   const cleanArt = normalizeArtworkPath(artworkKey);
 
+  // 0. Direct lookup from detail_file in byFile (cardLinks)
+  const detailFileKey = (artworkKey && artworkKey.endsWith('.json') ? artworkKey.toLowerCase() : '')
+    || (cardOrLang && typeof cardOrLang === 'object' && (cardOrLang as any).detail_file ? String((cardOrLang as any).detail_file).toLowerCase() : '');
+  if (detailFileKey && (cardLinks as any).byFile?.[detailFileKey]) {
+    const fileEntry = (cardLinks as any).byFile[detailFileKey];
+    if (lang === 'jp' && fileEntry.cm_jp) {
+      return resolveCardmarketUrlForLanguage(fileEntry.cm_jp, 'JP');
+    }
+    if (fileEntry.cm) {
+      return resolveCardmarketUrlForLanguage(fileEntry.cm, lang.toUpperCase() as any);
+    }
+  }
+
   // 1. Direct cardmarket_url_jp if requesting JP
   if (lang === 'jp') {
     if (cardOrLang && typeof cardOrLang === 'object') {
@@ -352,6 +365,13 @@ export function getTcgplayerUrl(
   const baseCode = cleanCode.split('_')[0].split('-R')[0].replace(/\.(WEBP|PNG|JPG|JPEG)$/i, '');
 
   const cleanArt = normalizeArtworkPath(artworkKey);
+
+  // 0. Direct lookup from detail_file in byFile (cardLinks)
+  const detailFileKey = (artworkKey && artworkKey.endsWith('.json') ? artworkKey.toLowerCase() : '')
+    || (cardOrLang && typeof cardOrLang === 'object' && (cardOrLang as any).detail_file ? String((cardOrLang as any).detail_file).toLowerCase() : '');
+  if (detailFileKey && (cardLinks as any).byFile?.[detailFileKey]?.tcg) {
+    return (cardLinks as any).byFile[detailFileKey].tcg;
+  }
 
   // 1. If artworkKey provided, check exact path or basename in card_links
   if (cleanArt) {

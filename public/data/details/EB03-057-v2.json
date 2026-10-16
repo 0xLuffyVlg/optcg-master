@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb03-p073.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672811_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p073.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p073.webp",
   "price_eur": 10,
   "price_usd": 15.75,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Yamato-EB03-057-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 10,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Yamato-EB03-057-V1?language=2",
-      "file": "EB03-057-v1.json"
+      "file": "EB03-057-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p072.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb03-p072.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p072.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 10,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Yamato-EB03-057-V2?language=2",
-      "file": "EB03-057-v2.json"
+      "file": "EB03-057-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p073.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb03-p073.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p073.webp"
     }
   ],
   "price_min_eur": 10,
   "price_avg7_eur": 12.69,
   "price_avg30_eur": 12.88,
-  "listings_count": 14
+  "listings_count": 14,
+  "image": "https://scalpeurs.com/img/cards-jp/eb03-p073.webp"
 }

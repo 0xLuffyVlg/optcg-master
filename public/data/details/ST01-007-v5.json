@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/champ2022-p009.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/525324_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp",
   "price_eur": 55,
   "price_usd": 269.61,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Nami-ST01-007",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 55,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/STARTER-DECK-Straw-Hat-Crew/Nami-ST01-007-V1",
-      "file": "ST01-007-v1.json"
+      "file": "ST01-007-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/pack-dash-p005.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/pack-dash-p005.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/pack-dash-p005.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "PR",
       "price_eur": 18,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Nami-ST01-007-V2",
-      "file": "ST01-007-v2.json"
+      "file": "ST01-007-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/pcc-film-red-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/pcc-film-red-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/pcc-film-red-p016.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "PR",
       "price_eur": 171.23,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Nami-ST01-007-V3",
-      "file": "ST01-007-v3.json"
+      "file": "ST01-007-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "C",
       "price_eur": 168.24,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Nami-ST01-007",
-      "file": "ST01-007-v4.json"
+      "file": "ST01-007-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op06-p145.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op06-p145.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op06-p145.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "C",
       "price_eur": 267.35,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Nami-ST01-007",
-      "file": "ST01-007-v5.json"
+      "file": "ST01-007-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp"
     },
     {
       "variant_index": 6,
@@ -79,7 +94,10 @@
       "rarity": "TR",
       "price_eur": 392.22,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Nami-ST01-007",
-      "file": "ST01-007-v6.json"
+      "file": "ST01-007-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp"
     },
     {
       "variant_index": 7,
@@ -88,7 +106,10 @@
       "rarity": "C",
       "price_eur": 18.71,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Nami-ST01-007-V4",
-      "file": "ST01-007-v7.json"
+      "file": "ST01-007-v7.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp"
     },
     {
       "variant_index": 8,
@@ -97,8 +118,12 @@
       "rarity": "C",
       "price_eur": 1242.98,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Nami-ST01-007-V2",
-      "file": "ST01-007-v8.json"
+      "file": "ST01-007-v8.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp"
     }
   ],
-  "price_min_eur": 55
+  "price_min_eur": 55,
+  "image": "https://scalpeurs.com/img/cards-jp/champ2022-p009.webp"
 }

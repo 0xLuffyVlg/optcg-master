@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op13-p049.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657298_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op13-p049.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op13-p049.webp",
   "price_eur": 0.02,
   "price_usd": 1.32,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/I-Know-Youre-Strong-So-Ill-Go-All-Out-from-the-Very-Start-OP13-040?language=2",
@@ -34,20 +34,27 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/I-Know-Youre-Strong-So-Ill-Go-All-Out-from-the-Very-Start-OP13-040?language=2",
-      "file": "OP13-040-v1.json"
+      "file": "OP13-040-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p049.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p049.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p049.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!! (3rd Anniversary Treasure Campaign Pack)",
       "rarity": "R",
-      "price_eur": 6.06,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/I-Know-Youre-Strong-So-Ill-Go-All-Out-from-the-Very-Start-OP13-040-V1?language=2",
-      "file": "OP13-040-v2.json"
+      "file": "OP13-040-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p049.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p049.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p049.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 3.97,
   "price_avg30_eur": 4.42,
-  "listings_count": 41
+  "listings_count": 41,
+  "image": "https://scalpeurs.com/img/cards-jp/op13-p049.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/st13-p015.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/543610_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st13-p015.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st13-p015.webp",
   "price_eur": 0.1,
   "price_usd": 0.55,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/Sabo-ST13-008-V1",
@@ -34,17 +34,24 @@
       "rarity": "SR",
       "price_eur": 0.1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/Sabo-ST13-008-V1",
-      "file": "ST13-008-v1.json"
+      "file": "ST13-008-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st13-p015.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st13-p015.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st13-p015.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Sabo (008) (Parallel)",
       "rarity": "SR",
-      "price_eur": 3.72,
+      "price_eur": 2.89,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/Sabo-ST13-008-V2",
-      "file": "ST13-008-v2.json"
+      "file": "ST13-008-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st13-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st13-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st13-p016.webp"
     }
   ],
-  "price_min_eur": 0.1
+  "price_min_eur": 0.1,
+  "image": "https://scalpeurs.com/img/cards-jp/st13-p015.webp"
 }

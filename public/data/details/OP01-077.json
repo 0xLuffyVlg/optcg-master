@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p098.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454607_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p098.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p098.webp",
   "price_eur": 0.02,
   "price_usd": 1.03,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Perona-OP01-077-V1",
@@ -34,16 +34,22 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Perona-OP01-077-V1",
-      "file": "OP01-077-v1.json"
+      "file": "OP01-077-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p098.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p098.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p098.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Perona (Box Topper)",
       "rarity": "UC",
-      "price_eur": 2000,
+      "price_eur": 13,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Perona-OP01-077-V2",
-      "file": "OP01-077-v2.json"
+      "file": "OP01-077-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p099.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p099.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p099.webp"
     },
     {
       "variant_index": 3,
@@ -52,20 +58,27 @@
       "rarity": "UC",
       "price_eur": 750,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Perona-OP01-077-V1",
-      "file": "OP01-077-v3.json"
+      "file": "OP01-077-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/champ-card-set-p013.webp",
+      "image": "https://scalpeurs.com/img/cards-en/champ-card-set-p013.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/champ-card-set-p013.webp"
     },
     {
       "variant_index": 4,
       "variant_version": "v4",
       "name": "Perona (Championship 2024 Top Player Pack Vol. 2)",
       "rarity": "UC",
-      "price_eur": null,
+      "price_eur": 850.71,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Perona-OP01-077-V3",
-      "file": "OP01-077-v4.json"
+      "file": "OP01-077-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/champ-card-set-p019.webp",
+      "image": "https://scalpeurs.com/img/cards-en/champ-card-set-p019.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/champ-card-set-p019.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 280.25,
   "price_avg30_eur": 275.79,
-  "listings_count": 6
+  "listings_count": 6,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p098.webp"
 }

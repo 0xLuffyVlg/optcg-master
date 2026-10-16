@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op02-p047.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/486355_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op02-p047.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op02-p047.webp",
   "price_eur": 0.02,
   "price_usd": 0.1,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Trafalgar-Law-OP02-035",
@@ -34,17 +34,24 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Trafalgar-Law-OP02-035",
-      "file": "OP02-035-v1.json"
+      "file": "OP02-035-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p047.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p047.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p047.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Trafalgar Law (Online Regional 2023) [Participant]",
       "rarity": "PR",
-      "price_eur": 24.55,
+      "price_eur": 34.85,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Trafalgar-Law-OP02-035-V1",
-      "file": "OP02-035-v2.json"
+      "file": "OP02-035-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/champ-regional-hors-ligne-p007.webp",
+      "image": "https://scalpeurs.com/img/cards-en/champ-regional-hors-ligne-p007.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/champ-regional-hors-ligne-p007.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op02-p047.webp"
 }

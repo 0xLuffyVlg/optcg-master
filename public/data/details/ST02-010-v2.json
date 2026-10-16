@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-en/pack-championship-p049.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/525683_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-en/pack-championship-p049.webp",
+  "image_url": "https://scalpeurs.com/img/cards-en/pack-championship-p049.webp",
   "price_eur": 9999,
   "price_usd": 499,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Basil-Hawkins-ST02-010-V1",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 9999,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Worst-Generation/Basil-Hawkins-ST02-010-V1",
-      "file": "ST02-010-v1.json"
+      "file": "ST02-010-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/pack-promotion-ex-p007.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/pack-promotion-ex-p007.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/pack-promotion-ex-p007.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "C",
       "price_eur": 9999,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Basil-Hawkins-ST02-010-V1",
-      "file": "ST02-010-v2.json"
+      "file": "ST02-010-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/pack-championship-p049.webp",
+      "image": "https://scalpeurs.com/img/cards-en/pack-championship-p049.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/pack-championship-p049.webp"
     }
   ],
   "price_min_eur": 9999,
   "price_avg7_eur": 1000,
   "price_avg30_eur": 1000,
-  "listings_count": 1
+  "listings_count": 1,
+  "image": "https://scalpeurs.com/img/cards-en/pack-championship-p049.webp"
 }

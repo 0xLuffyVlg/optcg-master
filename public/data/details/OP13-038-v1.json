@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op13-p047.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657296_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op13-p047.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op13-p047.webp",
   "price_eur": 0.02,
   "price_usd": 0.11,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Gum-Gum-Elephant-Gun-OP13-038?language=2",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Gum-Gum-Elephant-Gun-OP13-038?language=2",
-      "file": "OP13-038-v1.json"
+      "file": "OP13-038-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p047.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p047.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p047.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.17,
   "price_avg30_eur": 1.24,
-  "listings_count": 7
+  "listings_count": 7,
+  "image": "https://scalpeurs.com/img/cards-jp/op13-p047.webp"
 }

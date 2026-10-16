@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op06-p017.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/539278_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op06-p017.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op06-p017.webp",
   "price_eur": 4,
   "price_usd": 31.01,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/MonkeyDLuffy-OP06-013-V2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/MonkeyDLuffy-OP06-013-V1",
-      "file": "OP06-013-v1.json"
+      "file": "OP06-013-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p016.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/MonkeyDLuffy-OP06-013-V2",
-      "file": "OP06-013-v2.json"
+      "file": "OP06-013-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p017.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p017.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p017.webp"
     }
   ],
   "price_min_eur": 4,
   "price_avg7_eur": 8.57,
   "price_avg30_eur": 9.25,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op06-p017.webp"
 }

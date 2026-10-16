@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op17-p050.webp",
-  "image_url": "/img/cards-fr/op17-p049-sm.webp",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op17-p050.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op17-p050.webp",
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/I-Think-Hes-Seen-an-Ugly-Future-OP17-038?language=2",
@@ -34,11 +34,15 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/I-Think-Hes-Seen-an-Ugly-Future-OP17-038?language=2",
-      "file": "OP17-038-v1.json"
+      "file": "OP17-038-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p050.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p050.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p050.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.93,
   "price_avg30_eur": 1.1,
-  "listings_count": 20
+  "listings_count": 20,
+  "image": "https://scalpeurs.com/img/cards-jp/op17-p050.webp"
 }

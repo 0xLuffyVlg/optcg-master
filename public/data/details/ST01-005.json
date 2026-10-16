@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/pcc-25th-p007.webp",
-  "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-005.png",
+  "image_path": "https://scalpeurs.com/img/cards-jp/pcc-25th-p007.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/pcc-25th-p007.webp",
   "price_eur": 24.9,
   "price_usd": 0.09,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/STARTER-DECK-Straw-Hat-Crew/Jinbe-ST01-005-V1",
@@ -34,29 +34,39 @@
       "rarity": "C",
       "price_eur": 24.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/STARTER-DECK-Straw-Hat-Crew/Jinbe-ST01-005-V1",
-      "file": "ST01-005-v1.json"
+      "file": "ST01-005-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/pcc-25th-p007.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/pcc-25th-p007.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/pcc-25th-p007.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Jinbe - ST01-005 (Alternate Art)",
       "rarity": "PR",
-      "price_eur": 4.14,
+      "price_eur": 24.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Jinbe-ST01-005-V1",
-      "file": "ST01-005-v2.json"
+      "file": "ST01-005-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/pcc-25th-p007.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/pcc-25th-p007.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/pcc-25th-p007.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Jinbe (Gift Collection 2023)",
       "rarity": "C",
-      "price_eur": 10.17,
+      "price_eur": 24.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Jinbe-ST01-005-V1",
-      "file": "ST01-005-v3.json"
+      "file": "ST01-005-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/pcc-25th-p007.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/pcc-25th-p007.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/pcc-25th-p007.webp"
     }
   ],
   "price_min_eur": 24.9,
   "price_avg7_eur": 6.83,
   "price_avg30_eur": 5.63,
-  "listings_count": 35
+  "listings_count": 35,
+  "image": "https://scalpeurs.com/img/cards-jp/pcc-25th-p007.webp"
 }

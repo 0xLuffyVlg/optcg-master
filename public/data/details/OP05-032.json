@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op05-p038.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528577_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op05-p038.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op05-p038.webp",
   "price_eur": 0.02,
   "price_usd": 0.31,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Pica-OP05-032-V1",
@@ -34,17 +34,24 @@
       "rarity": "SR",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Pica-OP05-032-V1",
-      "file": "OP05-032-v1.json"
+      "file": "OP05-032-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op05-p038.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op05-p038.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op05-p038.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Pica (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 2.21,
+      "price_eur": 0.98,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Pica-OP05-032-V2",
-      "file": "OP05-032-v2.json"
+      "file": "OP05-032-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op05-p039.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op05-p039.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op05-p039.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op05-p038.webp"
 }

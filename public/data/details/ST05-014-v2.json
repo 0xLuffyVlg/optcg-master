@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/best-sel-1-p012.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/546675_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/best-sel-1-p012.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/best-sel-1-p012.webp",
   "price_eur": 0.37,
   "price_usd": 1.41,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Buena-Festa-ST05-014",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.37,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-ONE-PIECE-FILM-edition/Buena-Festa-ST05-014",
-      "file": "ST05-014-v1.json"
+      "file": "ST05-014-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/best-sel-1-p012.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/best-sel-1-p012.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/best-sel-1-p012.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "C",
       "price_eur": 0.73,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Buena-Festa-ST05-014",
-      "file": "ST05-014-v2.json"
+      "file": "ST05-014-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/best-sel-1-p012.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/best-sel-1-p012.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/best-sel-1-p012.webp"
     }
   ],
-  "price_min_eur": 0.37
+  "price_min_eur": 0.37,
+  "image": "https://scalpeurs.com/img/cards-jp/best-sel-1-p012.webp"
 }

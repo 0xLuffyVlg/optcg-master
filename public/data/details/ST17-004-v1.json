@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/set-storage-box-p003.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/581019_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/set-storage-box-p003.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/set-storage-box-p003.webp",
   "price_eur": 48,
   "price_usd": 10.26,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Donquixote-Doflamingo/Boa-Hancock-ST17-004?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 48,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Donquixote-Doflamingo/Boa-Hancock-ST17-004?language=2",
-      "file": "ST17-004-v1.json"
+      "file": "ST17-004-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/set-storage-box-p003.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/set-storage-box-p003.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/set-storage-box-p003.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "SR",
       "price_eur": 300,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Boa-Hancock-ST17-004-V3?language=2",
-      "file": "ST17-004-v2.json"
+      "file": "ST17-004-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/set-storage-box-p010.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/set-storage-box-p010.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/set-storage-box-p010.webp"
     }
   ],
   "price_min_eur": 48,
   "price_avg7_eur": 6.16,
   "price_avg30_eur": 6.21,
-  "listings_count": 26
+  "listings_count": 26,
+  "image": "https://scalpeurs.com/img/cards-jp/set-storage-box-p003.webp"
 }

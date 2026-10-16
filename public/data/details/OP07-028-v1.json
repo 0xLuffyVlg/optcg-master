@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op07-p034.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545811_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op07-p034.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op07-p034.webp",
   "price_eur": 0.02,
   "price_usd": 0.04,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Scratchmen-Apoo-OP07-028",
@@ -34,8 +34,12 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Scratchmen-Apoo-OP07-028",
-      "file": "OP07-028-v1.json"
+      "file": "OP07-028-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p034.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p034.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p034.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op07-p034.webp"
 }

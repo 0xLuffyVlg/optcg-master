@@ -18,7 +18,7 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-en/st14-p003.webp",
+  "image_path": "https://scalpeurs.com/img/cards-en/st14-p003.webp",
   "image_url": "https://scalpeurs.com/img/cards-en/st14-p003.webp",
   "price_eur": 0.99,
   "price_usd": 1.87,
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 80,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-3D2Y/Sanji-ST14-003",
-      "file": "ST14-003-v1.json"
+      "file": "ST14-003-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/st14-p003.webp",
+      "image": "https://scalpeurs.com/img/cards-en/st14-p003.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/st14-p003.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "SR",
       "price_eur": 90,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Sanji-ST14-003",
-      "file": "ST14-003-v2.json"
+      "file": "ST14-003-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op10-p146.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op10-p146.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op10-p146.webp"
     }
   ],
   "price_min_eur": 0.99,
   "price_avg7_eur": 1.85,
   "price_avg30_eur": 2.24,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-en/st14-p003.webp"
 }

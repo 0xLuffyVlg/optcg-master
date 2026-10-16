@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op12-p116.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643839_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op12-p116.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op12-p116.webp",
   "price_eur": 5,
   "price_usd": 9.23,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/MonkeyDDragon-OP12-094-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/MonkeyDDragon-OP12-094-V1?language=2",
-      "file": "OP12-094-v1.json"
+      "file": "OP12-094-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p115.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p115.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p115.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/MonkeyDDragon-OP12-094-V2?language=2",
-      "file": "OP12-094-v2.json"
+      "file": "OP12-094-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p116.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p116.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p116.webp"
     },
     {
       "variant_index": 3,
@@ -52,11 +58,15 @@
       "rarity": "SR",
       "price_eur": 63.44,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDDragon-OP12-094?language=2",
-      "file": "OP12-094-v3.json"
+      "file": "OP12-094-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p115.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p115.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p115.webp"
     }
   ],
   "price_min_eur": 5,
   "price_avg7_eur": 5.62,
   "price_avg30_eur": 5.56,
-  "listings_count": 21
+  "listings_count": 21,
+  "image": "https://scalpeurs.com/img/cards-jp/op12-p116.webp"
 }

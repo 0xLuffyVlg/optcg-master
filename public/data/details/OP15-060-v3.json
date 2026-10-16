@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op15-p073.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692135_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op15-p073.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op15-p073.webp",
   "price_eur": 0.1,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Enel-OP15-060-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Enel-OP15-060-V1?language=2",
-      "file": "OP15-060-v1.json"
+      "file": "OP15-060-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p073.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p073.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p073.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 7.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Enel-OP15-060-V2?language=2",
-      "file": "OP15-060-v2.json"
+      "file": "OP15-060-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p074.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p074.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p074.webp"
     },
     {
       "variant_index": 3,
@@ -52,8 +58,12 @@
       "rarity": "SR",
       "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Enel-OP15-060-V1?language=2",
-      "file": "OP15-060-v3.json"
+      "file": "OP15-060-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p073.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p073.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p073.webp"
     }
   ],
-  "price_min_eur": 0.1
+  "price_min_eur": 0.1,
+  "image": "https://scalpeurs.com/img/cards-jp/op15-p073.webp"
 }

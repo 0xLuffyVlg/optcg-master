@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/st22-p024.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/647706_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st22-p024.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st22-p024.webp",
   "price_eur": 2.48,
   "price_usd": 2.38,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Marco-ST22-012-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 2.48,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Marco-ST22-012-V1?language=2",
-      "file": "ST22-012-v1.json"
+      "file": "ST22-012-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st22-p023.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st22-p023.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st22-p023.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "C",
       "price_eur": 2.49,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Ace-Newgate/Marco-ST22-012-V2?language=2",
-      "file": "ST22-012-v2.json"
+      "file": "ST22-012-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st22-p024.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st22-p024.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st22-p024.webp"
     }
   ],
   "price_min_eur": 2.48,
   "price_avg7_eur": 3.12,
   "price_avg30_eur": 3.15,
-  "listings_count": 30
+  "listings_count": 30,
+  "image": "https://scalpeurs.com/img/cards-jp/st22-p024.webp"
 }

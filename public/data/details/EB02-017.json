@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb02-p022.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/629110_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p022.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p022.webp",
   "price_eur": 6,
   "price_usd": 5.92,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Nami-EB02-017-V1?language=2",
@@ -34,20 +34,27 @@
       "rarity": "R",
       "price_eur": 6,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Nami-EB02-017-V1?language=2",
-      "file": "EB02-017-v1.json"
+      "file": "EB02-017-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p022.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb02-p022.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p022.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Nami (Alternate Art)",
       "rarity": "R",
-      "price_eur": 60,
+      "price_eur": 65,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Nami-EB02-017-V2?language=2",
-      "file": "EB02-017-v2.json"
+      "file": "EB02-017-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p023.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb02-p023.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb02-p023.webp"
     }
   ],
   "price_min_eur": 6,
   "price_avg7_eur": 9.18,
   "price_avg30_eur": 8.86,
-  "listings_count": 14
+  "listings_count": 14,
+  "image": "https://scalpeurs.com/img/cards-jp/eb02-p022.webp"
 }

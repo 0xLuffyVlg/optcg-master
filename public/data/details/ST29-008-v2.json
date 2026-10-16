@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/st29-p016.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671598_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st29-p016.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st29-p016.webp",
   "price_eur": 10,
   "price_usd": 36.6,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Nami-ST29-008-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 10,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Nami-ST29-008-V1?language=2",
-      "file": "ST29-008-v1.json"
+      "file": "ST29-008-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/pack-divers-p042.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/pack-divers-p042.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/pack-divers-p042.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "C",
       "price_eur": 9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Nami-ST29-008-V2?language=2",
-      "file": "ST29-008-v2.json"
+      "file": "ST29-008-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st29-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st29-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st29-p016.webp"
     }
   ],
   "price_min_eur": 10,
   "price_avg7_eur": 13.86,
   "price_avg30_eur": 15.05,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/st29-p016.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op02-p027.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/486339_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op02-p027.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op02-p027.webp",
   "price_eur": 0.02,
   "price_usd": 0.08,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Rakuyo-OP02-019",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Rakuyo-OP02-019",
-      "file": "OP02-019-v1.json"
+      "file": "OP02-019-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p027.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p027.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p027.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.6,
   "price_avg30_eur": 0.75,
-  "listings_count": 47
+  "listings_count": 47,
+  "image": "https://scalpeurs.com/img/cards-jp/op02-p027.webp"
 }

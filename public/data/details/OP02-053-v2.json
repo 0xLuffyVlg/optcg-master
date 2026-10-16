@@ -18,8 +18,8 @@
   "rarity": "PR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-en/champ-regional-en-ligne-p020.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514034_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p020.webp",
+  "image_url": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p020.webp",
   "price_eur": 22.28,
   "price_usd": 15.84,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Crocodile-OP02-053-V1",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 22.28,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Crocodile-OP02-053",
-      "file": "OP02-053-v1.json"
+      "file": "OP02-053-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p069.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p069.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p069.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,11 @@
       "rarity": "PR",
       "price_eur": 22.28,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Crocodile-OP02-053-V1",
-      "file": "OP02-053-v2.json"
+      "file": "OP02-053-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p020.webp",
+      "image": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p020.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p020.webp"
     }
-  ]
+  ],
+  "image": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p020.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "SEC",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op08-p140.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656246_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op08-p140.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op08-p140.webp",
   "price_eur": 2.49,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Silvers-Rayleigh-OP08-118",
@@ -34,7 +34,10 @@
       "rarity": "SEC",
       "price_eur": 2.49,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Silvers-Rayleigh-OP08-118-V1",
-      "file": "OP08-118-v1.json"
+      "file": "OP08-118-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p140.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p140.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p140.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SEC",
       "price_eur": 13.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Silvers-Rayleigh-OP08-118-V2",
-      "file": "OP08-118-v2.json"
+      "file": "OP08-118-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p141.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p141.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p141.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "SEC",
       "price_eur": 450,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Silvers-Rayleigh-OP08-118-V3",
-      "file": "OP08-118-v3.json"
+      "file": "OP08-118-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p142.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p142.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p142.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "SEC",
       "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Silvers-Rayleigh-OP08-118",
-      "file": "OP08-118-v4.json"
+      "file": "OP08-118-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p140.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p140.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p140.webp"
     },
     {
       "variant_index": 5,
@@ -70,8 +82,12 @@
       "rarity": "SEC",
       "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Silvers-Rayleigh-OP08-118",
-      "file": "OP08-118-v5.json"
+      "file": "OP08-118-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p140.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p140.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p140.webp"
     }
   ],
-  "price_min_eur": 2.49
+  "price_min_eur": 2.49,
+  "image": "https://scalpeurs.com/img/cards-jp/op08-p140.webp"
 }

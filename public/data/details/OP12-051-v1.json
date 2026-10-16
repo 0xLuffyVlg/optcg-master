@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op12-p063.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643786_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op12-p063.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op12-p063.webp",
   "price_eur": 0.02,
   "price_usd": 0.2,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Hina-OP12-051?language=2",
@@ -34,7 +34,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Hina-OP12-051?language=2",
-      "file": "OP12-051-v1.json"
+      "file": "OP12-051-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p063.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p063.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p063.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "UC",
       "price_eur": 4.35,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Hina-OP12-051-V1?language=2",
-      "file": "OP12-051-v2.json"
+      "file": "OP12-051-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p063.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p063.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p063.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 2.23,
   "price_avg30_eur": 1.76,
-  "listings_count": 1
+  "listings_count": 1,
+  "image": "https://scalpeurs.com/img/cards-jp/op12-p063.webp"
 }

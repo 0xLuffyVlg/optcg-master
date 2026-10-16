@@ -18,8 +18,8 @@
   "rarity": "PR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op03-p109.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/510722_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op03-p109.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op03-p109.webp",
   "price_eur": 0.02,
   "price_usd": 4.42,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Helmeppo-OP03-091",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Helmeppo-OP03-091",
-      "file": "OP03-091-v1.json"
+      "file": "OP03-091-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p109.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p109.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p109.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "PR",
       "price_eur": 2.47,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Helmeppo-OP03-091",
-      "file": "OP03-091-v2.json"
+      "file": "OP03-091-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p109.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p109.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p109.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op03-p109.webp"
 }

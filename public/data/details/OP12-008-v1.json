@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op12-p009.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/643732_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op12-p009.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op12-p009.webp",
   "price_eur": 0.02,
   "price_usd": 0.34,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Shanks-OP12-008-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Shanks-OP12-008-V1?language=2",
-      "file": "OP12-008-v1.json"
+      "file": "OP12-008-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p009.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p009.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p009.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "R",
       "price_eur": 0.32,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/Shanks-OP12-008-V2?language=2",
-      "file": "OP12-008-v2.json"
+      "file": "OP12-008-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op12-p010.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op12-p010.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op12-p010.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op12-p009.webp"
 }

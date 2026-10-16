@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op03-p125.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/500069_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op03-p125.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op03-p125.webp",
   "price_eur": 0.02,
   "price_usd": 0.05,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Charlotte-Oven-OP03-105",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Charlotte-Oven-OP03-105",
-      "file": "OP03-105-v1.json"
+      "file": "OP03-105-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p125.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p125.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p125.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.71,
   "price_avg30_eur": 1.69,
-  "listings_count": 33
+  "listings_count": 33,
+  "image": "https://scalpeurs.com/img/cards-jp/op03-p125.webp"
 }

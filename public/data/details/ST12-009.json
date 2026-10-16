@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/st12-p009.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/542115_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st12-p009.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st12-p009.webp",
   "price_eur": 0.02,
   "price_usd": 0.07,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Zoro-Sanji/Elephant-True-Bluefin-ST12-009",
@@ -34,8 +34,12 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Zoro-Sanji/Elephant-True-Bluefin-ST12-009",
-      "file": "ST12-009-v1.json"
+      "file": "ST12-009-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st12-p009.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st12-p009.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st12-p009.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/st12-p009.webp"
 }

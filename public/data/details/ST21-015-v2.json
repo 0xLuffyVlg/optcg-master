@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/st21-p030.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/615593_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st21-p030.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st21-p030.webp",
   "price_eur": 16.5,
   "price_usd": 38.6,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Roronoa-Zoro-ST21-015-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 16.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Roronoa-Zoro-ST21-015-V1?language=2",
-      "file": "ST21-015-v1.json"
+      "file": "ST21-015-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/ld01-p005.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/ld01-p005.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/ld01-p005.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 20,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Roronoa-Zoro-ST21-015-V2?language=2",
-      "file": "ST21-015-v2.json"
+      "file": "ST21-015-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st21-p030.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st21-p030.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st21-p030.webp"
     },
     {
       "variant_index": 3,
@@ -52,11 +58,15 @@
       "rarity": "SR",
       "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Roronoa-Zoro-ST21-015-V3?language=2",
-      "file": "ST21-015-v3.json"
+      "file": "ST21-015-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/champ2025-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-en/champ2025-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/champ2025-p016.webp"
     }
   ],
   "price_min_eur": 16.5,
   "price_avg7_eur": 20.59,
   "price_avg30_eur": 24.13,
-  "listings_count": 26
+  "listings_count": 26,
+  "image": "https://scalpeurs.com/img/cards-jp/st21-p030.webp"
 }

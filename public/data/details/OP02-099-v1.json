@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op02-p125.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/485242_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op02-p125.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op02-p125.webp",
   "price_eur": 0.05,
   "price_usd": 0.5,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Sakazuki-OP02-099-V1",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.05,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Sakazuki-OP02-099-V1",
-      "file": "OP02-099-v1.json"
+      "file": "OP02-099-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p125.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p125.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p125.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 13.28,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Sakazuki-OP02-099-V2",
-      "file": "OP02-099-v2.json"
+      "file": "OP02-099-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p126.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p126.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p126.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "PR",
       "price_eur": 1714.59,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Sakazuki-OP02-099",
-      "file": "OP02-099-v3.json"
+      "file": "OP02-099-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op04-p149.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op04-p149.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op04-p149.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "SR",
       "price_eur": 87.53,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Sakazuki-OP02-099",
-      "file": "OP02-099-v4.json"
+      "file": "OP02-099-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p052.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p052.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p052.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "SR",
       "price_eur": 5.79,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Sakazuki-OP02-099",
-      "file": "OP02-099-v5.json"
+      "file": "OP02-099-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p053.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p053.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p053.webp"
     },
     {
       "variant_index": 6,
@@ -79,8 +94,12 @@
       "rarity": "SR",
       "price_eur": 5.79,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Sakazuki-OP02-099",
-      "file": "OP02-099-v6.json"
+      "file": "OP02-099-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p125.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p125.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p125.webp"
     }
   ],
-  "price_min_eur": 0.05
+  "price_min_eur": 0.05,
+  "image": "https://scalpeurs.com/img/cards-jp/op02-p125.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/st06-p001.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/485247_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st06-p001.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st06-p001.webp",
   "price_eur": 0.19,
   "price_usd": 1.56,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Absolute-Justice/Sakazuki-ST06-001",
@@ -34,8 +34,12 @@
       "rarity": "L",
       "price_eur": 0.19,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Absolute-Justice/Sakazuki-ST06-001",
-      "file": "ST06-001-v1.json"
+      "file": "ST06-001-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st06-p001.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st06-p001.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st06-p001.webp"
     }
   ],
-  "price_min_eur": 0.19
+  "price_min_eur": 0.19,
+  "image": "https://scalpeurs.com/img/cards-jp/st06-p001.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb03-p004.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672742_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p004.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p004.webp",
   "price_eur": 0.1,
   "price_usd": 0.41,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Uta-EB03-003-V1?language=2",
@@ -34,26 +34,36 @@
       "rarity": "SR",
       "price_eur": 0.1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Uta-EB03-003-V1?language=2",
-      "file": "EB03-003-v1.json"
+      "file": "EB03-003-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p004.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb03-p004.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p004.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Uta (003) (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 7.73,
+      "price_eur": 8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Uta-EB03-003-V2?language=2",
-      "file": "EB03-003-v2.json"
+      "file": "EB03-003-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p005.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb03-p005.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p005.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Uta (003) (SP)",
       "rarity": "SR",
-      "price_eur": 293.13,
+      "price_eur": 235,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Uta-EB03-003-V3?language=2",
-      "file": "EB03-003-v3.json"
+      "file": "EB03-003-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p082.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb03-p082.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p082.webp"
     }
   ],
-  "price_min_eur": 0.1
+  "price_min_eur": 0.1,
+  "image": "https://scalpeurs.com/img/cards-jp/eb03-p004.webp"
 }

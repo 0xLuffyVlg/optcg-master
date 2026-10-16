@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/st05-p008.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/477321_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st05-p008.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st05-p008.webp",
   "price_eur": 0.02,
   "price_usd": 0.21,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-ONE-PIECE-FILM-edition/Shiki-ST05-008",
@@ -34,17 +34,24 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-ONE-PIECE-FILM-edition/Shiki-ST05-008",
-      "file": "ST05-008-v1.json"
+      "file": "ST05-008-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st05-p008.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st05-p008.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st05-p008.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Shiki (Store Championship Participation Pack Vol. 2)",
       "rarity": "PR",
-      "price_eur": 2.65,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Shiki-ST05-008",
-      "file": "ST05-008-v2.json"
+      "file": "ST05-008-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st05-p008.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st05-p008.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st05-p008.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/st05-p008.webp"
 }

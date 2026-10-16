@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-en/champ-card-set-p016.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/622722_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-en/champ-card-set-p016.webp",
+  "image_url": "https://scalpeurs.com/img/cards-en/champ-card-set-p016.webp",
   "price_eur": 1500,
   "price_usd": 549,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Brook-OP06-092-V3",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 1500,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Brook-OP06-092",
-      "file": "OP06-092-v1.json"
+      "file": "OP06-092-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p110.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p110.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p110.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "R",
       "price_eur": 1200,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Brook-OP06-092-V1",
-      "file": "OP06-092-v2.json"
+      "file": "OP06-092-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/champ-card-set-p010.webp",
+      "image": "https://scalpeurs.com/img/cards-en/champ-card-set-p010.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/champ-card-set-p010.webp"
     },
     {
       "variant_index": 3,
@@ -52,11 +58,15 @@
       "rarity": "R",
       "price_eur": 2000,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Brook-OP06-092-V3",
-      "file": "OP06-092-v3.json"
+      "file": "OP06-092-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/champ-card-set-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-en/champ-card-set-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/champ-card-set-p016.webp"
     }
   ],
   "price_min_eur": 1500,
   "price_avg7_eur": 209.09,
   "price_avg30_eur": 203.57,
-  "listings_count": 1
+  "listings_count": 1,
+  "image": "https://scalpeurs.com/img/cards-en/champ-card-set-p016.webp"
 }

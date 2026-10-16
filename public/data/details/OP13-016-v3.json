@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op13-p021.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/686281_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op13-p021.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op13-p021.webp",
   "price_eur": 0.02,
   "price_usd": 710.69,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDGarp-OP13-016-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/MonkeyDGarp-OP13-016-V1?language=2",
-      "file": "OP13-016-v1.json"
+      "file": "OP13-016-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p021.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p021.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p021.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "R",
       "price_eur": 8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/MonkeyDGarp-OP13-016-V2?language=2",
-      "file": "OP13-016-v2.json"
+      "file": "OP13-016-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p022.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p022.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p022.webp"
     },
     {
       "variant_index": 3,
@@ -52,8 +58,12 @@
       "rarity": "R",
       "price_eur": 1010.14,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDGarp-OP13-016-V1?language=2",
-      "file": "OP13-016-v3.json"
+      "file": "OP13-016-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p021.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p021.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p021.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op13-p021.webp"
 }

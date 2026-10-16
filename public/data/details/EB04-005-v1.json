@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb04-p007.webp",
-  "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-005.png",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p007.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p007.webp",
   "price_eur": 0.02,
   "price_usd": 0.12,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Trafalgar-Law-EB04-005?language=2",
@@ -34,11 +34,15 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Trafalgar-Law-EB04-005?language=2",
-      "file": "EB04-005-v1.json"
+      "file": "EB04-005-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p007.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb04-p007.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p007.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 4.84,
   "price_avg30_eur": 4.61,
-  "listings_count": 5
+  "listings_count": 5,
+  "image": "https://scalpeurs.com/img/cards-jp/eb04-p007.webp"
 }

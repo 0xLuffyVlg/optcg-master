@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op11-p113.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632467_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op11-p113.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op11-p113.webp",
   "price_eur": 3,
   "price_usd": 5.65,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Helmeppo-OP11-092-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Helmeppo-OP11-092-V1?language=2",
-      "file": "OP11-092-v1.json"
+      "file": "OP11-092-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p112.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p112.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p112.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "SR",
       "price_eur": 3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Helmeppo-OP11-092-V2?language=2",
-      "file": "OP11-092-v2.json"
+      "file": "OP11-092-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p113.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p113.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p113.webp"
     }
   ],
   "price_min_eur": 3,
   "price_avg7_eur": 4.6,
   "price_avg30_eur": 4.73,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op11-p113.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/prb02-p216.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653263_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p216.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p216.webp",
   "price_eur": 0.1,
   "price_usd": 1.28,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Jewelry-Bonney-PRB02-004-V1?language=2",
@@ -34,17 +34,24 @@
       "rarity": "R",
       "price_eur": 0.1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Jewelry-Bonney-PRB02-004-V1?language=2",
-      "file": "PRB02-004-v1.json"
+      "file": "PRB02-004-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p216.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p216.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p216.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Jewelry Bonney - PRB02-004 (Alternate Art)",
       "rarity": "R",
-      "price_eur": 7.05,
+      "price_eur": 3.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Jewelry-Bonney-PRB02-004-V2?language=2",
-      "file": "PRB02-004-v2.json"
+      "file": "PRB02-004-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p217.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p217.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p217.webp"
     }
   ],
-  "price_min_eur": 0.1
+  "price_min_eur": 0.1,
+  "image": "https://scalpeurs.com/img/cards-jp/prb02-p216.webp"
 }

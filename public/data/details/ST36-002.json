@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/st36-p003.webp",
-  "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST36-002.png",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st36-p003.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st36-p003.webp",
   "price_eur": 0.85,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Yellow-Eustass-Captain-Kid/Killer-ST36-002?language=2",
@@ -34,8 +34,12 @@
       "rarity": "SR",
       "price_eur": 0.85,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Yellow-Eustass-Captain-Kid/Killer-ST36-002?language=2",
-      "file": "ST36-002-v1.json"
+      "file": "ST36-002-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st36-p003.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st36-p003.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st36-p003.webp"
     }
   ],
-  "price_min_eur": 0.85
+  "price_min_eur": 0.85,
+  "image": "https://scalpeurs.com/img/cards-jp/st36-p003.webp"
 }

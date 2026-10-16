@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op16-p004.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693824_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op16-p004.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op16-p004.webp",
   "price_eur": 1.99,
   "price_usd": 0.84,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/EdwardNewgate-OP16-003-V1?language=2",
@@ -34,20 +34,27 @@
       "rarity": "SR",
       "price_eur": 1.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/EdwardNewgate-OP16-003-V1?language=2",
-      "file": "OP16-003-v1.json"
+      "file": "OP16-003-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p004.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p004.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p004.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Edward.Newgate (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 15.98,
+      "price_eur": 15,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/EdwardNewgate-OP16-003-V2?language=2",
-      "file": "OP16-003-v2.json"
+      "file": "OP16-003-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p005.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p005.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p005.webp"
     }
   ],
   "price_min_eur": 1.99,
   "price_avg7_eur": 1.87,
   "price_avg30_eur": 1.85,
-  "listings_count": 28
+  "listings_count": 28,
+  "image": "https://scalpeurs.com/img/cards-jp/op16-p004.webp"
 }

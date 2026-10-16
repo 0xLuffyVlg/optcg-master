@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op03-p092.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/499497_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op03-p092.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op03-p092.webp",
   "price_eur": 0.4,
   "price_usd": 0.93,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Issho-OP03-078-V1",
@@ -34,26 +34,36 @@
       "rarity": "SR",
       "price_eur": 0.4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Issho-OP03-078-V1",
-      "file": "OP03-078-v1.json"
+      "file": "OP03-078-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p092.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p092.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p092.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Issho (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 5.8,
+      "price_eur": 4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Issho-OP03-078-V2",
-      "file": "OP03-078-v2.json"
+      "file": "OP03-078-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p093.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p093.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p093.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Issho (SP)",
       "rarity": "SR",
-      "price_eur": 42.69,
+      "price_eur": 30,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Issho-OP03-078",
-      "file": "OP03-078-v3.json"
+      "file": "OP03-078-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op07-p149.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op07-p149.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op07-p149.webp"
     }
   ],
-  "price_min_eur": 0.4
+  "price_min_eur": 0.4,
+  "image": "https://scalpeurs.com/img/cards-jp/op03-p092.webp"
 }

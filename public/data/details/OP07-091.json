@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op07-p110.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545887_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op07-p110.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op07-p110.webp",
   "price_eur": 0.02,
   "price_usd": 0.27,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/MonkeyDLuffy-OP07-091",
@@ -34,20 +34,27 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/MonkeyDLuffy-OP07-091",
-      "file": "OP07-091-v1.json"
+      "file": "OP07-091-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p110.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p110.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p110.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Monkey.D.Luffy (091) (Offline Regional 2024 Vol. 3)",
       "rarity": "R",
-      "price_eur": null,
+      "price_eur": 150.62,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-OP07-091-V1",
-      "file": "OP07-091-v2.json"
+      "file": "OP07-091-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p048.webp",
+      "image": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p048.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/champ-regional-en-ligne-p048.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 171.08,
   "price_avg30_eur": 145.05,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op07-p110.webp"
 }

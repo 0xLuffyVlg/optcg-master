@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/champ2023-p013.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/561185_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/champ2023-p013.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/champ2023-p013.webp",
   "price_eur": 48,
   "price_usd": 950,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Charlotte-Linlin-ST07-010",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 48,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Big-Mom-Pirates/Charlotte-Linlin-ST07-010",
-      "file": "ST07-010-v1.json"
+      "file": "ST07-010-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/champ2023-p013.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/champ2023-p013.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/champ2023-p013.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "SR",
       "price_eur": 795.08,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Charlotte-Linlin-ST07-010",
-      "file": "ST07-010-v2.json"
+      "file": "ST07-010-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/champ2023-p013.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/champ2023-p013.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/champ2023-p013.webp"
     }
   ],
-  "price_min_eur": 48
+  "price_min_eur": 48,
+  "image": "https://scalpeurs.com/img/cards-jp/champ2023-p013.webp"
 }

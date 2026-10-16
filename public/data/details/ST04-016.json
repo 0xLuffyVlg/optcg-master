@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/prb01-p300.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593589_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p300.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p300.webp",
   "price_eur": 0.02,
   "price_usd": 0.29,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Blast-Breath-ST04-016-V1",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Blast-Breath-ST04-016-V1",
-      "file": "ST04-016-v1.json"
+      "file": "ST04-016-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p300.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p300.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p300.webp"
     },
     {
       "variant_index": 2,
@@ -43,16 +46,22 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Blast-Breath-ST04-016-V3",
-      "file": "ST04-016-v2.json"
+      "file": "ST04-016-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p301.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p301.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p301.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Blast Breath",
       "rarity": "C",
-      "price_eur": 0.33,
+      "price_eur": 1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Animal-Kingdom-Pirates/Blast-Breath-ST04-016-V1",
-      "file": "ST04-016-v3.json"
+      "file": "ST04-016-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p302.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p302.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p302.webp"
     },
     {
       "variant_index": 4,
@@ -61,29 +70,39 @@
       "rarity": "C",
       "price_eur": 1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Blast-Breath-ST04-016-V1",
-      "file": "ST04-016-v4.json"
+      "file": "ST04-016-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p302.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p302.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p302.webp"
     },
     {
       "variant_index": 5,
       "variant_version": "v5",
       "name": "Blast Breath (Textured Foil)",
       "rarity": "C",
-      "price_eur": 2.02,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Blast-Breath-ST04-016-V3",
-      "file": "ST04-016-v5.json"
+      "file": "ST04-016-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p300.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p300.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p300.webp"
     },
     {
       "variant_index": 6,
       "variant_version": "v6",
       "name": "Blast Breath (Premium Card Collection -Best Selection Vol. 1-)",
       "rarity": "C",
-      "price_eur": 1.86,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Blast-Breath-ST04-016",
-      "file": "ST04-016-v6.json"
+      "file": "ST04-016-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p300.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p300.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p300.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.38,
   "price_avg30_eur": 0.46,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/prb01-p300.webp"
 }

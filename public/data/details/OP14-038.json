@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op14-p046.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671379_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op14-p046.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op14-p046.webp",
   "price_eur": 0.02,
   "price_usd": 0.08,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/I-Never-Bother-to-Remember-the-Faces-of-Trash-OP14-038?language=2",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/I-Never-Bother-to-Remember-the-Faces-of-Trash-OP14-038?language=2",
-      "file": "OP14-038-v1.json"
+      "file": "OP14-038-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p046.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p046.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p046.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.94,
   "price_avg30_eur": 1.11,
-  "listings_count": 6
+  "listings_count": 6,
+  "image": "https://scalpeurs.com/img/cards-jp/op14-p046.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/st34-p004.webp",
-  "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST34-003.png",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st34-p004.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st34-p004.webp",
   "price_eur": 4,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-Charlotte-Katakuri/Charlotte-Brulee-ST34-003?language=2",
@@ -34,11 +34,15 @@
       "rarity": "C",
       "price_eur": 4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-Charlotte-Katakuri/Charlotte-Brulee-ST34-003?language=2",
-      "file": "ST34-003-v1.json"
+      "file": "ST34-003-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st34-p004.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st34-p004.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st34-p004.webp"
     }
   ],
   "price_min_eur": 4,
   "price_avg7_eur": 3.61,
   "price_avg30_eur": 3.13,
-  "listings_count": 10
+  "listings_count": 10,
+  "image": "https://scalpeurs.com/img/cards-jp/st34-p004.webp"
 }

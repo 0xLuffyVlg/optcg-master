@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/st21-p026.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/615589_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st21-p026.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st21-p026.webp",
   "price_eur": 0.5,
   "price_usd": 0.81,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Vegapunk-ST21-013-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Vegapunk-ST21-013-V1?language=2",
-      "file": "ST21-013-v1.json"
+      "file": "ST21-013-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st21-p025.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st21-p025.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st21-p025.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "C",
       "price_eur": 0.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultra-Deck-EX-Gear-5/Vegapunk-ST21-013-V2?language=2",
-      "file": "ST21-013-v2.json"
+      "file": "ST21-013-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st21-p026.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st21-p026.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st21-p026.webp"
     }
   ],
   "price_min_eur": 0.5,
   "price_avg7_eur": 0.96,
   "price_avg30_eur": 1,
-  "listings_count": 21
+  "listings_count": 21,
+  "image": "https://scalpeurs.com/img/cards-jp/st21-p026.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/prb02-p246.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/656205_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
   "price_eur": 0.02,
   "price_usd": 0.26,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Brook-ST01-011-V2",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Brook-ST01-011-V2",
-      "file": "ST01-011-v1.json"
+      "file": "ST01-011-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "C",
       "price_eur": 8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/STARTER-DECK-Straw-Hat-Crew/Brook-ST01-011-V1",
-      "file": "ST01-011-v2.json"
+      "file": "ST01-011-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p247.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p247.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p247.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "C",
       "price_eur": 0.26,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Brook-ST01-011",
-      "file": "ST01-011-v3.json"
+      "file": "ST01-011-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "C",
       "price_eur": 34.45,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Brook-ST01-011-V2",
-      "file": "ST01-011-v4.json"
+      "file": "ST01-011-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "C",
       "price_eur": 5.93,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Brook-ST01-011",
-      "file": "ST01-011-v5.json"
+      "file": "ST01-011-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp"
     },
     {
       "variant_index": 6,
@@ -79,7 +94,10 @@
       "rarity": "C",
       "price_eur": 37.82,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Brook-ST01-011",
-      "file": "ST01-011-v6.json"
+      "file": "ST01-011-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp"
     },
     {
       "variant_index": 7,
@@ -88,7 +106,10 @@
       "rarity": "C",
       "price_eur": 193.98,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Brook-ST01-011-V2",
-      "file": "ST01-011-v7.json"
+      "file": "ST01-011-v7.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp"
     },
     {
       "variant_index": 8,
@@ -97,7 +118,10 @@
       "rarity": "C",
       "price_eur": 3.67,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Brook-ST01-011-V3",
-      "file": "ST01-011-v8.json"
+      "file": "ST01-011-v8.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp"
     },
     {
       "variant_index": 9,
@@ -106,11 +130,15 @@
       "rarity": "C",
       "price_eur": 0.09,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Brook-ST01-011-V2",
-      "file": "ST01-011-v9.json"
+      "file": "ST01-011-v9.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 13.59,
   "price_avg30_eur": 9.94,
-  "listings_count": 32
+  "listings_count": 32,
+  "image": "https://scalpeurs.com/img/cards-jp/prb02-p246.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op13-p080.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657329_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op13-p080.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op13-p080.webp",
   "price_eur": 0.03,
   "price_usd": 0.23,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Silvers-Rayleigh-OP13-066-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.03,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Silvers-Rayleigh-OP13-066-V1?language=2",
-      "file": "OP13-066-v1.json"
+      "file": "OP13-066-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p080.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p080.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p080.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "SR",
       "price_eur": 6.15,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Silvers-Rayleigh-OP13-066-V2?language=2",
-      "file": "OP13-066-v2.json"
+      "file": "OP13-066-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p081.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p081.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p081.webp"
     }
   ],
-  "price_min_eur": 0.03
+  "price_min_eur": 0.03,
+  "image": "https://scalpeurs.com/img/cards-jp/op13-p080.webp"
 }

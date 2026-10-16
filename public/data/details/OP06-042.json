@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op06-p051.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541006_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op06-p051.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op06-p051.webp",
   "price_eur": 0.02,
   "price_usd": 0.18,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Vinsmoke-Reiju-OP06-042-V1",
@@ -34,26 +34,36 @@
       "rarity": "L",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Vinsmoke-Reiju-OP06-042-V1",
-      "file": "OP06-042-v1.json"
+      "file": "OP06-042-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p051.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p051.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p051.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Vinsmoke Reiju (042) (Alternate Art)",
       "rarity": "L",
-      "price_eur": 29.19,
+      "price_eur": 24,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Vinsmoke-Reiju-OP06-042-V2",
-      "file": "OP06-042-v2.json"
+      "file": "OP06-042-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p052.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p052.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p052.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Vinsmoke Reiju (SP)",
       "rarity": "L",
-      "price_eur": 626.33,
+      "price_eur": 1699.95,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Vinsmoke-Reiju-OP06-042",
-      "file": "OP06-042-v3.json"
+      "file": "OP06-042-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/eb02-p089.webp",
+      "image": "https://scalpeurs.com/img/cards-en/eb02-p089.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/eb02-p089.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op06-p051.webp"
 }

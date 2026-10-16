@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op11-p042.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632396_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op11-p042.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op11-p042.webp",
   "price_eur": 0.02,
   "price_usd": 0.11,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Bird-Neptunian-OP11-033?language=2",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Bird-Neptunian-OP11-033?language=2",
-      "file": "OP11-033-v1.json"
+      "file": "OP11-033-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p042.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p042.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p042.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.62,
   "price_avg30_eur": 0.63,
-  "listings_count": 4
+  "listings_count": 4,
+  "image": "https://scalpeurs.com/img/cards-jp/op11-p042.webp"
 }

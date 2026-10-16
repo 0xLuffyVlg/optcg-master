@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/prb01-p314.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/504463_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p314.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p314.webp",
   "price_eur": 0.99,
   "price_usd": 0.13,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Yamato/Narikabura-Arrow-ST09-014",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Narikabura-Arrow-ST09-014-V1",
-      "file": "ST09-014-v1.json"
+      "file": "ST09-014-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p312.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p312.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p312.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Narikabura-Arrow-ST09-014-V3",
-      "file": "ST09-014-v2.json"
+      "file": "ST09-014-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p313.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p313.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p313.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Yamato/Narikabura-Arrow-ST09-014",
-      "file": "ST09-014-v3.json"
+      "file": "ST09-014-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p314.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p314.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p314.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "C",
       "price_eur": 0.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Narikabura-Arrow-ST09-014-V1",
-      "file": "ST09-014-v4.json"
+      "file": "ST09-014-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p314.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p314.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p314.webp"
     },
     {
       "variant_index": 5,
@@ -70,11 +82,15 @@
       "rarity": "C",
       "price_eur": 1.69,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Narikabura-Arrow-ST09-014-V3",
-      "file": "ST09-014-v5.json"
+      "file": "ST09-014-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p312.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p312.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p312.webp"
     }
   ],
   "price_min_eur": 0.99,
   "price_avg7_eur": 0.6,
   "price_avg30_eur": 0.74,
-  "listings_count": 45
+  "listings_count": 45,
+  "image": "https://scalpeurs.com/img/cards-jp/prb01-p314.webp"
 }

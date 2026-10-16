@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/st30-p033.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695446_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st30-p033.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st30-p033.webp",
   "price_eur": 0.02,
   "price_usd": 0.15,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/And-You-Get-Yourself-in-Big-Trouble-ST30-017-V1?language=2",
@@ -34,17 +34,24 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/And-You-Get-Yourself-in-Big-Trouble-ST30-017-V1?language=2",
-      "file": "ST30-017-v1.json"
+      "file": "ST30-017-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st30-p033.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st30-p033.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st30-p033.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "And You Get Yourself in Big Trouble!! (Parallel)",
       "rarity": "C",
-      "price_eur": 0.77,
+      "price_eur": 0.35,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EX-Luffy-Ace/And-You-Get-Yourself-in-Big-Trouble-ST30-017-V2?language=2",
-      "file": "ST30-017-v2.json"
+      "file": "ST30-017-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st30-p034.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st30-p034.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st30-p034.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/st30-p033.webp"
 }

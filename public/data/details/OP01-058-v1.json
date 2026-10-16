@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p072.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454583_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p072.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p072.webp",
   "price_eur": 0.18,
   "price_usd": 0.42,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Punk-Gibson-OP01-058",
@@ -34,11 +34,15 @@
       "rarity": "R",
       "price_eur": 0.18,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Punk-Gibson-OP01-058",
-      "file": "OP01-058-v1.json"
+      "file": "OP01-058-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p072.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p072.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p072.webp"
     }
   ],
   "price_min_eur": 0.18,
   "price_avg7_eur": 0.94,
   "price_avg30_eur": 1.02,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p072.webp"
 }

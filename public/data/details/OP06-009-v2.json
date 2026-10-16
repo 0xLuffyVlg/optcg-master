@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op06-p012.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/539279_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op06-p012.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op06-p012.webp",
   "price_eur": 1,
   "price_usd": 2.4,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Shuraiya-OP06-009-V2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Shuraiya-OP06-009-V1",
-      "file": "OP06-009-v1.json"
+      "file": "OP06-009-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p011.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p011.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p011.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "SR",
       "price_eur": 1,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Shuraiya-OP06-009-V2",
-      "file": "OP06-009-v2.json"
+      "file": "OP06-009-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p012.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p012.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p012.webp"
     }
   ],
   "price_min_eur": 1,
   "price_avg7_eur": 2.24,
   "price_avg30_eur": 2.38,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op06-p012.webp"
 }

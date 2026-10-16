@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op10-p058.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/617087_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op10-p058.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op10-p058.webp",
   "price_eur": 0.02,
   "price_usd": 0.26,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Kyros-OP10-046-V1?language=2",
@@ -34,35 +34,48 @@
       "rarity": "SR",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Kyros-OP10-046-V1?language=2",
-      "file": "OP10-046-v1.json"
+      "file": "OP10-046-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op10-p058.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op10-p058.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op10-p058.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Kyros (Parallel)",
       "rarity": "SR",
-      "price_eur": 3.38,
+      "price_eur": 1.8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Kyros-OP10-046-V2?language=2",
-      "file": "OP10-046-v2.json"
+      "file": "OP10-046-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op10-p059.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op10-p059.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op10-p059.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Kyros (The Best)",
       "rarity": "SR",
-      "price_eur": null,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Kyros-OP10-046-V1?language=2",
-      "file": "OP10-046-v3.json"
+      "file": "OP10-046-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op10-p058.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op10-p058.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op10-p058.webp"
     },
     {
       "variant_index": 4,
       "variant_version": "v4",
       "name": "Kyros (The Best)",
       "rarity": "SR",
-      "price_eur": null,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Kyros-OP10-046-V1?language=2",
-      "file": "OP10-046-v4.json"
+      "file": "OP10-046-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op10-p058.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op10-p058.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op10-p058.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op10-p058.webp"
 }

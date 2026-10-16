@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb04-p027.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671335_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p027.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p027.webp",
   "price_eur": 0.02,
   "price_usd": 0.06,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Igaram-EB04-021?language=2",
@@ -34,11 +34,15 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Igaram-EB04-021?language=2",
-      "file": "EB04-021-v1.json"
+      "file": "EB04-021-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p027.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb04-p027.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p027.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.41,
   "price_avg30_eur": 0.45,
-  "listings_count": 12
+  "listings_count": 12,
+  "image": "https://scalpeurs.com/img/cards-jp/eb04-p027.webp"
 }

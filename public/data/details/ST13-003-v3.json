@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/promo-asia-stamp-p006.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/600711_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/promo-asia-stamp-p006.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/promo-asia-stamp-p006.webp",
   "price_eur": 35.55,
   "price_usd": 154.82,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-ST13-003-V2",
@@ -34,7 +34,10 @@
       "rarity": "L",
       "price_eur": 35.55,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/MonkeyDLuffy-ST13-003-V1",
-      "file": "ST13-003-v1.json"
+      "file": "ST13-003-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/promo-asia-stamp-p006.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/promo-asia-stamp-p006.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/promo-asia-stamp-p006.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "L",
       "price_eur": 40,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/MonkeyDLuffy-ST13-003-V2",
-      "file": "ST13-003-v2.json"
+      "file": "ST13-003-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st13-p006.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st13-p006.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st13-p006.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "L",
       "price_eur": 192.56,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-ST13-003-V2",
-      "file": "ST13-003-v3.json"
+      "file": "ST13-003-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/promo-asia-stamp-p006.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/promo-asia-stamp-p006.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/promo-asia-stamp-p006.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "L",
       "price_eur": 723.36,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-ST13-003-V3",
-      "file": "ST13-003-v4.json"
+      "file": "ST13-003-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/promo-asia-stamp-p006.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/promo-asia-stamp-p006.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/promo-asia-stamp-p006.webp"
     },
     {
       "variant_index": 5,
@@ -70,8 +82,12 @@
       "rarity": "L",
       "price_eur": 153.54,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-ST13-003-V1",
-      "file": "ST13-003-v5.json"
+      "file": "ST13-003-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/promo-asia-stamp-p006.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/promo-asia-stamp-p006.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/promo-asia-stamp-p006.webp"
     }
   ],
-  "price_min_eur": 35.55
+  "price_min_eur": 35.55,
+  "image": "https://scalpeurs.com/img/cards-jp/promo-asia-stamp-p006.webp"
 }

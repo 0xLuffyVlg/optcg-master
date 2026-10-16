@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb03-p025.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672763_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p025.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p025.webp",
   "price_eur": 0.02,
   "price_usd": 0.06,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/There-You-Are-Sore-Loser-EB03-020-V1?language=2",
@@ -34,8 +34,12 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/There-You-Are-Sore-Loser-EB03-020-V1?language=2",
-      "file": "EB03-020-v1.json"
+      "file": "EB03-020-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb03-p025.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb03-p025.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb03-p025.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/eb03-p025.webp"
 }

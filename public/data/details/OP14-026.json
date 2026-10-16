@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op14-p031.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671369_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op14-p031.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op14-p031.webp",
   "price_eur": 0.02,
   "price_usd": 0.1,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Kouzuki-Oden-OP14-026?language=2",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Kouzuki-Oden-OP14-026?language=2",
-      "file": "OP14-026-v1.json"
+      "file": "OP14-026-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p031.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p031.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p031.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 3.11,
   "price_avg30_eur": 2.09,
-  "listings_count": 4
+  "listings_count": 4,
+  "image": "https://scalpeurs.com/img/cards-jp/op14-p031.webp"
 }

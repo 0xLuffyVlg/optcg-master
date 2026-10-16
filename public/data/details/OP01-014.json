@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p019.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/454532_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p019.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p019.webp",
   "price_eur": 0.02,
   "price_usd": 0.12,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Jinbe-OP01-014",
@@ -34,20 +34,27 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Jinbe-OP01-014",
-      "file": "OP01-014-v1.json"
+      "file": "OP01-014-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p019.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p019.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p019.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Jinbe (Premium Card Collection -ONE PIECE FILM RED Edition-)",
       "rarity": "UC",
-      "price_eur": 3.5,
+      "price_eur": 1.4,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Jinbe-OP01-014",
-      "file": "OP01-014-v2.json"
+      "file": "OP01-014-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/pcc-film-red-p022.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/pcc-film-red-p022.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/pcc-film-red-p022.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.29,
   "price_avg30_eur": 0.33,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p019.webp"
 }

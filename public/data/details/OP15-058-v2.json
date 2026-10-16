@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op15-p071.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685406_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op15-p071.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op15-p071.webp",
   "price_eur": 38,
   "price_usd": 38.71,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Enel-OP15-058-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "L",
       "price_eur": 38,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Enel-OP15-058-V1?language=2",
-      "file": "OP15-058-v1.json"
+      "file": "OP15-058-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p070.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p070.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p070.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "L",
       "price_eur": 38,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Enel-OP15-058-V2?language=2",
-      "file": "OP15-058-v2.json"
+      "file": "OP15-058-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p071.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p071.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p071.webp"
     }
   ],
   "price_min_eur": 38,
   "price_avg7_eur": 34.49,
   "price_avg30_eur": 32.89,
-  "listings_count": 16
+  "listings_count": 16,
+  "image": "https://scalpeurs.com/img/cards-jp/op15-p071.webp"
 }

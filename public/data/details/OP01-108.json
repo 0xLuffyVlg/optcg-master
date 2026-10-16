@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op01-p137.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/455808_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op01-p137.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op01-p137.webp",
   "price_eur": 0.02,
   "price_usd": 0.14,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Hitokiri-Kamazo-OP01-108",
@@ -34,20 +34,27 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Hitokiri-Kamazo-OP01-108",
-      "file": "OP01-108-v1.json"
+      "file": "OP01-108-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p137.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p137.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p137.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Hitokiri Kamazo (Store Championship 2023 Participation Pack Vol.1)",
       "rarity": "PR",
-      "price_eur": 4.02,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Hitokiri-Kamazo-OP01-108",
-      "file": "OP01-108-v2.json"
+      "file": "OP01-108-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op01-p137.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op01-p137.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op01-p137.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.27,
   "price_avg30_eur": 0.27,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op01-p137.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "SEC",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op13-p164.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657409_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op13-p164.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op13-p164.webp",
   "price_eur": 109,
   "price_usd": 444.27,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/PortgasDAce-OP13-119-V3?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SEC",
       "price_eur": 109,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/PortgasDAce-OP13-119-V1?language=2",
-      "file": "OP13-119-v1.json"
+      "file": "OP13-119-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p152.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p152.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p152.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SEC",
       "price_eur": 15,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/PortgasDAce-OP13-119-V2?language=2",
-      "file": "OP13-119-v2.json"
+      "file": "OP13-119-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p155.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p155.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p155.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "SEC",
       "price_eur": 650,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/PortgasDAce-OP13-119-V5?language=2",
-      "file": "OP13-119-v3.json"
+      "file": "OP13-119-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p158.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p158.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p158.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "SEC",
       "price_eur": 6000,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/PortgasDAce-OP13-119-V6?language=2",
-      "file": "OP13-119-v4.json"
+      "file": "OP13-119-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p161.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p161.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p161.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "SEC",
       "price_eur": 119.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/PortgasDAce-OP13-119-V3?language=2",
-      "file": "OP13-119-v5.json"
+      "file": "OP13-119-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p164.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p164.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p164.webp"
     },
     {
       "variant_index": 6,
@@ -79,7 +94,10 @@
       "rarity": "SEC",
       "price_eur": 370,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/PortgasDAce-OP13-119-V2?language=2",
-      "file": "OP13-119-v6.json"
+      "file": "OP13-119-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op13-p165.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op13-p165.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op13-p165.webp"
     },
     {
       "variant_index": 7,
@@ -88,11 +106,15 @@
       "rarity": "SEC",
       "price_eur": 173.29,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/PortgasDAce-OP13-119-V1?language=2",
-      "file": "OP13-119-v7.json"
+      "file": "OP13-119-v7.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p152.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p152.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p152.webp"
     }
   ],
   "price_min_eur": 109,
   "price_avg7_eur": 295.99,
   "price_avg30_eur": 181.09,
-  "listings_count": 27
+  "listings_count": 27,
+  "image": "https://scalpeurs.com/img/cards-jp/op13-p164.webp"
 }

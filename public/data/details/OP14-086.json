@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op14-p104.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671418_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op14-p104.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op14-p104.webp",
   "price_eur": 0.02,
   "price_usd": 0.13,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Miss-DoublefingerZala-OP14-086?language=2",
@@ -34,11 +34,15 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Miss-DoublefingerZala-OP14-086?language=2",
-      "file": "OP14-086-v1.json"
+      "file": "OP14-086-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p104.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p104.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p104.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.61,
   "price_avg30_eur": 0.96,
-  "listings_count": 8
+  "listings_count": 8,
+  "image": "https://scalpeurs.com/img/cards-jp/op14-p104.webp"
 }

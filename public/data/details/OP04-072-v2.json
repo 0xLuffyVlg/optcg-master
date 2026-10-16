@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op04-p088.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/514254_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op04-p088.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op04-p088.webp",
   "price_eur": 2.7,
   "price_usd": 3.28,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Mr5Gem-OP04-072-V2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 2.7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Mr5Gem-OP04-072-V1",
-      "file": "OP04-072-v1.json"
+      "file": "OP04-072-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op04-p087.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op04-p087.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op04-p087.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 2.7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Mr5Gem-OP04-072-V2",
-      "file": "OP04-072-v2.json"
+      "file": "OP04-072-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op04-p088.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op04-p088.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op04-p088.webp"
     }
   ],
   "price_min_eur": 2.7,
   "price_avg7_eur": 3.62,
   "price_avg30_eur": 3.58,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op04-p088.webp"
 }

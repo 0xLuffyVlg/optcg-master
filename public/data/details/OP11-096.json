@@ -18,8 +18,8 @@
   "rarity": "UC",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op11-p118.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/632472_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op11-p118.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op11-p118.webp",
   "price_eur": 0.02,
   "price_usd": 0.14,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Ripper-OP11-096?language=2",
@@ -34,11 +34,15 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/Ripper-OP11-096?language=2",
-      "file": "OP11-096-v1.json"
+      "file": "OP11-096-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p118.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p118.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p118.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 3.09,
   "price_avg30_eur": 2.24,
-  "listings_count": 2
+  "listings_count": 2,
+  "image": "https://scalpeurs.com/img/cards-jp/op11-p118.webp"
 }

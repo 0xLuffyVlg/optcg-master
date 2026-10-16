@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/st11-p012.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/533880_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st11-p012.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st11-p012.webp",
   "price_eur": 0.75,
   "price_usd": 1.44,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Uta/Uta-ST11-002",
@@ -34,8 +34,12 @@
       "rarity": "SR",
       "price_eur": 0.75,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Uta/Uta-ST11-002",
-      "file": "ST11-002-v1.json"
+      "file": "ST11-002-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st11-p012.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st11-p012.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st11-p012.webp"
     }
   ],
-  "price_min_eur": 0.75
+  "price_min_eur": 0.75,
+  "image": "https://scalpeurs.com/img/cards-jp/st11-p012.webp"
 }

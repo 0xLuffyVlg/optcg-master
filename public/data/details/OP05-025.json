@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op05-p031.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528562_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op05-p031.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op05-p031.webp",
   "price_eur": 0.02,
   "price_usd": 0.06,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Gladius-OP05-025",
@@ -34,11 +34,15 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Gladius-OP05-025",
-      "file": "OP05-025-v1.json"
+      "file": "OP05-025-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op05-p031.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op05-p031.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op05-p031.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 4.62,
   "price_avg30_eur": 4.12,
-  "listings_count": 26
+  "listings_count": 26,
+  "image": "https://scalpeurs.com/img/cards-jp/op05-p031.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "TR",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-en/op13-p176.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/659982_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-en/op13-p176.webp",
+  "image_url": "https://scalpeurs.com/img/cards-en/op13-p176.webp",
   "price_eur": 0.02,
   "price_usd": 72.1,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/MonkeyDLuffy-OP11-058?language=2",
@@ -34,7 +34,10 @@
       "rarity": "UC",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed/MonkeyDLuffy-OP11-058?language=2",
-      "file": "OP11-058-v1.json"
+      "file": "OP11-058-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op11-p072.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op11-p072.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op11-p072.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "TR",
       "price_eur": 39.98,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/MonkeyDLuffy-OP11-058?language=2",
-      "file": "OP11-058-v2.json"
+      "file": "OP11-058-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op13-p176.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op13-p176.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op13-p176.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 115.39,
   "price_avg30_eur": 69.87,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-en/op13-p176.webp"
 }

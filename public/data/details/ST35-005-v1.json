@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/st35-p006.webp",
-  "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST35-005.png",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st35-p006.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st35-p006.webp",
   "price_eur": 0.44,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-RedBlack-Sabo/Bartholomew-Kuma-ST35-005?language=2",
@@ -34,8 +34,12 @@
       "rarity": "SR",
       "price_eur": 0.44,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-RedBlack-Sabo/Bartholomew-Kuma-ST35-005?language=2",
-      "file": "ST35-005-v1.json"
+      "file": "ST35-005-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st35-p006.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st35-p006.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st35-p006.webp"
     }
   ],
-  "price_min_eur": 0.44
+  "price_min_eur": 0.44,
+  "image": "https://scalpeurs.com/img/cards-jp/st35-p006.webp"
 }

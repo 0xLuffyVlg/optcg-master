@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/prb02-p314.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653834_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p314.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p314.webp",
   "price_eur": 160,
   "price_usd": 286.97,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Cross-Guild-OP09-057-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 160,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Cross-Guild-OP09-057?language=2",
-      "file": "OP09-057-v1.json"
+      "file": "OP09-057-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op09-p074.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op09-p074.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op09-p074.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 170,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Cross-Guild-OP09-057-V2?language=2",
-      "file": "OP09-057-v2.json"
+      "file": "OP09-057-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p314.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p314.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p314.webp"
     }
   ],
   "price_min_eur": 160,
   "price_avg7_eur": 271.66,
   "price_avg30_eur": 264.72,
-  "listings_count": 20
+  "listings_count": 20,
+  "image": "https://scalpeurs.com/img/cards-jp/prb02-p314.webp"
 }

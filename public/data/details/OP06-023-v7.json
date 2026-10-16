@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op06-p030.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/593486_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op06-p030.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op06-p030.webp",
   "price_eur": 0.02,
   "price_usd": 9.19,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Arlong-OP06-023-V4",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Arlong-OP06-023",
-      "file": "OP06-023-v1.json"
+      "file": "OP06-023-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p030.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p030.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p030.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Arlong-OP06-023-V2",
-      "file": "OP06-023-v2.json"
+      "file": "OP06-023-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p202.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p202.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p202.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Arlong-OP06-023-V3",
-      "file": "OP06-023-v3.json"
+      "file": "OP06-023-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p203.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p203.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p203.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "R",
       "price_eur": 2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Arlong-OP06-023-V4",
-      "file": "OP06-023-v4.json"
+      "file": "OP06-023-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p204.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p204.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p204.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "R",
       "price_eur": 6.49,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Arlong-OP06-023-V2",
-      "file": "OP06-023-v5.json"
+      "file": "OP06-023-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p204.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p204.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p204.webp"
     },
     {
       "variant_index": 6,
@@ -79,7 +94,10 @@
       "rarity": "R",
       "price_eur": 3.56,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Arlong-OP06-023-V3",
-      "file": "OP06-023-v6.json"
+      "file": "OP06-023-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p030.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p030.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p030.webp"
     },
     {
       "variant_index": 7,
@@ -88,8 +106,12 @@
       "rarity": "R",
       "price_eur": 7.44,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Arlong-OP06-023-V4",
-      "file": "OP06-023-v7.json"
+      "file": "OP06-023-v7.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p030.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p030.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p030.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op06-p030.webp"
 }

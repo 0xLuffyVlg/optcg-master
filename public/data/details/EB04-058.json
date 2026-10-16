@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb04-p074.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685329_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p074.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p074.webp",
   "price_eur": 19,
   "price_usd": 29.96,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Borsalino-EB04-058-V1?language=2",
@@ -34,20 +34,27 @@
       "rarity": "SR",
       "price_eur": 19,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Borsalino-EB04-058-V1?language=2",
-      "file": "EB04-058-v1.json"
+      "file": "EB04-058-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p074.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb04-p074.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p074.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Borsalino (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 27.5,
+      "price_eur": 29,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Borsalino-EB04-058-V2?language=2",
-      "file": "EB04-058-v2.json"
+      "file": "EB04-058-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p075.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb04-p075.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p075.webp"
     }
   ],
   "price_min_eur": 19,
   "price_avg7_eur": 20.52,
   "price_avg30_eur": 19.72,
-  "listings_count": 33
+  "listings_count": 33,
+  "image": "https://scalpeurs.com/img/cards-jp/eb04-p074.webp"
 }

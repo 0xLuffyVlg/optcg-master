@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op15-p093.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685428_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op15-p093.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op15-p093.webp",
   "price_eur": 75,
   "price_usd": 92.54,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Lightning-Dragon-OP15-077-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 75,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Lightning-Dragon-OP15-077-V1?language=2",
-      "file": "OP15-077-v1.json"
+      "file": "OP15-077-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p092.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p092.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p092.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 76.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/Lightning-Dragon-OP15-077-V2?language=2",
-      "file": "OP15-077-v2.json"
+      "file": "OP15-077-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op15-p093.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op15-p093.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op15-p093.webp"
     }
   ],
   "price_min_eur": 75,
   "price_avg7_eur": 83.89,
   "price_avg30_eur": 81.24,
-  "listings_count": 32
+  "listings_count": 32,
+  "image": "https://scalpeurs.com/img/cards-jp/op15-p093.webp"
 }

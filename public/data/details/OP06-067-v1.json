@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op06-p081.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/541071_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op06-p081.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op06-p081.webp",
   "price_eur": 0.02,
   "price_usd": 0.12,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Vinsmoke-Yonji-OP06-067",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Vinsmoke-Yonji-OP06-067",
-      "file": "OP06-067-v1.json"
+      "file": "OP06-067-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p081.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p081.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p081.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "R",
       "price_eur": 0.04,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Yonji-OP06-067-V1",
-      "file": "OP06-067-v2.json"
+      "file": "OP06-067-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p231.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p231.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p231.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "R",
       "price_eur": 2.98,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Yonji-OP06-067-V3",
-      "file": "OP06-067-v3.json"
+      "file": "OP06-067-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p232.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p232.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p232.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "R",
       "price_eur": 4.16,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Yonji-OP06-067-V4",
-      "file": "OP06-067-v4.json"
+      "file": "OP06-067-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p233.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb01-p233.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb01-p233.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "R",
       "price_eur": 0.04,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Yonji-OP06-067-V1",
-      "file": "OP06-067-v5.json"
+      "file": "OP06-067-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/prb01-p233.webp",
+      "image": "https://scalpeurs.com/img/cards-en/prb01-p233.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/prb01-p233.webp"
     },
     {
       "variant_index": 6,
@@ -79,7 +94,10 @@
       "rarity": "R",
       "price_eur": 2.98,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Yonji-OP06-067-V3",
-      "file": "OP06-067-v6.json"
+      "file": "OP06-067-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p081.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p081.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p081.webp"
     },
     {
       "variant_index": 7,
@@ -88,8 +106,12 @@
       "rarity": "R",
       "price_eur": 4.16,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Vinsmoke-Yonji-OP06-067-V4",
-      "file": "OP06-067-v7.json"
+      "file": "OP06-067-v7.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p081.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p081.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p081.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op06-p081.webp"
 }

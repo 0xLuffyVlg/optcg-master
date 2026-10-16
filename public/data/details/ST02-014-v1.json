@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/st02-p014.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/288262_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st02-p014.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st02-p014.webp",
   "price_eur": 0.02,
   "price_usd": 0.24,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Worst-Generation/XDrake-ST02-014-V1",
@@ -34,11 +34,15 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Worst-Generation/XDrake-ST02-014-V1",
-      "file": "ST02-014-v1.json"
+      "file": "ST02-014-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st02-p014.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st02-p014.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st02-p014.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.46,
   "price_avg30_eur": 0.41,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/st02-p014.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/st29-p031.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671614_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st29-p031.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st29-p031.webp",
   "price_eur": 0.02,
   "price_usd": 0.09,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Iai-Death-Lion-Song-ST29-017?language=2",
@@ -34,8 +34,12 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Iai-Death-Lion-Song-ST29-017?language=2",
-      "file": "ST29-017-v1.json"
+      "file": "ST29-017-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st29-p031.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st29-p031.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st29-p031.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/st29-p031.webp"
 }

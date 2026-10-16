@@ -18,8 +18,8 @@
   "rarity": "PR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/pcc-film-red-p015.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/482224_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/pcc-film-red-p015.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/pcc-film-red-p015.webp",
   "price_eur": 8,
   "price_usd": 36.2,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Sanji-ST01-004-V1",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/STARTER-DECK-Straw-Hat-Crew/Sanji-ST01-004-V1",
-      "file": "ST01-004-v1.json"
+      "file": "ST01-004-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/pack-promotion-p011.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/pack-promotion-p011.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/pack-promotion-p011.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "PR",
       "price_eur": 84,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Sanji-ST01-004-V1",
-      "file": "ST01-004-v2.json"
+      "file": "ST01-004-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/pcc-film-red-p015.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/pcc-film-red-p015.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/pcc-film-red-p015.webp"
     },
     {
       "variant_index": 3,
@@ -52,11 +58,15 @@
       "rarity": "C",
       "price_eur": 8,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Premium-Bandai-Products/Sanji-ST01-004",
-      "file": "ST01-004-v3.json"
+      "file": "ST01-004-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/pcc-film-red-p005.webp",
+      "image": "https://scalpeurs.com/img/cards-en/pcc-film-red-p005.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/pcc-film-red-p005.webp"
     }
   ],
   "price_min_eur": 8,
   "price_avg7_eur": 65.17,
   "price_avg30_eur": 30.56,
-  "listings_count": 22
+  "listings_count": 22,
+  "image": "https://scalpeurs.com/img/cards-jp/pcc-film-red-p015.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op05-p015.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/528540_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op05-p015.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op05-p015.webp",
   "price_eur": 0.02,
   "price_usd": 0.15,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Bartholomew-Kuma-OP05-011",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/Bartholomew-Kuma-OP05-011",
-      "file": "OP05-011-v1.json"
+      "file": "OP05-011-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op05-p015.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op05-p015.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op05-p015.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "C",
       "price_eur": 5.18,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Bartholomew-Kuma-OP05-011-V1",
-      "file": "OP05-011-v2.json"
+      "file": "OP05-011-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op05-p015.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op05-p015.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op05-p015.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 6.54,
   "price_avg30_eur": 5.67,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op05-p015.webp"
 }

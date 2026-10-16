@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/st29-p023.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671605_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st29-p023.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st29-p023.webp",
   "price_eur": 0.02,
   "price_usd": 0.14,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/MonkeyDLuffy-ST29-012-V1?language=2",
@@ -34,17 +34,24 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/MonkeyDLuffy-ST29-012-V1?language=2",
-      "file": "ST29-012-v1.json"
+      "file": "ST29-012-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st29-p023.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st29-p023.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st29-p023.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Monkey.D.Luffy (012) (Full Art)",
       "rarity": "C",
-      "price_eur": 3.57,
+      "price_eur": 1.98,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/MonkeyDLuffy-ST29-012-V2?language=2",
-      "file": "ST29-012-v2.json"
+      "file": "ST29-012-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st29-p024.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st29-p024.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st29-p024.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/st29-p023.webp"
 }

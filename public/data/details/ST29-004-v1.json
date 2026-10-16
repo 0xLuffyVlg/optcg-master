@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/st29-p007.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671557_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st29-p007.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st29-p007.webp",
   "price_eur": 0.04,
   "price_usd": 0.98,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Sanji-ST29-004-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 0.04,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Sanji-ST29-004-V1?language=2",
-      "file": "ST29-004-v1.json"
+      "file": "ST29-004-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st29-p007.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st29-p007.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st29-p007.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "SR",
       "price_eur": 6.22,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead/Sanji-ST29-004-V2?language=2",
-      "file": "ST29-004-v2.json"
+      "file": "ST29-004-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st29-p008.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st29-p008.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st29-p008.webp"
     }
   ],
-  "price_min_eur": 0.04
+  "price_min_eur": 0.04,
+  "image": "https://scalpeurs.com/img/cards-jp/st29-p007.webp"
 }

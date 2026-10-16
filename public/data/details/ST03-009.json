@@ -18,7 +18,7 @@
   "rarity": "SR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-en/st03-p009.webp",
+  "image_path": "https://scalpeurs.com/img/cards-en/st03-p009.webp",
   "image_url": "https://scalpeurs.com/img/cards-en/st03-p009.webp",
   "price_eur": 0.7,
   "price_usd": 0.24,
@@ -32,22 +32,29 @@
       "variant_version": "v1",
       "name": "Donquixote Doflamingo",
       "rarity": "SR",
-      "price_eur": 65,
+      "price_eur": 0.7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-The-Seven-Warlords-of-the-Sea/Donquixote-Doflamingo-ST03-009-V1",
-      "file": "ST03-009-v1.json"
+      "file": "ST03-009-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/st03-p009.webp",
+      "image": "https://scalpeurs.com/img/cards-en/st03-p009.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/st03-p009.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Donquixote Doflamingo (Wanted Poster)",
       "rarity": "SR",
-      "price_eur": 73,
+      "price_eur": 65,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Donquixote-Doflamingo-ST03-009",
-      "file": "ST03-009-v2.json"
+      "file": "ST03-009-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op03-p152.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op03-p152.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op03-p152.webp"
     }
   ],
   "price_min_eur": 0.7,
   "price_avg7_eur": 15.9,
   "price_avg30_eur": 16.05,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-en/st03-p009.webp"
 }

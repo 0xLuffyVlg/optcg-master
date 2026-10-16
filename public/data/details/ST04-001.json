@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/pcc-leader-p003.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/288269_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/pcc-leader-p003.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/pcc-leader-p003.webp",
   "price_eur": 34.88,
   "price_usd": 2.84,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Animal-Kingdom-Pirates/Kaido-ST04-001-V1",
@@ -34,20 +34,27 @@
       "rarity": "L",
       "price_eur": 34.88,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Animal-Kingdom-Pirates/Kaido-ST04-001-V1",
-      "file": "ST04-001-v1.json"
+      "file": "ST04-001-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/pcc-leader-p003.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/pcc-leader-p003.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/pcc-leader-p003.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Kaido (Premium Card Collection -Leader Collection-)",
       "rarity": "L",
-      "price_eur": 30.38,
+      "price_eur": 34.88,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Kaido-ST04-001",
-      "file": "ST04-001-v2.json"
+      "file": "ST04-001-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/pcc-leader-p003.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/pcc-leader-p003.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/pcc-leader-p003.webp"
     }
   ],
   "price_min_eur": 34.88,
   "price_avg7_eur": 92.14,
   "price_avg30_eur": 85.25,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/pcc-leader-p003.webp"
 }

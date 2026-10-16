@@ -18,8 +18,8 @@
   "rarity": "SEC",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op13-p152.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/657405_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op13-p152.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op13-p152.webp",
   "price_eur": 1.5,
   "price_usd": 1.76,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/PortgasDAce-OP13-119-V1?language=2",
@@ -34,65 +34,87 @@
       "rarity": "SEC",
       "price_eur": 1.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/PortgasDAce-OP13-119-V1?language=2",
-      "file": "OP13-119-v1.json"
+      "file": "OP13-119-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p152.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p152.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p152.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Portgas.D.Ace (119) (Parallel)",
       "rarity": "SEC",
-      "price_eur": 15,
+      "price_eur": 19.89,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/PortgasDAce-OP13-119-V2?language=2",
-      "file": "OP13-119-v2.json"
+      "file": "OP13-119-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p155.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p155.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p155.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Portgas.D.Ace (119) (Super Alternate Art)",
       "rarity": "SEC",
-      "price_eur": 650,
+      "price_eur": 900,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/PortgasDAce-OP13-119-V5?language=2",
-      "file": "OP13-119-v3.json"
+      "file": "OP13-119-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p158.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p158.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p158.webp"
     },
     {
       "variant_index": 4,
       "variant_version": "v4",
       "name": "Portgas.D.Ace (119) (Red Super Alternate Art)",
       "rarity": "SEC",
-      "price_eur": 6000,
+      "price_eur": 5500,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/PortgasDAce-OP13-119-V6?language=2",
-      "file": "OP13-119-v4.json"
+      "file": "OP13-119-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p161.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p161.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p161.webp"
     },
     {
       "variant_index": 5,
       "variant_version": "v5",
       "name": "Portgas.D.Ace (119) (Wanted Poster)",
       "rarity": "SEC",
-      "price_eur": 119.99,
+      "price_eur": 109,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/PortgasDAce-OP13-119-V3?language=2",
-      "file": "OP13-119-v5.json"
+      "file": "OP13-119-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p164.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p164.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p164.webp"
     },
     {
       "variant_index": 6,
       "variant_version": "v6",
       "name": "Portgas.D.Ace (119) (Treasure Cup 2026)",
       "rarity": "SEC",
-      "price_eur": 370,
+      "price_eur": 84.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/PortgasDAce-OP13-119-V2?language=2",
-      "file": "OP13-119-v6.json"
+      "file": "OP13-119-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/op13-p165.webp",
+      "image": "https://scalpeurs.com/img/cards-en/op13-p165.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/op13-p165.webp"
     },
     {
       "variant_index": 7,
       "variant_version": "v7",
       "name": "Portgas.D.Ace (119) (Treasure Cup 2026) (Store)",
       "rarity": "SEC",
-      "price_eur": 173.29,
+      "price_eur": 1.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/PortgasDAce-OP13-119-V1?language=2",
-      "file": "OP13-119-v7.json"
+      "file": "OP13-119-v7.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op13-p152.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op13-p152.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op13-p152.webp"
     }
   ],
   "price_min_eur": 1.5,
   "price_avg7_eur": 2.05,
   "price_avg30_eur": 2.18,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op13-p152.webp"
 }

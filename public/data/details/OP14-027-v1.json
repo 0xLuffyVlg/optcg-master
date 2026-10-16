@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/op14-p032.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/671370_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op14-p032.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op14-p032.webp",
   "price_eur": 0.02,
   "price_usd": 0.53,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Shanks-OP14-027-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Shanks-OP14-027-V1?language=2",
-      "file": "OP14-027-v1.json"
+      "file": "OP14-027-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p032.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p032.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p032.webp"
     },
     {
       "variant_index": 2,
@@ -43,8 +46,12 @@
       "rarity": "R",
       "price_eur": 14.7,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Shanks-OP14-027-V2?language=2",
-      "file": "OP14-027-v2.json"
+      "file": "OP14-027-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op14-p033.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op14-p033.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op14-p033.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op14-p032.webp"
 }

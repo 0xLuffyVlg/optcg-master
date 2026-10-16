@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op16-p096.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696062_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op16-p096.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op16-p096.webp",
   "price_eur": 0.02,
   "price_usd": 0.09,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/MonkeyDGarp-OP16-075?language=2",
@@ -34,11 +34,15 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/MonkeyDGarp-OP16-075?language=2",
-      "file": "OP16-075-v1.json"
+      "file": "OP16-075-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p096.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p096.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p096.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.61,
   "price_avg30_eur": 1.08,
-  "listings_count": 6
+  "listings_count": 6,
+  "image": "https://scalpeurs.com/img/cards-jp/op16-p096.webp"
 }

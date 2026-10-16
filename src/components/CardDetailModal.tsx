@@ -23,6 +23,7 @@ import {
 } from 'lucide-react';
 import { Card } from '../types';
 import { allPrintsAsCards } from '../data/dataProvider';
+import cardLinks from '../data/card_links.json';
 import { fetchCardDetail, CardDetailData, CardDetailVariant } from '../services/cardDetailsService';
 import { fetchLiveCardPriceHistory } from '../services/priceHistoryService';
 import {
@@ -331,6 +332,7 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
 
       const initialFile = resolveInitialVariantFile(card);
       setCurrentVariantFile(initialFile);
+      setCardDetail(null); // Clear previous card detail to prevent stale bleed
       setIsLoadingDetail(true);
 
       fetchCardDetail(initialFile)
@@ -394,18 +396,43 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
     }
   };
 
-  // Image URL resolution: PRIORITIZE authentic image for variants, and official Bandai HD art for base
+  // Image URL resolution: PRIORITIZE authentic localized image for current edition, authentic image for variants, and official Bandai HD art for base
   const fullImageUrl = useMemo(() => {
-    // 1. If activeCard is an Alt-Art or variant with an authentic image from Scalpeurs, use it!
+    // 0. Language edition match: if user toggles FR/EN/JP, pick the exact localized image if available
+    if (activeCard?._imagePaths && activeCard._imagePaths.length > 0) {
+      if (editionLang === 'FR') {
+        const frImg = activeCard._imagePaths.find(p => p.includes('/cards-fr/'));
+        if (frImg) return frImg;
+      } else if (editionLang === 'EN') {
+        const enImg = activeCard._imagePaths.find(p => p.includes('/cards-en/'));
+        if (enImg) return enImg;
+      } else if (editionLang === 'JP') {
+        const jpImg = activeCard._imagePaths.find(p => p.includes('/cards-jp/'));
+        if (jpImg) return jpImg;
+      }
+    }
+
+    // 1. If active fiche (cardDetail) has an authentic image
+    if (cardDetail?.image_path && cardDetail.image_path.startsWith('http')) {
+      return cardDetail.image_path;
+    }
+    if (cardDetail?.image_url && cardDetail.image_url.startsWith('http')) {
+      return cardDetail.image_url;
+    }
+    if (currentVariantFile) {
+      const fEntry = (cardLinks as any).byFile?.[currentVariantFile.toLowerCase()];
+      if (fEntry?.image_url && fEntry.image_url.startsWith('http')) {
+        return fEntry.image_url;
+      }
+    }
+
+    // 2. If activeCard is an Alt-Art or variant with an authentic image from Scalpeurs, use it!
     if (activeCard && isAltArtworkCard(activeCard)) {
       if (activeCard.scalpeurs_image_url && activeCard.scalpeurs_image_url.startsWith('http')) {
         return activeCard.scalpeurs_image_url;
       }
       if (activeCard._defaultImagePath && activeCard._defaultImagePath.startsWith('http')) {
         return activeCard._defaultImagePath;
-      }
-      if (cardDetail?.image_url && cardDetail.image_url.startsWith('http')) {
-        return cardDetail.image_url;
       }
       if (cardDetail?.image_path && cardDetail.image_path.startsWith('/')) {
         return `https://scalpeurs.com${cardDetail.image_path}`;
@@ -415,7 +442,7 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
       }
     }
 
-    // 2. If activeCard has an explicit valid URL
+    // 3. If activeCard has an explicit valid URL
     if (activeCard?._defaultImagePath && activeCard._defaultImagePath.startsWith('http')) {
       return activeCard._defaultImagePath;
     }
@@ -423,9 +450,9 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
       return activeCard.scalpeurs_image_url;
     }
 
-    // 3. Official Bandai clean code URL (Egman CDN)
+    // 4. Official Bandai clean code URL (Egman CDN)
     return getCardImageUrl(activeCard, activeCard?._defaultImagePath);
-  }, [activeCard, cardDetail]);
+  }, [activeCard, cardDetail, currentVariantFile, editionLang]);
 
   const isLeader = (cardDetail?.category || activeCard.category) === 'Leader';
   const ownedCopiesOfThisArtwork = getCardCountInCollection(activeCard.card_code, currentVariantFile || activeCard._defaultImagePath);
@@ -456,7 +483,7 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
 
     let rawUrl = '';
 
-    // 1. Direct from cardDetail if it matches the active variant file
+    // 1. Direct from cardDetail if it matches the active variant file (definitive authority)
     if (cardDetail && currentVariantFile && (
       (cardDetail as any).file?.toLowerCase() === currentVariantFile.toLowerCase() ||
       currentVariantFile.toLowerCase().includes((cardDetail.variant_version || '').toLowerCase())
@@ -468,7 +495,19 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
       }
     }
 
-    // 2. Direct from activeCard (the exact print object the user clicked in the grid)
+    // 2. Synchronous direct from card_links.json byFile for currentVariantFile
+    if (!rawUrl && currentVariantFile) {
+      const fileEntry = (cardLinks as any).byFile?.[currentVariantFile.toLowerCase()];
+      if (fileEntry) {
+        if (editionLang === 'JP' && fileEntry.cm_jp) {
+          rawUrl = fileEntry.cm_jp;
+        } else if (fileEntry.cm) {
+          rawUrl = fileEntry.cm;
+        }
+      }
+    }
+
+    // 3. Direct from activeCard (the exact print object the user clicked in the grid)
     if (!rawUrl && activeCard) {
       if (editionLang === 'JP') {
         rawUrl = activeCard.cardmarket_url_jp
@@ -477,15 +516,6 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
           || '';
       } else {
         rawUrl = activeCard.cardmarket_url || '';
-      }
-    }
-
-    // 3. Direct from cardDetail if not already tried
-    if (!rawUrl && cardDetail) {
-      if (editionLang === 'JP' && cardDetail.cardmarket_url_jp) {
-        rawUrl = cardDetail.cardmarket_url_jp;
-      } else if (cardDetail.cardmarket_url) {
-        rawUrl = cardDetail.cardmarket_url;
       }
     }
 
@@ -501,7 +531,7 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
 
     // 5. Fallback to cardLinks by id or path or code
     if (!rawUrl && activeCard) {
-      rawUrl = getCardmarketUrl(activeCard.card_code, activeCard._defaultImagePath || activeCard.id || currentVariantFile, activeCard)
+      rawUrl = getCardmarketUrl(activeCard.card_code, currentVariantFile || activeCard._defaultImagePath || activeCard.id, activeCard)
         || artworkBasePrice.cardmarketUrl
         || '';
     }
@@ -513,17 +543,26 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
 
   // Active price: accurately reflects the active variant's real price
   const activePriceEur = useMemo(() => {
-    // 1. Grid verified price from activeCard (exact price displayed on the card in the grid)
-    if (gridVerifiedPrice > 0) {
-      return gridVerifiedPrice;
-    }
-
-    // 2. Dedicated micro-fiche price for currentVariantFile
+    // 1. Dedicated micro-fiche price for currentVariantFile (definitive source of truth for the active variant)
     if (cardDetail?.price_eur !== undefined && cardDetail.price_eur !== null && cardDetail.price_eur > 0) {
       return cardDetail.price_eur;
     }
 
-    // 3. Matching variant in all_variants
+    // 2. Synchronous lookup from card_links.json byFile for currentVariantFile
+    if (currentVariantFile) {
+      const cleanF = currentVariantFile.toLowerCase();
+      const byFilePrice = (cardLinks as any).byFile?.[cleanF]?.price_eur;
+      if (byFilePrice !== undefined && byFilePrice !== null && byFilePrice > 0) {
+        return byFilePrice;
+      }
+    }
+
+    // 3. Grid verified price from activeCard
+    if (gridVerifiedPrice > 0) {
+      return gridVerifiedPrice;
+    }
+
+    // 4. Matching variant in all_variants
     if (cardDetail?.all_variants && currentVariantFile) {
       const vMatch = cardDetail.all_variants.find(
         (v) => v.file && v.file.toLowerCase() === currentVariantFile.toLowerCase()
@@ -540,7 +579,7 @@ export const CardDetailModal: React.FC<CardDetailModalProps> = ({ card, onClose 
       return artworkBasePrice.priceMinEur;
     }
     return 0;
-  }, [gridVerifiedPrice, cardDetail, currentVariantFile, artworkBasePrice]);
+  }, [cardDetail, currentVariantFile, gridVerifiedPrice, artworkBasePrice]);
 
   const artworkPriceInfo = useMemo(() => {
     const finalPrice = activePriceEur > 0 ? activePriceEur : (artworkBasePrice.priceMinEur || artworkBasePrice.priceEur || 0);

@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op03-p027.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/498064_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op03-p027.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op03-p027.webp",
   "price_eur": 37.99,
   "price_usd": 39.14,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Arlong-OP03-022-V2",
@@ -34,7 +34,10 @@
       "rarity": "L",
       "price_eur": 37.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Arlong-OP03-022-V1",
-      "file": "OP03-022-v1.json"
+      "file": "OP03-022-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p026.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p026.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p026.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "L",
       "price_eur": 39.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Pillars-of-Strength/Arlong-OP03-022-V2",
-      "file": "OP03-022-v2.json"
+      "file": "OP03-022-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op03-p027.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op03-p027.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op03-p027.webp"
     }
   ],
   "price_min_eur": 37.99,
   "price_avg7_eur": 42.74,
   "price_avg30_eur": 45.18,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op03-p027.webp"
 }

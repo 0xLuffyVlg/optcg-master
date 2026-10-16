@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-jp/op17-p094.webp",
-  "image_url": "/img/cards-fr/op17-p093-sm.webp",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op17-p094.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op17-p094.webp",
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Scratchmen-Apoo-OP17-070-V1?language=2",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Scratchmen-Apoo-OP17-070-V1?language=2",
-      "file": "OP17-070-v1.json"
+      "file": "OP17-070-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p094.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p094.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p094.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "C",
       "price_eur": 0.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Scratchmen-Apoo-OP17-070-V2?language=2",
-      "file": "OP17-070-v2.json"
+      "file": "OP17-070-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p095.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p095.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p095.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.8,
   "price_avg30_eur": 0.88,
-  "listings_count": 19
+  "listings_count": 19,
+  "image": "https://scalpeurs.com/img/cards-jp/op17-p094.webp"
 }

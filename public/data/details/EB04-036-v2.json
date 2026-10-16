@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 4,
   "language": "fr",
-  "image_path": "/img/cards-jp/eb04-p046.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668752_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p046.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p046.webp",
   "price_eur": 4.5,
   "price_usd": 5.23,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Foxy-EB04-036-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 4.5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Foxy-EB04-036-V1?language=2",
-      "file": "EB04-036-v1.json"
+      "file": "EB04-036-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p045.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb04-p045.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p045.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "SR",
       "price_eur": 5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Foxy-EB04-036-V2?language=2",
-      "file": "EB04-036-v2.json"
+      "file": "EB04-036-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/eb04-p046.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/eb04-p046.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/eb04-p046.webp"
     }
   ],
   "price_min_eur": 4.5,
   "price_avg7_eur": 4.98,
   "price_avg30_eur": 4.95,
-  "listings_count": 21
+  "listings_count": 21,
+  "image": "https://scalpeurs.com/img/cards-jp/eb04-p046.webp"
 }

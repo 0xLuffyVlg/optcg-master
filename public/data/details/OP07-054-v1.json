@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op07-p067.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545844_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op07-p067.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op07-p067.webp",
   "price_eur": 0.02,
   "price_usd": 0.22,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Marguerite-OP07-054",
@@ -34,8 +34,12 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Marguerite-OP07-054",
-      "file": "OP07-054-v1.json"
+      "file": "OP07-054-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p067.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p067.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p067.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op07-p067.webp"
 }

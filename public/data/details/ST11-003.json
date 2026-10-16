@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/promo-divers-p010.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/580998_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/promo-divers-p010.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/promo-divers-p010.webp",
   "price_eur": 7.99,
   "price_usd": 0.18,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Uta/Backlight-ST11-003",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 7.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Uta/Backlight-ST11-003",
-      "file": "ST11-003-v1.json"
+      "file": "ST11-003-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/promo-divers-p010.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/promo-divers-p010.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/promo-divers-p010.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "C",
       "price_eur": 0.05,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Uta/Backlight-ST11-003",
-      "file": "ST11-003-v2.json"
+      "file": "ST11-003-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/pack-divers-p006.webp",
+      "image": "https://scalpeurs.com/img/cards-en/pack-divers-p006.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/pack-divers-p006.webp"
     },
     {
       "variant_index": 3,
@@ -52,20 +58,27 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Backlight-ST11-003",
-      "file": "ST11-003-v3.json"
+      "file": "ST11-003-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/st16-p007.webp",
+      "image": "https://scalpeurs.com/img/cards-en/st16-p007.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/st16-p007.webp"
     },
     {
       "variant_index": 4,
       "variant_version": "v4",
       "name": "Backlight",
       "rarity": "C",
-      "price_eur": 0.05,
+      "price_eur": 7.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Uta/Backlight-ST11-003",
-      "file": "ST11-003-v4.json"
+      "file": "ST11-003-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/promo-divers-p010.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/promo-divers-p010.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/promo-divers-p010.webp"
     }
   ],
   "price_min_eur": 7.99,
   "price_avg7_eur": 0.2,
   "price_avg30_eur": 0.2,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/promo-divers-p010.webp"
 }

@@ -18,8 +18,8 @@
   "rarity": "PR",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-en/champ-regional-hors-ligne-p012.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/482233_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-en/champ-regional-hors-ligne-p012.webp",
+  "image_url": "https://scalpeurs.com/img/cards-en/champ-regional-hors-ligne-p012.webp",
   "price_eur": 45,
   "price_usd": 29.57,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Charlotte-Pudding-ST07-008-V1",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 45,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Big-Mom-Pirates/Charlotte-Pudding-ST07-008",
-      "file": "ST07-008-v1.json"
+      "file": "ST07-008-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/pack-promotion-p016.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/pack-promotion-p016.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/pack-promotion-p016.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "PR",
       "price_eur": 45,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Charlotte-Pudding-ST07-008-V1",
-      "file": "ST07-008-v2.json"
+      "file": "ST07-008-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/champ-regional-hors-ligne-p012.webp",
+      "image": "https://scalpeurs.com/img/cards-en/champ-regional-hors-ligne-p012.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/champ-regional-hors-ligne-p012.webp"
     }
   ],
   "price_min_eur": 45,
   "price_avg7_eur": 44.21,
   "price_avg30_eur": 17.31,
-  "listings_count": 12
+  "listings_count": 12,
+  "image": "https://scalpeurs.com/img/cards-en/champ-regional-hors-ligne-p012.webp"
 }

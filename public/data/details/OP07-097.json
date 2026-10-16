@@ -18,8 +18,8 @@
   "rarity": "L",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op07-p116.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545893_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op07-p116.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op07-p116.webp",
   "price_eur": 0.02,
   "price_usd": 0.17,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Vegapunk-OP07-097-V1",
@@ -34,26 +34,36 @@
       "rarity": "L",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Vegapunk-OP07-097-V1",
-      "file": "OP07-097-v1.json"
+      "file": "OP07-097-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p116.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p116.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p116.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Vegapunk (Parallel)",
       "rarity": "L",
-      "price_eur": 32.8,
+      "price_eur": 22.82,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Vegapunk-OP07-097-V2",
-      "file": "OP07-097-v2.json"
+      "file": "OP07-097-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p117.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p117.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p117.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Vegapunk (SP)",
       "rarity": "L",
-      "price_eur": 401.27,
+      "price_eur": 790,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection/Vegapunk-OP07-097",
-      "file": "OP07-097-v3.json"
+      "file": "OP07-097-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/eb02-p096.webp",
+      "image": "https://scalpeurs.com/img/cards-en/eb02-p096.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/eb02-p096.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op07-p116.webp"
 }

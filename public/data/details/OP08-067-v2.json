@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op08-p079.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/558099_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op08-p079.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op08-p079.webp",
   "price_eur": 4.88,
   "price_usd": 19.53,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Charlotte-Pudding-OP08-067-V2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 4.88,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Charlotte-Pudding-OP08-067-V1",
-      "file": "OP08-067-v1.json"
+      "file": "OP08-067-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p078.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p078.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p078.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "R",
       "price_eur": 5,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/Charlotte-Pudding-OP08-067-V2",
-      "file": "OP08-067-v2.json"
+      "file": "OP08-067-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p079.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p079.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p079.webp"
     },
     {
       "variant_index": 3,
@@ -52,7 +58,10 @@
       "rarity": "R",
       "price_eur": 722.87,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Charlotte-Pudding-OP08-067-V1",
-      "file": "OP08-067-v3.json"
+      "file": "OP08-067-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p078.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p078.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p078.webp"
     },
     {
       "variant_index": 4,
@@ -61,7 +70,10 @@
       "rarity": "R",
       "price_eur": 70.94,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Charlotte-Pudding-OP08-067-V2",
-      "file": "OP08-067-v4.json"
+      "file": "OP08-067-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p078.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p078.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p078.webp"
     },
     {
       "variant_index": 5,
@@ -70,7 +82,10 @@
       "rarity": "R",
       "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Charlotte-Pudding-OP08-067",
-      "file": "OP08-067-v5.json"
+      "file": "OP08-067-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p078.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p078.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p078.webp"
     },
     {
       "variant_index": 6,
@@ -79,11 +94,15 @@
       "rarity": "R",
       "price_eur": null,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Charlotte-Pudding-OP08-067",
-      "file": "OP08-067-v6.json"
+      "file": "OP08-067-v6.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op08-p078.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op08-p078.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op08-p078.webp"
     }
   ],
   "price_min_eur": 4.88,
   "price_avg7_eur": 5.81,
   "price_avg30_eur": 7.74,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op08-p079.webp"
 }

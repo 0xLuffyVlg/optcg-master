@@ -18,8 +18,8 @@
   "rarity": "SEC",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op07-p143.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545920_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op07-p143.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op07-p143.webp",
   "price_eur": 0.99,
   "price_usd": 1.96,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/PortgasDAce-OP07-119-V1",
@@ -34,47 +34,63 @@
       "rarity": "SEC",
       "price_eur": 0.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/PortgasDAce-OP07-119-V1",
-      "file": "OP07-119-v1.json"
+      "file": "OP07-119-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p143.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p143.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p143.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Portgas.D.Ace (119) (Parallel)",
       "rarity": "SEC",
-      "price_eur": 8.42,
+      "price_eur": 9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/PortgasDAce-OP07-119-V2",
-      "file": "OP07-119-v2.json"
+      "file": "OP07-119-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p144.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p144.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p144.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Portgas.D.Ace (Serial Numbered)",
       "rarity": "SEC",
-      "price_eur": 5651.46,
+      "price_eur": 0.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/PortgasDAce-OP07-119",
-      "file": "OP07-119-v3.json"
+      "file": "OP07-119-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p143.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p143.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p143.webp"
     },
     {
       "variant_index": 4,
       "variant_version": "v4",
       "name": "Portgas.D.Ace (The Best)",
       "rarity": "SEC",
-      "price_eur": null,
+      "price_eur": 0.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/PortgasDAce-OP07-119-V1",
-      "file": "OP07-119-v4.json"
+      "file": "OP07-119-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p143.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p143.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p143.webp"
     },
     {
       "variant_index": 5,
       "variant_version": "v5",
       "name": "Portgas.D.Ace (The Best)",
       "rarity": "SEC",
-      "price_eur": null,
+      "price_eur": 0.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/PortgasDAce-OP07-119-V1",
-      "file": "OP07-119-v5.json"
+      "file": "OP07-119-v5.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p143.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p143.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p143.webp"
     }
   ],
   "price_min_eur": 0.99,
   "price_avg7_eur": 3467.75,
   "price_avg30_eur": 2745.86,
-  "listings_count": 15
+  "listings_count": 15,
+  "image": "https://scalpeurs.com/img/cards-jp/op07-p143.webp"
 }

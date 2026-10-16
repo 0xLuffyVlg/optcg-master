@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-jp/op09-p073.webp",
-  "image_url": "/img/cards-fr/op09-p073-sm.webp",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op09-p073.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op09-p073.webp",
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Mr3Galdino-OP09-056?language=2",
@@ -34,17 +34,24 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Mr3Galdino-OP09-056?language=2",
-      "file": "OP09-056-v1.json"
+      "file": "OP09-056-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op09-p073.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op09-p073.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op09-p073.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Mr.3(Galdino) - OP09-056 (Alternate Art)",
       "rarity": "R",
-      "price_eur": 3.21,
+      "price_eur": 9.9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Mr3Galdino-OP09-056-V2?language=2",
-      "file": "OP09-056-v2.json"
+      "file": "OP09-056-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/prb02-p136.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/prb02-p136.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/prb02-p136.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op09-p073.webp"
 }

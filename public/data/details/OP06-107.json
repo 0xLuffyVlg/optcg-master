@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op06-p128.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/539499_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op06-p128.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op06-p128.webp",
   "price_eur": 0.02,
   "price_usd": 0.46,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Kouzuki-Momonosuke-OP06-107-V1",
@@ -34,35 +34,48 @@
       "rarity": "SR",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Kouzuki-Momonosuke-OP06-107-V1",
-      "file": "OP06-107-v1.json"
+      "file": "OP06-107-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p128.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p128.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p128.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Kouzuki Momonosuke (Alternate Art)",
       "rarity": "SR",
-      "price_eur": 5.21,
+      "price_eur": 2.44,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Kouzuki-Momonosuke-OP06-107-V2",
-      "file": "OP06-107-v2.json"
+      "file": "OP06-107-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p129.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p129.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p129.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Kouzuki Momonosuke (Reprint)",
       "rarity": "SR",
-      "price_eur": null,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Kouzuki-Momonosuke-OP06-107-V1",
-      "file": "OP06-107-v3.json"
+      "file": "OP06-107-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p128.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p128.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p128.webp"
     },
     {
       "variant_index": 4,
       "variant_version": "v4",
       "name": "Kouzuki Momonosuke (Reprint)",
       "rarity": "SR",
-      "price_eur": null,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain/Kouzuki-Momonosuke-OP06-107-V1",
-      "file": "OP06-107-v4.json"
+      "file": "OP06-107-v4.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op06-p128.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op06-p128.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op06-p128.webp"
     }
   ],
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "image": "https://scalpeurs.com/img/cards-jp/op06-p128.webp"
 }

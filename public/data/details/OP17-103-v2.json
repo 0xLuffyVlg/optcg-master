@@ -18,8 +18,8 @@
   "rarity": "TR",
   "block": 5,
   "language": "fr",
-  "image_path": "/img/cards-fr/op17-p135.webp",
-  "image_url": "/img/cards-fr/op17-p135-sm.webp",
+  "image_path": "https://scalpeurs.com/img/cards-fr/op17-p135.webp",
+  "image_url": "https://scalpeurs.com/img/cards-fr/op17-p135.webp",
   "price_eur": 140,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Katakuri-OP17-103-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "UC",
       "price_eur": 140,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Katakuri-OP17-103?language=2",
-      "file": "OP17-103-v1.json"
+      "file": "OP17-103-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p135.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p135.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p135.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "TR",
       "price_eur": 125,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Katakuri-OP17-103-V2?language=2",
-      "file": "OP17-103-v2.json"
+      "file": "OP17-103-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/op17-p135.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/op17-p135.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/op17-p135.webp"
     }
   ],
   "price_min_eur": 140,
   "price_avg7_eur": 128.18,
   "price_avg30_eur": 152.84,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-fr/op17-p135.webp"
 }

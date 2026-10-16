@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op07-p081.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545858_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op07-p081.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op07-p081.webp",
   "price_eur": 0.02,
   "price_usd": 0.58,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Tony-TonyChopper-OP07-066",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Tony-TonyChopper-OP07-066",
-      "file": "OP07-066-v1.json"
+      "file": "OP07-066-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p081.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p081.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p081.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 500,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Tony-TonyChopper-OP07-066-V1",
-      "file": "OP07-066-v2.json"
+      "file": "OP07-066-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p081.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p081.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p081.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 500,
   "price_avg30_eur": 500,
-  "listings_count": 3
+  "listings_count": 3,
+  "image": "https://scalpeurs.com/img/cards-jp/op07-p081.webp"
 }

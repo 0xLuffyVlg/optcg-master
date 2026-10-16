@@ -18,7 +18,7 @@
   "rarity": "SP",
   "block": 3,
   "language": "fr",
-  "image_path": "/img/cards-fr/op17-p168.webp",
+  "image_path": "https://scalpeurs.com/img/cards-fr/op17-p168.webp",
   "image_url": "https://scalpeurs.com/img/cards-fr/op17-p168.webp",
   "price_eur": 0.2,
   "price_usd": null,
@@ -32,22 +32,29 @@
       "variant_version": "v1",
       "name": "Marshall D. Teach (Alternate Art)",
       "rarity": "SP",
-      "price_eur": 189,
+      "price_eur": 0.2,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Black-MarshallDTeach/MarshallDTeach-ST27-005?language=2",
-      "file": "ST27-005-v1.json"
+      "file": "ST27-005-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-fr/op17-p168.webp",
+      "image": "https://scalpeurs.com/img/cards-fr/op17-p168.webp",
+      "image_path": "https://scalpeurs.com/img/cards-fr/op17-p168.webp"
     },
     {
       "variant_index": 2,
       "variant_version": "v2",
       "name": "Marshall.D.Teach (ST27-005)",
       "rarity": "SR",
-      "price_eur": 0.72,
+      "price_eur": 189,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Black-MarshallDTeach/MarshallDTeach-ST27-005?language=2",
-      "file": "ST27-005-v2.json"
+      "file": "ST27-005-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op17-p168.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op17-p168.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op17-p168.webp"
     }
   ],
   "price_min_eur": 0.2,
   "price_avg7_eur": 0.97,
   "price_avg30_eur": 0.98,
-  "listings_count": 22
+  "listings_count": 22,
+  "image": "https://scalpeurs.com/img/cards-fr/op17-p168.webp"
 }

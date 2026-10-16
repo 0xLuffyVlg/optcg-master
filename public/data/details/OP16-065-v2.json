@@ -18,8 +18,8 @@
   "rarity": "SR",
   "block": null,
   "language": "fr",
-  "image_path": "/img/cards-jp/op16-p083.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/694981_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op16-p083.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op16-p083.webp",
   "price_eur": 9,
   "price_usd": 23.46,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Sakazuki-OP16-065-V2?language=2",
@@ -34,7 +34,10 @@
       "rarity": "SR",
       "price_eur": 9,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Sakazuki-OP16-065-V1?language=2",
-      "file": "OP16-065-v1.json"
+      "file": "OP16-065-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p082.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p082.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p082.webp"
     },
     {
       "variant_index": 2,
@@ -43,7 +46,10 @@
       "rarity": "SR",
       "price_eur": 7.99,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Sakazuki-OP16-065-V2?language=2",
-      "file": "OP16-065-v2.json"
+      "file": "OP16-065-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p083.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p083.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p083.webp"
     },
     {
       "variant_index": 3,
@@ -52,11 +58,15 @@
       "rarity": "SR",
       "price_eur": 699,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Sakazuki-OP16-065-V3?language=2",
-      "file": "OP16-065-v3.json"
+      "file": "OP16-065-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op16-p084.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op16-p084.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op16-p084.webp"
     }
   ],
   "price_min_eur": 9,
   "price_avg7_eur": 9.98,
   "price_avg30_eur": 10,
-  "listings_count": 44
+  "listings_count": 44,
+  "image": "https://scalpeurs.com/img/cards-jp/op16-p083.webp"
 }

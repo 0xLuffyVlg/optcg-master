@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 1,
   "language": "en",
-  "image_path": "/img/cards-jp/op02-p136.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/486486_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op02-p136.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op02-p136.webp",
   "price_eur": 0.02,
   "price_usd": 0.08,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Donquixote-Rosinante-OP02-108-V1",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Donquixote-Rosinante-OP02-108-V1",
-      "file": "OP02-108-v1.json"
+      "file": "OP02-108-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p136.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p136.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p136.webp"
     },
     {
       "variant_index": 2,
@@ -43,20 +46,27 @@
       "rarity": "C",
       "price_eur": 3,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Donquixote-Rosinante-OP02-108-V2",
-      "file": "OP02-108-v2.json"
+      "file": "OP02-108-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op02-p137.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op02-p137.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op02-p137.webp"
     },
     {
       "variant_index": 3,
       "variant_version": "v3",
       "name": "Donquixote Rosinante (Store Championship 2023 Participation Pack Vol.1)",
       "rarity": "PR",
-      "price_eur": null,
+      "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Donquixote-Rosinante-OP02-108",
-      "file": "OP02-108-v3.json"
+      "file": "OP02-108-v3.json",
+      "image_url": "https://scalpeurs.com/img/cards-en/st19-p009.webp",
+      "image": "https://scalpeurs.com/img/cards-en/st19-p009.webp",
+      "image_path": "https://scalpeurs.com/img/cards-en/st19-p009.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 5.3,
   "price_avg30_eur": 3.43,
-  "listings_count": 6
+  "listings_count": 6,
+  "image": "https://scalpeurs.com/img/cards-jp/op02-p136.webp"
 }

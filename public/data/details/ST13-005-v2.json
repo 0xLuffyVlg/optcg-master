@@ -18,8 +18,8 @@
   "rarity": "R",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/st13-p010.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/543626_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/st13-p010.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/st13-p010.webp",
   "price_eur": 0.87,
   "price_usd": 1.44,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/EmporioIvankov-ST13-005-V2",
@@ -34,7 +34,10 @@
       "rarity": "R",
       "price_eur": 0.87,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/EmporioIvankov-ST13-005-V1",
-      "file": "ST13-005-v1.json"
+      "file": "ST13-005-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st13-p009.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st13-p009.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st13-p009.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "R",
       "price_eur": 0.87,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/EmporioIvankov-ST13-005-V2",
-      "file": "ST13-005-v2.json"
+      "file": "ST13-005-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/st13-p010.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/st13-p010.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/st13-p010.webp"
     }
   ],
   "price_min_eur": 0.87,
   "price_avg7_eur": 1.82,
   "price_avg30_eur": 2,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/st13-p010.webp"
 }

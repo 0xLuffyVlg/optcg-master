@@ -18,8 +18,8 @@
   "rarity": "C",
   "block": 2,
   "language": "en",
-  "image_path": "/img/cards-jp/op07-p052.webp",
-  "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/545829_200w.jpg",
+  "image_path": "https://scalpeurs.com/img/cards-jp/op07-p052.webp",
+  "image_url": "https://scalpeurs.com/img/cards-jp/op07-p052.webp",
   "price_eur": 0.02,
   "price_usd": 0.08,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Dracule-Mihawk-OP07-044",
@@ -34,7 +34,10 @@
       "rarity": "C",
       "price_eur": 0.02,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Dracule-Mihawk-OP07-044",
-      "file": "OP07-044-v1.json"
+      "file": "OP07-044-v1.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p052.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p052.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p052.webp"
     },
     {
       "variant_index": 2,
@@ -43,11 +46,15 @@
       "rarity": "C",
       "price_eur": 4.35,
       "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/Dracule-Mihawk-OP07-044-V1",
-      "file": "OP07-044-v2.json"
+      "file": "OP07-044-v2.json",
+      "image_url": "https://scalpeurs.com/img/cards-jp/op07-p052.webp",
+      "image": "https://scalpeurs.com/img/cards-jp/op07-p052.webp",
+      "image_path": "https://scalpeurs.com/img/cards-jp/op07-p052.webp"
     }
   ],
   "price_min_eur": 0.02,
   "price_avg7_eur": 4.11,
   "price_avg30_eur": 4.31,
-  "listings_count": 50
+  "listings_count": 50,
+  "image": "https://scalpeurs.com/img/cards-jp/op07-p052.webp"
 }
