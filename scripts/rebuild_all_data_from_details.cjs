@@ -3,17 +3,19 @@
  * 
  * Rebuilds all website datasets directly from the single source of truth:
  * onepiece-database/data/details/*.json (7,443 micro-fiches)
- * and language print registries (cards-fr.json, cards-en.json, cards-jp.json)
+ * and language registries (cards-fr.json, cards-en.json, cards-jp.json, cards-all.json)
  *
  * Generated targets:
- * 1. src/data/cards.json (2,885 base cards with multi-language image paths and exact Cardmarket URLs)
- * 2. src/data/optcg_complete_database.json (17,330 prints aligned with detail fiches)
- * 3. src/data/variants.json (all variant fiches indexed with pricing and links)
- * 4. src/data/card_links.json (fast lookup mapping byPath, byBasename, byCode, byId, byFile)
+ * 1. public/data/details/ (7,443 micro-fiches synchronized)
+ * 2. src/data/cards.json (2,885 base cards with multi-language image paths and exact Cardmarket URLs)
+ * 3. src/data/optcg_complete_database.json (17,330 prints with exact languages fr/en/jp and detail fiches)
+ * 4. src/data/variants.json (all variant fiches indexed with pricing and links)
+ * 5. src/data/card_links.json (fast lookup mapping byPath, byBasename, byCode, byId, byFile)
  */
 
 const fs = require('fs');
 const path = require('path');
+const { execFileSync } = require('child_process');
 
 const ROOT_DIR = path.resolve(__dirname, '..');
 const SOURCE_DETAILS_DIR = path.resolve(ROOT_DIR, '../onepiece-database/data/details');
@@ -21,16 +23,17 @@ const PUBLIC_DETAILS_DIR = path.resolve(ROOT_DIR, 'public/data/details');
 const CARDS_FR_PATH = path.resolve(ROOT_DIR, '../onepiece-database/data/cards-fr.json');
 const CARDS_EN_PATH = path.resolve(ROOT_DIR, '../onepiece-database/data/cards-en.json');
 const CARDS_JP_PATH = path.resolve(ROOT_DIR, '../onepiece-database/data/cards-jp.json');
+const CARDS_ALL_PATH = path.resolve(ROOT_DIR, '../onepiece-database/data/cards-all.json');
 
 const TARGET_CARDS_JSON = path.resolve(ROOT_DIR, 'src/data/cards.json');
 const TARGET_COMPLETE_DB = path.resolve(ROOT_DIR, 'src/data/optcg_complete_database.json');
 const TARGET_VARIANTS_JSON = path.resolve(ROOT_DIR, 'src/data/variants.json');
 const TARGET_CARD_LINKS = path.resolve(ROOT_DIR, 'src/data/card_links.json');
 
-console.log('--- REBUILDING ALL OPTCG MASTER DATA FROM DETAILS FICHES ---');
+console.log('=== REBUILDING ALL OPTCG MASTER DATA FROM DETAILS FICHES ===');
 
-// 0. Ensure public/data/details has all files
-console.log('1. Checking synchronization between source details and public/data/details...');
+// 0. Synchronize public/data/details
+console.log('1. Synchronizing source details into public/data/details...');
 if (!fs.existsSync(PUBLIC_DETAILS_DIR)) {
   fs.mkdirSync(PUBLIC_DETAILS_DIR, { recursive: true });
 }
@@ -78,17 +81,33 @@ for (const f of sourceFiles) {
 }
 console.log(`Loaded ${fichesByFile.size / 2} unique fiches (${baseFichesByCode.size} base fiches, ${variantFichesByCode.size} cards with variants).`);
 
-// 2. Read language registries (cards-fr.json, cards-en.json, cards-jp.json)
+// 2. Read language registries (cards-fr.json, cards-en.json, cards-jp.json, cards-all.json)
 console.log('3. Indexing language prints (FR, EN, JP)...');
 const cardsFr = JSON.parse(fs.readFileSync(CARDS_FR_PATH, 'utf-8'));
 const cardsEn = JSON.parse(fs.readFileSync(CARDS_EN_PATH, 'utf-8'));
 const cardsJp = JSON.parse(fs.readFileSync(CARDS_JP_PATH, 'utf-8'));
+const cardsAll = JSON.parse(fs.readFileSync(CARDS_ALL_PATH, 'utf-8'));
 
 // Maps for fast localized lookups
 const localizedImagesByCode = new Map(); // code -> { fr?: string, en?: string, jp?: string }
 const localizedImagesByFile = new Map(); // file -> { fr?: string, en?: string, jp?: string }
 const localizedCmUrlsByFile = new Map(); // file -> { fr?: string, en?: string, jp?: string }
 const printsById = new Map(); // id -> print
+const frNameByCode = new Map();
+const jpNameByCode = new Map();
+
+for (const p of cardsFr) {
+  if (p.code && p.name) {
+    const c = p.code.toUpperCase().trim();
+    if (!frNameByCode.has(c)) frNameByCode.set(c, p.name);
+  }
+}
+for (const p of cardsJp) {
+  if (p.code && (p.name_jp || p.name)) {
+    const c = p.code.toUpperCase().trim();
+    if (!jpNameByCode.has(c)) jpNameByCode.set(c, p.name_jp || p.name);
+  }
+}
 
 function registerLangPrint(p, lang) {
   if (!p) return;
@@ -130,27 +149,56 @@ for (const p of cardsJp) registerLangPrint(p, 'jp');
 
 console.log(`Indexed ${printsById.size} prints across FR (${cardsFr.length}), EN (${cardsEn.length}), and JP (${cardsJp.length}).`);
 
-// 3. Rebuild src/data/cards.json (Base cards)
+// 3. Load baseline cards from commit 42b86b8 or construct from details
 console.log('4. Rebuilding src/data/cards.json...');
-const existingCards = JSON.parse(fs.readFileSync(TARGET_CARDS_JSON, 'utf-8'));
-const rebuiltCards = [];
+let baselineCards = [];
+try {
+  const gitBin = 'C:/Users/LuffyVlg/.mingit/cmd/git.exe';
+  const out = execFileSync(gitBin, ['show', '42b86b8:src/data/cards.json'], { maxBuffer: 50 * 1024 * 1024 });
+  baselineCards = JSON.parse(out.toString('utf-8'));
+  console.log(`Loaded ${baselineCards.length} baseline cards from commit 42b86b8.`);
+} catch (e) {
+  console.warn('Could not read baseline cards from git, constructing from details fiches...');
+  for (const [code, fiche] of baseFichesByCode.entries()) {
+    baselineCards.push({
+      id: code,
+      card_code: code,
+      set_code: code.split('-')[0],
+      name: fiche.name || code,
+      category: fiche.category ? (fiche.category.charAt(0).toUpperCase() + fiche.category.slice(1).toLowerCase()) : 'Character',
+      rarity: fiche.rarity || 'C',
+      color: [fiche.color || 'Red'],
+      cost: fiche.cost,
+      power: fiche.power,
+      counter: fiche.counter || 0,
+      type: fiche.types ? fiche.types.split('/') : [],
+      attribute: fiche.attribute || '',
+      trigger: fiche.trigger || '',
+      effect: fiche.effect || '',
+      life: fiche.life,
+      price_eur: fiche.price_eur
+    });
+  }
+}
 
-for (const card of existingCards) {
+const rebuiltCards = [];
+for (const card of baselineCards) {
   const code = card.card_code.toUpperCase().trim();
   const baseFiche = baseFichesByCode.get(code) || fichesByFile.get(`${code.toLowerCase()}-v1.json`) || {};
   const v1Fiche = fichesByFile.get(`${code.toLowerCase()}-v1.json`) || baseFiche;
 
-  // Localized images for base card
+  // Localized images for base card (prioritize explicit fiche fields image_fr, image_en, image_jp)
   const langImgs = localizedImagesByCode.get(code) || {};
-  const imgFr = langImgs.fr || null;
-  const imgEn = langImgs.en || null;
-  const imgJp = langImgs.jp || null;
+  const imgFr = v1Fiche.image_fr || baseFiche.image_fr || langImgs.fr || null;
+  const imgEn = v1Fiche.image_en || baseFiche.image_en || langImgs.en || null;
+  const imgJp = v1Fiche.image_jp || baseFiche.image_jp || langImgs.jp || null;
   const ficheImg = v1Fiche.image_path || v1Fiche.image_url || baseFiche.image_path || baseFiche.image_url || null;
 
   const imagePaths = [imgFr, imgEn, imgJp, ficheImg, ...(card._imagePaths || [])]
     .filter(Boolean)
     .filter((v, i, a) => a.indexOf(v) === i);
 
+  // Default image: FR if available, else EN, else JP
   const defaultImage = imgFr || imgEn || imgJp || ficheImg || card._defaultImagePath;
 
   // Pricing priority: v1 / base fiche
@@ -166,8 +214,22 @@ for (const card of existingCards) {
   const cmUrlJp = v1Fiche.cardmarket_url_jp || baseFiche.cardmarket_url_jp || card.cardmarket_url_jp;
   const tcgUrl = v1Fiche.tcgplayer_url || baseFiche.tcgplayer_url || card.tcgplayer_url;
 
+  const nameFr = frNameByCode.get(code) || card.name_fr || (baseFiche.language === 'fr' ? baseFiche.name : undefined);
+  const nameJp = jpNameByCode.get(code) || card.jp_name || undefined;
+
+  // Primary language detection for the card
+  let cardLang = 'en';
+  if (baseFiche.language === 'fr' || (imgFr && !imgEn)) cardLang = 'fr';
+  else if (card.is_japanese || (!imgFr && !imgEn && imgJp)) cardLang = 'jp';
+
   rebuiltCards.push({
     ...card,
+    name_fr: nameFr,
+    jp_name: nameJp,
+    language: cardLang,
+    image_fr: imgFr,
+    image_en: imgEn,
+    image_jp: imgJp,
     price_eur: priceEur,
     price_min_eur: priceMinEur,
     price_avg7_eur: v1Fiche.price_avg7_eur ?? baseFiche.price_avg7_eur ?? card.price_avg7_eur,
@@ -188,11 +250,20 @@ console.log(`Saved ${rebuiltCards.length} cards to ${TARGET_CARDS_JSON}`);
 
 // 4. Rebuild src/data/optcg_complete_database.json (All Prints)
 console.log('5. Rebuilding src/data/optcg_complete_database.json...');
-const existingDb = JSON.parse(fs.readFileSync(TARGET_COMPLETE_DB, 'utf-8'));
-const rebuiltDb = [];
+let baselineDb = [];
+try {
+  const gitBin = 'C:/Users/LuffyVlg/.mingit/cmd/git.exe';
+  const out = execFileSync(gitBin, ['show', '42b86b8:src/data/optcg_complete_database.json'], { maxBuffer: 100 * 1024 * 1024 });
+  baselineDb = JSON.parse(out.toString('utf-8'));
+  console.log(`Loaded ${baselineDb.length} prints from commit 42b86b8.`);
+} catch (e) {
+  console.warn('Could not read baseline db from git, using cards-all.json...');
+  baselineDb = cardsAll;
+}
 
-for (const print of existingDb) {
-  const code = (print.card_code || print.id.split('-')[2] || '').toUpperCase().trim();
+const rebuiltDb = [];
+for (const print of baselineDb) {
+  const code = (print.card_code || print.code || print.id.split('-')[2] || '').toUpperCase().trim();
   
   // Resolve detail file
   let detailFile = print.detail_file;
@@ -213,7 +284,15 @@ for (const print of existingDb) {
 
   // Image URL: clean authentic scalpeurs URL
   let imgUrl = print.image_url;
-  if (fiche.image_path) {
+  const lang = (print.language || (print.id.startsWith('fr-') ? 'fr' : (print.id.startsWith('jp-') ? 'jp' : 'en'))).toLowerCase();
+  
+  if (lang === 'fr' && fiche.image_fr) {
+    imgUrl = fiche.image_fr;
+  } else if (lang === 'jp' && fiche.image_jp) {
+    imgUrl = fiche.image_jp;
+  } else if (lang === 'en' && fiche.image_en) {
+    imgUrl = fiche.image_en;
+  } else if (fiche.image_path) {
     imgUrl = fiche.image_path;
   } else if (fiche.image_url) {
     imgUrl = fiche.image_url;
@@ -226,7 +305,7 @@ for (const print of existingDb) {
   }
 
   // Cardmarket URL
-  const isJp = (print.language || '').toLowerCase() === 'jp' || print.id.startsWith('jp-');
+  const isJp = lang === 'jp' || print.id.startsWith('jp-');
   let cmUrl = isJp ? (fiche.cardmarket_url_jp || print.cardmarket_url_jp || fiche.cardmarket_url || print.cardmarket_url)
                    : (fiche.cardmarket_url || print.cardmarket_url);
 
@@ -235,7 +314,11 @@ for (const print of existingDb) {
 
   rebuiltDb.push({
     ...print,
+    language: lang,
     image_url: imgUrl,
+    image_fr: fiche.image_fr,
+    image_en: fiche.image_en,
+    image_jp: fiche.image_jp,
     price_eur: priceEur,
     price_min_eur: fiche.price_min_eur ?? (priceEur !== undefined ? priceEur : print.price_min_eur),
     price_avg7_eur: fiche.price_avg7_eur ?? print.price_avg7_eur,
@@ -281,6 +364,9 @@ for (const [code, variantsList] of variantFichesByCode.entries()) {
       tcgplayer_url: f.tcgplayer_url || '',
       image_path: f.image_path || f.image_url || '',
       image_url: f.image_url || f.image_path || '',
+      image_fr: f.image_fr || null,
+      image_en: f.image_en || null,
+      image_jp: f.image_jp || null,
       detail_file: item.fileName
     });
   }
@@ -357,6 +443,9 @@ for (const fName of sourceFiles) {
     tcg: f.tcgplayer_url || null,
     price_eur: f.price_eur ?? null,
     image_url: f.image_path || f.image_url || null,
+    image_fr: f.image_fr || null,
+    image_en: f.image_en || null,
+    image_jp: f.image_jp || null,
     detail_file: fName,
     variant_version: f.variant_version || null,
     name: f.variant_name || f.name || null
@@ -423,4 +512,4 @@ const cardLinksData = {
 fs.writeFileSync(TARGET_CARD_LINKS, JSON.stringify(cardLinksData, null, 2), 'utf-8');
 console.log(`Saved card_links.json: ${Object.keys(byPath).length} paths, ${Object.keys(byBasename).length} basenames, ${Object.keys(byCode).length} codes, ${Object.keys(byId).length} IDs, ${Object.keys(byFile).length} files.`);
 
-console.log('--- DATA REBUILD COMPLETE SUCCESSFULLY ---');
+console.log('=== DATA REBUILD COMPLETE SUCCESSFULLY ===');

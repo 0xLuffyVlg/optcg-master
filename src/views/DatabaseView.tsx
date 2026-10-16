@@ -123,7 +123,7 @@ export const ALL_COLLECTIONS: SetCollectionMeta[] = [
 ];
 
 type SetGroupType = 'ALL' | 'OP' | 'ST' | 'EB' | 'PRB' | 'P' | 'JP';
-export type SortOption = 'price-desc' | 'price-asc' | 'alpha-asc' | 'alpha-desc' | 'code-desc' | 'code-asc' | 'lang-jp-en-fr' | 'lang-fr-en-jp' | 'variants-desc' | 'cost-asc' | 'cost-desc' | 'power-desc' | 'rarity-desc';
+export type SortOption = 'price-desc' | 'price-asc' | 'lang-fr-en-jp' | 'lang-en-fr-jp' | 'lang-jp-en-fr' | 'alpha-asc' | 'alpha-desc' | 'code-desc' | 'code-asc' | 'variants-desc' | 'cost-asc' | 'cost-desc' | 'power-desc' | 'rarity-desc';
 
 const OP_SETS = ['OP18', 'OP17', 'OP16', 'OP15', 'OP14', 'OP13', 'OP12', 'OP11', 'OP10', 'OP09', 'OP08', 'OP07', 'OP06', 'OP05', 'OP04', 'OP03', 'OP02', 'OP01'];
 const ST_SETS = [
@@ -208,6 +208,9 @@ export const renderCircularFlag = (lang: 'ALL' | 'JP' | 'EN' | 'FR', sizeClass =
 const SORT_DROPDOWN_OPTIONS: { value: SortOption; label: string; short: string }[] = [
   { value: 'price-desc', label: '💰 Les plus chères', short: '💰 Les plus chères' },
   { value: 'price-asc', label: '🪙 Les moins chères', short: '🪙 Les moins chères' },
+  { value: 'lang-fr-en-jp', label: '🇫🇷 Français en premier', short: '🇫🇷 Français' },
+  { value: 'lang-en-fr-jp', label: '🇬🇧 Anglais en premier', short: '🇬🇧 Anglais' },
+  { value: 'lang-jp-en-fr', label: '🇯🇵 Japonais en premier', short: '🇯🇵 Japonais' },
   { value: 'alpha-asc', label: '🔤 Alphabétique (A → Z)', short: '🔤 Nom (A-Z)' },
   { value: 'alpha-desc', label: '🔤 Alphabétique (Z → A)', short: '🔤 Nom (Z-A)' },
   { value: 'code-desc', label: '🔢 Plus récentes d\'abord', short: '🔢 Récentes' },
@@ -217,6 +220,13 @@ const SORT_DROPDOWN_OPTIONS: { value: SortOption; label: string; short: string }
   { value: 'cost-asc', label: '⚡ Coût croissant', short: '⚡ Coût (0-10)' },
   { value: 'cost-desc', label: '⚡ Coût décroissant', short: '⚡ Coût (10-0)' },
   { value: 'rarity-desc', label: '👑 Rareté max', short: '👑 Rareté' },
+];
+
+const LANGUAGE_DROPDOWN_OPTIONS = [
+  { value: 'ALL', label: '🌍 Toutes les langues', short: '🌍 Toutes' },
+  { value: 'FR', label: '🇫🇷 Français (FR)', short: '🇫🇷 Français' },
+  { value: 'EN', label: '🇬🇧 Anglais (EN)', short: '🇬🇧 Anglais' },
+  { value: 'JP', label: '🇯🇵 Japonais (JP)', short: '🇯🇵 Japonais' },
 ];
 
 const VARIANT_DROPDOWN_OPTIONS = [
@@ -345,12 +355,19 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
       list = list.filter(card => matchesCardSearch(card, searchQuery));
     }
 
-    // Language filter (JP, EN, FR)
+    // Language filter (JP, EN, FR, ALL)
     if (selectedLanguage !== 'ALL') {
       const targetLang = selectedLanguage.toLowerCase();
       list = list.filter(card => {
-        const l = (card.language || (card.id.startsWith('fr-') ? 'fr' : (card.id.startsWith('jp-') ? 'jp' : 'en'))).toLowerCase();
-        return l === targetLang;
+        if (viewMode === 'allPrints' || hasSearch) {
+          const l = (card.language || (card.id.startsWith('fr-') ? 'fr' : (card.id.startsWith('jp-') ? 'jp' : 'en'))).toLowerCase();
+          return l === targetLang;
+        } else {
+          if (targetLang === 'fr') return Boolean(card.image_fr || card.name_fr || card.language === 'fr');
+          if (targetLang === 'en') return Boolean(card.image_en || card.language === 'en');
+          if (targetLang === 'jp') return Boolean(card.image_jp || card.jp_name || card.is_japanese || card.language === 'jp');
+          return true;
+        }
       });
     }
 
@@ -639,6 +656,20 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
           if (cComp !== 0) return cComp;
           return a.id.localeCompare(b.id, undefined, { numeric: true });
         }
+        case 'lang-en-fr-jp': {
+          const getLangRank = (c: Card) => {
+            const l = (c.language || (c.id?.startsWith('fr-') ? 'fr' : (c.id?.startsWith('jp-') ? 'jp' : (c.is_japanese || c.set_code === 'OP18' || c.set_code === 'EB05' || c.set_code === 'PRB02' ? 'jp' : 'en')))).toLowerCase();
+            if (l === 'en') return 1;
+            if (l === 'fr') return 2;
+            return 3;
+          };
+          const rA = getLangRank(a);
+          const rB = getLangRank(b);
+          if (rA !== rB) return rA - rB;
+          const cComp = b.card_code.localeCompare(a.card_code, undefined, { numeric: true });
+          if (cComp !== 0) return cComp;
+          return a.id.localeCompare(b.id, undefined, { numeric: true });
+        }
         case 'lang-fr-en-jp': {
           const getLangRank = (c: Card) => {
             const l = (c.language || (c.id?.startsWith('fr-') ? 'fr' : (c.id?.startsWith('jp-') ? 'jp' : (c.is_japanese || c.set_code === 'OP18' || c.set_code === 'EB05' || c.set_code === 'PRB02' ? 'jp' : 'en')))).toLowerCase();
@@ -897,6 +928,7 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
   // Count active filters
   const activeFiltersCount = useMemo(() => {
     let count = 0;
+    if (selectedLanguage !== 'ALL') count++;
     if (selectedSort !== 'price-desc' && selectedSort !== 'code-asc') count++;
     if (selectedRarity !== 'ALL') count++;
     if (isMangaOnly) count++;
@@ -908,9 +940,10 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
     if (selectedIllustrator !== 'ALL') count++;
     if (selectedPriceRange !== 'ALL') count++;
     return count;
-  }, [selectedSort, selectedRarity, isMangaOnly, isCrewMangaOnly, variantTab, minPrice, selectedColor, selectedCategory, selectedIllustrator, selectedPriceRange]);
+  }, [selectedLanguage, selectedSort, selectedRarity, isMangaOnly, isCrewMangaOnly, variantTab, minPrice, selectedColor, selectedCategory, selectedIllustrator, selectedPriceRange]);
 
   const handleResetAllFilters = () => {
+    setSelectedLanguage('ALL');
     setSelectedSort('code-asc');
     setSelectedRarity('ALL');
     setIsMangaOnly(false);
@@ -931,14 +964,14 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
 
   // Helper to render sleek, unified downward dropdowns
   const renderDownwardDropdown = (
-    id: 'sort' | 'price' | 'variant' | 'rarity' | 'color' | 'category' | 'role',
+    id: 'sort' | 'price' | 'variant' | 'rarity' | 'color' | 'category' | 'role' | 'language',
     currentValue: string,
     options: { value: string; label: string; short: string }[],
     onSelect: (val: any) => void
   ) => {
     const isOpen = activeDropdown === id;
     const isFiltered = id === 'sort' 
-      ? (currentValue.startsWith('price') || currentValue.startsWith('alpha'))
+      ? (currentValue.startsWith('price') || currentValue.startsWith('alpha') || currentValue.startsWith('lang'))
       : currentValue !== 'ALL';
     const currentOption = options.find(o => o.value === currentValue);
     const displayLabel = currentOption ? currentOption.short : options[0]?.short;
@@ -999,9 +1032,12 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
 
   // Scalpeurs-style card item renderer matching user design (100% card aspect ratio with overlaid badge, button and prices)
   const renderCardItem = (card: Card, keyPrefix: string, idx: number) => {
-    const cardImg = getCardImageUrl(card, card._defaultImagePath);
+    const cardImg = getCardImageUrl(card, card._defaultImagePath, selectedLanguage);
     const priceInfo = getCardPriceForArtwork(card, card._defaultImagePath || card.id);
     const cLang = (card.language || (card.id?.startsWith('fr-') ? 'fr' : (card.id?.startsWith('jp-') ? 'jp' : (card.is_japanese || card.set_code === 'OP18' || card.set_code === 'EB05' || card.set_code === 'PRB02' ? 'jp' : 'en')))).toLowerCase();
+    const localizedCardName = selectedLanguage === 'FR' && card.name_fr 
+      ? card.name_fr 
+      : (selectedLanguage === 'JP' && card.jp_name ? card.jp_name : card.name);
 
     // Possession state (owned in user's collection)
     const isAltCard = isAltArtworkCard(card);
@@ -1117,14 +1153,17 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
         }`}
       >
         <div className="relative aspect-[5/7] w-full">
-          {/* Top-Left: Scalpeurs-style Variant Badge (★ v3, ★ v2, etc. si disponible) */}
-          {badgeInfo && (
-            <div className="pointer-events-none absolute left-1 top-1 sm:left-1.5 sm:top-1.5 z-20 flex flex-col items-start">
+          {/* Top-Left: Scalpeurs-style Variant Badge + Language Flag */}
+          <div className="pointer-events-none absolute left-1 top-1 sm:left-1.5 sm:top-1.5 z-20 flex items-center gap-1 flex-wrap">
+            {badgeInfo && (
               <span className={`rounded-full px-1.5 py-0.5 text-[8.5px] sm:text-[10.5px] font-bold backdrop-blur-sm border shadow-md ${badgeInfo.color}`}>
                 ★ {badgeInfo.label}
               </span>
-            </div>
-          )}
+            )}
+            <span className="rounded-full px-1.5 py-0.5 text-[8px] sm:text-[9.5px] font-bold backdrop-blur-sm border border-slate-700/80 bg-black/85 text-slate-200 shadow-md">
+              {cLang === 'fr' ? '🇫🇷 FR' : cLang === 'jp' ? '🇯🇵 JP' : '🇬🇧 EN'}
+            </span>
+          </div>
 
           {/* Top-Right: Scalpeurs-style Collection button (+) or checkmark (✓) */}
           <button
@@ -1153,7 +1192,7 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
           {/* Card Artwork Image - 100% of aspect-[5/7] */}
           <img
             src={cardImg}
-            alt={card.name}
+            alt={localizedCardName}
             width={252}
             height={352}
             referrerPolicy="no-referrer"
@@ -1544,11 +1583,13 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
             )}
           </div>
 
-          {/* Scalpeurs Dropdown Filter Pills (Row 1): Tri, Prix, Alternatifs, Couleurs, Types - Cachés sur mobile car dans Filtres */}
+          {/* Scalpeurs Dropdown Filter Pills (Row 1): Tri, Langue, Prix, Alternatifs, Couleurs, Types - Cachés sur mobile car dans Filtres */}
           <div className="hidden sm:flex items-center gap-1.5 sm:gap-2 flex-wrap">
-            {/* 1. Tri (💰 Les plus chères) */}
+            {/* 1. Tri (💰 Les plus chères / 🇫🇷 Français en premier, etc.) */}
             {renderDownwardDropdown('sort', selectedSort, SORT_DROPDOWN_OPTIONS, setSelectedSort)}
-            {/* 2. Prix (💶 Tous les prix) */}
+            {/* 2. Langue (🌍 Toutes / 🇫🇷 Français / 🇬🇧 Anglais / 🇯🇵 Japonais) */}
+            {renderDownwardDropdown('language', selectedLanguage, LANGUAGE_DROPDOWN_OPTIONS, setSelectedLanguage)}
+            {/* 3. Prix (💶 Tous les prix) */}
             {renderDownwardDropdown('price', selectedPriceRange, PRICE_DROPDOWN_OPTIONS, setSelectedPriceRange)}
             {/* 3. Alternatifs (★ Alternatifs / Base / Manga) */}
             {renderDownwardDropdown('variant', variantTab, VARIANT_DROPDOWN_OPTIONS, (val) => setVariantTab(val))}
@@ -1812,6 +1853,8 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
         setSelectedColor={(c) => { setSelectedColor(c); setPage(1); }}
         selectedCategory={selectedCategory}
         setSelectedCategory={(c) => { setSelectedCategory(c); setPage(1); }}
+        selectedLanguage={selectedLanguage}
+        setSelectedLanguage={(l) => { setSelectedLanguage(l); setPage(1); }}
         selectedIllustrator={selectedIllustrator}
         setSelectedIllustrator={(i) => { setSelectedIllustrator(i); setPage(1); }}
         availableIllustrators={availableIllustrators}

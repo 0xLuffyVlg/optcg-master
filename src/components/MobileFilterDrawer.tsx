@@ -38,6 +38,9 @@ export interface MobileFilterDrawerProps {
   // Category / Type
   selectedCategory: string;
   setSelectedCategory: (c: string) => void;
+  // Language
+  selectedLanguage?: 'ALL' | 'FR' | 'EN' | 'JP';
+  setSelectedLanguage?: (lang: 'ALL' | 'FR' | 'EN' | 'JP') => void;
   // Illustrator
   selectedIllustrator: string;
   setSelectedIllustrator: (i: string) => void;
@@ -53,6 +56,8 @@ export const MobileFilterDrawer: React.FC<MobileFilterDrawerProps> = ({
   onClose,
   selectedSort,
   setSelectedSort,
+  selectedLanguage,
+  setSelectedLanguage,
   selectedRarity,
   setSelectedRarity,
   variantTab,
@@ -81,7 +86,9 @@ export const MobileFilterDrawer: React.FC<MobileFilterDrawerProps> = ({
   const sortButtons: { id: SortOption; label: string }[] = [
     { id: 'code-asc', label: 'Officiel' },
     { id: 'price-desc', label: 'Prix' },
-    { id: 'price-asc', label: 'Hausse' },
+    { id: 'lang-fr-en-jp', label: '🇫🇷 Français' },
+    { id: 'lang-en-fr-jp', label: '🇬🇧 Anglais' },
+    { id: 'lang-jp-en-fr', label: '🇯🇵 Japonais' },
     { id: 'rarity-desc', label: 'Rareté' },
     { id: 'code-desc', label: 'Numéro' },
     { id: 'alpha-asc', label: 'Nom' }
@@ -178,7 +185,51 @@ export const MobileFilterDrawer: React.FC<MobileFilterDrawerProps> = ({
             </div>
           </div>
 
-          {/* 2. RARETÉ */}
+          {/* 2. LANGUE */}
+          {setSelectedLanguage && (
+            <div className="space-y-2">
+              <div className="flex items-center justify-between">
+                <h3 className="text-[11px] font-black text-slate-400 uppercase tracking-widest">
+                  LANGUE DES CARTES
+                </h3>
+                {selectedLanguage && selectedLanguage !== 'ALL' && (
+                  <button
+                    type="button"
+                    onClick={() => setSelectedLanguage('ALL')}
+                    className="text-[10px] text-amber-400 font-bold hover:underline"
+                  >
+                    Toutes
+                  </button>
+                )}
+              </div>
+              <div className="grid grid-cols-4 gap-2">
+                {[
+                  { id: 'ALL', label: '🌍 Toutes' },
+                  { id: 'FR', label: '🇫🇷 FR' },
+                  { id: 'EN', label: '🇬🇧 EN' },
+                  { id: 'JP', label: '🇯🇵 JP' },
+                ].map((item) => {
+                  const isActive = (selectedLanguage || 'ALL') === item.id;
+                  return (
+                    <button
+                      key={item.id}
+                      type="button"
+                      onClick={() => setSelectedLanguage(item.id as any)}
+                      className={`py-2 px-1.5 rounded-xl text-xs font-black transition-all cursor-pointer text-center ${
+                        isActive
+                          ? 'bg-amber-400 text-slate-950 shadow-md shadow-amber-500/20'
+                          : 'bg-[#131826] text-slate-300 hover:text-white border border-slate-800'
+                      }`}
+                    >
+                      {item.label}
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+          )}
+
+          {/* 3. RARETÉ */}
           <div className="space-y-2.5">
             <div className="flex items-center justify-between">
               <h3 className="text-[11px] font-black text-slate-400 uppercase tracking-widest">

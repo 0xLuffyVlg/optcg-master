@@ -557,6 +557,42 @@ export const CollectionView: React.FC<CollectionViewProps> = ({
             return pb - pa;
           case 'price-asc':
             return pa - pb;
+          case 'lang-fr-en-jp': {
+            const getLangRank = (c: Card) => {
+              const l = (c.language || (c.id?.startsWith('fr-') ? 'fr' : (c.id?.startsWith('jp-') ? 'jp' : 'en'))).toLowerCase();
+              if (l === 'fr') return 1;
+              if (l === 'en') return 2;
+              return 3;
+            };
+            const rA = getLangRank(a);
+            const rB = getLangRank(b);
+            if (rA !== rB) return rA - rB;
+            return a.card_code.localeCompare(b.card_code);
+          }
+          case 'lang-en-fr-jp': {
+            const getLangRank = (c: Card) => {
+              const l = (c.language || (c.id?.startsWith('fr-') ? 'fr' : (c.id?.startsWith('jp-') ? 'jp' : 'en'))).toLowerCase();
+              if (l === 'en') return 1;
+              if (l === 'fr') return 2;
+              return 3;
+            };
+            const rA = getLangRank(a);
+            const rB = getLangRank(b);
+            if (rA !== rB) return rA - rB;
+            return a.card_code.localeCompare(b.card_code);
+          }
+          case 'lang-jp-en-fr': {
+            const getLangRank = (c: Card) => {
+              const l = (c.language || (c.id?.startsWith('fr-') ? 'fr' : (c.id?.startsWith('jp-') ? 'jp' : 'en'))).toLowerCase();
+              if (l === 'jp') return 1;
+              if (l === 'en') return 2;
+              return 3;
+            };
+            const rA = getLangRank(a);
+            const rB = getLangRank(b);
+            if (rA !== rB) return rA - rB;
+            return a.card_code.localeCompare(b.card_code);
+          }
           case 'alpha-asc':
             return (a.name_fr || a.name).localeCompare(b.name_fr || b.name);
           case 'alpha-desc':
@@ -2012,6 +2048,8 @@ export const CollectionView: React.FC<CollectionViewProps> = ({
         setSelectedColor={(c) => { setSelectedColor(c); setPage(1); }}
         selectedCategory={selectedCategory}
         setSelectedCategory={(c) => { setSelectedCategory(c); setPage(1); }}
+        selectedLanguage={selectedLanguage}
+        setSelectedLanguage={(l) => { setSelectedLanguage(l); setPage(1); }}
         selectedIllustrator={selectedIllustrator}
         setSelectedIllustrator={(i) => { setSelectedIllustrator(i); setPage(1); }}
         availableIllustrators={availableIllustrators}

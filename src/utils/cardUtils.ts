@@ -20,9 +20,21 @@ export const EGMAN_PROXY_BASE = '/egman-img/';
 export const EGMAN_DIRECT_BASE = 'https://img.egmanevents.com/optcg/';
 export const CDN_BASE_URL = CARD_IMG_BASE;
 
-export function getCardImageUrl(card: Card | null | undefined, artworkName?: string): string {
+export function getCardImageUrl(card: Card | null | undefined, artworkName?: string, preferredLang?: string): string {
   if (!card) return 'https://placehold.co/300x420/1e293b/94a3b8?text=No+Card';
   
+  // 0. Language-specific image preference (FR, EN, JP)
+  if (preferredLang && typeof preferredLang === 'string') {
+    const p = preferredLang.toLowerCase().trim();
+    if (p === 'fr' && card.image_fr) return card.image_fr;
+    if (p === 'en' && card.image_en) return card.image_en;
+    if (p === 'jp' && card.image_jp) return card.image_jp;
+    if (card._imagePaths && Array.isArray(card._imagePaths)) {
+      const match = card._imagePaths.find(img => typeof img === 'string' && img.toLowerCase().includes(`/cards-${p}/`));
+      if (match) return match;
+    }
+  }
+
   // 1. Direct HTTP / HTTPS URL
   if (artworkName && typeof artworkName === 'string') {
     if (artworkName.startsWith('http://') || artworkName.startsWith('https://')) {
@@ -36,6 +48,15 @@ export function getCardImageUrl(card: Card | null | undefined, artworkName?: str
   }
   if (!artworkName && card.scalpeurs_image_url) {
     return card.scalpeurs_image_url;
+  }
+  if (!artworkName && card.image_fr) {
+    return card.image_fr;
+  }
+  if (!artworkName && card.image_en) {
+    return card.image_en;
+  }
+  if (!artworkName && card.image_jp) {
+    return card.image_jp;
   }
 
   // Check if card has an http image in _imagePaths

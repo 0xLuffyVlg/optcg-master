@@ -35,6 +35,9 @@ export interface Card {
   price_avg30_eur?: number | null;
   listings_count?: number | null;
   scalpeurs_image_url?: string;
+  image_fr?: string | null;
+  image_en?: string | null;
+  image_jp?: string | null;
   cardmarket_url?: string;
   cardmarket_url_jp?: string;
   tcgplayer_url?: string;
@@ -60,6 +63,9 @@ export interface RawCardPrint {
   trigger: string | null;
   set: string;
   image_url: string;
+  image_fr?: string | null;
+  image_en?: string | null;
+  image_jp?: string | null;
   price_eur?: number | null;
   price_min_eur?: number | null;
   price_avg7_eur?: number | null;
@@ -80,6 +86,9 @@ export interface CardVariant {
   language?: string;
   image_path?: string;
   image_url?: string;
+  image_fr?: string | null;
+  image_en?: string | null;
+  image_jp?: string | null;
   scalpeurs_image_url?: string;
   product_id?: number;
   cardmarket_product_id?: number | null;
