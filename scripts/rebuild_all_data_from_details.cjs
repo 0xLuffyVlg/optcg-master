@@ -1,43 +1,47 @@
 /**
  * rebuild_all_data_from_details.cjs
  * 
- * Rebuilds all website datasets directly from the single source of truth:
+ * Rebuilds all website datasets EXCLUSIVELY and 100% from:
  * onepiece-database/data/details/*.json (7,443 micro-fiches)
- * and language registries (cards-fr.json, cards-en.json, cards-jp.json, cards-all.json)
- *
+ * 
+ * Absolutely NO external backup files, NO git history, NO old databases.
+ * 
  * Generated targets:
  * 1. public/data/details/ (7,443 micro-fiches synchronized)
- * 2. src/data/cards.json (2,885 base cards with multi-language image paths and exact Cardmarket URLs)
- * 3. src/data/optcg_complete_database.json (17,330 prints with exact languages fr/en/jp and detail fiches)
- * 4. src/data/variants.json (all variant fiches indexed with pricing and links)
+ * 2. src/data/cards.json (2,710 base cards directly from [CODE].json)
+ * 3. src/data/variants.json (4,733 variants directly from [CODE]-v[N].json)
+ * 4. src/data/optcg_complete_database.json (4,733 prints directly from [CODE]-v[N].json)
  * 5. src/data/card_links.json (fast lookup mapping byPath, byBasename, byCode, byId, byFile)
  */
 
 const fs = require('fs');
 const path = require('path');
-const { execFileSync } = require('child_process');
 
 const ROOT_DIR = path.resolve(__dirname, '..');
 const SOURCE_DETAILS_DIR = path.resolve(ROOT_DIR, '../onepiece-database/data/details');
 const PUBLIC_DETAILS_DIR = path.resolve(ROOT_DIR, 'public/data/details');
-const CARDS_FR_PATH = path.resolve(ROOT_DIR, '../onepiece-database/data/cards-fr.json');
-const CARDS_EN_PATH = path.resolve(ROOT_DIR, '../onepiece-database/data/cards-en.json');
-const CARDS_JP_PATH = path.resolve(ROOT_DIR, '../onepiece-database/data/cards-jp.json');
-const CARDS_ALL_PATH = path.resolve(ROOT_DIR, '../onepiece-database/data/cards-all.json');
 
 const TARGET_CARDS_JSON = path.resolve(ROOT_DIR, 'src/data/cards.json');
 const TARGET_COMPLETE_DB = path.resolve(ROOT_DIR, 'src/data/optcg_complete_database.json');
 const TARGET_VARIANTS_JSON = path.resolve(ROOT_DIR, 'src/data/variants.json');
 const TARGET_CARD_LINKS = path.resolve(ROOT_DIR, 'src/data/card_links.json');
 
-console.log('=== REBUILDING ALL OPTCG MASTER DATA FROM DETAILS FICHES ===');
+console.log('=== REBUILDING ALL DATA EXCLUSIVELY FROM onepiece-database/data/details ===');
+
+if (!fs.existsSync(SOURCE_DETAILS_DIR)) {
+  console.error(`ERROR: Source directory not found: ${SOURCE_DETAILS_DIR}`);
+  process.exit(1);
+}
 
 // 0. Synchronize public/data/details
 console.log('1. Synchronizing source details into public/data/details...');
 if (!fs.existsSync(PUBLIC_DETAILS_DIR)) {
   fs.mkdirSync(PUBLIC_DETAILS_DIR, { recursive: true });
 }
+
 const sourceFiles = fs.readdirSync(SOURCE_DETAILS_DIR).filter(f => f.endsWith('.json'));
+console.log(`Found ${sourceFiles.length} JSON files in source details directory.`);
+
 let copiedCount = 0;
 for (const f of sourceFiles) {
   const srcFile = path.join(SOURCE_DETAILS_DIR, f);
@@ -47,442 +51,266 @@ for (const f of sourceFiles) {
     copiedCount++;
   }
 }
-console.log(`Synchronized details: ${sourceFiles.length} files available (${copiedCount} new copies).`);
+console.log(`Public details synchronized (${copiedCount} new copies, ${sourceFiles.length} total files available).`);
 
-// 1. Read all 7,443 details fiches into memory
-console.log('2. Reading all detail fiches into memory...');
-const fichesByFile = new Map(); // key: lowercase filename e.g. "st21-015-v3.json"
-const baseFichesByCode = new Map(); // key: uppercase code e.g. "ST21-015"
-const variantFichesByCode = new Map(); // key: uppercase code -> array of variant fiches
+// Helper to normalize colors
+function mapColor(str) {
+  if (!str) return ['Red'];
+  const parts = str.split(/[\/,]/);
+  const res = [];
+  for (const p of parts) {
+    const s = p.trim().toLowerCase();
+    if (s.includes('roug') || s.includes('red')) res.push('Red');
+    else if (s.includes('vert') || s.includes('green')) res.push('Green');
+    else if (s.includes('bleu') || s.includes('blue')) res.push('Blue');
+    else if (s.includes('viol') || s.includes('purp')) res.push('Purple');
+    else if (s.includes('noir') || s.includes('black')) res.push('Black');
+    else if (s.includes('jaun') || s.includes('yell')) res.push('Yellow');
+  }
+  return res.length > 0 ? Array.from(new Set(res)) : ['Red'];
+}
+
+// Helper to normalize category
+function mapCategory(cat) {
+  if (!cat) return 'Character';
+  const c = String(cat).trim().toLowerCase();
+  if (c.includes('leader')) return 'Leader';
+  if (c.includes('event')) return 'Event';
+  if (c.includes('stage')) return 'Stage';
+  return 'Character';
+}
+
+// 1. Read and separate all fiches
+console.log('2. Loading and separating base and variant fiches...');
+const baseFiches = []; // [CODE].json
+const variantFiches = []; // [CODE]-v[N].json
+const fichesByFile = new Map();
 
 for (const f of sourceFiles) {
   const filePath = path.join(SOURCE_DETAILS_DIR, f);
   try {
-    const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-    const lowerFile = f.toLowerCase();
-    fichesByFile.set(lowerFile, data);
-    fichesByFile.set(lowerFile.replace(/\.json$/i, ''), data);
+    const d = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    fichesByFile.set(f.toLowerCase(), d);
+    fichesByFile.set(f.toLowerCase().replace(/\.json$/i, ''), d);
 
-    const code = (data.code || f.split('-v')[0].replace(/\.json$/i, '')).toUpperCase().trim();
-    if (!f.includes('-v')) {
-      baseFichesByCode.set(code, data);
+    if (/-v\d+\.json$/i.test(f)) {
+      variantFiches.push({ fileName: f, data: d });
     } else {
-      if (!variantFichesByCode.has(code)) {
-        variantFichesByCode.set(code, []);
-      }
-      variantFichesByCode.get(code).push({
-        fileName: f,
-        data
-      });
+      baseFiches.push({ fileName: f, data: d });
     }
   } catch (err) {
-    console.error(`Error parsing ${f}:`, err.message);
-  }
-}
-console.log(`Loaded ${fichesByFile.size / 2} unique fiches (${baseFichesByCode.size} base fiches, ${variantFichesByCode.size} cards with variants).`);
-
-// 2. Read language registries (cards-fr.json, cards-en.json, cards-jp.json, cards-all.json)
-console.log('3. Indexing language prints (FR, EN, JP)...');
-const cardsFr = JSON.parse(fs.readFileSync(CARDS_FR_PATH, 'utf-8'));
-const cardsEn = JSON.parse(fs.readFileSync(CARDS_EN_PATH, 'utf-8'));
-const cardsJp = JSON.parse(fs.readFileSync(CARDS_JP_PATH, 'utf-8'));
-const cardsAll = JSON.parse(fs.readFileSync(CARDS_ALL_PATH, 'utf-8'));
-
-// Maps for fast localized lookups
-const localizedImagesByCode = new Map(); // code -> { fr?: string, en?: string, jp?: string }
-const localizedImagesByFile = new Map(); // file -> { fr?: string, en?: string, jp?: string }
-const localizedCmUrlsByFile = new Map(); // file -> { fr?: string, en?: string, jp?: string }
-const printsById = new Map(); // id -> print
-const frNameByCode = new Map();
-const jpNameByCode = new Map();
-
-for (const p of cardsFr) {
-  if (p.code && p.name) {
-    const c = p.code.toUpperCase().trim();
-    if (!frNameByCode.has(c)) frNameByCode.set(c, p.name);
-  }
-}
-for (const p of cardsJp) {
-  if (p.code && (p.name_jp || p.name)) {
-    const c = p.code.toUpperCase().trim();
-    if (!jpNameByCode.has(c)) jpNameByCode.set(c, p.name_jp || p.name);
+    console.error(`Error reading ${f}:`, err.message);
   }
 }
 
-function registerLangPrint(p, lang) {
-  if (!p) return;
-  printsById.set(p.id, { ...p, lang });
+console.log(`Indexed ${baseFiches.length} base fiches and ${variantFiches.length} variant fiches.`);
 
-  const code = (p.code || '').toUpperCase().trim();
-  if (code) {
-    if (!localizedImagesByCode.has(code)) {
-      localizedImagesByCode.set(code, {});
-    }
-    const cur = localizedImagesByCode.get(code);
-    if (!cur[lang] && p.image_url) {
-      cur[lang] = p.image_url;
-    }
-  }
+// 2. Build src/data/cards.json (Base cards only)
+console.log('3. Generating src/data/cards.json...');
+baseFiches.sort((a, b) => a.data.code.localeCompare(b.data.code, undefined, { numeric: true }));
 
-  const file = (p.detail_file || (code ? `${code}-v${p.variant || 1}.json` : '')).toLowerCase();
-  if (file) {
-    if (!localizedImagesByFile.has(file)) {
-      localizedImagesByFile.set(file, {});
-    }
-    const fImg = localizedImagesByFile.get(file);
-    if (!fImg[lang] && p.image_url) {
-      fImg[lang] = p.image_url;
-    }
-
-    if (!localizedCmUrlsByFile.has(file)) {
-      localizedCmUrlsByFile.set(file, {});
-    }
-    const fCm = localizedCmUrlsByFile.get(file);
-    if (p.cardmarket_url) fCm[lang] = p.cardmarket_url;
-    if (p.cardmarket_url_jp && !fCm.jp) fCm.jp = p.cardmarket_url_jp;
-  }
-}
-
-for (const p of cardsFr) registerLangPrint(p, 'fr');
-for (const p of cardsEn) registerLangPrint(p, 'en');
-for (const p of cardsJp) registerLangPrint(p, 'jp');
-
-console.log(`Indexed ${printsById.size} prints across FR (${cardsFr.length}), EN (${cardsEn.length}), and JP (${cardsJp.length}).`);
-
-// 3. Load baseline cards from commit 42b86b8 or construct from details
-console.log('4. Rebuilding src/data/cards.json...');
-let baselineCards = [];
-try {
-  const gitBin = 'C:/Users/LuffyVlg/.mingit/cmd/git.exe';
-  const out = execFileSync(gitBin, ['show', '42b86b8:src/data/cards.json'], { maxBuffer: 50 * 1024 * 1024 });
-  baselineCards = JSON.parse(out.toString('utf-8'));
-  console.log(`Loaded ${baselineCards.length} baseline cards from commit 42b86b8.`);
-} catch (e) {
-  console.warn('Could not read baseline cards from git, constructing from details fiches...');
-  for (const [code, fiche] of baseFichesByCode.entries()) {
-    baselineCards.push({
-      id: code,
-      card_code: code,
-      set_code: code.split('-')[0],
-      name: fiche.name || code,
-      category: fiche.category ? (fiche.category.charAt(0).toUpperCase() + fiche.category.slice(1).toLowerCase()) : 'Character',
-      rarity: fiche.rarity || 'C',
-      color: [fiche.color || 'Red'],
-      cost: fiche.cost,
-      power: fiche.power,
-      counter: fiche.counter || 0,
-      type: fiche.types ? fiche.types.split('/') : [],
-      attribute: fiche.attribute || '',
-      trigger: fiche.trigger || '',
-      effect: fiche.effect || '',
-      life: fiche.life,
-      price_eur: fiche.price_eur
-    });
-  }
-}
-
-const rebuiltCards = [];
-for (const card of baselineCards) {
-  const code = card.card_code.toUpperCase().trim();
-  const baseFiche = baseFichesByCode.get(code) || fichesByFile.get(`${code.toLowerCase()}-v1.json`) || {};
-  const v1Fiche = fichesByFile.get(`${code.toLowerCase()}-v1.json`) || baseFiche;
-
-  // Localized images for base card (prioritize explicit fiche fields image_fr, image_en, image_jp)
-  const langImgs = localizedImagesByCode.get(code) || {};
-  const imgFr = v1Fiche.image_fr || baseFiche.image_fr || langImgs.fr || null;
-  const imgEn = v1Fiche.image_en || baseFiche.image_en || langImgs.en || null;
-  const imgJp = v1Fiche.image_jp || baseFiche.image_jp || langImgs.jp || null;
-  const ficheImg = v1Fiche.image_path || v1Fiche.image_url || baseFiche.image_path || baseFiche.image_url || null;
-
-  const imagePaths = [imgFr, imgEn, imgJp, ficheImg, ...(card._imagePaths || [])]
+const builtCards = baseFiches.map(item => {
+  const d = item.data;
+  const code = (d.code || item.fileName.replace(/\.json$/i, '')).toUpperCase().trim();
+  const setCode = code.split('-')[0];
+  const imagePaths = [d.image_fr, d.image_en, d.image_jp, d.image_path, d.image_url]
     .filter(Boolean)
     .filter((v, i, a) => a.indexOf(v) === i);
 
-  // Default image: FR if available, else EN, else JP
-  const defaultImage = imgFr || imgEn || imgJp || ficheImg || card._defaultImagePath;
+  const defaultImg = d.image_fr || d.image_en || d.image_jp || d.image_path || d.image_url || '';
 
-  // Pricing priority: v1 / base fiche
-  const priceEur = v1Fiche.price_eur !== undefined && v1Fiche.price_eur !== null
-    ? v1Fiche.price_eur
-    : (baseFiche.price_eur !== undefined && baseFiche.price_eur !== null ? baseFiche.price_eur : card.price_eur);
-
-  const priceMinEur = v1Fiche.price_min_eur !== undefined && v1Fiche.price_min_eur !== null
-    ? v1Fiche.price_min_eur
-    : (priceEur !== undefined ? priceEur : card.price_min_eur);
-
-  const cmUrl = v1Fiche.cardmarket_url || baseFiche.cardmarket_url || card.cardmarket_url;
-  const cmUrlJp = v1Fiche.cardmarket_url_jp || baseFiche.cardmarket_url_jp || card.cardmarket_url_jp;
-  const tcgUrl = v1Fiche.tcgplayer_url || baseFiche.tcgplayer_url || card.tcgplayer_url;
-
-  const nameFr = frNameByCode.get(code) || card.name_fr || (baseFiche.language === 'fr' ? baseFiche.name : undefined);
-  const nameJp = jpNameByCode.get(code) || card.jp_name || undefined;
-
-  // Primary language detection for the card
-  let cardLang = 'en';
-  if (baseFiche.language === 'fr' || (imgFr && !imgEn)) cardLang = 'fr';
-  else if (card.is_japanese || (!imgFr && !imgEn && imgJp)) cardLang = 'jp';
-
-  rebuiltCards.push({
-    ...card,
-    name_fr: nameFr,
-    jp_name: nameJp,
-    language: cardLang,
-    image_fr: imgFr,
-    image_en: imgEn,
-    image_jp: imgJp,
-    price_eur: priceEur,
-    price_min_eur: priceMinEur,
-    price_avg7_eur: v1Fiche.price_avg7_eur ?? baseFiche.price_avg7_eur ?? card.price_avg7_eur,
-    price_avg30_eur: v1Fiche.price_avg30_eur ?? baseFiche.price_avg30_eur ?? card.price_avg30_eur,
-    listings_count: v1Fiche.listings_count ?? baseFiche.listings_count ?? card.listings_count,
-    scalpeurs_image_url: ficheImg || defaultImage,
+  return {
+    id: code,
+    card_code: code,
+    set_code: setCode,
+    name: d.name || code,
+    name_fr: d.language === 'fr' ? d.name : undefined,
+    category: mapCategory(d.category),
+    rarity: d.rarity || 'C',
+    color: mapColor(d.color),
+    cost: d.cost !== null && d.cost !== undefined ? Number(d.cost) : null,
+    power: d.power !== null && d.power !== undefined ? Number(d.power) : null,
+    counter: d.counter !== null && d.counter !== undefined ? Number(d.counter) : 0,
+    life: d.life !== null && d.life !== undefined ? Number(d.life) : null,
+    type: d.types ? d.types.split(/[\/,]/).map(t => t.trim()).filter(Boolean) : [],
+    attribute: d.attribute || '',
+    effect: d.effect || '',
+    trigger: d.trigger || '',
+    block: d.block ? String(d.block) : undefined,
+    language: d.language || 'en',
+    image_path: d.image_path || d.image_url || defaultImg,
+    image_url: d.image_url || d.image_path || defaultImg,
+    image_fr: d.image_fr || null,
+    image_en: d.image_en || null,
+    image_jp: d.image_jp || null,
     _imagePaths: imagePaths,
-    _defaultImagePath: defaultImage,
-    cardmarket_url: cmUrl,
-    cardmarket_url_jp: cmUrlJp,
-    tcgplayer_url: tcgUrl,
-    detail_file: `${code}-v1.json`
-  });
-}
+    _defaultImagePath: defaultImg,
+    scalpeurs_image_url: d.image_url || d.image_path || defaultImg,
+    price_eur: d.price_eur ?? null,
+    price_min_eur: d.price_min_eur ?? d.price_eur ?? null,
+    price_avg7_eur: d.price_avg7_eur ?? null,
+    price_avg30_eur: d.price_avg30_eur ?? null,
+    listings_count: 0,
+    cardmarket_url: d.cardmarket_url || '',
+    cardmarket_url_jp: d.cardmarket_url_jp || '',
+    tcgplayer_url: d.tcgplayer_url || '',
+    detail_file: item.fileName
+  };
+});
 
-fs.writeFileSync(TARGET_CARDS_JSON, JSON.stringify(rebuiltCards, null, 2), 'utf-8');
-console.log(`Saved ${rebuiltCards.length} cards to ${TARGET_CARDS_JSON}`);
+fs.writeFileSync(TARGET_CARDS_JSON, JSON.stringify(builtCards, null, 2), 'utf-8');
+console.log(`Saved ${builtCards.length} base cards to ${TARGET_CARDS_JSON}`);
 
-// 4. Rebuild src/data/optcg_complete_database.json (All Prints)
-console.log('5. Rebuilding src/data/optcg_complete_database.json...');
-let baselineDb = [];
-try {
-  const gitBin = 'C:/Users/LuffyVlg/.mingit/cmd/git.exe';
-  const out = execFileSync(gitBin, ['show', '42b86b8:src/data/optcg_complete_database.json'], { maxBuffer: 100 * 1024 * 1024 });
-  baselineDb = JSON.parse(out.toString('utf-8'));
-  console.log(`Loaded ${baselineDb.length} prints from commit 42b86b8.`);
-} catch (e) {
-  console.warn('Could not read baseline db from git, using cards-all.json...');
-  baselineDb = cardsAll;
-}
+// 3. Build src/data/variants.json
+console.log('4. Generating src/data/variants.json...');
+variantFiches.sort((a, b) => {
+  const codeCmp = a.data.code.localeCompare(b.data.code, undefined, { numeric: true });
+  if (codeCmp !== 0) return codeCmp;
+  return (a.data.variant_index || 1) - (b.data.variant_index || 1);
+});
 
-const rebuiltDb = [];
-for (const print of baselineDb) {
-  const code = (print.card_code || print.code || print.id.split('-')[2] || '').toUpperCase().trim();
-  
-  // Resolve detail file
-  let detailFile = print.detail_file;
-  if (!detailFile || !fichesByFile.has(detailFile.toLowerCase())) {
-    const pRecord = printsById.get(print.id);
-    if (pRecord?.detail_file && fichesByFile.has(pRecord.detail_file.toLowerCase())) {
-      detailFile = pRecord.detail_file;
-    } else if (print.variant && Number(print.variant) > 1 && fichesByFile.has(`${code.toLowerCase()}-v${print.variant}.json`)) {
-      detailFile = `${code}-v${print.variant}.json`;
-    } else if (fichesByFile.has(`${code.toLowerCase()}-v1.json`)) {
-      detailFile = `${code}-v1.json`;
-    } else {
-      detailFile = `${code}.json`;
-    }
-  }
+const builtVariants = variantFiches.map(item => {
+  const d = item.data;
+  const code = (d.code || item.fileName.split('-v')[0]).toUpperCase().trim();
+  const vIndex = d.variant_index || parseInt((d.variant_version || 'v1').replace('v', ''), 10) || 1;
+  const img = d.image_path || d.image_url || '';
 
-  const fiche = fichesByFile.get(detailFile.toLowerCase()) || {};
+  return {
+    id: `${code}_v${vIndex}`,
+    card_code: code,
+    variant: vIndex,
+    variant_version: d.variant_version || `v${vIndex}`,
+    variant_label: d.variant_name || d.name || `Variant ${vIndex}`,
+    name: d.name || code,
+    rarity: d.rarity || 'C',
+    color: mapColor(d.color),
+    image_path: img,
+    image_url: img,
+    image_fr: d.image_fr || null,
+    image_en: d.image_en || null,
+    image_jp: d.image_jp || null,
+    price_eur: d.price_eur ?? null,
+    price_min_eur: d.price_min_eur ?? d.price_eur ?? null,
+    price_avg7_eur: d.price_avg7_eur ?? null,
+    price_avg30_eur: d.price_avg30_eur ?? null,
+    listings_count: 0,
+    cardmarket_url: d.cardmarket_url || '',
+    cardmarket_url_jp: d.cardmarket_url_jp || '',
+    tcgplayer_url: d.tcgplayer_url || '',
+    detail_file: item.fileName
+  };
+});
 
-  // Image URL: clean authentic scalpeurs URL
-  let imgUrl = print.image_url;
-  const lang = (print.language || (print.id.startsWith('fr-') ? 'fr' : (print.id.startsWith('jp-') ? 'jp' : 'en'))).toLowerCase();
-  
-  if (lang === 'fr' && fiche.image_fr) {
-    imgUrl = fiche.image_fr;
-  } else if (lang === 'jp' && fiche.image_jp) {
-    imgUrl = fiche.image_jp;
-  } else if (lang === 'en' && fiche.image_en) {
-    imgUrl = fiche.image_en;
-  } else if (fiche.image_path) {
-    imgUrl = fiche.image_path;
-  } else if (fiche.image_url) {
-    imgUrl = fiche.image_url;
-  }
+fs.writeFileSync(TARGET_VARIANTS_JSON, JSON.stringify(builtVariants, null, 2), 'utf-8');
+console.log(`Saved ${builtVariants.length} variants to ${TARGET_VARIANTS_JSON}`);
 
-  // Pricing: prioritize fiche if defined
-  let priceEur = print.price_eur;
-  if (fiche.price_eur !== undefined && fiche.price_eur !== null && fiche.price_eur > 0) {
-    priceEur = fiche.price_eur;
-  }
+// 4. Build src/data/optcg_complete_database.json (All variant prints directly from details)
+console.log('5. Generating src/data/optcg_complete_database.json...');
+const builtCompleteDb = variantFiches.map(item => {
+  const d = item.data;
+  const code = (d.code || item.fileName.split('-v')[0]).toUpperCase().trim();
+  const vIndex = d.variant_index || parseInt((d.variant_version || 'v1').replace('v', ''), 10) || 1;
+  const img = d.image_path || d.image_url || '';
 
-  // Cardmarket URL
-  const isJp = lang === 'jp' || print.id.startsWith('jp-');
-  let cmUrl = isJp ? (fiche.cardmarket_url_jp || print.cardmarket_url_jp || fiche.cardmarket_url || print.cardmarket_url)
-                   : (fiche.cardmarket_url || print.cardmarket_url);
+  return {
+    id: `${code}-v${vIndex}`,
+    card_code: code,
+    name: d.name || code,
+    variant_name: d.variant_name || d.name,
+    variant_version: d.variant_version || `v${vIndex}`,
+    variant: vIndex,
+    language: d.language || 'en',
+    rarity: d.rarity || 'C',
+    type: d.category || 'Character',
+    cost: d.cost !== null && d.cost !== undefined ? String(d.cost) : null,
+    power: d.power !== null && d.power !== undefined ? String(d.power) : null,
+    counter: d.counter !== null && d.counter !== undefined ? String(d.counter) : null,
+    color: mapColor(d.color),
+    attribute: d.attribute || null,
+    types: d.types ? d.types.split(/[\/,]/).map(t => t.trim()).filter(Boolean) : [],
+    effect: d.effect || '',
+    trigger: d.trigger || null,
+    set: code.split('-')[0],
+    image_url: img,
+    image_fr: d.image_fr || null,
+    image_en: d.image_en || null,
+    image_jp: d.image_jp || null,
+    price_eur: d.price_eur ?? null,
+    price_min_eur: d.price_min_eur ?? d.price_eur ?? null,
+    price_avg7_eur: d.price_avg7_eur ?? null,
+    price_avg30_eur: d.price_avg30_eur ?? null,
+    listings_count: 0,
+    cardmarket_url: d.cardmarket_url || '',
+    cardmarket_url_jp: d.cardmarket_url_jp || '',
+    tcgplayer_url: d.tcgplayer_url || '',
+    detail_file: item.fileName
+  };
+});
 
-  let cmUrlJp = fiche.cardmarket_url_jp || print.cardmarket_url_jp;
-  let tcgUrl = fiche.tcgplayer_url || print.tcgplayer_url;
+fs.writeFileSync(TARGET_COMPLETE_DB, JSON.stringify(builtCompleteDb, null, 2), 'utf-8');
+console.log(`Saved ${builtCompleteDb.length} prints to ${TARGET_COMPLETE_DB}`);
 
-  rebuiltDb.push({
-    ...print,
-    language: lang,
-    image_url: imgUrl,
-    image_fr: fiche.image_fr,
-    image_en: fiche.image_en,
-    image_jp: fiche.image_jp,
-    price_eur: priceEur,
-    price_min_eur: fiche.price_min_eur ?? (priceEur !== undefined ? priceEur : print.price_min_eur),
-    price_avg7_eur: fiche.price_avg7_eur ?? print.price_avg7_eur,
-    price_avg30_eur: fiche.price_avg30_eur ?? print.price_avg30_eur,
-    listings_count: fiche.listings_count ?? print.listings_count,
-    cardmarket_url: cmUrl,
-    cardmarket_url_jp: cmUrlJp,
-    tcgplayer_url: tcgUrl,
-    detail_file: detailFile,
-    variant_version: fiche.variant_version || print.variant_version || 'v1',
-    variant_name: fiche.variant_name || fiche.name || print.variant_name
-  });
-}
-
-fs.writeFileSync(TARGET_COMPLETE_DB, JSON.stringify(rebuiltDb, null, 2), 'utf-8');
-console.log(`Saved ${rebuiltDb.length} prints to ${TARGET_COMPLETE_DB}`);
-
-// 5. Rebuild src/data/variants.json
-console.log('6. Rebuilding src/data/variants.json...');
-const rebuiltVariants = [];
-
-for (const [code, variantsList] of variantFichesByCode.entries()) {
-  // Sort variants by index (v1, v2, v3...)
-  variantsList.sort((a, b) => (a.data.variant_index || 1) - (b.data.variant_index || 1));
-  for (const item of variantsList) {
-    const f = item.data;
-    const vIndex = f.variant_index || parseInt((f.variant_version || 'v1').replace('v', ''), 10) || 1;
-    rebuiltVariants.push({
-      id: `${code}_v${vIndex}`,
-      card_code: code,
-      variant: vIndex,
-      variant_version: f.variant_version || `v${vIndex}`,
-      variant_label: f.variant_name || f.name || `Variant ${vIndex}`,
-      name: f.name || code,
-      rarity: f.rarity || 'C',
-      price_eur: f.price_eur ?? null,
-      price_min_eur: f.price_min_eur ?? f.price_eur ?? null,
-      price_avg7_eur: f.price_avg7_eur ?? null,
-      price_avg30_eur: f.price_avg30_eur ?? null,
-      listings_count: f.listings_count ?? 0,
-      cardmarket_url: f.cardmarket_url || '',
-      cardmarket_url_jp: f.cardmarket_url_jp || '',
-      tcgplayer_url: f.tcgplayer_url || '',
-      image_path: f.image_path || f.image_url || '',
-      image_url: f.image_url || f.image_path || '',
-      image_fr: f.image_fr || null,
-      image_en: f.image_en || null,
-      image_jp: f.image_jp || null,
-      detail_file: item.fileName
-    });
-  }
-}
-
-fs.writeFileSync(TARGET_VARIANTS_JSON, JSON.stringify(rebuiltVariants, null, 2), 'utf-8');
-console.log(`Saved ${rebuiltVariants.length} variants to ${TARGET_VARIANTS_JSON}`);
-
-// 6. Rebuild src/data/card_links.json (Lookup index)
-console.log('7. Rebuilding src/data/card_links.json...');
+// 5. Build src/data/card_links.json (Lookup index from details fiches)
+console.log('6. Generating src/data/card_links.json...');
 const byPath = {};
 const byBasename = {};
 const byCode = {};
 const byId = {};
 const byFile = {};
 
-// Index all prints from completeDatabase
-for (const p of rebuiltDb) {
-  const cm = p.cardmarket_url || null;
-  const cm_jp = p.cardmarket_url_jp || null;
-  const tcg = p.tcgplayer_url || null;
-  const price = p.price_eur ?? null;
-  const file = p.detail_file || null;
-  const img = p.image_url || null;
-  const lang = (p.language || 'en').toLowerCase();
+for (const item of [...baseFiches, ...variantFiches]) {
+  const d = item.data;
+  const fName = item.fileName;
+  const code = (d.code || fName.split('-v')[0]).toUpperCase().trim();
+  const fileEntry = {
+    cm: d.cardmarket_url || null,
+    cm_jp: d.cardmarket_url_jp || null,
+    tcg: d.tcgplayer_url || null,
+    price_eur: d.price_eur ?? null,
+    image_url: d.image_path || d.image_url || null,
+    image_fr: d.image_fr || null,
+    image_en: d.image_en || null,
+    image_jp: d.image_jp || null,
+    detail_file: fName,
+    variant_version: d.variant_version || null,
+    name: d.variant_name || d.name || null
+  };
+
+  byFile[fName.toLowerCase()] = fileEntry;
+  byFile[fName.toLowerCase().replace(/\.json$/i, '')] = fileEntry;
 
   // byId
-  if (p.id) {
-    byId[p.id] = { cm, cm_jp, tcg, price_eur: price, detail_file: file };
+  if (d.code) {
+    if (d.variant_version) {
+      byId[`${d.code}-${d.variant_version}`] = fileEntry;
+      byId[`${d.code}_${d.variant_version}`] = fileEntry;
+    } else {
+      byId[d.code] = fileEntry;
+    }
   }
 
-  // byPath
-  if (img) {
+  // byPath & byBasename
+  const images = [d.image_path, d.image_url, d.image_fr, d.image_en, d.image_jp].filter(Boolean);
+  for (const img of images) {
     const cleanPath = img
       .replace(/^https?:\/\/scalpeurs\.com\/img\//i, '')
       .replace(/^https?:\/\/scalpeurs\.com\//i, '')
       .replace(/^\/img\//i, '')
       .replace(/^\//i, '')
       .toLowerCase();
-    
-    byPath[cleanPath] = { cm, cm_jp, tcg, price_eur: price, detail_file: file };
 
-    // byBasename
-    const baseName = cleanPath.split('/').pop();
-    if (baseName) {
-      if (!byBasename[baseName]) {
-        byBasename[baseName] = { cm, cm_jp, tcg, price_eur: price, detail_file: file };
-      }
-      if (!byBasename[baseName][lang]) {
-        byBasename[baseName][lang] = { cm, cm_jp, tcg, img };
-      }
-      const noExt = baseName.replace(/\.(webp|png|jpg|jpeg)$/i, '');
-      if (!byBasename[noExt]) {
-        byBasename[noExt] = byBasename[baseName];
-      }
-    }
-  }
-
-  // byCode
-  const code = (p.card_code || '').toUpperCase().trim();
-  if (code && !byCode[code]) {
-    byCode[code] = { cm, cm_jp, tcg, price_eur: price, detail_file: file };
-  }
-}
-
-// Index all 7,443 micro-fiches into byFile and byCode
-for (const fName of sourceFiles) {
-  const f = fichesByFile.get(fName.toLowerCase());
-  if (!f) continue;
-  const code = (f.code || fName.split('-v')[0]).toUpperCase().trim();
-  const fileEntry = {
-    cm: f.cardmarket_url || null,
-    cm_jp: f.cardmarket_url_jp || null,
-    tcg: f.tcgplayer_url || null,
-    price_eur: f.price_eur ?? null,
-    image_url: f.image_path || f.image_url || null,
-    image_fr: f.image_fr || null,
-    image_en: f.image_en || null,
-    image_jp: f.image_jp || null,
-    detail_file: fName,
-    variant_version: f.variant_version || null,
-    name: f.variant_name || f.name || null
-  };
-
-  byFile[fName.toLowerCase()] = fileEntry;
-  byFile[fName.toLowerCase().replace(/\.json$/i, '')] = fileEntry;
-
-  // Also enhance byBasename if image_path exists
-  if (f.image_path || f.image_url) {
-    const fullImg = f.image_path || f.image_url;
-    const cleanPath = fullImg
-      .replace(/^https?:\/\/scalpeurs\.com\/img\//i, '')
-      .replace(/^https?:\/\/scalpeurs\.com\//i, '')
-      .replace(/^\/img\//i, '')
-      .replace(/^\//i, '')
-      .toLowerCase();
-    
     if (!byPath[cleanPath]) {
-      byPath[cleanPath] = {
-        cm: f.cardmarket_url || null,
-        cm_jp: f.cardmarket_url_jp || null,
-        tcg: f.tcgplayer_url || null,
-        price_eur: f.price_eur ?? null,
-        detail_file: fName
-      };
+      byPath[cleanPath] = fileEntry;
     }
+
     const bName = cleanPath.split('/').pop();
     if (bName) {
       if (!byBasename[bName]) {
-        byBasename[bName] = {
-          cm: f.cardmarket_url || null,
-          cm_jp: f.cardmarket_url_jp || null,
-          tcg: f.tcgplayer_url || null,
-          price_eur: f.price_eur ?? null,
-          detail_file: fName
-        };
+        byBasename[bName] = fileEntry;
+      }
+      const noExt = bName.replace(/\.(webp|png|jpg|jpeg)$/i, '');
+      if (!byBasename[noExt]) {
+        byBasename[noExt] = fileEntry;
       }
     }
   }
@@ -490,13 +318,7 @@ for (const fName of sourceFiles) {
   // byCode for base cards or v1
   if (code && (!fName.includes('-v') || fName.endsWith('-v1.json'))) {
     if (!byCode[code] || fName.endsWith('-v1.json')) {
-      byCode[code] = {
-        cm: f.cardmarket_url || null,
-        cm_jp: f.cardmarket_url_jp || null,
-        tcg: f.tcgplayer_url || null,
-        price_eur: f.price_eur ?? null,
-        detail_file: fName
-      };
+      byCode[code] = fileEntry;
     }
   }
 }
@@ -510,6 +332,6 @@ const cardLinksData = {
 };
 
 fs.writeFileSync(TARGET_CARD_LINKS, JSON.stringify(cardLinksData, null, 2), 'utf-8');
-console.log(`Saved card_links.json: ${Object.keys(byPath).length} paths, ${Object.keys(byBasename).length} basenames, ${Object.keys(byCode).length} codes, ${Object.keys(byId).length} IDs, ${Object.keys(byFile).length} files.`);
+console.log(`Saved card_links.json: ${Object.keys(byPath).length} paths, ${Object.keys(byBasename).length} basenames, ${Object.keys(byCode).length} codes, ${Object.keys(byFile).length} files.`);
 
-console.log('=== DATA REBUILD COMPLETE SUCCESSFULLY ===');
+console.log('=== DATA REBUILD FROM DETAILS COMPLETED SUCCESSFULLY ===');
