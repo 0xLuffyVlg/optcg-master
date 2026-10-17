@@ -740,7 +740,9 @@ a.acc-mv-ligne:focus-visible{outline-offset:2px;outline:2px solid #fff}
 
 .acc-trio-ecart b{color:var(--acc-orange2)}
 
-.acc-trio-carte{transition:none}
+@media (prefers-reduced-motion: reduce) {
+  .acc-trio-carte{transition:none}
+}
 
 #alertes .acc-tuile--large{grid-column:auto}
 
@@ -962,9 +964,10 @@ html[data-recherche-en-haut] .acc-racine [id],html[data-recherche-en-haut] .acc-
 
 .acc-holo--actif .acc-holo-irise{opacity:.3;transition-duration:.15s}
 
-.acc-holo-in{transition:none;transform:none}
-
-.acc-holo-reflet,.acc-holo-irise{display:none}
+@media (prefers-reduced-motion: reduce) {
+  .acc-holo-in{transition:none;transform:none}
+  .acc-holo-reflet,.acc-holo-irise{display:none}
+}
 
 .acc-eventail{--lf:82px;--df:46px;height:calc(var(--lf) * 88 / 63 + 40px);margin:0 auto 18px;position:relative}
 
@@ -1616,7 +1619,9 @@ a.acc-mv-ligne:hover>img{transform:rotate(-3deg)scale(1.07)}
 
 .acc-trio-ecart b{font-family:var(--acc-titre);letter-spacing:-.02em;vertical-align:-2px;font-size:24px;font-weight:800}
 
-.acc-gestes .acc-tel-pos,.acc-gestes .acc-tel-pos:before,.acc-trio-carte .acc-holo,.acc-mv-ligne>img{transition:none}
+@media (prefers-reduced-motion: reduce) {
+  .acc-gestes .acc-tel-pos,.acc-gestes .acc-tel-pos:before,.acc-trio-carte .acc-holo,.acc-mv-ligne>img{transition:none}
+}
 
 .acc-opt--quotas{--teinte:245,130,35}
 

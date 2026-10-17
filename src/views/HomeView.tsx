@@ -21,11 +21,113 @@ interface HomeViewProps {
   onOpenScanner?: () => void;
 }
 
+interface HoloCardProps {
+  children: React.ReactNode;
+  className?: string;
+  actif?: boolean;
+}
+
+export const HoloCard: React.FC<HoloCardProps> = ({ children, className = '', actif = true }) => {
+  const cardRef = useRef<HTMLSpanElement>(null);
+  const animFrameRef = useRef<number>(0);
+
+  const reset = () => {
+    const el = cardRef.current;
+    cancelAnimationFrame(animFrameRef.current);
+    if (el) {
+      el.classList.remove('acc-holo--actif');
+      el.style.setProperty('--rx', '0deg');
+      el.style.setProperty('--ry', '0deg');
+      el.style.setProperty('--tx', '0%');
+      el.style.setProperty('--ty', '0%');
+    }
+  };
+
+  useEffect(() => {
+    return () => cancelAnimationFrame(animFrameRef.current);
+  }, []);
+
+  const handlePointerMove = (e: React.PointerEvent<HTMLSpanElement>) => {
+    const el = cardRef.current;
+    if (!el || !actif) return;
+
+    const rect = el.getBoundingClientRect();
+    const o = Math.min(1, Math.max(0, (e.clientX - rect.left) / rect.width));
+    const s = Math.min(1, Math.max(0, (e.clientY - rect.top) / rect.height));
+
+    cancelAnimationFrame(animFrameRef.current);
+    animFrameRef.current = requestAnimationFrame(() => {
+      el.classList.add('acc-holo--actif');
+      el.style.setProperty('--ry', `${((0.5 - o) * 28).toFixed(2)}deg`);
+      el.style.setProperty('--rx', `${((s - 0.5) * 28).toFixed(2)}deg`);
+      el.style.setProperty('--tx', `${((o - 0.5) * 50).toFixed(1)}%`);
+      el.style.setProperty('--ty', `${((s - 0.5) * 50).toFixed(1)}%`);
+    });
+  };
+
+  return (
+    <span
+      ref={cardRef}
+      className={`acc-holo ${className}`}
+      onPointerMove={handlePointerMove}
+      onPointerLeave={reset}
+      onPointerCancel={reset}
+      onPointerUp={(e) => {
+        if (e.pointerType !== 'mouse') reset();
+      }}
+    >
+      <span className="acc-holo-in">
+        {children}
+        <span className="acc-holo-reflet" aria-hidden="true"></span>
+        <span className="acc-holo-irise" aria-hidden="true"></span>
+      </span>
+    </span>
+  );
+};
+
 export const HomeView: React.FC<HomeViewProps> = ({ 
   onSelectCard, 
   onNavigateTab,
   onOpenScanner 
 }) => {
+  // --- Parallax hero state ---
+  const heroRef = useRef<HTMLElement>(null);
+  const cielRef = useRef<HTMLDivElement>(null);
+  const heroAnimRef = useRef<number>(0);
+
+  useEffect(() => {
+    const heroEl = heroRef.current;
+    const cielEl = cielRef.current;
+    if (!heroEl || !cielEl) return;
+
+    const setPos = (x: number, y: number) => {
+      cielEl.style.setProperty('--px', x.toFixed(3));
+      cielEl.style.setProperty('--py', y.toFixed(3));
+    };
+
+    const handlePointerMove = (e: PointerEvent) => {
+      if (e.pointerType !== 'mouse') return;
+      const rect = heroEl.getBoundingClientRect();
+      const x = Math.max(-1, Math.min(1, ((e.clientX - rect.left) / rect.width - 0.5) * 2));
+      const y = Math.max(-1, Math.min(1, ((e.clientY - rect.top) / rect.height - 0.5) * 2));
+      cancelAnimationFrame(heroAnimRef.current);
+      heroAnimRef.current = requestAnimationFrame(() => setPos(x, y));
+    };
+
+    const handlePointerLeave = () => {
+      cancelAnimationFrame(heroAnimRef.current);
+      setPos(0, 0);
+    };
+
+    heroEl.addEventListener('pointermove', handlePointerMove);
+    heroEl.addEventListener('pointerleave', handlePointerLeave);
+    return () => {
+      heroEl.removeEventListener('pointermove', handlePointerMove);
+      heroEl.removeEventListener('pointerleave', handlePointerLeave);
+      cancelAnimationFrame(heroAnimRef.current);
+    };
+  }, []);
+
   // --- Search state ---
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedLang, setSelectedLang] = useState<'jp' | 'fr' | 'en'>('jp');
@@ -91,7 +193,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
       {/* ========================================================================= */}
       {/* SECTION 1: HERO - CIEL ÉTOILÉ AVEC CARTES FLOTTANTES AUTOUR DU TEXTE     */}
       {/* ========================================================================= */}
-      <section className="acc-hero acc-hero--ciel">
+      <section ref={heroRef} className="acc-hero acc-hero--ciel">
         {/* Galaxy starfield background */}
         <div className="acc-galaxie" aria-hidden="true">
           <i className="acc-galaxie-c acc-galaxie-c--loin"></i>
@@ -102,7 +204,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
 
         <div className="acc-wrap acc-hero-grille">
           {/* Ciel & Floating Animated Cards across the whole hero */}
-          <div className="acc-ciel">
+          <div ref={cielRef} className="acc-ciel">
             <div className="acc-ciel-fond" aria-hidden="true">
               <i className="acc-etoiles acc-etoiles--loin"></i>
               <i className="acc-etoiles acc-etoiles--milieu"></i>
@@ -187,13 +289,9 @@ export const HomeView: React.FC<HomeViewProps> = ({
               <span aria-hidden="true" className="acc-ciel-carte acc-ciel-carte--pres" style={{ ['--x' as any]: '27%', ['--y' as any]: '40%', ['--w' as any]: 27, ['--r' as any]: '-12deg', ['--d' as any]: 0.78, ['--dl' as any]: '-3.5s', ['--i' as any]: 2, ['--xp' as any]: '10%', ['--yp' as any]: '43%', ['--wp' as any]: 12.6, ['--rp' as any]: '-9deg' }}>
                 <span className="acc-ciel-envol">
                   <span className="acc-ciel-flotte">
-                    <span className="acc-holo">
-                      <span className="acc-holo-in">
-                        <img src="/media/cartes/op05-p147-luffy.webp" alt="Monkey D. Luffy" width="420" height="587" decoding="async" />
-                        <span className="acc-holo-reflet" aria-hidden="true"></span>
-                        <span className="acc-holo-irise" aria-hidden="true"></span>
-                      </span>
-                    </span>
+                    <HoloCard>
+                      <img src="/media/cartes/op05-p147-luffy.webp" alt="Monkey D. Luffy" width="420" height="587" decoding="async" />
+                    </HoloCard>
                   </span>
                 </span>
                 <span className="acc-ciel-prix">
@@ -206,13 +304,9 @@ export const HomeView: React.FC<HomeViewProps> = ({
               <span aria-hidden="true" className="acc-ciel-carte acc-ciel-carte--pres acc-ciel-carte--large" style={{ ['--x' as any]: '74%', ['--y' as any]: '64%', ['--w' as any]: 27, ['--r' as any]: '10deg', ['--d' as any]: 0.82, ['--dl' as any]: '-0.5s', ['--i' as any]: 1, ['--xp' as any]: '79%', ['--yp' as any]: '83%', ['--wp' as any]: 9.8, ['--rp' as any]: '10deg' }}>
                 <span className="acc-ciel-envol">
                   <span className="acc-ciel-flotte">
-                    <span className="acc-holo">
-                      <span className="acc-holo-in">
-                        <img src="/media/cartes/op09-p009-shanks.webp" alt="Shanks Manga" width="420" height="587" decoding="async" />
-                        <span className="acc-holo-reflet" aria-hidden="true"></span>
-                        <span className="acc-holo-irise" aria-hidden="true"></span>
-                      </span>
-                    </span>
+                    <HoloCard>
+                      <img src="/media/cartes/op09-p009-shanks.webp" alt="Shanks Manga" width="420" height="587" decoding="async" />
+                    </HoloCard>
                   </span>
                 </span>
                 <span className="acc-ciel-prix">
@@ -225,13 +319,9 @@ export const HomeView: React.FC<HomeViewProps> = ({
               <span aria-hidden="true" className="acc-ciel-carte acc-ciel-carte--pres" style={{ ['--x' as any]: '50%', ['--y' as any]: '47%', ['--w' as any]: 35, ['--r' as any]: '-3deg', ['--d' as any]: 1, ['--dl' as any]: '0s', ['--i' as any]: 0, ['--xp' as any]: '89.5%', ['--yp' as any]: '41%', ['--wp' as any]: 13.6, ['--rp' as any]: '7deg' }}>
                 <span className="acc-ciel-envol">
                   <span className="acc-ciel-flotte">
-                    <span className="acc-holo">
-                      <span className="acc-holo-in">
-                        <img src="/media/cartes/op09-p148-jp.webp" alt="Gol.D.Roger Manga" width="420" height="587" decoding="async" />
-                        <span className="acc-holo-reflet" aria-hidden="true"></span>
-                        <span className="acc-holo-irise" aria-hidden="true"></span>
-                      </span>
-                    </span>
+                    <HoloCard>
+                      <img src="/media/cartes/op09-p148-jp.webp" alt="Gol.D.Roger Manga" width="420" height="587" decoding="async" />
+                    </HoloCard>
                   </span>
                 </span>
                 <span className="acc-ciel-prix">
@@ -696,13 +786,19 @@ export const HomeView: React.FC<HomeViewProps> = ({
                   onClick={() => onSelectCard(rogerCard)}
                   title="Voir Gol.D.Roger Manga en détail"
                 >
-                  <span className="acc-holo">
-                    <span className="acc-holo-in">
-                      <img src="/media/cartes/op09-p148-jp.webp" alt="Carte japonaise" width="360" height="504" loading="lazy" decoding="async" />
-                      <span className="acc-holo-reflet" aria-hidden="true"></span>
-                      <span className="acc-holo-irise" aria-hidden="true"></span>
-                    </span>
-                  </span>
+                  <HoloCard>
+                    <img 
+                      src="/media/cartes/op09-p148-jp.webp" 
+                      alt="Gol.D.Roger, version japonaise" 
+                      width="360" 
+                      height="504" 
+                      loading="lazy" 
+                      decoding="async" 
+                      onError={(e) => {
+                        (e.target as HTMLImageElement).src = 'https://leprgshmfoxthowijtmf.supabase.co/storage/v1/render/image/public/cartes/jp/op09-p148-sm.webp?width=360&height=504&resize=contain&quality=78';
+                      }}
+                    />
+                  </HoloCard>
                   <span className="acc-trio-prix">
                     <img className="acc-drapeau" src="/media/flag-jp.png" alt="" width="16" height="16" />
                     <b>4 500 €</b>
@@ -715,13 +811,19 @@ export const HomeView: React.FC<HomeViewProps> = ({
                   onClick={() => onSelectCard(rogerCard)}
                   title="Voir Gol.D.Roger Manga en détail"
                 >
-                  <span className="acc-holo">
-                    <span className="acc-holo-in">
-                      <img src="/media/cartes/op09-p148-fr.webp" alt="Carte française" width="360" height="504" loading="lazy" decoding="async" />
-                      <span className="acc-holo-reflet" aria-hidden="true"></span>
-                      <span className="acc-holo-irise" aria-hidden="true"></span>
-                    </span>
-                  </span>
+                  <HoloCard>
+                    <img 
+                      src="/media/cartes/op09-p148-fr.webp" 
+                      alt="Gol.D.Roger, version française" 
+                      width="360" 
+                      height="504" 
+                      loading="lazy" 
+                      decoding="async" 
+                      onError={(e) => {
+                        (e.target as HTMLImageElement).src = 'https://leprgshmfoxthowijtmf.supabase.co/storage/v1/render/image/public/cartes/fr/op09-p148-sm.webp?width=360&height=504&resize=contain&quality=78';
+                      }}
+                    />
+                  </HoloCard>
                   <span className="acc-trio-prix">
                     <img className="acc-drapeau" src="/media/flag-fr.png" alt="" width="16" height="16" />
                     <b>7 999 €</b>
@@ -734,13 +836,19 @@ export const HomeView: React.FC<HomeViewProps> = ({
                   onClick={() => onSelectCard(rogerCard)}
                   title="Voir Gol.D.Roger Manga en détail"
                 >
-                  <span className="acc-holo">
-                    <span className="acc-holo-in">
-                      <img src="/media/cartes/op09-p148-en.webp" alt="Carte anglaise" width="360" height="504" loading="lazy" decoding="async" />
-                      <span className="acc-holo-reflet" aria-hidden="true"></span>
-                      <span className="acc-holo-irise" aria-hidden="true"></span>
-                    </span>
-                  </span>
+                  <HoloCard>
+                    <img 
+                      src="/media/cartes/op09-p148-en.webp" 
+                      alt="Gol.D.Roger, version anglaise" 
+                      width="360" 
+                      height="504" 
+                      loading="lazy" 
+                      decoding="async" 
+                      onError={(e) => {
+                        (e.target as HTMLImageElement).src = 'https://leprgshmfoxthowijtmf.supabase.co/storage/v1/render/image/public/cartes/en/op09-p148-sm.webp?width=360&height=504&resize=contain&quality=78';
+                      }}
+                    />
+                  </HoloCard>
                   <span className="acc-trio-prix">
                     <img className="acc-drapeau" src="/media/flag-en.png" alt="" width="16" height="16" />
                     <b>7 999 €</b>
@@ -1147,31 +1255,19 @@ export const HomeView: React.FC<HomeViewProps> = ({
         <div className="acc-wrap">
           <div className="acc-eventail acc-declic" aria-hidden="true">
             <span className="acc-eventail-carte" style={{ ['--i' as any]: -1, ['--a' as any]: 1, ['--k' as any]: 0, ['--z' as any]: 9 }}>
-              <span className="acc-holo">
-                <span className="acc-holo-in">
-                  <img src="/media/cartes/op09-p148-jp.webp" alt="" width="300" height="420" loading="lazy" decoding="async" />
-                  <span className="acc-holo-reflet" aria-hidden="true"></span>
-                  <span className="acc-holo-irise" aria-hidden="true"></span>
-                </span>
-              </span>
+              <HoloCard>
+                <img src="/media/cartes/op09-p148-jp.webp" alt="" width="300" height="420" loading="lazy" decoding="async" />
+              </HoloCard>
             </span>
             <span className="acc-eventail-carte" style={{ ['--i' as any]: 0, ['--a' as any]: 0, ['--k' as any]: 1, ['--z' as any]: 10 }}>
-              <span className="acc-holo">
-                <span className="acc-holo-in">
-                  <img src="/media/cartes/op09-p148-fr.webp" alt="" width="300" height="420" loading="lazy" decoding="async" />
-                  <span className="acc-holo-reflet" aria-hidden="true"></span>
-                  <span className="acc-holo-irise" aria-hidden="true"></span>
-                </span>
-              </span>
+              <HoloCard>
+                <img src="/media/cartes/op09-p148-fr.webp" alt="" width="300" height="420" loading="lazy" decoding="async" />
+              </HoloCard>
             </span>
             <span className="acc-eventail-carte" style={{ ['--i' as any]: 1, ['--a' as any]: 1, ['--k' as any]: 2, ['--z' as any]: 9 }}>
-              <span className="acc-holo">
-                <span className="acc-holo-in">
-                  <img src="/media/cartes/op09-p148-en.webp" alt="" width="300" height="420" loading="lazy" decoding="async" />
-                  <span className="acc-holo-reflet" aria-hidden="true"></span>
-                  <span className="acc-holo-irise" aria-hidden="true"></span>
-                </span>
-              </span>
+              <HoloCard>
+                <img src="/media/cartes/op09-p148-en.webp" alt="" width="300" height="420" loading="lazy" decoding="async" />
+              </HoloCard>
             </span>
           </div>
 
