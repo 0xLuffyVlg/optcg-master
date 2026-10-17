@@ -728,8 +728,9 @@ export const HomeView: React.FC<HomeViewProps> = ({
             </li>
             <li>
               <div className="acc-preuve-illu">
-                <img src="/images/sealed/op-05-display.jpg" style={{ width: '36px', height: '36px', borderRadius: '4px', transform: 'rotate(-8deg)', marginRight: '-8px', objectFit: 'cover' }} alt="" />
-                <img src="/images/sealed/op-09-display.jpg" style={{ width: '40px', height: '40px', borderRadius: '4px', zIndex: 2, objectFit: 'cover' }} alt="" />
+                <img src="/media/accueil/display-mini-op11.webp" style={{ width: '32px', height: '32px', transform: 'rotate(-8deg)', marginRight: '-8px', objectFit: 'contain' }} alt="Display mini OP-11" />
+                <img src="/media/accueil/display-mini-op15.webp" style={{ width: '36px', height: '36px', zIndex: 2, objectFit: 'contain' }} alt="Display mini OP-15" />
+                <img src="/media/accueil/display-mini-eb02.webp" style={{ width: '32px', height: '32px', transform: 'rotate(8deg)', marginLeft: '-8px', objectFit: 'contain' }} alt="Display mini EB-02" />
               </div>
               <b>324</b>
               <span>collections : extensions, promos, Championship</span>
@@ -743,19 +744,6 @@ export const HomeView: React.FC<HomeViewProps> = ({
               </div>
               <b>16 739</b>
               <span>cartes avec leur prix Cardmarket</span>
-            </li>
-            <li>
-              <div className="acc-preuve-illu acc-preuve-illu--forum">
-                <svg viewBox="0 0 40 40" fill="none" className="w-9 h-9 text-amber-400">
-                  <path d="M12 28L8 32V12C8 9.8 9.8 8 12 8H28C30.2 8 32 9.8 32 12V24C32 26.2 30.2 28 28 28H12Z" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"/>
-                  <path d="M16 18H24" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round"/>
-                  <circle cx="14" cy="18" r="1" fill="currentColor"/>
-                  <circle cx="20" cy="18" r="1" fill="currentColor"/>
-                  <circle cx="26" cy="18" r="1" fill="currentColor"/>
-                </svg>
-              </div>
-              <b>18 522</b>
-              <span>messages sur le forum des passionnés</span>
             </li>
           </ul>
         </div>
@@ -1232,15 +1220,15 @@ export const HomeView: React.FC<HomeViewProps> = ({
               onClick={() => onNavigateTab('quotas')}
             >
               <div className="acc-scene acc-scene--quotas" aria-hidden="true">
-                <img className="acc-s1" src="/images/sealed/op-05-display.jpg" alt="Display OP-05" style={{ objectFit: 'contain' }} />
-                <img className="acc-s2" src="/images/sealed/op-09-display.jpg" alt="Display OP-09" style={{ objectFit: 'contain' }} />
-                <img className="acc-s3" src="/images/sealed/op-13-display.jpg" alt="Display OP-13" style={{ objectFit: 'contain' }} />
+                <img className="acc-s1" src="/media/accueil/display-op13.webp" alt="Display OP-13" width="128" height="175" loading="lazy" decoding="async" />
+                <img className="acc-s2" src="/media/accueil/display-op16.webp" alt="Display OP-16" width="128" height="175" loading="lazy" decoding="async" />
+                <img className="acc-s3" src="/media/accueil/display-op14.webp" alt="Display OP-14" width="128" height="175" loading="lazy" decoding="async" />
                 <span className="acc-scene-puce">SEC · SP · Manga</span>
                 <span className="acc-scene-eclat"></span>
               </div>
               <h3>Les quotas des displays</h3>
               <p className="acc-opt-chiffre">SEC · SP · Manga</p>
-              <p>Combien de SEC, de SP et de Manga par display avant d'acheter vos boîtes scellées. Estimations vérifiées.</p>
+              <p>Combien de SEC, de SP et de Manga par display, avant de l'acheter (estimations de la communauté).</p>
               <div className="acc-ctas">
                 <span className="acc-lien">
                   Voir les quotas
@@ -1257,16 +1245,16 @@ export const HomeView: React.FC<HomeViewProps> = ({
               onClick={() => onNavigateTab('database')}
             >
               <div className="acc-scene acc-scene--collections" aria-hidden="true">
-                <img className="acc-k acc-k1" src="/media/cartes/op06-p142-zoro.webp" alt="Zoro" />
-                <img className="acc-k acc-k2" src="/media/cartes/op05-p147-luffy.webp" alt="Luffy" />
-                <img className="acc-k acc-k3" src="/media/cartes/op09-p148-jp.webp" alt="Roger" />
-                <img className="acc-k acc-k4" src="/media/cartes/op09-p009-shanks.webp" alt="Shanks" />
-                <img className="acc-k acc-k5" src="/media/cartes/op13-p160-sabo.webp" alt="Sabo" />
+                <img className="acc-k acc-k1" src="/media/cartes/op14-p154.webp" alt="OP14-154" width="96" height="134" loading="lazy" decoding="async" />
+                <img className="acc-k acc-k2" src="/media/cartes/eb03-p089.webp" alt="EB03-089" width="96" height="134" loading="lazy" decoding="async" />
+                <img className="acc-k acc-k3" src="/media/cartes/op13-p160-sabo.webp" alt="Sabo" width="96" height="134" loading="lazy" decoding="async" />
+                <img className="acc-k acc-k4" src="/media/cartes/op06-p142-zoro.webp" alt="Zoro" width="96" height="134" loading="lazy" decoding="async" />
+                <img className="acc-k acc-k5" src="/media/cartes/op16-p084.webp" alt="OP16-084" width="96" height="134" loading="lazy" decoding="async" />
                 <span className="acc-scene-puce">17 600 cartes</span>
               </div>
               <h3>Toutes les collections, triées</h3>
               <p className="acc-opt-chiffre">17 600 cartes</p>
-              <p>Extensions OP01 à OP17, promos, Championship, decks : en japonais, français et anglais avec scans haute résolution.</p>
+              <p>Extensions, promos, Championship, decks : en japonais, français et anglais.</p>
               <div className="acc-ctas">
                 <span className="acc-lien">
                   Voir le catalogue
@@ -1417,19 +1405,29 @@ export const HomeView: React.FC<HomeViewProps> = ({
       <section className="acc-final">
         <div className="acc-wrap">
           <div className="acc-eventail acc-declic" aria-hidden="true">
-            <span className="acc-eventail-carte" style={{ ['--i' as any]: -1, ['--a' as any]: 1, ['--k' as any]: 0, ['--z' as any]: 9 }}>
+            <span className="acc-eventail-carte" style={{ ['--i' as any]: -2, ['--a' as any]: 2, ['--k' as any]: 0, ['--z' as any]: 8 }}>
               <HoloCard>
-                <img src="/media/cartes/op09-p148-jp.webp" alt="" width="300" height="420" loading="lazy" decoding="async" />
+                <img src="/media/cartes/op13-p165-ace.webp" alt="Portgas.D.Ace Wanted" width="300" height="420" loading="lazy" decoding="async" />
               </HoloCard>
             </span>
-            <span className="acc-eventail-carte" style={{ ['--i' as any]: 0, ['--a' as any]: 0, ['--k' as any]: 1, ['--z' as any]: 10 }}>
+            <span className="acc-eventail-carte" style={{ ['--i' as any]: -1, ['--a' as any]: 1, ['--k' as any]: 1, ['--z' as any]: 9 }}>
               <HoloCard>
-                <img src="/media/cartes/op09-p148-fr.webp" alt="" width="300" height="420" loading="lazy" decoding="async" />
+                <img src="/media/cartes/champ2024-p012-shirahoshi.webp" alt="Shirahoshi" width="300" height="420" loading="lazy" decoding="async" />
               </HoloCard>
             </span>
-            <span className="acc-eventail-carte" style={{ ['--i' as any]: 1, ['--a' as any]: 1, ['--k' as any]: 2, ['--z' as any]: 9 }}>
+            <span className="acc-eventail-carte" style={{ ['--i' as any]: 0, ['--a' as any]: 0, ['--k' as any]: 2, ['--z' as any]: 10 }}>
               <HoloCard>
-                <img src="/media/cartes/op09-p148-en.webp" alt="" width="300" height="420" loading="lazy" decoding="async" />
+                <img src="/media/cartes/op09-p148-fr.webp" alt="Gol.D.Roger Manga" width="300" height="420" loading="lazy" decoding="async" />
+              </HoloCard>
+            </span>
+            <span className="acc-eventail-carte" style={{ ['--i' as any]: 1, ['--a' as any]: 1, ['--k' as any]: 3, ['--z' as any]: 9 }}>
+              <HoloCard>
+                <img src="/media/cartes/op09-p009-shanks.webp" alt="Shanks Manga" width="300" height="420" loading="lazy" decoding="async" />
+              </HoloCard>
+            </span>
+            <span className="acc-eventail-carte" style={{ ['--i' as any]: 2, ['--a' as any]: 2, ['--k' as any]: 4, ['--z' as any]: 8 }}>
+              <HoloCard>
+                <img src="/media/cartes/op05-p147-luffy.webp" alt="Monkey.D.Luffy Gear 5 Manga" width="300" height="420" loading="lazy" decoding="async" />
               </HoloCard>
             </span>
           </div>
