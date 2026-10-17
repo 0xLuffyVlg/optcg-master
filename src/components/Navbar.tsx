@@ -1,5 +1,6 @@
 import React from 'react';
 import SITE_LOGO from '../assets/logoBase64';
+import { AnimatedBrandLogo } from './AnimatedBrandLogo';
 import { 
   Flame, 
   Layers, 
@@ -115,39 +116,10 @@ export const Navbar: React.FC<NavbarProps> = ({
         {/* Main Row: Brand on Left, Quick Actions & Profile on Right */}
         <div className="flex items-center justify-between h-14 sm:h-16">
           
-          {/* Brand Logo & Title with Live Aura */}
-          <div 
-            onClick={() => setActiveTab('home')}
-            className="flex items-center space-x-3 cursor-pointer group select-none py-1 flex-shrink-0"
-            title="Accueil / Argus OPTCG Master"
-          >
-            {/* Logo container with ambient glow */}
-            <div className="relative w-9 h-9 sm:w-11 sm:h-11 rounded-full bg-slate-950 p-0.5 border border-amber-500/40 group-hover:border-amber-400 flex items-center justify-center flex-shrink-0 transition-all duration-300 shadow-[0_0_15px_rgba(245,158,11,0.3)] group-hover:shadow-[0_0_22px_rgba(245,158,11,0.6)] group-hover:scale-105">
-              <img
-                src="/logo.png"
-                alt="Logo OPTCG Master"
-                className="w-full h-full object-contain rounded-full"
-                onError={(e) => {
-                  (e.currentTarget as HTMLImageElement).src = SITE_LOGO;
-                }}
-              />
-              <span className="absolute -bottom-0.5 -right-0.5 w-2.5 h-2.5 rounded-full bg-emerald-400 border-2 border-slate-950 animate-pulse" />
-            </div>
-
-            <div className="flex flex-col">
-              <div className="flex items-center gap-1.5 leading-none">
-                <span className="text-base sm:text-lg font-black text-white tracking-wider group-hover:text-amber-400 transition-colors">
-                  OPTCG<span className="text-amber-400">.FR</span>
-                </span>
-                <span className="hidden xl:inline-block px-1.5 py-0.2 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-[8px] font-black">
-                  LIVE
-                </span>
-              </div>
-              <span className="text-[9px] text-slate-400 font-bold tracking-widest uppercase mt-0.5">
-                Master Database
-              </span>
-            </div>
-          </div>
+          {/* Animated Brand Logo with Cyber Decryption & Rotating Titles */}
+          <AnimatedBrandLogo 
+            onNavigateHome={() => setActiveTab('home')}
+          />
 
           {/* Right Action Buttons */}
           <div className="flex items-center gap-2 sm:gap-2.5 flex-shrink-0">
