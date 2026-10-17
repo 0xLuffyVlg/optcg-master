@@ -269,6 +269,7 @@ function AppContent() {
             <HomeView
               onSelectCard={handleSelectCard}
               onNavigateTab={handleTabChange}
+              onOpenScanner={() => setIsScannerOpen(true)}
             />
           )}
 
