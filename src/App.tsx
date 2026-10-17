@@ -27,6 +27,7 @@ import {
 } from './utils/router';
 
 // Code-splitting / Lazy loading for maximum performance
+const HomeView = lazy(() => import('./views/HomeView').then(m => ({ default: m.HomeView })));
 const MetaDecksView = lazy(() => import('./views/MetaDecksView').then(m => ({ default: m.MetaDecksView })));
 const DeckbuilderView = lazy(() => import('./views/DeckbuilderView').then(m => ({ default: m.DeckbuilderView })));
 const TournamentsView = lazy(() => import('./views/TournamentsView').then(m => ({ default: m.TournamentsView })));
@@ -57,7 +58,7 @@ function ViewLoadingFallback() {
 }
 
 function AppContent() {
-  const [activeTab, setActiveTab] = useState<ActiveTab>('meta');
+  const [activeTab, setActiveTab] = useState<ActiveTab>('home');
   const [selectedCard, setSelectedCard] = useState<Card | null>(null);
   const [notFoundCardCode, setNotFoundCardCode] = useState<string | null>(null);
   const [selectedDeckDetail, setSelectedDeckDetail] = useState<DeckDetailViewData | null>(null);
@@ -262,8 +263,15 @@ function AppContent() {
       />
 
       {/* Main Content Area with Code-Splitting Suspense */}
-      <main className="flex-1 max-w-[1800px] w-full mx-auto px-2 sm:px-4 lg:px-6 pt-2 sm:pt-4 pb-24 lg:pb-8">
+      <main className={`flex-1 w-full mx-auto pb-24 lg:pb-8 ${activeTab === 'home' ? 'p-0 max-w-none' : 'max-w-[1800px] px-2 sm:px-4 lg:px-6 pt-2 sm:pt-4'}`}>
         <Suspense fallback={<ViewLoadingFallback />}>
+          {activeTab === 'home' && (
+            <HomeView
+              onSelectCard={handleSelectCard}
+              onNavigateTab={handleTabChange}
+            />
+          )}
+
           {activeTab === 'meta' && (
             <MetaDecksView
               onSelectCard={handleSelectCard}

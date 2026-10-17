@@ -16,7 +16,8 @@ import {
   ExternalLink,
   ChevronRight,
   User,
-  Sparkles
+  Sparkles,
+  TrendingUp
 } from 'lucide-react';
 import { ActiveTab } from './Navbar';
 import { useAuth } from '../context/AuthContext';
@@ -60,6 +61,14 @@ export const MobileNavDrawer: React.FC<MobileNavDrawerProps> = ({
     badge?: string;
     badgeColor?: string;
   }[] = [
+    {
+      id: 'home',
+      label: 'Accueil & Argus des Cartes',
+      sublabel: 'Recherche instantanée, cotes en 3 langues & market movers',
+      icon: <TrendingUp className="w-5 h-5 text-amber-400" />,
+      badge: 'Live',
+      badgeColor: 'bg-amber-500/20 text-amber-300 border-amber-500/40'
+    },
     {
       id: 'database',
       label: 'Cartes HD & Variantes',

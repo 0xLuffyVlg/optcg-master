@@ -18,7 +18,7 @@ import { useDeck } from '../context/DeckContext';
 import { useCollection } from '../context/CollectionContext';
 import { useAuth } from '../context/AuthContext';
 
-export type ActiveTab = 'meta' | 'deckbuilder' | 'tournaments' | 'matchups' | 'database' | 'collection' | 'quotas' | 'news';
+export type ActiveTab = 'home' | 'meta' | 'deckbuilder' | 'tournaments' | 'matchups' | 'database' | 'collection' | 'quotas' | 'news';
 
 interface NavbarProps {
   activeTab: ActiveTab;
@@ -49,6 +49,13 @@ export const Navbar: React.FC<NavbarProps> = ({
     badge?: string;
     badgeColor?: string;
   }[] = [
+    { 
+      id: 'home', 
+      label: 'Argus', 
+      icon: <TrendingUp className="w-4 h-4 text-amber-400" />, 
+      badge: 'Argus',
+      badgeColor: 'bg-amber-500/20 text-amber-300 border-amber-500/40'
+    },
     { 
       id: 'meta', 
       label: 'Meta Decks', 
@@ -110,9 +117,9 @@ export const Navbar: React.FC<NavbarProps> = ({
           
           {/* Brand Logo & Title with Live Aura */}
           <div 
-            onClick={() => setActiveTab('meta')}
+            onClick={() => setActiveTab('home')}
             className="flex items-center space-x-3 cursor-pointer group select-none py-1 flex-shrink-0"
-            title="Accueil / Méta OPTCG Master"
+            title="Accueil / Argus OPTCG Master"
           >
             {/* Logo container with ambient glow */}
             <div className="relative w-9 h-9 sm:w-11 sm:h-11 rounded-full bg-slate-950 p-0.5 border border-amber-500/40 group-hover:border-amber-400 flex items-center justify-center flex-shrink-0 transition-all duration-300 shadow-[0_0_15px_rgba(245,158,11,0.3)] group-hover:shadow-[0_0_22px_rgba(245,158,11,0.6)] group-hover:scale-105">
