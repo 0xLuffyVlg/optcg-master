@@ -85,6 +85,222 @@ export const HoloCard: React.FC<HoloCardProps> = ({ children, className = '', ac
   );
 };
 
+// =========================================================================
+// MOCK MOBILE SCREENS (OPTCG MASTER NATIVE APP INTERFACE)
+// =========================================================================
+const PhoneScreenAddCard: React.FC = () => (
+  <div className="w-full h-full bg-[#0e1017] text-white flex flex-col justify-between p-2.5 select-none relative font-sans overflow-hidden">
+    {/* Amber ambient background glow */}
+    <div className="absolute -top-12 -left-12 w-40 h-40 bg-amber-500/10 rounded-full blur-2xl pointer-events-none" />
+
+    {/* Top App Header */}
+    <div>
+      <div className="flex items-center justify-between pb-1.5 border-b border-slate-800/80">
+        <div className="flex items-center gap-1.5">
+          <img src="/logo.png" alt="" className="w-4 h-4 object-contain rounded" />
+          <span className="text-[10.5px] font-black tracking-wider text-amber-400">OPTCG MASTER</span>
+        </div>
+        <span className="text-[8px] font-bold text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20 flex items-center gap-1">
+          <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
+          En direct
+        </span>
+      </div>
+
+      {/* Mini search bar */}
+      <div className="mt-2 bg-slate-900/90 border border-slate-800 rounded-lg px-2 py-1.5 flex items-center justify-between shadow-inner">
+        <div className="flex items-center gap-1.5 text-[9.5px] text-slate-300 font-medium truncate">
+          <Search className="w-3 h-3 text-amber-400 flex-shrink-0" />
+          <span className="truncate">OP09-118 · Gol D. Roger</span>
+        </div>
+        <span className="text-[8px] font-extrabold text-amber-300 bg-amber-400/15 px-1 py-0.2 rounded border border-amber-400/25">
+          JP
+        </span>
+      </div>
+    </div>
+
+    {/* Center: Card Showcase */}
+    <div className="flex flex-col items-center my-auto py-1">
+      <div className="relative">
+        <div className="w-[108px] rounded-lg overflow-hidden shadow-2xl border border-amber-400/40 relative">
+          <img
+            src="/media/cartes/op09-p148-jp.webp"
+            alt="Gol D. Roger Manga"
+            className="w-full h-auto object-cover block"
+            onError={(e) => {
+              (e.target as HTMLImageElement).src = 'https://leprgshmfoxthowijtmf.supabase.co/storage/v1/render/image/public/cartes/jp/op09-p148-sm.webp?width=360&height=504&resize=contain&quality=78';
+            }}
+          />
+          <div className="absolute inset-0 bg-gradient-to-tr from-transparent via-white/15 to-transparent pointer-events-none" />
+        </div>
+        <span className="absolute -bottom-1.5 -right-1 bg-purple-600 text-purple-100 text-[8px] font-extrabold px-1.5 py-0.2 rounded shadow border border-purple-400/40">
+          MANGA
+        </span>
+      </div>
+      <div className="text-center mt-1.5">
+        <p className="text-[11px] font-extrabold text-white leading-tight">Gol.D.Roger</p>
+        <p className="text-[9px] text-slate-400">Emperors in the New World</p>
+      </div>
+    </div>
+
+    {/* Price & Add Card Widget */}
+    <div>
+      <div className="bg-slate-900/95 border border-slate-800 rounded-xl p-2 shadow-lg">
+        <div className="flex items-center justify-between">
+          <div>
+            <span className="text-[8px] text-slate-400 block font-semibold leading-tight">Cardmarket Near Mint</span>
+            <div className="flex items-baseline gap-1">
+              <span className="text-[14px] font-black text-white">4 500 €</span>
+              <span className="text-[8px] font-bold text-emerald-400">▲ +120 €</span>
+            </div>
+          </div>
+          <img className="w-3.5 h-3.5 rounded-full border border-slate-700" src="/media/flag-jp.png" alt="JP" />
+        </div>
+
+        <div className="w-full mt-1.5 py-1 bg-gradient-to-r from-amber-500 to-amber-600 text-slate-950 font-black text-[9.5px] rounded-lg shadow flex items-center justify-center gap-1 tracking-wide">
+          <CheckCircle2 className="w-3 h-3 text-slate-950" />
+          Ajoutée à ma collection
+        </div>
+      </div>
+
+      {/* Bottom Nav inside phone */}
+      <div className="mt-2 pt-1 border-t border-slate-800/80 flex items-center justify-around text-slate-500 text-[7.5px]">
+        <span className="text-slate-400 font-bold">Accueil</span>
+        <span className="text-slate-400 font-bold">Catalogue</span>
+        <span className="text-amber-400 font-black flex items-center gap-0.5">
+          <Camera className="w-2.5 h-2.5" /> Scanner
+        </span>
+        <span className="text-slate-400 font-bold">Collection</span>
+      </div>
+    </div>
+  </div>
+);
+
+const PhoneScreenCollection: React.FC = () => (
+  <div className="w-full h-full bg-[#0e1017] text-white flex flex-col justify-between p-2.5 select-none relative font-sans overflow-hidden">
+    {/* Emerald ambient background glow */}
+    <div className="absolute -top-12 -right-12 w-40 h-40 bg-emerald-500/10 rounded-full blur-2xl pointer-events-none" />
+
+    {/* Top App Header */}
+    <div>
+      <div className="flex items-center justify-between pb-1.5 border-b border-slate-800/80">
+        <div className="flex items-center gap-1.5">
+          <img src="/logo.png" alt="" className="w-4 h-4 object-contain rounded" />
+          <span className="text-[10.5px] font-black tracking-wider text-white">Ma Collection</span>
+        </div>
+        <span className="text-[8px] font-extrabold text-slate-300 bg-slate-800/90 px-1.5 py-0.5 rounded border border-slate-700">
+          142 Cartes
+        </span>
+      </div>
+
+      {/* Total Valuation Card */}
+      <div className="mt-2 bg-gradient-to-br from-slate-900/95 via-slate-900/80 to-slate-950/95 border border-emerald-500/30 rounded-xl p-2 shadow-lg">
+        <div className="flex items-center justify-between text-[8px] text-slate-400 font-semibold mb-0.5">
+          <span>VALEUR TOTALE</span>
+          <span className="text-emerald-400 font-extrabold">▲ +6,3%</span>
+        </div>
+        <div className="flex items-baseline justify-between">
+          <span className="text-[16px] font-black tracking-tight text-white">14 280,00 €</span>
+          <span className="text-[8.5px] font-bold text-emerald-400">+850 €</span>
+        </div>
+        <div className="flex items-center gap-1.5 mt-1 pt-1 border-t border-slate-800/80 text-[7.5px] text-slate-400 font-medium">
+          <span>🇯🇵 <b>58</b> JP</span>
+          <span>·</span>
+          <span>🇫🇷 <b>42</b> FR</span>
+          <span>·</span>
+          <span>🇬🇧 <b>42</b> EN</span>
+        </div>
+      </div>
+
+      {/* Filter Chips */}
+      <div className="flex items-center gap-1 mt-1.5 text-[7.5px] font-bold">
+        <span className="bg-amber-500 text-slate-950 px-1.5 py-0.2 rounded-full shadow-sm">
+          Toutes (142)
+        </span>
+        <span className="bg-slate-800/80 text-slate-400 px-1.5 py-0.2 rounded-full border border-slate-700/60">
+          Manga (4)
+        </span>
+        <span className="bg-slate-800/80 text-slate-400 px-1.5 py-0.2 rounded-full border border-slate-700/60">
+          SP (12)
+        </span>
+      </div>
+    </div>
+
+    {/* Collection Items Mini List */}
+    <div className="space-y-1 my-auto py-1">
+      {/* Item 1: Roger */}
+      <div className="bg-slate-900/90 border border-slate-800/80 rounded-lg p-1 flex items-center justify-between">
+        <div className="flex items-center gap-1.5 min-w-0">
+          <img
+            src="/media/cartes/op09-p148-jp.webp"
+            alt=""
+            className="w-6 h-8 object-cover rounded border border-amber-500/40 flex-shrink-0"
+          />
+          <div className="min-w-0">
+            <p className="text-[9.5px] font-bold text-white truncate leading-tight">Gol.D.Roger</p>
+            <p className="text-[7.5px] text-amber-400 font-extrabold">OP09-118 · Manga</p>
+          </div>
+        </div>
+        <div className="text-right flex-shrink-0">
+          <span className="text-[10px] font-black text-emerald-400 block">4 500 €</span>
+          <span className="text-[7px] text-slate-400">🇯🇵 Near Mint</span>
+        </div>
+      </div>
+
+      {/* Item 2: Luffy */}
+      <div className="bg-slate-900/90 border border-slate-800/80 rounded-lg p-1 flex items-center justify-between">
+        <div className="flex items-center gap-1.5 min-w-0">
+          <img
+            src="/media/cartes/op05-p147-luffy.webp"
+            alt=""
+            className="w-6 h-8 object-cover rounded border border-slate-700 flex-shrink-0"
+          />
+          <div className="min-w-0">
+            <p className="text-[9.5px] font-bold text-white truncate leading-tight">Monkey.D.Luffy</p>
+            <p className="text-[7.5px] text-purple-400 font-extrabold">OP05-119 · Manga</p>
+          </div>
+        </div>
+        <div className="text-right flex-shrink-0">
+          <span className="text-[10px] font-black text-emerald-400 block">4 750 €</span>
+          <span className="text-[7px] text-slate-400">🇯🇵 Near Mint</span>
+        </div>
+      </div>
+
+      {/* Item 3: Shanks */}
+      <div className="bg-slate-900/90 border border-slate-800/80 rounded-lg p-1 flex items-center justify-between">
+        <div className="flex items-center gap-1.5 min-w-0">
+          <img
+            src="/media/cartes/op09-p009-shanks.webp"
+            alt=""
+            className="w-6 h-8 object-cover rounded border border-slate-700 flex-shrink-0"
+          />
+          <div className="min-w-0">
+            <p className="text-[9.5px] font-bold text-white truncate leading-tight">Shanks</p>
+            <p className="text-[7.5px] text-rose-400 font-extrabold">OP09-004 · Manga</p>
+          </div>
+        </div>
+        <div className="text-right flex-shrink-0">
+          <span className="text-[10px] font-black text-emerald-400 block">800 €</span>
+          <span className="text-[7px] text-slate-400">🇯🇵 Near Mint</span>
+        </div>
+      </div>
+    </div>
+
+    {/* Bottom Nav inside phone */}
+    <div>
+      <div className="mt-1 pt-1 border-t border-slate-800/80 flex items-center justify-around text-slate-500 text-[7.5px]">
+        <span className="text-slate-400 font-bold">Accueil</span>
+        <span className="text-slate-400 font-bold">Catalogue</span>
+        <span className="text-slate-400 font-bold flex items-center gap-0.5">
+          <Camera className="w-2.5 h-2.5" /> Scanner
+        </span>
+        <span className="text-emerald-400 font-black flex items-center gap-0.5">
+          <FolderHeart className="w-2.5 h-2.5" /> Collection
+        </span>
+      </div>
+    </div>
+  </div>
+);
+
 export const HomeView: React.FC<HomeViewProps> = ({ 
   onSelectCard, 
   onNavigateTab,
@@ -877,23 +1093,23 @@ export const HomeView: React.FC<HomeViewProps> = ({
         <div className="acc-wrap">
           <div className="acc-gestes-tete">
             <h2 className="acc-h2" id="acc-plan-titre">
-              Ta collection estimée <em>en 3 gestes.</em>
+              Ta collection estimée <em>en 2 gestes.</em>
             </h2>
           </div>
 
           <div className="acc-visuel acc-visuel--p3">
             <div className="acc-p3-scene">
-              {/* Phone 1: Roger manga card view */}
+              {/* Phone 1: OPTCG Master - Ajoute ta carte / Fiche scanner */}
               <button
                 type="button"
-                className={`acc-tel-pos ${gestureStep === 0 ? 'acc-tel-pos--centre' : gestureStep === 1 ? 'acc-tel-pos--gauche' : 'acc-tel-pos--droite'}`}
+                className={`acc-tel-pos ${gestureStep === 0 ? 'acc-tel-pos--centre' : 'acc-tel-pos--gauche'}`}
                 onClick={() => setGestureStep(0)}
                 data-etape="0"
                 data-actif={gestureStep === 0 ? 'oui' : undefined}
                 aria-label="Étape 1 : Ajoute ta carte"
               >
                 <div className="acc-tel">
-                  <div className="acc-tel-ecran" style={{ ['--haut' as any]: '#2b1b19' }}>
+                  <div className="acc-tel-ecran" style={{ ['--haut' as any]: '#0e1017' }}>
                     <div className="acc-tel-barre" aria-hidden="true">
                       <span>9:41</span>
                       <svg viewBox="0 0 66 12" fill="currentColor">
@@ -908,7 +1124,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
                       </svg>
                     </div>
                     <div className="acc-tel-vue">
-                      <img className="acc-ecran" src="/media/accueil/ecran-roger-600.webp" alt="Fiche Gol D. Roger" width="900" height="1948" loading="eager" decoding="async" />
+                      <PhoneScreenAddCard />
                     </div>
                     <span className="acc-tel-ilot" aria-hidden="true"></span>
                   </div>
@@ -918,17 +1134,17 @@ export const HomeView: React.FC<HomeViewProps> = ({
                 </span>
               </button>
 
-              {/* Phone 2: Collection Overview */}
+              {/* Phone 2: OPTCG Master - Suis sa valeur / Tableau de bord */}
               <button
                 type="button"
-                className={`acc-tel-pos ${gestureStep === 1 ? 'acc-tel-pos--centre' : gestureStep === 2 ? 'acc-tel-pos--gauche' : 'acc-tel-pos--droite'}`}
+                className={`acc-tel-pos ${gestureStep === 1 ? 'acc-tel-pos--centre' : 'acc-tel-pos--droite'}`}
                 onClick={() => setGestureStep(1)}
                 data-etape="1"
                 data-actif={gestureStep === 1 ? 'oui' : undefined}
                 aria-label="Étape 2 : Suis sa valeur"
               >
                 <div className="acc-tel">
-                  <div className="acc-tel-ecran" style={{ ['--haut' as any]: '#121419' }}>
+                  <div className="acc-tel-ecran" style={{ ['--haut' as any]: '#0e1017' }}>
                     <div className="acc-tel-barre" aria-hidden="true">
                       <span>9:41</span>
                       <svg viewBox="0 0 66 12" fill="currentColor">
@@ -943,7 +1159,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
                       </svg>
                     </div>
                     <div className="acc-tel-vue">
-                      <img className="acc-ecran" src="/media/accueil/ecran-collection-600.webp" alt="Ma Collection" width="900" height="1948" loading="lazy" decoding="async" />
+                      <PhoneScreenCollection />
                     </div>
                     <span className="acc-tel-ilot" aria-hidden="true"></span>
                   </div>
@@ -952,62 +1168,12 @@ export const HomeView: React.FC<HomeViewProps> = ({
                   <i>2</i><b>Suis sa valeur</b><small>Au prix du jour</small>
                 </span>
               </button>
-
-              {/* Phone 3: Lock Screen with Notification Toasts */}
-              <button
-                type="button"
-                className={`acc-tel-pos ${gestureStep === 2 ? 'acc-tel-pos--centre' : gestureStep === 0 ? 'acc-tel-pos--gauche' : 'acc-tel-pos--droite'}`}
-                onClick={() => setGestureStep(2)}
-                data-etape="2"
-                data-actif={gestureStep === 2 ? 'oui' : undefined}
-                aria-label="Étape 3 : Organise ton classeur"
-              >
-                <div className="acc-tel">
-                  <div className="acc-tel-ecran" style={{ ['--haut' as any]: '#0e0f14' }}>
-                    <div className="acc-tel-vue acc-tel-vue--plein">
-                      <div className="acc-verrou">
-                        <div className="acc-verrou-heure" aria-hidden="true">
-                          <small>Samedi 17 octobre</small>
-                          <b>9:41</b>
-                        </div>
-                        <div className="acc-verrou-notifs">
-                          <div className="acc-verrou-notif">
-                            <img src="/media/icon-512.png" alt="" width="38" height="38" loading="lazy" />
-                            <div>
-                              <small>
-                                <span>SCALPEURS</span><span>maintenant</span>
-                              </small>
-                              <b>Shanks · 349,00 €</b>
-                              <span>▼ 11 € sous ton seuil · carte japonaise, Near Mint</span>
-                            </div>
-                          </div>
-                          <div className="acc-verrou-notif">
-                            <img src="/media/icon-512.png" alt="" width="38" height="38" loading="lazy" />
-                            <div>
-                              <small>
-                                <span>SCALPEURS</span><span>il y a 2 h</span>
-                              </small>
-                              <b>Monkey.D.Luffy · 1 790,00 €</b>
-                              <span>▼ 10 € sous ton seuil · carte française</span>
-                            </div>
-                          </div>
-                        </div>
-                        <span className="acc-verrou-barre" aria-hidden="true"></span>
-                      </div>
-                    </div>
-                    <span className="acc-tel-ilot" aria-hidden="true"></span>
-                  </div>
-                </div>
-                <span className="acc-tel-legende" aria-hidden="true">
-                  <i>3</i><b>Organise ton classeur</b><small>Au prix du jour</small>
-                </span>
-              </button>
             </div>
 
             <p className="acc-geste">
               <span>{gestureStep + 1}</span>
-              <b>{gestureStep === 0 ? 'Ajoute ta carte' : gestureStep === 1 ? 'Suis sa valeur' : 'Organise ton classeur'}</b>
-              <small>{gestureStep === 0 ? 'Son prix dans sa langue' : gestureStep === 1 ? 'Au prix du jour' : 'Au prix que tu choisis'}</small>
+              <b>{gestureStep === 0 ? 'Ajoute ta carte' : 'Suis sa valeur'}</b>
+              <small>{gestureStep === 0 ? 'Son prix dans sa langue' : 'Au prix du jour'}</small>
             </p>
 
             <div className="acc-points">
@@ -1015,9 +1181,6 @@ export const HomeView: React.FC<HomeViewProps> = ({
                 <i></i>
               </button>
               <button type="button" aria-label="Étape 2" aria-current={gestureStep === 1} onClick={() => setGestureStep(1)}>
-                <i></i>
-              </button>
-              <button type="button" aria-label="Étape 3" aria-current={gestureStep === 2} onClick={() => setGestureStep(2)}>
                 <i></i>
               </button>
             </div>
