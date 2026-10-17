@@ -46,12 +46,10 @@ let copiedCount = 0;
 for (const f of sourceFiles) {
   const srcFile = path.join(SOURCE_DETAILS_DIR, f);
   const dstFile = path.join(PUBLIC_DETAILS_DIR, f);
-  if (!fs.existsSync(dstFile)) {
-    fs.copyFileSync(srcFile, dstFile);
-    copiedCount++;
-  }
+  fs.copyFileSync(srcFile, dstFile);
+  copiedCount++;
 }
-console.log(`Public details synchronized (${copiedCount} new copies, ${sourceFiles.length} total files available).`);
+console.log(`Public details synchronized (${copiedCount} files updated).`);
 
 // Helper to normalize colors
 function mapColor(str) {
@@ -127,6 +125,9 @@ const builtCards = baseFiches.map(item => {
     name_fr: d.language === 'fr' ? d.name : undefined,
     category: mapCategory(d.category),
     rarity: d.rarity || 'C',
+    variant: 1,
+    variant_type: 'BASE',
+    variant_label: 'Base',
     color: mapColor(d.color),
     cost: d.cost !== null && d.cost !== undefined ? Number(d.cost) : null,
     power: d.power !== null && d.power !== undefined ? Number(d.power) : null,
@@ -161,6 +162,34 @@ const builtCards = baseFiches.map(item => {
 fs.writeFileSync(TARGET_CARDS_JSON, JSON.stringify(builtCards, null, 2), 'utf-8');
 console.log(`Saved ${builtCards.length} base cards to ${TARGET_CARDS_JSON}`);
 
+// Helper to determine variant classification
+function classifyVariant(d, vIndex) {
+  const vName = (d.variant_name || d.name || '').toLowerCase();
+  const rar = (d.rarity || '').toUpperCase();
+  const idLow = (d.code || '').toLowerCase();
+
+  const isTourney = vName.includes('winner') || vName.includes('championship') || vName.includes('cup') || vName.includes('treasure') || vName.includes('3on3') || vName.includes('serial number') || idLow.includes('champ');
+  if (isTourney) {
+    return { variantType: 'WINNER', variantLabel: d.variant_name || 'Tournament Promo 🏆' };
+  }
+
+  const isManga = vName.includes('manga') || rar === 'MANGA';
+  if (isManga) {
+    return { variantType: 'MANGA', variantLabel: d.variant_name || 'Manga Rare 👑' };
+  }
+
+  const isSP = vName.includes('(sp)') || vName.includes(' sp ') || vName.endsWith(' sp') || vName.includes('wanted') || vName.includes('special card') || rar === 'SP';
+  if (isSP) {
+    return { variantType: 'SP', variantLabel: d.variant_name || 'Special Card (SP) ⭐' };
+  }
+
+  if (vIndex > 1 || vName.includes('parallel') || vName.includes('alternate')) {
+    return { variantType: 'ALT', variantLabel: d.variant_name || 'Alternate Art ✨' };
+  }
+
+  return { variantType: 'BASE', variantLabel: d.variant_name || 'Base' };
+}
+
 // 3. Build src/data/variants.json
 console.log('4. Generating src/data/variants.json...');
 variantFiches.sort((a, b) => {
@@ -174,13 +203,15 @@ const builtVariants = variantFiches.map(item => {
   const code = (d.code || item.fileName.split('-v')[0]).toUpperCase().trim();
   const vIndex = d.variant_index || parseInt((d.variant_version || 'v1').replace('v', ''), 10) || 1;
   const img = d.image_path || d.image_url || '';
+  const { variantType, variantLabel } = classifyVariant(d, vIndex);
 
   return {
     id: `${code}_v${vIndex}`,
     card_code: code,
     variant: vIndex,
     variant_version: d.variant_version || `v${vIndex}`,
-    variant_label: d.variant_name || d.name || `Variant ${vIndex}`,
+    variant_type: variantType,
+    variant_label: variantLabel,
     name: d.name || code,
     rarity: d.rarity || 'C',
     color: mapColor(d.color),
@@ -211,6 +242,7 @@ const builtCompleteDb = variantFiches.map(item => {
   const code = (d.code || item.fileName.split('-v')[0]).toUpperCase().trim();
   const vIndex = d.variant_index || parseInt((d.variant_version || 'v1').replace('v', ''), 10) || 1;
   const img = d.image_path || d.image_url || '';
+  const { variantType, variantLabel } = classifyVariant(d, vIndex);
 
   return {
     id: `${code}-v${vIndex}`,
@@ -219,6 +251,8 @@ const builtCompleteDb = variantFiches.map(item => {
     variant_name: d.variant_name || d.name,
     variant_version: d.variant_version || `v${vIndex}`,
     variant: vIndex,
+    variant_type: variantType,
+    variant_label: variantLabel,
     language: d.language || 'en',
     rarity: d.rarity || 'C',
     type: d.category || 'Character',
@@ -231,10 +265,13 @@ const builtCompleteDb = variantFiches.map(item => {
     effect: d.effect || '',
     trigger: d.trigger || null,
     set: code.split('-')[0],
+    image_path: img,
     image_url: img,
     image_fr: d.image_fr || null,
     image_en: d.image_en || null,
     image_jp: d.image_jp || null,
+    _imagePaths: [img, d.image_fr, d.image_en, d.image_jp].filter(Boolean),
+    _defaultImagePath: img,
     price_eur: d.price_eur ?? null,
     price_min_eur: d.price_min_eur ?? d.price_eur ?? null,
     price_avg7_eur: d.price_avg7_eur ?? null,

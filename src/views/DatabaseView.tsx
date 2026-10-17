@@ -491,6 +491,7 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
         list = list.filter(card => 
           (card.rarity || '').toUpperCase() === 'MANGA' || 
           card.variant_type === 'MANGA' ||
+          (card.variant_label || '').toLowerCase().includes('manga') ||
           (card.card_code || '').toLowerCase().includes('manga') ||
           (card.id || '').toLowerCase().includes('manga') ||
           (card._imagePaths || []).some(p => p.toLowerCase().includes('manga'))
@@ -499,6 +500,8 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
         list = list.filter(card => 
           (card.rarity || '').toUpperCase().includes('SP') || 
           card.variant_type === 'SP' ||
+          (card.variant_label || '').toLowerCase().includes('(sp)') ||
+          (card.variant_label || '').toLowerCase().includes('wanted') ||
           (card.card_code || '').toLowerCase().includes('sp') ||
           (card.id || '').toLowerCase().includes('_sp') ||
           (card._imagePaths || []).some(p => p.toLowerCase().includes('_sp'))

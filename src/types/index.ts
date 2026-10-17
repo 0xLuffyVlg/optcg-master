@@ -78,8 +78,12 @@ export interface RawCardPrint {
 }
 
 export interface CardVariant {
+  id?: string;
   card_code: string;
+  variant?: number;
+  variant_type?: string;
   variant_label: string;
+  detail_file?: string;
   name?: string;
   name_fr?: string;
   name_jp?: string;

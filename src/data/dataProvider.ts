@@ -196,18 +196,25 @@ export const allPrintsAsCards: Card[] = allRawCards.map(raw => {
   const idLow = raw.id.toLowerCase();
   const isTourney = idLow.includes('champ') || idLow.includes('cup') || idLow.includes('treasure') || idLow.includes('winner') || idLow.includes('3on3');
 
-  let variantType = 'BASE';
-  let variantLabel = rawAny.variant_name || rawAny.variant_label || vMatch?.variant_label || 'Base';
+  let variantType = rawAny.variant_type || 'BASE';
+  let variantLabel = rawAny.variant_label || rawAny.variant_name || vMatch?.variant_label || 'Base';
+
+  const vNameLow = (rawAny.variant_name || variantLabel || '').toLowerCase();
+  const rarUpper = officialRarity.toUpperCase();
 
   if (isTourney) {
     variantType = 'WINNER';
     if (variantLabel === 'Base') {
       variantLabel = rawAny.variant_name || 'Tournament Promo 🏆';
     }
+  } else if (vNameLow.includes('manga') || rarUpper === 'MANGA') {
+    variantType = 'MANGA';
+    variantLabel = rawAny.variant_name || 'Manga Rare 👑';
+  } else if (vNameLow.includes('(sp)') || vNameLow.includes(' sp ') || vNameLow.endsWith(' sp') || vNameLow.includes('wanted') || vNameLow.includes('special card') || rarUpper === 'SP') {
+    variantType = 'SP';
+    variantLabel = rawAny.variant_name || 'Special Card (SP) ⭐';
   } else if (rawAny.variant > 1 || rawAny.art_type === 'ALT_ART' || (rawAny.detail_file && /-v[2-9]/.test(rawAny.detail_file))) {
-    if (variantLabel.includes('Manga')) variantType = 'MANGA';
-    else if (variantLabel.includes('SP') || variantLabel.includes('Special')) variantType = 'SP';
-    else variantType = 'ALT';
+    variantType = 'ALT';
   } else if (vMatch?.variant_label && vMatch.variant_label !== 'Base') {
     variantLabel = vMatch.variant_label;
     if (vMatch.variant_label.includes('Manga')) variantType = 'MANGA';
@@ -217,7 +224,7 @@ export const allPrintsAsCards: Card[] = allRawCards.map(raw => {
   } else if (cleanImg.includes('manga')) {
     variantType = 'MANGA';
     variantLabel = 'Manga Rare 👑';
-  } else if (cleanImg.includes('_sp') || cleanImg.includes('sp')) {
+  } else if (cleanImg.includes('_sp')) {
     variantType = 'SP';
     variantLabel = 'Special Card (SP) ⭐';
   } else if (cleanImg.includes('_p')) {
@@ -266,7 +273,7 @@ export const allPrintsAsCards: Card[] = allRawCards.map(raw => {
     cardmarket_url_jp: (raw as any).cardmarket_url_jp || vMatch?.cardmarket_url_jp || existing?.cardmarket_url_jp,
     tcgplayer_url: (raw as any).tcgplayer_url || vMatch?.tcgplayer_url || existing?.tcgplayer_url,
     detail_file: (raw as any).detail_file || (vMatch as any)?.detail_file || (raw.id.match(/-([2-9])-(\d+)$/) ? `${baseCode}-v${raw.id.match(/-([2-9])-(\d+)$/)![1]}.json` : ((existing as any)?.detail_file || (baseCode ? `${baseCode}.json` : undefined))),
-    _imagePaths: [defaultImg, imgFilename, ...(existing?._imagePaths || [])].filter((v, i, a) => a.indexOf(v) === i),
+    _imagePaths: [defaultImg, (raw as any).image_fr, (raw as any).image_en, (raw as any).image_jp, imgFilename].filter(Boolean).filter((v, i, a) => a.indexOf(v) === i),
     _defaultImagePath: defaultImg
   };
 }).sort((a, b) => {

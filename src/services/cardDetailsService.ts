@@ -36,6 +36,9 @@ export interface CardDetailData {
   language?: string;
   image_path?: string | null;
   image_url?: string | null;
+  image_fr?: string | null;
+  image_en?: string | null;
+  image_jp?: string | null;
   price_eur?: number | null;
   price_usd?: number | null;
   cardmarket_url?: string | null;

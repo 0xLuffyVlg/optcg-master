@@ -23,10 +23,11 @@
   "image_fr": "https://scalpeurs.com/img/cards-en/op08-p151.webp",
   "image_en": "https://scalpeurs.com/img/cards-en/op08-p151.webp",
   "image_jp": "https://scalpeurs.com/img/cards-jp/champ2024-p029.webp",
-  "price_eur": 5484.36,
+  "price_eur": 168.01,
   "price_usd": 4199,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-OP07-109-V4",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/MonkeyDLuffy-OP07-109-V3",
   "tcgplayer_url": "https://www.tcgplayer.com/product/579983",
-  "pricecharting_url": null
+  "pricecharting_url": null,
+  "price_min_eur": 168.01
 }
