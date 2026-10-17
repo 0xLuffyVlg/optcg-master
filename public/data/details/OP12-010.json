@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/10266375",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.67,
-  "price_avg30_eur": 0.51
+  "price_avg30_eur": 0.51,
+  "slug": "op12-010-douglas-bullet",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op12-010-douglas-bullet",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op12-010-douglas-bullet",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op12-010-douglas-bullet",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op12-010-douglas-bullet"
 }

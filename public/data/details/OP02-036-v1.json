@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 1.47,
   "price_avg7_eur": 16.38,
-  "price_avg30_eur": 21.05
+  "price_avg30_eur": 21.05,
+  "slug": "op02-036-nami",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op02-036-nami",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op02-036-nami",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op02-036-nami",
+  "scalpeurs_url_fr": null
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 50000,
   "price_avg7_eur": 21.29,
-  "price_avg30_eur": 22.93
+  "price_avg30_eur": 22.93,
+  "slug": "st01-006-tony-tony-chopper-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st01-006-tony-tony-chopper-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st01-006-tony-tony-chopper-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st01-006-tony-tony-chopper-v2",
+  "scalpeurs_url_fr": null
 }

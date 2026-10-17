@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/8828286",
   "price_min_eur": 55,
   "price_avg7_eur": 70.7,
-  "price_avg30_eur": 64.91
+  "price_avg30_eur": 64.91,
+  "slug": "op10-082-kuzan-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op10-082-kuzan-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op10-082-kuzan-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op10-082-kuzan-v3",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op10-082-kuzan-v3"
 }

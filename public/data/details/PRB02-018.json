@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/PortgasDAce-PRB02-018-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/653862",
   "pricecharting_url": null,
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "prb02-018-portgas-d-ace",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/prb02-018-portgas-d-ace",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/prb02-018-portgas-d-ace",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/prb02-018-portgas-d-ace",
+  "scalpeurs_url_fr": null
 }

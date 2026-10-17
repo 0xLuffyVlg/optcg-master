@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EdwardNewgate-Non-English/Kingdew-ST15-003",
   "tcgplayer_url": "https://www.tcgplayer.com/product/580988",
   "pricecharting_url": "https://www.pricecharting.com/game/8828135",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "st15-003-kingdew",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st15-003-kingdew",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st15-003-kingdew",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st15-003-kingdew",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st15-003-kingdew"
 }

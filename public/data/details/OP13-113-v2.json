@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11012102",
   "price_min_eur": 5.9,
   "price_avg7_eur": 8.8,
-  "price_avg30_eur": 7.81
+  "price_avg30_eur": 7.81,
+  "slug": "op13-113-lilith-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op13-113-lilith-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op13-113-lilith-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op13-113-lilith-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op13-113-lilith-v2"
 }

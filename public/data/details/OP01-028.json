@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": 0.06,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Green-Star-Rafflesia-OP01-028",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Green-Star-Rafflesia-OP01-028",
   "tcgplayer_url": "https://www.tcgplayer.com/product/454549",
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.22,
-  "price_avg30_eur": 0.26
+  "price_avg30_eur": 0.26,
+  "slug": "op01-028-green-star-rafflesia",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op01-028-green-star-rafflesia",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op01-028-green-star-rafflesia",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op01-028-green-star-rafflesia",
+  "scalpeurs_url_fr": null
 }

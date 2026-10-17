@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11703030",
   "price_min_eur": 7,
   "price_avg7_eur": 5.79,
-  "price_avg30_eur": 6.25
+  "price_avg30_eur": 6.25,
+  "slug": "eb04-013-carrot-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb04-013-carrot-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb04-013-carrot-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb04-013-carrot-v2",
+  "scalpeurs_url_fr": null
 }

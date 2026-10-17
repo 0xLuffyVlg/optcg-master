@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/Fukurou-OP03-088-V2",
   "tcgplayer_url": "https://www.tcgplayer.com/product/564257",
   "pricecharting_url": null,
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "op03-088-fukurou-v5",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op03-088-fukurou-v5",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op03-088-fukurou-v5",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op03-088-fukurou-v5",
+  "scalpeurs_url_fr": null
 }

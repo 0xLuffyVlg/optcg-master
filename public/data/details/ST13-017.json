@@ -26,8 +26,13 @@
   "price_eur": 1,
   "price_usd": 2.2,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers/Flame-Dragon-King-ST13-017",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Brothers-Japanese/Flame-Dragon-King-ST13-017",
   "tcgplayer_url": "https://www.tcgplayer.com/product/543619",
   "pricecharting_url": null,
-  "price_min_eur": 1
+  "price_min_eur": 1,
+  "slug": "st13-017-flame-dragon-king",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st13-017-flame-dragon-king",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st13-017-flame-dragon-king",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st13-017-flame-dragon-king",
+  "scalpeurs_url_fr": null
 }

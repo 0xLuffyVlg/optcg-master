@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 5.89,
   "price_avg7_eur": 8.54,
-  "price_avg30_eur": 9.17
+  "price_avg30_eur": 9.17,
+  "slug": "op08-079-kaido-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op08-079-kaido-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op08-079-kaido-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op08-079-kaido-v2",
+  "scalpeurs_url_fr": null
 }

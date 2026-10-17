@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/12427267",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.48,
-  "price_avg30_eur": 0.49
+  "price_avg30_eur": 0.49,
+  "slug": "op15-034-yorki",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op15-034-yorki",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op15-034-yorki",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op15-034-yorki",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op15-034-yorki"
 }

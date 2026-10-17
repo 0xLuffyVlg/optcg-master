@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": 0.09,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Kouzuki-Momonosuke-OP10-028?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Japanese/Kouzuki-Momonosuke-OP10-028",
   "tcgplayer_url": "https://www.tcgplayer.com/product/617064",
   "pricecharting_url": "https://www.pricecharting.com/game/8828223",
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.26,
-  "price_avg30_eur": 1.19
+  "price_avg30_eur": 1.19,
+  "slug": "op10-028-momonosuke-kozuki",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op10-028-momonosuke-kozuki",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op10-028-momonosuke-kozuki",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op10-028-momonosuke-kozuki",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op10-028-momonosuke-kozuki"
 }

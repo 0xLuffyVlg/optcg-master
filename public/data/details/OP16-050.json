@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/13335545",
   "price_min_eur": 0.02,
   "price_avg7_eur": 2.75,
-  "price_avg30_eur": 3.54
+  "price_avg30_eur": 3.54,
+  "slug": "op16-050-miss-olive",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op16-050-miss-olive",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op16-050-miss-olive",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op16-050-miss-olive",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op16-050-miss-olive"
 }

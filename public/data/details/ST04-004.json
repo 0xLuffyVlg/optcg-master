@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.19,
   "price_avg7_eur": 7.36,
-  "price_avg30_eur": 5.42
+  "price_avg30_eur": 5.42,
+  "slug": "st04-004-king",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st04-004-king",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st04-004-king",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st04-004-king",
+  "scalpeurs_url_fr": null
 }

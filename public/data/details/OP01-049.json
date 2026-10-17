@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": 0.29,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Bepo-OP01-049",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Bepo-OP01-049",
   "tcgplayer_url": "https://www.tcgplayer.com/product/454573",
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.46,
-  "price_avg30_eur": 0.42
+  "price_avg30_eur": 0.42,
+  "slug": "op01-049-bepo",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op01-049-bepo",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op01-049-bepo",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op01-049-bepo",
+  "scalpeurs_url_fr": null
 }

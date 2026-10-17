@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/8828231",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.83,
-  "price_avg30_eur": 0.94
+  "price_avg30_eur": 0.94,
+  "slug": "op10-034-franky",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op10-034-franky",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op10-034-franky",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op10-034-franky",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op10-034-franky"
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.74,
-  "price_avg30_eur": 1.03
+  "price_avg30_eur": 1.03,
+  "slug": "op06-098-thriller-bark",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op06-098-thriller-bark",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op06-098-thriller-bark",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op06-098-thriller-bark",
+  "scalpeurs_url_fr": null
 }

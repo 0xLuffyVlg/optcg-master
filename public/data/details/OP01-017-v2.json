@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 11.98,
   "price_avg7_eur": 16.85,
-  "price_avg30_eur": 19.01
+  "price_avg30_eur": 19.01,
+  "slug": "op01-017-nico-robin-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op01-017-nico-robin-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op01-017-nico-robin-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op01-017-nico-robin-v2",
+  "scalpeurs_url_fr": null
 }

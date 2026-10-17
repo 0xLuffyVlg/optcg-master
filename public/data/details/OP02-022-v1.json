@@ -26,10 +26,15 @@
   "price_eur": 16,
   "price_usd": 0.2,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War/Whitebeard-Pirates-OP02-022",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Paramount-War-Japanese/Whitebeard-Pirates-OP02-022",
   "tcgplayer_url": "https://www.tcgplayer.com/product/486342",
   "pricecharting_url": null,
   "price_min_eur": 16,
   "price_avg7_eur": 1.39,
-  "price_avg30_eur": 1.2
+  "price_avg30_eur": 1.2,
+  "slug": "op02-022-whitebeard-pirates",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op02-022-whitebeard-pirates",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op02-022-whitebeard-pirates",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op02-022-whitebeard-pirates",
+  "scalpeurs_url_fr": null
 }

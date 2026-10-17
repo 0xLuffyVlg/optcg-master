@@ -26,8 +26,13 @@
   "price_eur": 1.6,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Roronoa-Zoro/Dracule-Mihawk-ST32-003?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Green-Roronoa-Zoro-Japanese/Dracule-Mihawk-ST32-003",
   "tcgplayer_url": "https://www.tcgplayer.com/product/706325",
   "pricecharting_url": "https://www.pricecharting.com/game/13768327",
-  "price_min_eur": 1.6
+  "price_min_eur": 1.6,
+  "slug": "st32-003-dracule-mihawk",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st32-003-dracule-mihawk",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st32-003-dracule-mihawk",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st32-003-dracule-mihawk",
+  "scalpeurs_url_fr": null
 }

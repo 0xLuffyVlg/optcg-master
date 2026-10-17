@@ -29,7 +29,12 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue-Japanese/Sabo-OP04-083-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/514543",
   "pricecharting_url": null,
-  "price_min_eur": 0.05,
+  "price_min_eur": 0.04,
   "price_avg7_eur": 55.72,
-  "price_avg30_eur": 49.98
+  "price_avg30_eur": 49.98,
+  "slug": "op04-083-sabo",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op04-083-sabo",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op04-083-sabo",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op04-083-sabo",
+  "scalpeurs_url_fr": null
 }

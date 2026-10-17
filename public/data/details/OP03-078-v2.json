@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 4,
   "price_avg7_eur": 5.11,
-  "price_avg30_eur": 5.57
+  "price_avg30_eur": 5.57,
+  "slug": "op03-078-issho-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op03-078-issho-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op03-078-issho-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op03-078-issho-v2",
+  "scalpeurs_url_fr": null
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 4.4,
   "price_avg7_eur": 4.96,
-  "price_avg30_eur": 5.66
+  "price_avg30_eur": 5.66,
+  "slug": "op05-093-rob-lucci-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op05-093-rob-lucci-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op05-093-rob-lucci-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op05-093-rob-lucci-v2",
+  "scalpeurs_url_fr": null
 }

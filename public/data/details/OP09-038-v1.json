@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Rob-Lucci-OP09-038?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World-Japanese/Rob-Lucci-OP09-038",
   "tcgplayer_url": "https://www.tcgplayer.com/product/596966",
   "pricecharting_url": "https://www.pricecharting.com/game/8091585",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.33,
-  "price_avg30_eur": 0.25
+  "price_avg30_eur": 0.25,
+  "slug": "op09-038-rob-lucci",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op09-038-rob-lucci",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op09-038-rob-lucci",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op09-038-rob-lucci",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op09-038-rob-lucci"
 }

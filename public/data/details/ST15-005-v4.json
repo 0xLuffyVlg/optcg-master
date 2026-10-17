@@ -26,8 +26,13 @@
   "price_eur": 130,
   "price_usd": 3.34,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos/PortgasDAce-ST15-005-V3?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/PortgasDAce-ST15-005-V3",
   "tcgplayer_url": "https://www.tcgplayer.com/product/671735",
   "pricecharting_url": "https://www.pricecharting.com/game/8828137",
-  "price_min_eur": 130
+  "price_min_eur": 130,
+  "slug": "st15-005-portgas-d-ace-v4",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st15-005-portgas-d-ace-v4",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st15-005-portgas-d-ace-v4",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st15-005-portgas-d-ace-v4",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st15-005-portgas-d-ace-v4"
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 480,
   "price_avg7_eur": 140.78,
-  "price_avg30_eur": 130.08
+  "price_avg30_eur": 130.08,
+  "slug": "op06-025-camie-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op06-025-camie-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op06-025-camie-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op06-025-camie-v3",
+  "scalpeurs_url_fr": null
 }

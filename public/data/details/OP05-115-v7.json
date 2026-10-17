@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/Two-Hundred-Million-Volts-Amaru-OP05-115-V7",
   "tcgplayer_url": "https://www.tcgplayer.com/product/586806",
   "pricecharting_url": null,
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "op05-115-two-hundred-million-volts-amaru-v7",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op05-115-two-hundred-million-volts-amaru-v7",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op05-115-two-hundred-million-volts-amaru-v7",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op05-115-two-hundred-million-volts-amaru-v7",
+  "scalpeurs_url_fr": null
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/10266405",
   "price_min_eur": 19,
   "price_avg7_eur": 28.55,
-  "price_avg30_eur": 32.38
+  "price_avg30_eur": 32.38,
+  "slug": "op12-034-perona-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op12-034-perona-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op12-034-perona-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op12-034-perona-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op12-034-perona-v2"
 }

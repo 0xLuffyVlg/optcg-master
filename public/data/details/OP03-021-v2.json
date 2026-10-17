@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 29,
   "price_avg7_eur": 34.41,
-  "price_avg30_eur": 40.1
+  "price_avg30_eur": 40.1,
+  "slug": "op03-021-kuro-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op03-021-kuro-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op03-021-kuro-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op03-021-kuro-v2",
+  "scalpeurs_url_fr": null
 }

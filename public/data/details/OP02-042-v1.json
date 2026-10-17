@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 16.3,
-  "price_avg30_eur": 9.7
+  "price_avg30_eur": 9.7,
+  "slug": "op02-042-yamato",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op02-042-yamato",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op02-042-yamato",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op02-042-yamato",
+  "scalpeurs_url_fr": null
 }

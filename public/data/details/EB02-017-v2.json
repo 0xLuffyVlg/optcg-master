@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/9361526",
   "price_min_eur": 65,
   "price_avg7_eur": 88.57,
-  "price_avg30_eur": 86.15
+  "price_avg30_eur": 86.15,
+  "slug": "eb02-017-nami-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb02-017-nami-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb02-017-nami-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb02-017-nami-v2",
+  "scalpeurs_url_fr": null
 }

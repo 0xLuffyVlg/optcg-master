@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/Jewelry-Bonney-OP08-105-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/623072",
   "pricecharting_url": null,
-  "price_min_eur": 0.4
+  "price_min_eur": 0.4,
+  "slug": "op08-105-jewelry-bonney-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op08-105-jewelry-bonney-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op08-105-jewelry-bonney-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op08-105-jewelry-bonney-v3",
+  "scalpeurs_url_fr": null
 }

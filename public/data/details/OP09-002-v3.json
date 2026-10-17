@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World-Non-English/Uta-OP09-002-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/656024",
   "pricecharting_url": "https://www.pricecharting.com/game/8091542",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "op09-002-uta-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op09-002-uta-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op09-002-uta-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op09-002-uta-v3",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op09-002-uta-v3"
 }

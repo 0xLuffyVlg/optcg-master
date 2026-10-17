@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 110,
   "price_avg7_eur": 123.99,
-  "price_avg30_eur": 120.29
+  "price_avg30_eur": 120.29,
+  "slug": "op06-119-sanji-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op06-119-sanji-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op06-119-sanji-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op06-119-sanji-v3",
+  "scalpeurs_url_fr": null
 }

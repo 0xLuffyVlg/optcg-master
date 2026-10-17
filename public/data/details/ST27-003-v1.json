@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Black-MarshallDTeach-Non-English/Kuzan-ST27-003",
   "tcgplayer_url": "https://www.tcgplayer.com/product/633092",
   "pricecharting_url": "https://www.pricecharting.com/game/10032951",
-  "price_min_eur": 0.94
+  "price_min_eur": 0.94,
+  "slug": "st27-003-kuzan",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st27-003-kuzan",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st27-003-kuzan",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st27-003-kuzan",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st27-003-kuzan"
 }

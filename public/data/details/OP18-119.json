@@ -25,8 +25,13 @@
   "image_jp": "https://scalpeurs.com/img/cards-jp/op18-p014.webp",
   "price_eur": null,
   "price_usd": null,
-  "cardmarket_url": null,
-  "cardmarket_url_jp": null,
+  "cardmarket_url": "https://scalpeurs.com/go/en/op18-119-saint-shamrock/cm",
+  "cardmarket_url_jp": "https://scalpeurs.com/go/jp/op18-119-saint-shamrock/cm",
   "tcgplayer_url": null,
-  "pricecharting_url": null
+  "pricecharting_url": null,
+  "slug": "op18-119-saint-shamrock",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op18-119-saint-shamrock",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op18-119-saint-shamrock",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op18-119-saint-shamrock",
+  "scalpeurs_url_fr": null
 }

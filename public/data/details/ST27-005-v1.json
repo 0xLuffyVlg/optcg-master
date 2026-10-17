@@ -26,10 +26,15 @@
   "price_eur": 180,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Black-MarshallDTeach/MarshallDTeach-ST27-005?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Black-MarshallDTeach-Japanese/MarshallDTeach-ST27-005",
   "tcgplayer_url": "https://www.tcgplayer.com/product/633093",
   "pricecharting_url": "https://www.pricecharting.com/game/10032953",
   "price_min_eur": 180,
   "price_avg7_eur": 0.97,
-  "price_avg30_eur": 0.98
+  "price_avg30_eur": 0.98,
+  "slug": "st27-005-marshall-d-teach",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st27-005-marshall-d-teach",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st27-005-marshall-d-teach",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st27-005-marshall-d-teach",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st27-005-marshall-d-teach"
 }

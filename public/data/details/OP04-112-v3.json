@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.04,
   "price_avg7_eur": null,
-  "price_avg30_eur": null
+  "price_avg30_eur": null,
+  "slug": "op04-112-yamato-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op04-112-yamato-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op04-112-yamato-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op04-112-yamato-v3",
+  "scalpeurs_url_fr": null
 }

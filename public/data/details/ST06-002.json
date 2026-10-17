@@ -26,8 +26,13 @@
   "price_eur": 0.06,
   "price_usd": 0.18,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Absolute-Justice/Koby-ST06-002",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Absolute-Justice-Japanese/Koby-ST06-002",
   "tcgplayer_url": "https://www.tcgplayer.com/product/485248",
   "pricecharting_url": null,
-  "price_min_eur": 0.06
+  "price_min_eur": 0.06,
+  "slug": "st06-002-koby",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st06-002-koby",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st06-002-koby",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st06-002-koby",
+  "scalpeurs_url_fr": null
 }

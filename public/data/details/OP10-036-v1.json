@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Non-English/Perona-OP10-036",
   "tcgplayer_url": "https://www.tcgplayer.com/product/617074",
   "pricecharting_url": "https://www.pricecharting.com/game/8828234",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "op10-036-perona",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op10-036-perona",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op10-036-perona",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op10-036-perona",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op10-036-perona"
 }

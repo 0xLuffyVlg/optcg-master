@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/9362321",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.49,
-  "price_avg30_eur": 0.25
+  "price_avg30_eur": 0.25,
+  "slug": "op11-113-ryuboshi",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op11-113-ryuboshi",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op11-113-ryuboshi",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op11-113-ryuboshi",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op11-113-ryuboshi"
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11634256",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.97,
-  "price_avg30_eur": 1.66
+  "price_avg30_eur": 1.66,
+  "slug": "op14-032-mandrill-humain",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op14-032-mandrill-humain",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op14-032-mandrill-humain",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op14-032-mandrill-humain",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op14-032-mandrill-humain"
 }

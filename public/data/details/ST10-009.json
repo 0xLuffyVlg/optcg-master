@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Ultimate-Deck-The-Three-Captains-Japanese/Jean-Bart-ST10-009",
   "tcgplayer_url": "https://www.tcgplayer.com/product/525052",
   "pricecharting_url": null,
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "st10-009-jean-bart",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st10-009-jean-bart",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st10-009-jean-bart",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st10-009-jean-bart",
+  "scalpeurs_url_fr": null
 }

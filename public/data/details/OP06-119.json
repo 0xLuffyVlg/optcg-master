@@ -29,7 +29,12 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Sanji-OP06-119-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/541662",
   "pricecharting_url": null,
-  "price_min_eur": 2.44,
+  "price_min_eur": 2.4,
   "price_avg7_eur": 3.53,
-  "price_avg30_eur": 3.35
+  "price_avg30_eur": 3.35,
+  "slug": "op06-119-sanji",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op06-119-sanji",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op06-119-sanji",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op06-119-sanji",
+  "scalpeurs_url_fr": null
 }

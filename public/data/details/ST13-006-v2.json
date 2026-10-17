@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.3,
   "price_avg7_eur": 0.67,
-  "price_avg30_eur": 1.11
+  "price_avg30_eur": 1.11,
+  "slug": "st13-006-curly-dadan-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st13-006-curly-dadan-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st13-006-curly-dadan-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st13-006-curly-dadan-v2",
+  "scalpeurs_url_fr": null
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/9585694",
   "price_min_eur": 0.99,
   "price_avg7_eur": 1.22,
-  "price_avg30_eur": 1.63
+  "price_avg30_eur": 1.63,
+  "slug": "st21-011-franky-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st21-011-franky-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st21-011-franky-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st21-011-franky-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st21-011-franky-v2"
 }

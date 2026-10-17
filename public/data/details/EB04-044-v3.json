@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/12427194",
   "price_min_eur": 448,
   "price_avg7_eur": 510.5,
-  "price_avg30_eur": 501.69
+  "price_avg30_eur": 501.69,
+  "slug": "eb04-044-kobby-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb04-044-kobby-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb04-044-kobby-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb04-044-kobby-v3",
+  "scalpeurs_url_fr": null
 }

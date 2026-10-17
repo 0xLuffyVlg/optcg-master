@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/LuckyRoux-PRB02-003-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/653261",
   "pricecharting_url": null,
-  "price_min_eur": 0.7
+  "price_min_eur": 0.7,
+  "slug": "prb02-003-lucky-roo",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/prb02-003-lucky-roo",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/prb02-003-lucky-roo",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/prb02-003-lucky-roo",
+  "scalpeurs_url_fr": null
 }

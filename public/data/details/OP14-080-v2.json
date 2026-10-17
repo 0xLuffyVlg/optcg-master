@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11634251",
   "price_min_eur": 11,
   "price_avg7_eur": 12.21,
-  "price_avg30_eur": 12.08
+  "price_avg30_eur": 12.08,
+  "slug": "op14-080-gecko-moria-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op14-080-gecko-moria-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op14-080-gecko-moria-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op14-080-gecko-moria-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op14-080-gecko-moria-v2"
 }

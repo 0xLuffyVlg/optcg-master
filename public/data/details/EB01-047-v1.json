@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Memorial-Collection-Japanese/Laboon-EB01-047",
   "tcgplayer_url": "https://www.tcgplayer.com/product/544582",
   "pricecharting_url": null,
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "eb01-047-laboon",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb01-047-laboon",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb01-047-laboon",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb01-047-laboon",
+  "scalpeurs_url_fr": null
 }

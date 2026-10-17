@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11012091",
   "price_min_eur": 12.8,
   "price_avg7_eur": 14.75,
-  "price_avg30_eur": 14.91
+  "price_avg30_eur": 14.91,
+  "slug": "op13-100-jewelry-bonney-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op13-100-jewelry-bonney-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op13-100-jewelry-bonney-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op13-100-jewelry-bonney-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op13-100-jewelry-bonney-v2"
 }

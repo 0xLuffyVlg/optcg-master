@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Jinbe-ST10-005-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/525048",
   "pricecharting_url": null,
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "st10-005-jinbe-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st10-005-jinbe-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st10-005-jinbe-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st10-005-jinbe-v2",
+  "scalpeurs_url_fr": null
 }

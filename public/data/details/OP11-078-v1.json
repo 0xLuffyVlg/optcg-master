@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/9362383",
   "price_min_eur": 0.02,
   "price_avg7_eur": null,
-  "price_avg30_eur": null
+  "price_avg30_eur": null,
+  "slug": "op11-078-les-decuples",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op11-078-les-decuples",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op11-078-les-decuples",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op11-078-les-decuples",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op11-078-les-decuples"
 }

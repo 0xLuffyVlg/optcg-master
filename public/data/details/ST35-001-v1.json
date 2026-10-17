@@ -26,8 +26,13 @@
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-RedBlack-Sabo/Hack-ST35-001?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-RedBlack-Sabo-Japanese/Hack-ST35-001",
   "tcgplayer_url": "https://www.tcgplayer.com/product/706351",
   "pricecharting_url": "https://www.pricecharting.com/game/13768376",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "st35-001-hack",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st35-001-hack",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st35-001-hack",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st35-001-hack",
+  "scalpeurs_url_fr": null
 }

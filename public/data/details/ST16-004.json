@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/7969032",
   "price_min_eur": 0.2,
   "price_avg7_eur": 3.26,
-  "price_avg30_eur": 3.12
+  "price_avg30_eur": 3.12,
+  "slug": "st16-004-shanks",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st16-004-shanks",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st16-004-shanks",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st16-004-shanks",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st16-004-shanks"
 }

@@ -26,10 +26,15 @@
   "price_eur": 31.31,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/RocksDXebec-OP17-039-V2?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17-Japanese/RocksDXebec-OP17-039-V2",
   "tcgplayer_url": "https://www.tcgplayer.com/product/712086",
   "pricecharting_url": "https://www.pricecharting.com/game/14107695",
   "price_min_eur": 31.31,
   "price_avg7_eur": 46.02,
-  "price_avg30_eur": 44.1
+  "price_avg30_eur": 44.1,
+  "slug": "op17-039-rocks-d-xebec-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op17-039-rocks-d-xebec-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op17-039-rocks-d-xebec-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op17-039-rocks-d-xebec-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op17-039-rocks-d-xebec-v2"
 }

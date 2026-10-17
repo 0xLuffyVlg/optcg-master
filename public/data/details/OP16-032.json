@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Time-of-Battle-Asia-Region-Legal/Boa-Hancock-OP16-032-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/695308",
   "pricecharting_url": "https://www.pricecharting.com/game/13335492",
-  "price_min_eur": 0.1
+  "price_min_eur": 0.1,
+  "slug": "op16-032-boa-hancock",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op16-032-boa-hancock",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op16-032-boa-hancock",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op16-032-boa-hancock",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op16-032-boa-hancock"
 }

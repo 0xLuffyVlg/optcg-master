@@ -26,8 +26,13 @@
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Are-You-That-Afraid-of-the-New-Era-OP17-037-V1?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17-Japanese/Are-You-That-Afraid-of-the-New-Era-OP17-037-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/711424",
   "pricecharting_url": "https://www.pricecharting.com/game/14107685",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "op17-037-cette-nouvelle-ere-teffraie-t-elle-tant",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op17-037-cette-nouvelle-ere-teffraie-t-elle-tant",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op17-037-cette-nouvelle-ere-teffraie-t-elle-tant",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op17-037-cette-nouvelle-ere-teffraie-t-elle-tant",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op17-037-cette-nouvelle-ere-teffraie-t-elle-tant"
 }

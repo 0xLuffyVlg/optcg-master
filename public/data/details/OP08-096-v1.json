@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.71,
-  "price_avg30_eur": 0.49
+  "price_avg30_eur": 0.49,
+  "slug": "op08-096-peoples-dreams-dont-ever-end",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op08-096-peoples-dreams-dont-ever-end",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op08-096-peoples-dreams-dont-ever-end",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op08-096-peoples-dreams-dont-ever-end",
+  "scalpeurs_url_fr": null
 }

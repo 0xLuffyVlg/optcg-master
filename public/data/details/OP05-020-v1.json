@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 7.23,
-  "price_avg30_eur": 7.68
+  "price_avg30_eur": 7.68,
+  "slug": "op05-020-four-thousand-brick-fist",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op05-020-four-thousand-brick-fist",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op05-020-four-thousand-brick-fist",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op05-020-four-thousand-brick-fist",
+  "scalpeurs_url_fr": null
 }

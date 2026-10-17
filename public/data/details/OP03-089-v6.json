@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.95,
   "price_avg7_eur": 2.25,
-  "price_avg30_eur": 2.51
+  "price_avg30_eur": 2.51,
+  "slug": "op03-089-brannew-v6",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op03-089-brannew-v6",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op03-089-brannew-v6",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op03-089-brannew-v6",
+  "scalpeurs_url_fr": null
 }

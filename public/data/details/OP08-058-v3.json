@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 2100,
   "price_avg7_eur": 1008,
-  "price_avg30_eur": 348.64
+  "price_avg30_eur": 348.64,
+  "slug": "op08-058-charlotte-pudding-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op08-058-charlotte-pudding-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op08-058-charlotte-pudding-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op08-058-charlotte-pudding-v3",
+  "scalpeurs_url_fr": null
 }

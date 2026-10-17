@@ -26,10 +26,15 @@
   "price_eur": 44.99,
   "price_usd": 146.79,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/PortgasDAce-OP08-052",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Japanese/PortgasDAce-OP08-052",
   "tcgplayer_url": "https://www.tcgplayer.com/product/620135",
   "pricecharting_url": null,
   "price_min_eur": 44.99,
   "price_avg7_eur": 79.39,
-  "price_avg30_eur": 76.92
+  "price_avg30_eur": 76.92,
+  "slug": "op08-052-portgas-d-ace-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op08-052-portgas-d-ace-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op08-052-portgas-d-ace-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op08-052-portgas-d-ace-v3",
+  "scalpeurs_url_fr": null
 }

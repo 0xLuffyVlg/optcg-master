@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection-Japanese/All-Hunt-Grount-EB02-042",
   "tcgplayer_url": "https://www.tcgplayer.com/product/629140",
   "pricecharting_url": "https://www.pricecharting.com/game/9361551",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "eb02-042-all-hunt-grount",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb02-042-all-hunt-grount",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb02-042-all-hunt-grount",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb02-042-all-hunt-grount",
+  "scalpeurs_url_fr": null
 }

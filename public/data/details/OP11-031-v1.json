@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed-Non-English/Jinbe-OP11-031-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/632393",
   "pricecharting_url": "https://www.pricecharting.com/game/9362313",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "op11-031-jinbe",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op11-031-jinbe",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op11-031-jinbe",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op11-031-jinbe",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op11-031-jinbe"
 }

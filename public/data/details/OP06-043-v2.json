@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 3.9,
   "price_avg7_eur": 6.93,
-  "price_avg30_eur": 7.85
+  "price_avg30_eur": 7.85,
+  "slug": "op06-043-aramaki-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op06-043-aramaki-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op06-043-aramaki-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op06-043-aramaki-v2",
+  "scalpeurs_url_fr": null
 }

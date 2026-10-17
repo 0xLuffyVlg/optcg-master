@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11634339",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.15,
-  "price_avg30_eur": 0.39
+  "price_avg30_eur": 0.39,
+  "slug": "op14-062-gladius",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op14-062-gladius",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op14-062-gladius",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op14-062-gladius",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op14-062-gladius"
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/9362390",
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.1,
-  "price_avg30_eur": 0.86
+  "price_avg30_eur": 0.86,
+  "slug": "op11-087-madame-sarahebi",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op11-087-madame-sarahebi",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op11-087-madame-sarahebi",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op11-087-madame-sarahebi",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op11-087-madame-sarahebi"
 }

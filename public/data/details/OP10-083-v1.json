@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/8828339",
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.86,
-  "price_avg30_eur": 1.36
+  "price_avg30_eur": 1.36,
+  "slug": "op10-083-momonosuke-kozuki",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op10-083-momonosuke-kozuki",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op10-083-momonosuke-kozuki",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op10-083-momonosuke-kozuki",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op10-083-momonosuke-kozuki"
 }

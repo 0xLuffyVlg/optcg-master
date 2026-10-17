@@ -23,13 +23,18 @@
   "image_fr": "https://scalpeurs.com/img/cards-fr/prb02-p069.webp",
   "image_en": "https://scalpeurs.com/img/cards-en/prb02-p069.webp",
   "image_jp": "https://scalpeurs.com/img/cards-jp/prb02-p069.webp",
-  "price_eur": 14.73,
+  "price_eur": 17,
   "price_usd": 67.48,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Gravity-Blade-Raging-Tiger-OP06-058-V2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Gravity-Blade-Raging-Tiger-OP06-058-V2",
   "tcgplayer_url": "https://www.tcgplayer.com/product/656130",
   "pricecharting_url": null,
-  "price_min_eur": 14.73,
+  "price_min_eur": 17,
   "price_avg7_eur": 14.01,
-  "price_avg30_eur": 15.47
+  "price_avg30_eur": 15.47,
+  "slug": "op06-058-gravity-blade-raging-tiger-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op06-058-gravity-blade-raging-tiger-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op06-058-gravity-blade-raging-tiger-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op06-058-gravity-blade-raging-tiger-v2",
+  "scalpeurs_url_fr": null
 }

@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/Sabo-OP04-083",
   "tcgplayer_url": "https://www.tcgplayer.com/product/518693",
   "pricecharting_url": null,
-  "price_min_eur": 0.04
+  "price_min_eur": 0.04,
+  "slug": "op04-083-sabo-v4",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op04-083-sabo-v4",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op04-083-sabo-v4",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op04-083-sabo-v4",
+  "scalpeurs_url_fr": null
 }

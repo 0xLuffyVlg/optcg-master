@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/8828149",
   "price_min_eur": 4.19,
   "price_avg7_eur": 6.16,
-  "price_avg30_eur": 6.21
+  "price_avg30_eur": 6.21,
+  "slug": "st17-004-boa-hancock",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st17-004-boa-hancock",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st17-004-boa-hancock",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st17-004-boa-hancock",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st17-004-boa-hancock"
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 7.5,
   "price_avg7_eur": 8.09,
-  "price_avg30_eur": 8.01
+  "price_avg30_eur": 8.01,
+  "slug": "op01-006-otama-v6",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op01-006-otama-v6",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op01-006-otama-v6",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op01-006-otama-v6",
+  "scalpeurs_url_fr": null
 }

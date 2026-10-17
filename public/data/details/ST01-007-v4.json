@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 164.61,
   "price_avg7_eur": 205.98,
-  "price_avg30_eur": 260.47
+  "price_avg30_eur": 260.47,
+  "slug": "st01-007-nami-v4",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st01-007-nami-v4",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st01-007-nami-v4",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st01-007-nami-v4",
+  "scalpeurs_url_fr": null
 }

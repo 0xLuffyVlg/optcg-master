@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 1500,
   "price_avg7_eur": 593.99,
-  "price_avg30_eur": 267.69
+  "price_avg30_eur": 267.69,
+  "slug": "op05-001-sabo-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op05-001-sabo-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op05-001-sabo-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op05-001-sabo-v3",
+  "scalpeurs_url_fr": null
 }

@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition-Asia-Region-Legal/Kouzuki-Hiyori-EB03-016",
   "tcgplayer_url": "https://www.tcgplayer.com/product/672758",
   "pricecharting_url": "https://www.pricecharting.com/game/12054335",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "eb03-016-hiyori-kozuki",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb03-016-hiyori-kozuki",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb03-016-hiyori-kozuki",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb03-016-hiyori-kozuki",
+  "scalpeurs_url_fr": null
 }

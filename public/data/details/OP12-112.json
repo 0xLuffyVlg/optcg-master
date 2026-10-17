@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/10266498",
   "price_min_eur": 0.02,
   "price_avg7_eur": 6.5,
-  "price_avg30_eur": 6.23
+  "price_avg30_eur": 6.23,
+  "slug": "op12-112-baby-5",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op12-112-baby-5",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op12-112-baby-5",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op12-112-baby-5",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op12-112-baby-5"
 }

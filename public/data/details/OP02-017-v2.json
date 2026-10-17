@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 2.1,
   "price_avg7_eur": 2.56,
-  "price_avg30_eur": 3.29
+  "price_avg30_eur": 3.29,
+  "slug": "op02-017-masked-deuce-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op02-017-masked-deuce-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op02-017-masked-deuce-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op02-017-masked-deuce-v2",
+  "scalpeurs_url_fr": null
 }

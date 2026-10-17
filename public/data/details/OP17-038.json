@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/I-Think-Hes-Seen-an-Ugly-Future-OP17-038?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17-Japanese/I-Think-Hes-Seen-an-Ugly-Future-OP17-038",
   "tcgplayer_url": "https://www.tcgplayer.com/product/712611",
   "pricecharting_url": "https://www.pricecharting.com/game/14107733",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.93,
-  "price_avg30_eur": 1.1
+  "price_avg30_eur": 1.1,
+  "slug": "op17-038-le-futur-sannonce-mal-on-dirait",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op17-038-le-futur-sannonce-mal-on-dirait",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op17-038-le-futur-sannonce-mal-on-dirait",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op17-038-le-futur-sannonce-mal-on-dirait",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op17-038-le-futur-sannonce-mal-on-dirait"
 }

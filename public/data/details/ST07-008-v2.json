@@ -26,10 +26,15 @@
   "price_eur": 45,
   "price_usd": 29.57,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos/Charlotte-Pudding-ST07-008-V1",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournaments-Promos-Japanese/Charlotte-Pudding-ST07-008-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/482233",
   "pricecharting_url": null,
   "price_min_eur": 45,
   "price_avg7_eur": 44.21,
-  "price_avg30_eur": 17.31
+  "price_avg30_eur": 17.31,
+  "slug": "st07-008-charlotte-pudding-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st07-008-charlotte-pudding-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st07-008-charlotte-pudding-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st07-008-charlotte-pudding-v2",
+  "scalpeurs_url_fr": null
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11786220",
   "price_min_eur": 2.9,
   "price_avg7_eur": 3.11,
-  "price_avg30_eur": 3.5
+  "price_avg30_eur": 3.5,
+  "slug": "st29-004-sanji-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st29-004-sanji-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st29-004-sanji-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st29-004-sanji-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st29-004-sanji-v2"
 }

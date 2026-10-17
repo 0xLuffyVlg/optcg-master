@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/Thunder-Bolt-OP03-121",
   "tcgplayer_url": "https://www.tcgplayer.com/product/546677",
   "pricecharting_url": null,
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "op03-121-thunder-bolt-v4",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op03-121-thunder-bolt-v4",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op03-121-thunder-bolt-v4",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op03-121-thunder-bolt-v4",
+  "scalpeurs_url_fr": null
 }

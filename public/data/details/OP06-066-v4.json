@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 2.5,
   "price_avg7_eur": 3.98,
-  "price_avg30_eur": 4.13
+  "price_avg30_eur": 4.13,
+  "slug": "op06-066-vinsmoke-yonji-v4",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op06-066-vinsmoke-yonji-v4",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op06-066-vinsmoke-yonji-v4",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op06-066-vinsmoke-yonji-v4",
+  "scalpeurs_url_fr": null
 }

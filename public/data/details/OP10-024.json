@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/8828219",
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.18,
-  "price_avg30_eur": 1.16
+  "price_avg30_eur": 1.16,
+  "slug": "op10-024-edward-newgate",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op10-024-edward-newgate",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op10-024-edward-newgate",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op10-024-edward-newgate",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op10-024-edward-newgate"
 }

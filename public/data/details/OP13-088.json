@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11012075",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.53,
-  "price_avg30_eur": 1.19
+  "price_avg30_eur": 1.19,
+  "slug": "op13-088-terry-gilteo",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op13-088-terry-gilteo",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op13-088-terry-gilteo",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op13-088-terry-gilteo",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op13-088-terry-gilteo"
 }

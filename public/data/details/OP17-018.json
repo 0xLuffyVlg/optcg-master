@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/The-Power-to-Destroy-the-World-OP17-018?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17-Japanese/The-Power-to-Destroy-the-World-OP17-018",
   "tcgplayer_url": "https://www.tcgplayer.com/product/712601",
   "pricecharting_url": "https://www.pricecharting.com/game/14107721",
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.29,
-  "price_avg30_eur": 1.64
+  "price_avg30_eur": 1.64,
+  "slug": "op17-018-le-pouvoir-de-detruire-le-monde",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op17-018-le-pouvoir-de-detruire-le-monde",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op17-018-le-pouvoir-de-detruire-le-monde",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op17-018-le-pouvoir-de-detruire-le-monde",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op17-018-le-pouvoir-de-detruire-le-monde"
 }

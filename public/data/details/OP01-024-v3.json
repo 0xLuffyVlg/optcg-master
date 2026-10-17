@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.1,
   "price_avg7_eur": 0.49,
-  "price_avg30_eur": 0.51
+  "price_avg30_eur": 0.51,
+  "slug": "op01-024-monkey-d-luffy-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op01-024-monkey-d-luffy-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op01-024-monkey-d-luffy-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op01-024-monkey-d-luffy-v3",
+  "scalpeurs_url_fr": null
 }

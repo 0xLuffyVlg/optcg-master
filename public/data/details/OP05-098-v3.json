@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 1100,
   "price_avg7_eur": 642.85,
-  "price_avg30_eur": 317.81
+  "price_avg30_eur": 317.81,
+  "slug": "op05-098-enel-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op05-098-enel-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op05-098-enel-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op05-098-enel-v3",
+  "scalpeurs_url_fr": null
 }

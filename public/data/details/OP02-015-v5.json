@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 2.2,
   "price_avg7_eur": 2.81,
-  "price_avg30_eur": 3.19
+  "price_avg30_eur": 3.19,
+  "slug": "op02-015-makino-v5",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op02-015-makino-v5",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op02-015-makino-v5",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op02-015-makino-v5",
+  "scalpeurs_url_fr": null
 }

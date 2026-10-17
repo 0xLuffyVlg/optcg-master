@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 7.9,
   "price_avg7_eur": 8.85,
-  "price_avg30_eur": 7.72
+  "price_avg30_eur": 7.72,
+  "slug": "op01-102-jack-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op01-102-jack-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op01-102-jack-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op01-102-jack-v2",
+  "scalpeurs_url_fr": null
 }

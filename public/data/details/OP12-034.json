@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English/Perona-OP12-034-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/643764",
   "pricecharting_url": "https://www.pricecharting.com/game/10266405",
-  "price_min_eur": 6
+  "price_min_eur": 6,
+  "slug": "op12-034-perona",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op12-034-perona",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op12-034-perona",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op12-034-perona",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op12-034-perona"
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 4,
   "price_avg7_eur": 5.51,
-  "price_avg30_eur": 7.06
+  "price_avg30_eur": 7.06,
+  "slug": "op01-005-uta-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op01-005-uta-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op01-005-uta-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op01-005-uta-v2",
+  "scalpeurs_url_fr": null
 }

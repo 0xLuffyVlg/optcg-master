@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": 0.04,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/We-Would-Never-Sell-a-Comrade-to-an-Enemy-OP08-038",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends-Japanese/We-Would-Never-Sell-a-Comrade-to-an-Enemy-OP08-038",
   "tcgplayer_url": "https://www.tcgplayer.com/product/558065",
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.24,
-  "price_avg30_eur": 0.24
+  "price_avg30_eur": 0.24,
+  "slug": "op08-038-we-would-never-sell-a-comrade-to-an-enemy",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op08-038-we-would-never-sell-a-comrade-to-an-enemy",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op08-038-we-would-never-sell-a-comrade-to-an-enemy",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op08-038-we-would-never-sell-a-comrade-to-an-enemy",
+  "scalpeurs_url_fr": null
 }

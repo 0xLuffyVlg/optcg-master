@@ -26,8 +26,13 @@
   "price_eur": 0.02,
   "price_usd": 0.1,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-ONE-PIECE-FILM-edition/Bins-ST05-013",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-ONE-PIECE-FILM-edition-Japanese/Bins-ST05-013",
   "tcgplayer_url": "https://www.tcgplayer.com/product/479849",
   "pricecharting_url": null,
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "st05-013-bins",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st05-013-bins",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st05-013-bins",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st05-013-bins",
+  "scalpeurs_url_fr": null
 }

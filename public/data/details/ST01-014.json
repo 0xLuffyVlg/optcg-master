@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": 0.36,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Guard-Point-ST01-014-V1",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Japanese/Guard-Point-ST01-014-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/593576",
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 2.43,
-  "price_avg30_eur": 1.7
+  "price_avg30_eur": 1.7,
+  "slug": "st01-014-guard-point",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st01-014-guard-point",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st01-014-guard-point",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st01-014-guard-point",
+  "scalpeurs_url_fr": null
 }

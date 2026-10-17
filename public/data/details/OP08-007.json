@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.1,
   "price_avg7_eur": 0.52,
-  "price_avg30_eur": 0.71
+  "price_avg30_eur": 0.71,
+  "slug": "op08-007-tony-tony-chopper",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op08-007-tony-tony-chopper",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op08-007-tony-tony-chopper",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op08-007-tony-tony-chopper",
+  "scalpeurs_url_fr": null
 }

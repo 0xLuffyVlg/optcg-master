@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": 0.34,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood/Barrier-Barrier-Pistol-OP10-060?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Japanese/Barrier-Barrier-Pistol-OP10-060",
   "tcgplayer_url": "https://www.tcgplayer.com/product/617103",
   "pricecharting_url": "https://www.pricecharting.com/game/8828261",
   "price_min_eur": 0.02,
   "price_avg7_eur": 2.46,
-  "price_avg30_eur": 1.28
+  "price_avg30_eur": 1.28,
+  "slug": "op10-060-barri-barri-bullet",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op10-060-barri-barri-bullet",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op10-060-barri-barri-bullet",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op10-060-barri-barri-bullet",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op10-060-barri-barri-bullet"
 }

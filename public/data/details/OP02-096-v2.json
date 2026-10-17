@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 12.5,
   "price_avg7_eur": 1711.29,
-  "price_avg30_eur": 1160.21
+  "price_avg30_eur": 1160.21,
+  "slug": "op02-096-kuzan-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op02-096-kuzan-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op02-096-kuzan-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op02-096-kuzan-v2",
+  "scalpeurs_url_fr": null
 }

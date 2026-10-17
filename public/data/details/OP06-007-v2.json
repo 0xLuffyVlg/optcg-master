@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 180,
   "price_avg7_eur": 142.52,
-  "price_avg30_eur": 163.83
+  "price_avg30_eur": 163.83,
+  "slug": "op06-007-shanks-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op06-007-shanks-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op06-007-shanks-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op06-007-shanks-v2",
+  "scalpeurs_url_fr": null
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 2.39,
   "price_avg7_eur": 4.23,
-  "price_avg30_eur": 4.09
+  "price_avg30_eur": 4.09,
+  "slug": "st30-014-mr-3-galdino-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st30-014-mr-3-galdino-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st30-014-mr-3-galdino-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st30-014-mr-3-galdino-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st30-014-mr-3-galdino-v2"
 }

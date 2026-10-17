@@ -26,10 +26,15 @@
   "price_eur": 0.18,
   "price_usd": 0.42,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn/Punk-Gibson-OP01-058",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Punk-Gibson-OP01-058",
   "tcgplayer_url": "https://www.tcgplayer.com/product/454583",
   "pricecharting_url": null,
   "price_min_eur": 0.18,
   "price_avg7_eur": 0.94,
-  "price_avg30_eur": 1.02
+  "price_avg30_eur": 1.02,
+  "slug": "op01-058-punk-gibson",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op01-058-punk-gibson",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op01-058-punk-gibson",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op01-058-punk-gibson",
+  "scalpeurs_url_fr": null
 }

@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Mr3Galdino-PRB02-009-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/653397",
   "pricecharting_url": null,
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "prb02-009-mr-3-galdino",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/prb02-009-mr-3-galdino",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/prb02-009-mr-3-galdino",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/prb02-009-mr-3-galdino",
+  "scalpeurs_url_fr": null
 }

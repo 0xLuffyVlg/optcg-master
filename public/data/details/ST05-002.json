@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": 0.3,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-ONE-PIECE-FILM-edition/Ain-ST05-002",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-ONE-PIECE-FILM-edition-Japanese/Ain-ST05-002",
   "tcgplayer_url": "https://www.tcgplayer.com/product/479844",
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.14,
-  "price_avg30_eur": 0.14
+  "price_avg30_eur": 0.14,
+  "slug": "st05-002-ain",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st05-002-ain",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st05-002-ain",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st05-002-ain",
+  "scalpeurs_url_fr": null
 }

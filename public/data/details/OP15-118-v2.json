@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/12427346",
   "price_min_eur": 24,
   "price_avg7_eur": 28.77,
-  "price_avg30_eur": 28.29
+  "price_avg30_eur": 28.29,
+  "slug": "op15-118-ener-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op15-118-ener-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op15-118-ener-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op15-118-ener-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op15-118-ener-v2"
 }

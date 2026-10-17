@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/8091611",
   "price_min_eur": 197,
   "price_avg7_eur": 271.66,
-  "price_avg30_eur": 264.72
+  "price_avg30_eur": 264.72,
+  "slug": "op09-057-cross-guild-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op09-057-cross-guild-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op09-057-cross-guild-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op09-057-cross-guild-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op09-057-cross-guild-v2"
 }

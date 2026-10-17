@@ -26,8 +26,13 @@
   "price_eur": 0.15,
   "price_usd": 1.11,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-MonkeyDLuffy/Shanks-ST08-005",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-MonkeyDLuffy-Japanese/Shanks-ST08-005",
   "tcgplayer_url": "https://www.tcgplayer.com/product/503224",
   "pricecharting_url": null,
-  "price_min_eur": 0.15
+  "price_min_eur": 0.15,
+  "slug": "st08-005-shanks",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st08-005-shanks",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st08-005-shanks",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st08-005-shanks",
+  "scalpeurs_url_fr": null
 }

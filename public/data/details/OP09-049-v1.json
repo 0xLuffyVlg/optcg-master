@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Jozu-OP09-049?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World-Japanese/Jozu-OP09-049",
   "tcgplayer_url": "https://www.tcgplayer.com/product/596980",
   "pricecharting_url": "https://www.pricecharting.com/game/8091600",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.23,
-  "price_avg30_eur": 0.18
+  "price_avg30_eur": 0.18,
+  "slug": "op09-049-joz",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op09-049-joz",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op09-049-joz",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op09-049-joz",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op09-049-joz"
 }

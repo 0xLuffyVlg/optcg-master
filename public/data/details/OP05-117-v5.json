@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 14.64,
   "price_avg7_eur": 19.87,
-  "price_avg30_eur": 19.28
+  "price_avg30_eur": 19.28,
+  "slug": "op05-117-upper-yard-v5",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op05-117-upper-yard-v5",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op05-117-upper-yard-v5",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op05-117-upper-yard-v5",
+  "scalpeurs_url_fr": null
 }

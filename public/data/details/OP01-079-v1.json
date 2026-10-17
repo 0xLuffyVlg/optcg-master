@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.04,
   "price_avg7_eur": 4.18,
-  "price_avg30_eur": 4.45
+  "price_avg30_eur": 4.45,
+  "slug": "op01-079-ms-all-sunday",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op01-079-ms-all-sunday",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op01-079-ms-all-sunday",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op01-079-ms-all-sunday",
+  "scalpeurs_url_fr": null
 }

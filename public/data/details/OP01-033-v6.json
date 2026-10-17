@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 3.5,
   "price_avg7_eur": 4.2,
-  "price_avg30_eur": 4.6
+  "price_avg30_eur": 4.6,
+  "slug": "op01-033-izo-v6",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op01-033-izo-v6",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op01-033-izo-v6",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op01-033-izo-v6",
+  "scalpeurs_url_fr": null
 }

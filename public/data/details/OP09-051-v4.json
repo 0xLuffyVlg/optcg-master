@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/8091603",
   "price_min_eur": 995,
   "price_avg7_eur": 172.69,
-  "price_avg30_eur": 153.64
+  "price_avg30_eur": 153.64,
+  "slug": "op09-051-buggy-v4",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op09-051-buggy-v4",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op09-051-buggy-v4",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op09-051-buggy-v4",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op09-051-buggy-v4"
 }

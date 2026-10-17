@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 8.5,
   "price_avg7_eur": 7.89,
-  "price_avg30_eur": 8.49
+  "price_avg30_eur": 8.49,
+  "slug": "op03-056-sanjis-pilaf-v5",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op03-056-sanjis-pilaf-v5",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op03-056-sanjis-pilaf-v5",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op03-056-sanjis-pilaf-v5",
+  "scalpeurs_url_fr": null
 }

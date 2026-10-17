@@ -23,13 +23,18 @@
   "image_fr": "https://scalpeurs.com/img/cards-fr/op09-p009.webp",
   "image_en": "https://scalpeurs.com/img/cards-en/op09-p008.webp",
   "image_jp": "https://scalpeurs.com/img/cards-jp/op09-p009.webp",
-  "price_eur": 155,
+  "price_eur": 1000,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Shanks-OP09-004-V4?language=2",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World-Japanese/Shanks-OP09-004-V4",
   "tcgplayer_url": "https://www.tcgplayer.com/product/596924",
   "pricecharting_url": "https://www.pricecharting.com/game/8091545",
-  "price_min_eur": 155,
+  "price_min_eur": 1000,
   "price_avg7_eur": 220.57,
-  "price_avg30_eur": 204.23
+  "price_avg30_eur": 204.23,
+  "slug": "op09-004-shanks-v4",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op09-004-shanks-v4",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op09-004-shanks-v4",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op09-004-shanks-v4",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op09-004-shanks-v4"
 }

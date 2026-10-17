@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/10608174",
   "price_min_eur": 7.99,
   "price_avg7_eur": 10.76,
-  "price_avg30_eur": 10.61
+  "price_avg30_eur": 10.61,
+  "slug": "st23-001-uta",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st23-001-uta",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st23-001-uta",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st23-001-uta",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st23-001-uta"
 }

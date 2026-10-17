@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 41.99,
   "price_avg7_eur": 53.53,
-  "price_avg30_eur": 50.68
+  "price_avg30_eur": 50.68,
+  "slug": "prb02-017-boa-hancock-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/prb02-017-boa-hancock-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/prb02-017-boa-hancock-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/prb02-017-boa-hancock-v2",
+  "scalpeurs_url_fr": null
 }

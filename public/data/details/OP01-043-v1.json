@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Romance-Dawn-Japanese/Shinobu-OP01-043",
   "tcgplayer_url": "https://www.tcgplayer.com/product/454567",
   "pricecharting_url": null,
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "op01-043-shinobu",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op01-043-shinobu",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op01-043-shinobu",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op01-043-shinobu",
+  "scalpeurs_url_fr": null
 }

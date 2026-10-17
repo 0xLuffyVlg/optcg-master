@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 2000,
   "price_avg7_eur": 197,
-  "price_avg30_eur": 197
+  "price_avg30_eur": 197,
+  "slug": "op08-020-drum-kingdom-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op08-020-drum-kingdom-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op08-020-drum-kingdom-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op08-020-drum-kingdom-v3",
+  "scalpeurs_url_fr": null
 }

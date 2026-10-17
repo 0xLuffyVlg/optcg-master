@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/A-Fist-of-Divine-Speed-Non-English/Kujyaku-OP11-004-V3",
   "tcgplayer_url": "https://www.tcgplayer.com/product/646745",
   "pricecharting_url": "https://www.pricecharting.com/game/9362279",
-  "price_min_eur": 0.1
+  "price_min_eur": 0.1,
+  "slug": "op11-004-kujaku-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op11-004-kujaku-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op11-004-kujaku-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op11-004-kujaku-v3",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op11-004-kujaku-v3"
 }

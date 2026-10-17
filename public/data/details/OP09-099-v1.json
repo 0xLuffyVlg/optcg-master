@@ -26,8 +26,13 @@
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Fullalead-OP09-099?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World-Japanese/Fullalead-OP09-099",
   "tcgplayer_url": "https://www.tcgplayer.com/product/597043",
   "pricecharting_url": "https://www.pricecharting.com/game/8091660",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "op09-099-fullalead",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op09-099-fullalead",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op09-099-fullalead",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op09-099-fullalead",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op09-099-fullalead"
 }

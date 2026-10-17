@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11634300",
   "price_min_eur": 7,
   "price_avg7_eur": 7.3,
-  "price_avg30_eur": 6.81
+  "price_avg30_eur": 6.81,
+  "slug": "op14-049-jinbe-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op14-049-jinbe-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op14-049-jinbe-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op14-049-jinbe-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op14-049-jinbe-v2"
 }

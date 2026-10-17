@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": 0.07,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16/Captain-Buggys-Our-Savior-OP16-057?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP16-Japanese/Captain-Buggys-Our-Savior-OP16-057",
   "tcgplayer_url": "https://www.tcgplayer.com/product/696045",
   "pricecharting_url": "https://www.pricecharting.com/game/13335554",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.62,
-  "price_avg30_eur": 0.7
+  "price_avg30_eur": 0.7,
+  "slug": "op16-057-hourra-pour-le-capitaine-baggy-notre-sauveur",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op16-057-hourra-pour-le-capitaine-baggy-notre-sauveur",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op16-057-hourra-pour-le-capitaine-baggy-notre-sauveur",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op16-057-hourra-pour-le-capitaine-baggy-notre-sauveur",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op16-057-hourra-pour-le-capitaine-baggy-notre-sauveur"
 }

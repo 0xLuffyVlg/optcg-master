@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": 0.04,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will/Brilliant-Punk-OP13-059?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Carrying-on-his-Will-Japanese/Brilliant-Punk-OP13-059",
   "tcgplayer_url": "https://www.tcgplayer.com/product/657320",
   "pricecharting_url": "https://www.pricecharting.com/game/11012033",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.3,
-  "price_avg30_eur": 0.45
+  "price_avg30_eur": 0.45,
+  "slug": "op13-059-brilliant-punk",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op13-059-brilliant-punk",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op13-059-brilliant-punk",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op13-059-brilliant-punk",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op13-059-brilliant-punk"
 }

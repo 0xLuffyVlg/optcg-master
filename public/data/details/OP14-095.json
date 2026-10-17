@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11634286",
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.29,
-  "price_avg30_eur": 1.41
+  "price_avg30_eur": 1.41,
+  "slug": "op14-095-mr-9",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op14-095-mr-9",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op14-095-mr-9",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op14-095-mr-9",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op14-095-mr-9"
 }

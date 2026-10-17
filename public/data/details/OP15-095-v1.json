@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/12427320",
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.64,
-  "price_avg30_eur": 1.59
+  "price_avg30_eur": 1.59,
+  "slug": "op15-095-gum-gum-storm",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op15-095-gum-gum-storm",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op15-095-gum-gum-storm",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op15-095-gum-gum-storm",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op15-095-gum-gum-storm"
 }

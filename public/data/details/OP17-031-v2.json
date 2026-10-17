@@ -26,10 +26,15 @@
   "price_eur": 6,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Yasopp-OP17-031-V2?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17-Japanese/Yasopp-OP17-031-V2",
   "tcgplayer_url": "https://www.tcgplayer.com/product/711422",
   "pricecharting_url": "https://www.pricecharting.com/game/14107684",
   "price_min_eur": 6,
   "price_avg7_eur": 9.61,
-  "price_avg30_eur": 9.96
+  "price_avg30_eur": 9.96,
+  "slug": "op17-031-yasopp-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op17-031-yasopp-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op17-031-yasopp-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op17-031-yasopp-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op17-031-yasopp-v2"
 }

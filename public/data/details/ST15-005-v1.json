@@ -26,10 +26,15 @@
   "price_eur": 130,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EdwardNewgate/PortgasDAce-ST15-005?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-EdwardNewgate-Japanese/PortgasDAce-ST15-005",
   "tcgplayer_url": "https://www.tcgplayer.com/product/580990",
   "pricecharting_url": "https://www.pricecharting.com/game/8828137",
   "price_min_eur": 130,
   "price_avg7_eur": null,
-  "price_avg30_eur": null
+  "price_avg30_eur": null,
+  "slug": "st15-005-portgas-d-ace",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st15-005-portgas-d-ace",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st15-005-portgas-d-ace",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st15-005-portgas-d-ace",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st15-005-portgas-d-ace"
 }

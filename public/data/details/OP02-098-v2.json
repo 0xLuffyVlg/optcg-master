@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 74.9,
   "price_avg7_eur": 63.44,
-  "price_avg30_eur": 42.8
+  "price_avg30_eur": 42.8,
+  "slug": "op02-098-koby-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op02-098-koby-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op02-098-koby-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op02-098-koby-v2",
+  "scalpeurs_url_fr": null
 }

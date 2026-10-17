@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/Nami-OP11-054-V2",
   "tcgplayer_url": "https://www.tcgplayer.com/product/680492",
   "pricecharting_url": "https://www.pricecharting.com/game/9362342",
-  "price_min_eur": 0.45
+  "price_min_eur": 0.45,
+  "slug": "op11-054-nami-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op11-054-nami-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op11-054-nami-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op11-054-nami-v3",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op11-054-nami-v3"
 }

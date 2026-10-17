@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 2.73,
-  "price_avg30_eur": 2.5
+  "price_avg30_eur": 2.5,
+  "slug": "op05-092-saint-rosward",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op05-092-saint-rosward",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op05-092-saint-rosward",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op05-092-saint-rosward",
+  "scalpeurs_url_fr": null
 }

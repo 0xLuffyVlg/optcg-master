@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 206.97,
-  "price_avg30_eur": 96.49
+  "price_avg30_eur": 96.49,
+  "slug": "op01-004-usopp",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op01-004-usopp",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op01-004-usopp",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op01-004-usopp",
+  "scalpeurs_url_fr": null
 }

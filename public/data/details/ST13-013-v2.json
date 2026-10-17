@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 4.98,
   "price_avg7_eur": 6.85,
-  "price_avg30_eur": 8.41
+  "price_avg30_eur": 8.41,
+  "slug": "st13-013-monkey-d-garp-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st13-013-monkey-d-garp-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st13-013-monkey-d-garp-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st13-013-monkey-d-garp-v2",
+  "scalpeurs_url_fr": null
 }

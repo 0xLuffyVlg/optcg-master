@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.57,
-  "price_avg30_eur": 0.42
+  "price_avg30_eur": 0.42,
+  "slug": "op04-113-rabiyan",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op04-113-rabiyan",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op04-113-rabiyan",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op04-113-rabiyan",
+  "scalpeurs_url_fr": null
 }

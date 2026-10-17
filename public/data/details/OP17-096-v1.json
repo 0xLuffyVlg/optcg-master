@@ -26,8 +26,13 @@
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Im-Luffy-The-Man-Who-Will-Be-King-of-the-Pirates-OP17-096?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17-Japanese/Im-Luffy-The-Man-Who-Will-Be-King-of-the-Pirates-OP17-096",
   "tcgplayer_url": "https://www.tcgplayer.com/product/712648",
   "pricecharting_url": "https://www.pricecharting.com/game/14107763",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "op17-096-je-suis-luffy-le-futur-roi-des-pirates",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op17-096-je-suis-luffy-le-futur-roi-des-pirates",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op17-096-je-suis-luffy-le-futur-roi-des-pirates",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op17-096-je-suis-luffy-le-futur-roi-des-pirates",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op17-096-je-suis-luffy-le-futur-roi-des-pirates"
 }

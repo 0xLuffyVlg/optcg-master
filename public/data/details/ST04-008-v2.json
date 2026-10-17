@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 7999,
   "price_avg7_eur": 17.98,
-  "price_avg30_eur": 9.48
+  "price_avg30_eur": 9.48,
+  "slug": "st04-008-jack-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st04-008-jack-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st04-008-jack-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st04-008-jack-v2",
+  "scalpeurs_url_fr": null
 }

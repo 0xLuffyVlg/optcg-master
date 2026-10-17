@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Red-Shanks-Non-English/Yasopp-ST23-005",
   "tcgplayer_url": "https://www.tcgplayer.com/product/633943",
   "pricecharting_url": "https://www.pricecharting.com/game/12766055",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "st23-005-yasopp",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st23-005-yasopp",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st23-005-yasopp",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st23-005-yasopp",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st23-005-yasopp"
 }

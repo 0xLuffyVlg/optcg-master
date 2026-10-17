@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 75.6,
   "price_avg7_eur": 113.14,
-  "price_avg30_eur": 111.93
+  "price_avg30_eur": 111.93,
+  "slug": "op01-120-shanks-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op01-120-shanks-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op01-120-shanks-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op01-120-shanks-v2",
+  "scalpeurs_url_fr": null
 }

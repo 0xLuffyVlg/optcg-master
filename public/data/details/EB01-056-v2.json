@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 8.2,
   "price_avg7_eur": 11.55,
-  "price_avg30_eur": 12.4
+  "price_avg30_eur": 12.4,
+  "slug": "eb01-056-charlotte-flampe-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb01-056-charlotte-flampe-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb01-056-charlotte-flampe-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb01-056-charlotte-flampe-v2",
+  "scalpeurs_url_fr": null
 }

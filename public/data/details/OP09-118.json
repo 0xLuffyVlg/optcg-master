@@ -26,10 +26,15 @@
   "price_eur": 14.9,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/GolDRoger-OP09-118-V1?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World-Japanese/GolDRoger-OP09-118-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/597064",
   "pricecharting_url": "https://www.pricecharting.com/game/8091680",
   "price_min_eur": 14.9,
   "price_avg7_eur": 16.72,
-  "price_avg30_eur": 16.55
+  "price_avg30_eur": 16.55,
+  "slug": "op09-118-gol-d-roger",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op09-118-gol-d-roger",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op09-118-gol-d-roger",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op09-118-gol-d-roger",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op09-118-gol-d-roger"
 }

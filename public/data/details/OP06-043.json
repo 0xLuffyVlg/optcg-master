@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Wings-of-the-Captain-Japanese/Aramaki-OP06-043-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/541048",
   "pricecharting_url": null,
-  "price_min_eur": 0.5
+  "price_min_eur": 0.5,
+  "slug": "op06-043-aramaki",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op06-043-aramaki",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op06-043-aramaki",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op06-043-aramaki",
+  "scalpeurs_url_fr": null
 }

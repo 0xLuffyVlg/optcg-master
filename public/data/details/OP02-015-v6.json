@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/Makino-OP02-015-V2",
   "tcgplayer_url": "https://www.tcgplayer.com/product/593296",
   "pricecharting_url": null,
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "op02-015-makino-v6",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op02-015-makino-v6",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op02-015-makino-v6",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op02-015-makino-v6",
+  "scalpeurs_url_fr": null
 }

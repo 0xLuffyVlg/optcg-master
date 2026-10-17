@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue-Japanese/Kaido-OP04-044-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/513822",
   "pricecharting_url": null,
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "op04-044-kaido",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op04-044-kaido",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op04-044-kaido",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op04-044-kaido",
+  "scalpeurs_url_fr": null
 }

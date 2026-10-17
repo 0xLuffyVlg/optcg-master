@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 3.9,
   "price_avg7_eur": 4.4,
-  "price_avg30_eur": 4.48
+  "price_avg30_eur": 4.48,
+  "slug": "op08-119-kaido-linlin",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op08-119-kaido-linlin",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op08-119-kaido-linlin",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op08-119-kaido-linlin",
+  "scalpeurs_url_fr": null
 }

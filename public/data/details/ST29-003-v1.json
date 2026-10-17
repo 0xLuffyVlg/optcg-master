@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead-Asia-Region-Legal/Kaku-ST29-003-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/671554",
   "pricecharting_url": "https://www.pricecharting.com/game/11786218",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "st29-003-kaku",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st29-003-kaku",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st29-003-kaku",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st29-003-kaku",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st29-003-kaku"
 }

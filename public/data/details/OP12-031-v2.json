@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/10266403",
   "price_min_eur": 9.99,
   "price_avg7_eur": 0.08,
-  "price_avg30_eur": 0.12
+  "price_avg30_eur": 0.12,
+  "slug": "op12-031-tashigi-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op12-031-tashigi-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op12-031-tashigi-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op12-031-tashigi-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op12-031-tashigi-v2"
 }

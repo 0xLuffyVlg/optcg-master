@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 7.7,
-  "price_avg30_eur": 4.89
+  "price_avg30_eur": 4.89,
+  "slug": "op05-044-john-giant",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op05-044-john-giant",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op05-044-john-giant",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op05-044-john-giant",
+  "scalpeurs_url_fr": null
 }

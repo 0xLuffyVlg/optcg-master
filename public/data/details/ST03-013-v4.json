@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 40,
   "price_avg7_eur": 41.12,
-  "price_avg30_eur": 33.49
+  "price_avg30_eur": 33.49,
+  "slug": "st03-013-boa-hancock-v4",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st03-013-boa-hancock-v4",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st03-013-boa-hancock-v4",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st03-013-boa-hancock-v4",
+  "scalpeurs_url_fr": null
 }

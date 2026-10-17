@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11012008",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.81,
-  "price_avg30_eur": 0.67
+  "price_avg30_eur": 0.67,
+  "slug": "op13-034-brook",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op13-034-brook",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op13-034-brook",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op13-034-brook",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op13-034-brook"
 }

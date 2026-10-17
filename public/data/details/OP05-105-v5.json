@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 6.99,
   "price_avg7_eur": 7.3,
-  "price_avg30_eur": 10.42
+  "price_avg30_eur": 10.42,
+  "slug": "op05-105-satori-v5",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op05-105-satori-v5",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op05-105-satori-v5",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op05-105-satori-v5",
+  "scalpeurs_url_fr": null
 }

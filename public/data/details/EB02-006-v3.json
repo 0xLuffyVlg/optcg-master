@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/Yamato-EB02-006-V2",
   "tcgplayer_url": "https://www.tcgplayer.com/product/649704",
   "pricecharting_url": "https://www.pricecharting.com/game/9361515",
-  "price_min_eur": 3
+  "price_min_eur": 3,
+  "slug": "eb02-006-yamato-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb02-006-yamato-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb02-006-yamato-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb02-006-yamato-v3",
+  "scalpeurs_url_fr": null
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/9744518",
   "price_min_eur": 230,
   "price_avg7_eur": 346.92,
-  "price_avg30_eur": 340.17
+  "price_avg30_eur": 340.17,
+  "slug": "op11-080-gear-second-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op11-080-gear-second-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op11-080-gear-second-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op11-080-gear-second-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op11-080-gear-second-v2"
 }

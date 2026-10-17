@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 2.98,
   "price_avg7_eur": 3.45,
-  "price_avg30_eur": 4.06
+  "price_avg30_eur": 4.06,
+  "slug": "op05-051-borsalino-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op05-051-borsalino-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op05-051-borsalino-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op05-051-borsalino-v2",
+  "scalpeurs_url_fr": null
 }

@@ -26,10 +26,15 @@
   "price_eur": 0.49,
   "price_usd": 0.71,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-ONE-PIECE-FILM-edition/Douglas-Bullet-ST05-011",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-ONE-PIECE-FILM-edition-Japanese/Douglas-Bullet-ST05-011",
   "tcgplayer_url": "https://www.tcgplayer.com/product/477324",
   "pricecharting_url": null,
   "price_min_eur": 0.49,
   "price_avg7_eur": 0.77,
-  "price_avg30_eur": 1.03
+  "price_avg30_eur": 1.03,
+  "slug": "st05-011-douglas-bullet",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st05-011-douglas-bullet",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st05-011-douglas-bullet",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st05-011-douglas-bullet",
+  "scalpeurs_url_fr": null
 }

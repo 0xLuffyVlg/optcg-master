@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.31,
-  "price_avg30_eur": 0.25
+  "price_avg30_eur": 0.25,
+  "slug": "op06-032-hammond",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op06-032-hammond",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op06-032-hammond",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op06-032-hammond",
+  "scalpeurs_url_fr": null
 }

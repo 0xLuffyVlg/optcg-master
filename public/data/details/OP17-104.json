@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Cracker-OP17-104?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17-Japanese/Charlotte-Cracker-OP17-104",
   "tcgplayer_url": "https://www.tcgplayer.com/product/708209",
   "pricecharting_url": "https://www.pricecharting.com/game/14107652",
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.98,
-  "price_avg30_eur": 2.17
+  "price_avg30_eur": 2.17,
+  "slug": "op17-104-charlotte-cracker",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op17-104-charlotte-cracker",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op17-104-charlotte-cracker",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op17-104-charlotte-cracker",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op17-104-charlotte-cracker"
 }

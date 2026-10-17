@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 1.95,
   "price_avg7_eur": 2.76,
-  "price_avg30_eur": 2.63
+  "price_avg30_eur": 2.63,
+  "slug": "op08-015-dr-kureha-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op08-015-dr-kureha-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op08-015-dr-kureha-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op08-015-dr-kureha-v2",
+  "scalpeurs_url_fr": null
 }

@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island-Asia-Region-Legal/Rebecca-OP15-053-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/685399",
   "pricecharting_url": "https://www.pricecharting.com/game/12427275",
-  "price_min_eur": 0.7
+  "price_min_eur": 0.7,
+  "slug": "op15-053-rebecca",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op15-053-rebecca",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op15-053-rebecca",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op15-053-rebecca",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op15-053-rebecca"
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 59.99,
   "price_avg7_eur": 86,
-  "price_avg30_eur": 98.14
+  "price_avg30_eur": 98.14,
+  "slug": "prb01-001-sanji-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/prb01-001-sanji-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/prb01-001-sanji-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/prb01-001-sanji-v2",
+  "scalpeurs_url_fr": null
 }

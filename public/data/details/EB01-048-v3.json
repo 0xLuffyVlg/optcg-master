@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Laboon-EB01-048-V3",
   "tcgplayer_url": "https://www.tcgplayer.com/product/629758",
   "pricecharting_url": null,
-  "price_min_eur": 0.2
+  "price_min_eur": 0.2,
+  "slug": "eb01-048-laboon-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb01-048-laboon-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb01-048-laboon-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb01-048-laboon-v3",
+  "scalpeurs_url_fr": null
 }

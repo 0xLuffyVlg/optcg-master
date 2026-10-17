@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 3.9,
   "price_avg7_eur": 4.09,
-  "price_avg30_eur": 4.51
+  "price_avg30_eur": 4.51,
+  "slug": "op06-064-vinsmoke-niji-v4",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op06-064-vinsmoke-niji-v4",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op06-064-vinsmoke-niji-v4",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op06-064-vinsmoke-niji-v4",
+  "scalpeurs_url_fr": null
 }

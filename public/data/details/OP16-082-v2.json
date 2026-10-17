@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/13335611",
   "price_min_eur": 10,
   "price_avg7_eur": 11.33,
-  "price_avg30_eur": 10.71
+  "price_avg30_eur": 10.71,
+  "slug": "op16-082-kinemon-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op16-082-kinemon-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op16-082-kinemon-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op16-082-kinemon-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op16-082-kinemon-v2"
 }

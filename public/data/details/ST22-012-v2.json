@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/10472496",
   "price_min_eur": 2.48,
   "price_avg7_eur": 3.12,
-  "price_avg30_eur": 3.15
+  "price_avg30_eur": 3.15,
+  "slug": "st22-012-marco-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st22-012-marco-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st22-012-marco-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st22-012-marco-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st22-012-marco-v2"
 }

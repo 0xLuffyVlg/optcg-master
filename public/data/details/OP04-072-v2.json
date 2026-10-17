@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 2.7,
   "price_avg7_eur": 3.62,
-  "price_avg30_eur": 3.58
+  "price_avg30_eur": 3.58,
+  "slug": "op04-072-mr-5-gem-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op04-072-mr-5-gem-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op04-072-mr-5-gem-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op04-072-mr-5-gem-v2",
+  "scalpeurs_url_fr": null
 }

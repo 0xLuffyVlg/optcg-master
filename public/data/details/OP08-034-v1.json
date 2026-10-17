@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends-Non-English/Wanda-OP08-034",
   "tcgplayer_url": "https://www.tcgplayer.com/product/558061",
   "pricecharting_url": null,
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "op08-034-wanda",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op08-034-wanda",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op08-034-wanda",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op08-034-wanda",
+  "scalpeurs_url_fr": null
 }

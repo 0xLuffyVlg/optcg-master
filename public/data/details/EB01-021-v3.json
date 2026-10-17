@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 580,
   "price_avg7_eur": 375.9,
-  "price_avg30_eur": 177.87
+  "price_avg30_eur": 177.87,
+  "slug": "eb01-021-hannyabal-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb01-021-hannyabal-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb01-021-hannyabal-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb01-021-hannyabal-v3",
+  "scalpeurs_url_fr": null
 }

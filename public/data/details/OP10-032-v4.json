@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Tashigi-OP10-032",
   "tcgplayer_url": "https://www.tcgplayer.com/product/656104",
   "pricecharting_url": "https://www.pricecharting.com/game/8828228",
-  "price_min_eur": 0.05
+  "price_min_eur": 0.05,
+  "slug": "op10-032-tashigi-v4",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op10-032-tashigi-v4",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op10-032-tashigi-v4",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op10-032-tashigi-v4",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op10-032-tashigi-v4"
 }

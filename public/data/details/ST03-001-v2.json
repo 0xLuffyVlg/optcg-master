@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/Crocodile-ST03-001-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/567116",
   "pricecharting_url": null,
-  "price_min_eur": 24.88
+  "price_min_eur": 24.88,
+  "slug": "st03-001-crocodile-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st03-001-crocodile-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st03-001-crocodile-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st03-001-crocodile-v2",
+  "scalpeurs_url_fr": null
 }

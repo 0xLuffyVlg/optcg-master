@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 1.99,
   "price_avg7_eur": 966.25,
-  "price_avg30_eur": 637.11
+  "price_avg30_eur": 637.11,
+  "slug": "op03-123-charlotte-katakuri",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op03-123-charlotte-katakuri",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op03-123-charlotte-katakuri",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op03-123-charlotte-katakuri",
+  "scalpeurs_url_fr": null
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 29.9,
   "price_avg7_eur": 33.69,
-  "price_avg30_eur": 35.78
+  "price_avg30_eur": 35.78,
+  "slug": "op01-035-okiku-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op01-035-okiku-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op01-035-okiku-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op01-035-okiku-v3",
+  "scalpeurs_url_fr": null
 }

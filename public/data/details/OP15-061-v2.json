@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/12427283",
   "price_min_eur": 5,
   "price_avg7_eur": 7.73,
-  "price_avg30_eur": 7.13
+  "price_avg30_eur": 7.13,
+  "slug": "op15-061-om-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op15-061-om-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op15-061-om-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op15-061-om-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op15-061-om-v2"
 }

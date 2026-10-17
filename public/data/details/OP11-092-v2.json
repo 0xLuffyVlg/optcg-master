@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/9362352",
   "price_min_eur": 3,
   "price_avg7_eur": 4.6,
-  "price_avg30_eur": 4.73
+  "price_avg30_eur": 4.73,
+  "slug": "op11-092-hermep-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op11-092-hermep-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op11-092-hermep-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op11-092-hermep-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op11-092-hermep-v2"
 }

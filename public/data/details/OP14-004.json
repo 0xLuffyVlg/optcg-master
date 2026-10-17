@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11634217",
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.1,
-  "price_avg30_eur": 1.35
+  "price_avg30_eur": 1.35,
+  "slug": "op14-004-cavendish",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op14-004-cavendish",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op14-004-cavendish",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op14-004-cavendish",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op14-004-cavendish"
 }

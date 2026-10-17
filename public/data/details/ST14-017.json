@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-3D2Y-Japanese/Thousand-Sunny-ST14-017",
   "tcgplayer_url": "https://www.tcgplayer.com/product/656251",
   "pricecharting_url": null,
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "st14-017-thousand-sunny",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st14-017-thousand-sunny",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st14-017-thousand-sunny",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st14-017-thousand-sunny",
+  "scalpeurs_url_fr": null
 }

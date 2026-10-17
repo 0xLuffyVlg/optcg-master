@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": 0.14,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Reprints/Thrust-Pad-Cannon-ST03-016",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Reprints-Japanese/Thrust-Pad-Cannon-ST03-016",
   "tcgplayer_url": "https://www.tcgplayer.com/product/288290",
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.24,
-  "price_avg30_eur": 0.29
+  "price_avg30_eur": 0.29,
+  "slug": "st03-016-thrust-pad-cannon",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st03-016-thrust-pad-cannon",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st03-016-thrust-pad-cannon",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st03-016-thrust-pad-cannon",
+  "scalpeurs_url_fr": null
 }

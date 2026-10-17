@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 2.99,
   "price_avg7_eur": 3.45,
-  "price_avg30_eur": 4.15
+  "price_avg30_eur": 4.15,
+  "slug": "op04-013-pell-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op04-013-pell-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op04-013-pell-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op04-013-pell-v2",
+  "scalpeurs_url_fr": null
 }

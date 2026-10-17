@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Roronoa-Zoro-OP17-035?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17-Japanese/Roronoa-Zoro-OP17-035",
   "tcgplayer_url": "https://www.tcgplayer.com/product/712609",
   "pricecharting_url": "https://www.pricecharting.com/game/14107730",
   "price_min_eur": 0.02,
   "price_avg7_eur": 3.46,
-  "price_avg30_eur": 4.05
+  "price_avg30_eur": 4.05,
+  "slug": "op17-035-roronoa-zoro",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op17-035-roronoa-zoro",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op17-035-roronoa-zoro",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op17-035-roronoa-zoro",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op17-035-roronoa-zoro"
 }

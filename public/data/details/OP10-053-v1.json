@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/8828253",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.31,
-  "price_avg30_eur": 0.43
+  "price_avg30_eur": 0.43,
+  "slug": "op10-053-bee-anne",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op10-053-bee-anne",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op10-053-bee-anne",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op10-053-bee-anne",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op10-053-bee-anne"
 }

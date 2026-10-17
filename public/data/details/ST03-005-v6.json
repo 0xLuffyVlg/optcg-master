@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 3.49,
   "price_avg7_eur": 5.19,
-  "price_avg30_eur": 5
+  "price_avg30_eur": 5,
+  "slug": "st03-005-dracule-mihawk-v6",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st03-005-dracule-mihawk-v6",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st03-005-dracule-mihawk-v6",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st03-005-dracule-mihawk-v6",
+  "scalpeurs_url_fr": null
 }

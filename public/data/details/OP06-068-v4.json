@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 20,
   "price_avg7_eur": 19.6,
-  "price_avg30_eur": 19.39
+  "price_avg30_eur": 19.39,
+  "slug": "op06-068-vinsmoke-reiju-v4",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op06-068-vinsmoke-reiju-v4",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op06-068-vinsmoke-reiju-v4",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op06-068-vinsmoke-reiju-v4",
+  "scalpeurs_url_fr": null
 }

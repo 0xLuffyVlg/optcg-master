@@ -26,8 +26,13 @@
   "price_eur": 4.5,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-Charlotte-Katakuri/Charlotte-Linlin-ST34-004?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-Charlotte-Katakuri-Japanese/Charlotte-Linlin-ST34-004",
   "tcgplayer_url": "https://www.tcgplayer.com/product/706345",
   "pricecharting_url": "https://www.pricecharting.com/game/13768365",
-  "price_min_eur": 4.5
+  "price_min_eur": 4.5,
+  "slug": "st34-004-charlotte-linlin",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st34-004-charlotte-linlin",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st34-004-charlotte-linlin",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st34-004-charlotte-linlin",
+  "scalpeurs_url_fr": null
 }

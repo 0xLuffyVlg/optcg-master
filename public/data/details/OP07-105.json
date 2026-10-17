@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 3.73,
-  "price_avg30_eur": 2.55
+  "price_avg30_eur": 2.55,
+  "slug": "op07-105-pythagoras",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op07-105-pythagoras",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op07-105-pythagoras",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op07-105-pythagoras",
+  "scalpeurs_url_fr": null
 }

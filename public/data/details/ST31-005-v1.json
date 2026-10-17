@@ -26,10 +26,15 @@
   "price_eur": 3.95,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Red-MonkeyDLuffy/Thousand-Sunny-ST31-005?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Red-MonkeyDLuffy-Japanese/Thousand-Sunny-ST31-005",
   "tcgplayer_url": "https://www.tcgplayer.com/product/706318",
   "pricecharting_url": "https://www.pricecharting.com/game/13768324",
   "price_min_eur": 3.95,
   "price_avg7_eur": 3.54,
-  "price_avg30_eur": 3.21
+  "price_avg30_eur": 3.21,
+  "slug": "st31-005-thousand-sunny",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st31-005-thousand-sunny",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st31-005-thousand-sunny",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st31-005-thousand-sunny",
+  "scalpeurs_url_fr": null
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 115,
   "price_avg7_eur": 123.61,
-  "price_avg30_eur": 113.75
+  "price_avg30_eur": 113.75,
+  "slug": "op02-001-edward-newgate-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op02-001-edward-newgate-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op02-001-edward-newgate-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op02-001-edward-newgate-v2",
+  "scalpeurs_url_fr": null
 }

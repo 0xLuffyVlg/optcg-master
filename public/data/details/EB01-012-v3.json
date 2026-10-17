@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Special-Tournament-Promos-Japanese/Cavendish-EB01-012",
   "tcgplayer_url": "https://www.tcgplayer.com/product/590988",
   "pricecharting_url": null,
-  "price_min_eur": 0.8
+  "price_min_eur": 0.8,
+  "slug": "eb01-012-cavendish-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb01-012-cavendish-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb01-012-cavendish-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb01-012-cavendish-v3",
+  "scalpeurs_url_fr": null
 }

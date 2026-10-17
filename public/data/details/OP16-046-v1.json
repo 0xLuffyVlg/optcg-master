@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/13335555",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.72,
-  "price_avg30_eur": 0.92
+  "price_avg30_eur": 0.92,
+  "slug": "op16-046-jinbe",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op16-046-jinbe",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op16-046-jinbe",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op16-046-jinbe",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op16-046-jinbe"
 }

@@ -25,8 +25,13 @@
   "image_jp": "https://scalpeurs.com/img/cards-jp/eb05-p005.webp",
   "price_eur": null,
   "price_usd": null,
-  "cardmarket_url": null,
-  "cardmarket_url_jp": null,
+  "cardmarket_url": "https://scalpeurs.com/go/en/eb05-011-otohime/cm",
+  "cardmarket_url_jp": "https://scalpeurs.com/go/jp/eb05-011-otohime/cm",
   "tcgplayer_url": null,
-  "pricecharting_url": null
+  "pricecharting_url": null,
+  "slug": "eb05-011-otohime",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb05-011-otohime",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb05-011-otohime",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb05-011-otohime",
+  "scalpeurs_url_fr": null
 }

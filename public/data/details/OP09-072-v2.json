@@ -26,10 +26,15 @@
   "price_eur": 5,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Franky-OP09-072-V2?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World-Japanese/Franky-OP09-072-V2",
   "tcgplayer_url": "https://www.tcgplayer.com/product/597011",
   "pricecharting_url": "https://www.pricecharting.com/game/8091628",
   "price_min_eur": 5,
   "price_avg7_eur": 5.95,
-  "price_avg30_eur": 5.96
+  "price_avg30_eur": 5.96,
+  "slug": "op09-072-franky-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op09-072-franky-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op09-072-franky-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op09-072-franky-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op09-072-franky-v2"
 }

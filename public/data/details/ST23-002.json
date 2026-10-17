@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Red-Shanks-Non-English/Shanks-ST23-002",
   "tcgplayer_url": "https://www.tcgplayer.com/product/633762",
   "pricecharting_url": "https://www.pricecharting.com/game/10608175",
-  "price_min_eur": 0.99
+  "price_min_eur": 0.99,
+  "slug": "st23-002-shanks",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st23-002-shanks",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st23-002-shanks",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st23-002-shanks",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st23-002-shanks"
 }

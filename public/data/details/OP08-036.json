@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 2,
   "price_avg7_eur": 14.43,
-  "price_avg30_eur": 16.58
+  "price_avg30_eur": 16.58,
+  "slug": "op08-036-electrical-luna",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op08-036-electrical-luna",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op08-036-electrical-luna",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op08-036-electrical-luna",
+  "scalpeurs_url_fr": null
 }

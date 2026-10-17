@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 6,
   "price_avg7_eur": 7.2,
-  "price_avg30_eur": 8.79
+  "price_avg30_eur": 8.79,
+  "slug": "st13-016-yamato-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st13-016-yamato-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st13-016-yamato-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st13-016-yamato-v2",
+  "scalpeurs_url_fr": null
 }

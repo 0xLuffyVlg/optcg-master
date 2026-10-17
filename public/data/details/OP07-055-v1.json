@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": 0.11,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future/Snake-Dance-OP07-055",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/500-Years-into-the-Future-Japanese/Snake-Dance-OP07-055",
   "tcgplayer_url": "https://www.tcgplayer.com/product/545845",
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.85,
-  "price_avg30_eur": 1.09
+  "price_avg30_eur": 1.09,
+  "slug": "op07-055-snake-dance",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op07-055-snake-dance",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op07-055-snake-dance",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op07-055-snake-dance",
+  "scalpeurs_url_fr": null
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11012117",
   "price_min_eur": 2.5,
   "price_avg7_eur": 5.57,
-  "price_avg30_eur": 5.97
+  "price_avg30_eur": 5.97,
+  "slug": "op13-120-sabo",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op13-120-sabo",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op13-120-sabo",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op13-120-sabo",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op13-120-sabo"
 }

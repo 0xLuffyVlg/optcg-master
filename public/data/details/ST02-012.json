@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 4.14,
-  "price_avg30_eur": 1.98
+  "price_avg30_eur": 1.98,
+  "slug": "st02-012-bepo",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st02-012-bepo",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st02-012-bepo",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st02-012-bepo",
+  "scalpeurs_url_fr": null
 }

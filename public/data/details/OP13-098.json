@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11012088",
   "price_min_eur": 0.02,
   "price_avg7_eur": 7.63,
-  "price_avg30_eur": 7.9
+  "price_avg30_eur": 7.9,
+  "slug": "op13-098-aucun-pays-de-ce-nom-na-jamais-existe",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op13-098-aucun-pays-de-ce-nom-na-jamais-existe",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op13-098-aucun-pays-de-ce-nom-na-jamais-existe",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op13-098-aucun-pays-de-ce-nom-na-jamais-existe",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op13-098-aucun-pays-de-ce-nom-na-jamais-existe"
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 10,
   "price_avg7_eur": 12.33,
-  "price_avg30_eur": 13.16
+  "price_avg30_eur": 13.16,
+  "slug": "op05-115-two-hundred-million-volts-amaru-v5",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op05-115-two-hundred-million-volts-amaru-v5",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op05-115-two-hundred-million-volts-amaru-v5",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op05-115-two-hundred-million-volts-amaru-v5",
+  "scalpeurs_url_fr": null
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 61076.94,
   "price_avg7_eur": 6271.57,
-  "price_avg30_eur": 5160.23
+  "price_avg30_eur": 5160.23,
+  "slug": "st01-001-monkey-d-luffy-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st01-001-monkey-d-luffy-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st01-001-monkey-d-luffy-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st01-001-monkey-d-luffy-v2",
+  "scalpeurs_url_fr": null
 }

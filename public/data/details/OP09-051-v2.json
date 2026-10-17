@@ -26,10 +26,15 @@
   "price_eur": 12,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Buggy-OP09-051-V2?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World-Japanese/Buggy-OP09-051-V2",
   "tcgplayer_url": "https://www.tcgplayer.com/product/596983",
   "pricecharting_url": "https://www.pricecharting.com/game/8091603",
   "price_min_eur": 12,
   "price_avg7_eur": 699.99,
-  "price_avg30_eur": 675.29
+  "price_avg30_eur": 675.29,
+  "slug": "op09-051-buggy-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op09-051-buggy-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op09-051-buggy-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op09-051-buggy-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op09-051-buggy-v2"
 }

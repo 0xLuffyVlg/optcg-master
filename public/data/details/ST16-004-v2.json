@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/7969032",
   "price_min_eur": 129.99,
   "price_avg7_eur": 173.86,
-  "price_avg30_eur": 173.86
+  "price_avg30_eur": 173.86,
+  "slug": "st16-004-shanks-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st16-004-shanks-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st16-004-shanks-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st16-004-shanks-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st16-004-shanks-v2"
 }

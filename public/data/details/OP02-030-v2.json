@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 5.3,
   "price_avg7_eur": 7.11,
-  "price_avg30_eur": 8.18
+  "price_avg30_eur": 8.18,
+  "slug": "op02-030-kouzuki-oden-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op02-030-kouzuki-oden-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op02-030-kouzuki-oden-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op02-030-kouzuki-oden-v2",
+  "scalpeurs_url_fr": null
 }

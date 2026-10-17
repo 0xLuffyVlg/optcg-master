@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/13335466",
   "price_min_eur": 35,
   "price_avg7_eur": 36.56,
-  "price_avg30_eur": 37.9
+  "price_avg30_eur": 37.9,
+  "slug": "op16-001-portgas-d-ace-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op16-001-portgas-d-ace-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op16-001-portgas-d-ace-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op16-001-portgas-d-ace-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op16-001-portgas-d-ace-v2"
 }

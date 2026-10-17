@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection-Japanese/Roronoa-Zoro-EB02-019",
   "tcgplayer_url": "https://www.tcgplayer.com/product/629113",
   "pricecharting_url": "https://www.pricecharting.com/game/9361528",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "eb02-019-roronoa-zoro",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb02-019-roronoa-zoro",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb02-019-roronoa-zoro",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb02-019-roronoa-zoro",
+  "scalpeurs_url_fr": null
 }

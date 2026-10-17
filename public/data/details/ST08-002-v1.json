@@ -26,10 +26,15 @@
   "price_eur": 7.59,
   "price_usd": 1.03,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-MonkeyDLuffy/Uta-ST08-002",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-MonkeyDLuffy-Japanese/Uta-ST08-002",
   "tcgplayer_url": "https://www.tcgplayer.com/product/503230",
   "pricecharting_url": null,
   "price_min_eur": 7.59,
   "price_avg7_eur": 0.59,
-  "price_avg30_eur": 0.71
+  "price_avg30_eur": 0.71,
+  "slug": "st08-002-uta",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st08-002-uta",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st08-002-uta",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st08-002-uta",
+  "scalpeurs_url_fr": null
 }

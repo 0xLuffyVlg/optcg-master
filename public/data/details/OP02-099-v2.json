@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 6,
   "price_avg7_eur": 1889.25,
-  "price_avg30_eur": 1563.93
+  "price_avg30_eur": 1563.93,
+  "slug": "op02-099-sakazuki-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op02-099-sakazuki-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op02-099-sakazuki-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op02-099-sakazuki-v2",
+  "scalpeurs_url_fr": null
 }

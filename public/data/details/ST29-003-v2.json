@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11786218",
   "price_min_eur": 0.45,
   "price_avg7_eur": 0.69,
-  "price_avg30_eur": 0.71
+  "price_avg30_eur": 0.71,
+  "slug": "st29-003-kaku-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st29-003-kaku-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st29-003-kaku-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st29-003-kaku-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st29-003-kaku-v2"
 }

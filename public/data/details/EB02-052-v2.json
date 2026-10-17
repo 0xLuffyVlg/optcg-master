@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/9361561",
   "price_min_eur": 15,
   "price_avg7_eur": 19.86,
-  "price_avg30_eur": 20.06
+  "price_avg30_eur": 20.06,
+  "slug": "eb02-052-ener-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb02-052-ener-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb02-052-ener-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb02-052-ener-v2",
+  "scalpeurs_url_fr": null
 }

@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Blue-Buggy-Non-English/Buggy-ST25-004",
   "tcgplayer_url": "https://www.tcgplayer.com/product/634232",
   "pricecharting_url": "https://www.pricecharting.com/game/10032918",
-  "price_min_eur": 0.44
+  "price_min_eur": 0.44,
+  "slug": "st25-004-baggy",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st25-004-baggy",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st25-004-baggy",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st25-004-baggy",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st25-004-baggy"
 }

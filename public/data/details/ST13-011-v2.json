@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 6.5,
   "price_avg7_eur": 8.41,
-  "price_avg30_eur": 8.17
+  "price_avg30_eur": 8.17,
+  "slug": "st13-011-portgas-d-ace-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st13-011-portgas-d-ace-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st13-011-portgas-d-ace-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st13-011-portgas-d-ace-v2",
+  "scalpeurs_url_fr": null
 }

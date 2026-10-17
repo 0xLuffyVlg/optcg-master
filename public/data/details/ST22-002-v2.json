@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/10472480",
   "price_min_eur": 5,
   "price_avg7_eur": 5.02,
-  "price_avg30_eur": 5.71
+  "price_avg30_eur": 5.71,
+  "slug": "st22-002-izo-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st22-002-izo-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st22-002-izo-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st22-002-izo-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st22-002-izo-v2"
 }

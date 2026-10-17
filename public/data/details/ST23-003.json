@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Red-Shanks-Non-English/BennBeckman-ST23-003",
   "tcgplayer_url": "https://www.tcgplayer.com/product/633763",
   "pricecharting_url": "https://www.pricecharting.com/game/12766045",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "st23-003-ben-beckmann",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st23-003-ben-beckmann",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st23-003-ben-beckmann",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st23-003-ben-beckmann",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st23-003-ben-beckmann"
 }

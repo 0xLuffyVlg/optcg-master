@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 9,
   "price_avg7_eur": 11.92,
-  "price_avg30_eur": 11.17
+  "price_avg30_eur": 11.17,
+  "slug": "st04-003-kaido-v5",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st04-003-kaido-v5",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st04-003-kaido-v5",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st04-003-kaido-v5",
+  "scalpeurs_url_fr": null
 }

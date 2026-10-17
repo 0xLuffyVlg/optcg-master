@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 7.48,
-  "price_avg30_eur": 3.94
+  "price_avg30_eur": 3.94,
+  "slug": "op07-098-atlas",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op07-098-atlas",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op07-098-atlas",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op07-098-atlas",
+  "scalpeurs_url_fr": null
 }

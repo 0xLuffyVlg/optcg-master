@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 43.98,
   "price_avg7_eur": 47.88,
-  "price_avg30_eur": 54.62
+  "price_avg30_eur": 54.62,
+  "slug": "op02-049-emporio-ivankov-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op02-049-emporio-ivankov-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op02-049-emporio-ivankov-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op02-049-emporio-ivankov-v2",
+  "scalpeurs_url_fr": null
 }

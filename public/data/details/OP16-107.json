@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/13335598",
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.43,
-  "price_avg30_eur": 1.48
+  "price_avg30_eur": 1.48,
+  "slug": "op16-107-jesus-burgess",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op16-107-jesus-burgess",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op16-107-jesus-burgess",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op16-107-jesus-burgess",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op16-107-jesus-burgess"
 }

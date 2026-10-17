@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 280.25,
-  "price_avg30_eur": 275.79
+  "price_avg30_eur": 275.79,
+  "slug": "op01-077-perona",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op01-077-perona",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op01-077-perona",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op01-077-perona",
+  "scalpeurs_url_fr": null
 }

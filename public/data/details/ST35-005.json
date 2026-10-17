@@ -26,8 +26,13 @@
   "price_eur": 0.44,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-RedBlack-Sabo/Bartholomew-Kuma-ST35-005?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-RedBlack-Sabo-Japanese/Bartholomew-Kuma-ST35-005",
   "tcgplayer_url": "https://www.tcgplayer.com/product/706355",
   "pricecharting_url": "https://www.pricecharting.com/game/13768372",
-  "price_min_eur": 0.44
+  "price_min_eur": 0.44,
+  "slug": "st35-005-bartholomew-kuma",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st35-005-bartholomew-kuma",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st35-005-bartholomew-kuma",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st35-005-bartholomew-kuma",
+  "scalpeurs_url_fr": null
 }

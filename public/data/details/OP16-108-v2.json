@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/13335599",
   "price_min_eur": 5,
   "price_avg7_eur": 7.73,
-  "price_avg30_eur": 6.94
+  "price_avg30_eur": 6.94,
+  "slug": "op16-108-shiliew-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op16-108-shiliew-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op16-108-shiliew-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op16-108-shiliew-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op16-108-shiliew-v2"
 }

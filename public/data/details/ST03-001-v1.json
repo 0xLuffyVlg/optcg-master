@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 24.88,
   "price_avg7_eur": 88.43,
-  "price_avg30_eur": 88.09
+  "price_avg30_eur": 88.09,
+  "slug": "st03-001-crocodile",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st03-001-crocodile",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st03-001-crocodile",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st03-001-crocodile",
+  "scalpeurs_url_fr": null
 }

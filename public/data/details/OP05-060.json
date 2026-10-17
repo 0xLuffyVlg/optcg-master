@@ -23,13 +23,18 @@
   "image_fr": "https://scalpeurs.com/img/cards-fr/st18-p001.webp",
   "image_en": "https://scalpeurs.com/img/cards-en/op05-p072.webp",
   "image_jp": "https://scalpeurs.com/img/cards-jp/op05-p072.webp",
-  "price_eur": 0.5,
+  "price_eur": 0.02,
   "price_usd": 0.51,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era/MonkeyDLuffy-OP05-060-V1",
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/MonkeyDLuffy-OP05-060-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/528616",
   "pricecharting_url": null,
-  "price_min_eur": 0.5,
+  "price_min_eur": 0.02,
   "price_avg7_eur": 69.49,
-  "price_avg30_eur": 58.5
+  "price_avg30_eur": 58.5,
+  "slug": "op05-060-monkey-d-luffy",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op05-060-monkey-d-luffy",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op05-060-monkey-d-luffy",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op05-060-monkey-d-luffy",
+  "scalpeurs_url_fr": null
 }

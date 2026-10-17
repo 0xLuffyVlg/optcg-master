@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/8828319",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.79,
-  "price_avg30_eur": 0.74
+  "price_avg30_eur": 0.74,
+  "slug": "op10-112-eustass-captain-kidd",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op10-112-eustass-captain-kidd",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op10-112-eustass-captain-kidd",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op10-112-eustass-captain-kidd",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op10-112-eustass-captain-kidd"
 }

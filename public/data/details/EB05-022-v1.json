@@ -25,8 +25,13 @@
   "image_jp": "https://scalpeurs.com/img/cards-jp/eb05-p010.webp",
   "price_eur": null,
   "price_usd": null,
-  "cardmarket_url": null,
-  "cardmarket_url_jp": null,
+  "cardmarket_url": "https://scalpeurs.com/go/en/eb05-022-octopako/cm",
+  "cardmarket_url_jp": "https://scalpeurs.com/go/jp/eb05-022-octopako/cm",
   "tcgplayer_url": null,
-  "pricecharting_url": null
+  "pricecharting_url": null,
+  "slug": "eb05-022-octopako",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb05-022-octopako",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb05-022-octopako",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb05-022-octopako",
+  "scalpeurs_url_fr": null
 }

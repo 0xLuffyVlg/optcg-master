@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 3.3,
   "price_avg7_eur": 3.59,
-  "price_avg30_eur": 3.76
+  "price_avg30_eur": 3.76,
+  "slug": "op03-113-charlotte-perospero-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op03-113-charlotte-perospero-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op03-113-charlotte-perospero-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op03-113-charlotte-perospero-v2",
+  "scalpeurs_url_fr": null
 }

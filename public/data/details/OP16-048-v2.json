@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/13335482",
   "price_min_eur": 5,
   "price_avg7_eur": 5.07,
-  "price_avg30_eur": 4.86
+  "price_avg30_eur": 4.86,
+  "slug": "op16-048-baggy-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op16-048-baggy-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op16-048-baggy-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op16-048-baggy-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op16-048-baggy-v2"
 }

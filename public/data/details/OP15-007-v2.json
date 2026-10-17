@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/12427224",
   "price_min_eur": 3,
   "price_avg7_eur": 3.09,
-  "price_avg30_eur": 3.86
+  "price_avg30_eur": 3.86,
+  "slug": "op15-007-gyn-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op15-007-gyn-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op15-007-gyn-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op15-007-gyn-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op15-007-gyn-v2"
 }

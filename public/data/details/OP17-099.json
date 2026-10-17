@@ -26,8 +26,13 @@
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Charlotte-Linlin-OP17-099-V1?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17-Japanese/Charlotte-Linlin-OP17-099-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/707138",
   "pricecharting_url": "https://www.pricecharting.com/game/14107638",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "op17-099-charlotte-linlin",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op17-099-charlotte-linlin",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op17-099-charlotte-linlin",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op17-099-charlotte-linlin",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op17-099-charlotte-linlin"
 }

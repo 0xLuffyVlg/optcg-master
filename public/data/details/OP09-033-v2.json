@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": 0.4,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2/Nico-Robin-OP09-033-V2?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol2-Japanese/Nico-Robin-OP09-033-V2",
   "tcgplayer_url": "https://www.tcgplayer.com/product/656050",
   "pricecharting_url": "https://www.pricecharting.com/game/8091579",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.1,
-  "price_avg30_eur": 0.12
+  "price_avg30_eur": 0.12,
+  "slug": "op09-033-nico-robin-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op09-033-nico-robin-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op09-033-nico-robin-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op09-033-nico-robin-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op09-033-nico-robin-v2"
 }

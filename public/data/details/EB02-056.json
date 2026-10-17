@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Anime-25th-Collection-Japanese/Vegapunk-EB02-056-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/629159",
   "pricecharting_url": "https://www.pricecharting.com/game/9361564",
-  "price_min_eur": 1.2
+  "price_min_eur": 1.2,
+  "slug": "eb02-056-vegapunk",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb02-056-vegapunk",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb02-056-vegapunk",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb02-056-vegapunk",
+  "scalpeurs_url_fr": null
 }

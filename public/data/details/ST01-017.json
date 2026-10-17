@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 16.14,
-  "price_avg30_eur": 13.89
+  "price_avg30_eur": 13.89,
+  "slug": "st01-017-thousand-sunny",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st01-017-thousand-sunny",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st01-017-thousand-sunny",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st01-017-thousand-sunny",
+  "scalpeurs_url_fr": null
 }

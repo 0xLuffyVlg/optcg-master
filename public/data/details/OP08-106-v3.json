@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 560,
   "price_avg7_eur": 683.5,
-  "price_avg30_eur": 668.61
+  "price_avg30_eur": 668.61,
+  "slug": "op08-106-nami-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op08-106-nami-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op08-106-nami-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op08-106-nami-v3",
+  "scalpeurs_url_fr": null
 }

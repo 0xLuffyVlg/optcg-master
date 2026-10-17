@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Non-English/Nami-OP10-013",
   "tcgplayer_url": "https://www.tcgplayer.com/product/617046",
   "pricecharting_url": "https://www.pricecharting.com/game/8828205",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "op10-013-nami",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op10-013-nami",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op10-013-nami",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op10-013-nami",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op10-013-nami"
 }

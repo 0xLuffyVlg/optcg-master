@@ -26,8 +26,13 @@
   "price_eur": 0.2,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Blue-Kuzan/Smoker-ST33-003?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Blue-Kuzan-Japanese/Smoker-ST33-003",
   "tcgplayer_url": "https://www.tcgplayer.com/product/706334",
   "pricecharting_url": "https://www.pricecharting.com/game/13768354",
-  "price_min_eur": 0.2
+  "price_min_eur": 0.2,
+  "slug": "st33-003-smoker",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st33-003-smoker",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st33-003-smoker",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st33-003-smoker",
+  "scalpeurs_url_fr": null
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/13426341",
   "price_min_eur": 1.5,
   "price_avg7_eur": 1.93,
-  "price_avg30_eur": 2.06
+  "price_avg30_eur": 2.06,
+  "slug": "st30-010-crocodile-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st30-010-crocodile-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st30-010-crocodile-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st30-010-crocodile-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st30-010-crocodile-v2"
 }

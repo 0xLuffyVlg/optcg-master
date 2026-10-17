@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Nobody-Hurts-a-Friend-of-Mine-OP09-019?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World-Japanese/Nobody-Hurts-a-Friend-of-Mine-OP09-019",
   "tcgplayer_url": "https://www.tcgplayer.com/product/596943",
   "pricecharting_url": "https://www.pricecharting.com/game/8091566",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.55,
-  "price_avg30_eur": 0.5
+  "price_avg30_eur": 0.5,
+  "slug": "op09-019-sous-aucun-pretexte-je-ne-pardonnerai-a-ceux-qui-sen-prennent-a-mes-amis",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op09-019-sous-aucun-pretexte-je-ne-pardonnerai-a-ceux-qui-sen-prennent-a-mes-amis",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op09-019-sous-aucun-pretexte-je-ne-pardonnerai-a-ceux-qui-sen-prennent-a-mes-amis",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op09-019-sous-aucun-pretexte-je-ne-pardonnerai-a-ceux-qui-sen-prennent-a-mes-amis",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op09-019-sous-aucun-pretexte-je-ne-pardonnerai-a-ceux-qui-sen-prennent-a-mes-amis"
 }

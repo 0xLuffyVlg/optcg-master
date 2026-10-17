@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.05,
-  "price_avg30_eur": 0.04
+  "price_avg30_eur": 0.04,
+  "slug": "st03-005-dracule-mihawk-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st03-005-dracule-mihawk-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st03-005-dracule-mihawk-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st03-005-dracule-mihawk-v2",
+  "scalpeurs_url_fr": null
 }

@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven-Asia-Region-Legal/Ever-White-OP14-076",
   "tcgplayer_url": "https://www.tcgplayer.com/product/671411",
   "pricecharting_url": "https://www.pricecharting.com/game/11634363",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "op14-076-ever-white",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op14-076-ever-white",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op14-076-ever-white",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op14-076-ever-white",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op14-076-ever-white"
 }

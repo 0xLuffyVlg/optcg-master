@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.12,
   "price_avg7_eur": 0.32,
-  "price_avg30_eur": 0.33
+  "price_avg30_eur": 0.33,
+  "slug": "eb01-046-brook",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb01-046-brook",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb01-046-brook",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb01-046-brook",
+  "scalpeurs_url_fr": null
 }

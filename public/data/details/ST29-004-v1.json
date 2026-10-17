@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Egghead-Asia-Region-Legal/Sanji-ST29-004-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/671557",
   "pricecharting_url": "https://www.pricecharting.com/game/11786220",
-  "price_min_eur": 0.04
+  "price_min_eur": 0.04,
+  "slug": "st29-004-sanji",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st29-004-sanji",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st29-004-sanji",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st29-004-sanji",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st29-004-sanji"
 }

@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal/Distorted-Future-EB04-008",
   "tcgplayer_url": "https://www.tcgplayer.com/product/685305",
   "pricecharting_url": "https://www.pricecharting.com/game/12427189",
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "eb04-008-distortion-future",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb04-008-distortion-future",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb04-008-distortion-future",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb04-008-distortion-future",
+  "scalpeurs_url_fr": null
 }

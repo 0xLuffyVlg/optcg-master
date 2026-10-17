@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11786238",
   "price_min_eur": 0.8,
   "price_avg7_eur": 1.08,
-  "price_avg30_eur": 1.23
+  "price_avg30_eur": 1.23,
+  "slug": "st29-013-rob-lucci-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/st29-013-rob-lucci-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st29-013-rob-lucci-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st29-013-rob-lucci-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/st29-013-rob-lucci-v2"
 }

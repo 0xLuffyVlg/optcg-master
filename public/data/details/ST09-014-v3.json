@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.99,
   "price_avg7_eur": 0.6,
-  "price_avg30_eur": 0.74
+  "price_avg30_eur": 0.74,
+  "slug": "st09-014-narikabura-arrow-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st09-014-narikabura-arrow-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st09-014-narikabura-arrow-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st09-014-narikabura-arrow-v3",
+  "scalpeurs_url_fr": null
 }

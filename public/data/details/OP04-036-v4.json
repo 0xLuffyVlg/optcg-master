@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/Donquixote-Family-OP04-036-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/593430",
   "pricecharting_url": null,
-  "price_min_eur": 0.49
+  "price_min_eur": 0.49,
+  "slug": "op04-036-donquixote-family-v4",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op04-036-donquixote-family-v4",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op04-036-donquixote-family-v4",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op04-036-donquixote-family-v4",
+  "scalpeurs_url_fr": null
 }

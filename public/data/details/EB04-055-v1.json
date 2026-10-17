@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/12427205",
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.55,
-  "price_avg30_eur": 1.75
+  "price_avg30_eur": 1.75,
+  "slug": "eb04-055-bartholomew-kuma",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb04-055-bartholomew-kuma",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb04-055-bartholomew-kuma",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb04-055-bartholomew-kuma",
+  "scalpeurs_url_fr": null
 }

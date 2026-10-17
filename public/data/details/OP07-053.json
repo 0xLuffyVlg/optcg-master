@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 2.7,
   "price_avg7_eur": 18.67,
-  "price_avg30_eur": 29.83
+  "price_avg30_eur": 29.83,
+  "slug": "op07-053-portgas-d-ace",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op07-053-portgas-d-ace",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op07-053-portgas-d-ace",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op07-053-portgas-d-ace",
+  "scalpeurs_url_fr": null
 }

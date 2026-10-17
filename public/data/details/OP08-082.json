@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends-Non-English/Sasaki-OP08-082",
   "tcgplayer_url": "https://www.tcgplayer.com/product/558118",
   "pricecharting_url": null,
-  "price_min_eur": 6
+  "price_min_eur": 6,
+  "slug": "op08-082-sasaki",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op08-082-sasaki",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op08-082-sasaki",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op08-082-sasaki",
+  "scalpeurs_url_fr": null
 }

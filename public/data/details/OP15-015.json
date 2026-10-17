@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/12427231",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.19,
-  "price_avg30_eur": 0.27
+  "price_avg30_eur": 0.27,
+  "slug": "op15-015-higuma",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op15-015-higuma",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op15-015-higuma",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op15-015-higuma",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op15-015-higuma"
 }

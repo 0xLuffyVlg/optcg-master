@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 3.18,
   "price_avg7_eur": 3.74,
-  "price_avg30_eur": 4.07
+  "price_avg30_eur": 4.07,
+  "slug": "op03-066-paulie-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op03-066-paulie-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op03-066-paulie-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op03-066-paulie-v2",
+  "scalpeurs_url_fr": null
 }

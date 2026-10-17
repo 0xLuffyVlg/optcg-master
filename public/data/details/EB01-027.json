@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 39.99,
   "price_avg7_eur": 17.41,
-  "price_avg30_eur": 11.46
+  "price_avg30_eur": 11.46,
+  "slug": "eb01-027-mr-1-daz-bonez",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb01-027-mr-1-daz-bonez",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb01-027-mr-1-daz-bonez",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb01-027-mr-1-daz-bonez",
+  "scalpeurs_url_fr": null
 }

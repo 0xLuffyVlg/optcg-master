@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 219,
   "price_avg7_eur": 6.97,
-  "price_avg30_eur": 8.85
+  "price_avg30_eur": 8.85,
+  "slug": "st01-004-sanji",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st01-004-sanji",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st01-004-sanji",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st01-004-sanji",
+  "scalpeurs_url_fr": null
 }

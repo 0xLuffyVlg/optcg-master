@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Silvers-Rayleigh-OP14-108?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven-Japanese/Silvers-Rayleigh-OP14-108",
   "tcgplayer_url": "https://www.tcgplayer.com/product/671438",
   "pricecharting_url": "https://www.pricecharting.com/game/11634311",
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.56,
-  "price_avg30_eur": 1.53
+  "price_avg30_eur": 1.53,
+  "slug": "op14-108-silvers-rayleigh",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op14-108-silvers-rayleigh",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op14-108-silvers-rayleigh",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op14-108-silvers-rayleigh",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op14-108-silvers-rayleigh"
 }

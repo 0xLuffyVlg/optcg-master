@@ -26,8 +26,13 @@
   "price_eur": 2399,
   "price_usd": 0.65,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Absolute-Justice/MonkeyDGarp-ST06-012",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Absolute-Justice-Japanese/MonkeyDGarp-ST06-012",
   "tcgplayer_url": "https://www.tcgplayer.com/product/485253",
   "pricecharting_url": null,
-  "price_min_eur": 2399
+  "price_min_eur": 2399,
+  "slug": "st06-012-monkey-d-garp",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st06-012-monkey-d-garp",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st06-012-monkey-d-garp",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st06-012-monkey-d-garp",
+  "scalpeurs_url_fr": null
 }

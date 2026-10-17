@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 64.99,
   "price_avg7_eur": 66.56,
-  "price_avg30_eur": 70.24
+  "price_avg30_eur": 70.24,
+  "slug": "eb01-057-shirahoshi-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb01-057-shirahoshi-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb01-057-shirahoshi-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb01-057-shirahoshi-v3",
+  "scalpeurs_url_fr": null
 }

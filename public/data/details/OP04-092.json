@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 2,
   "price_avg7_eur": 5.61,
-  "price_avg30_eur": 7.45
+  "price_avg30_eur": 7.45,
+  "slug": "op04-092-rebecca",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op04-092-rebecca",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op04-092-rebecca",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op04-092-rebecca",
+  "scalpeurs_url_fr": null
 }

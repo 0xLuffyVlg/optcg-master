@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Non-English/Sanji-PRB01-001-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/586607",
   "pricecharting_url": null,
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "prb01-001-sanji",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/prb01-001-sanji",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/prb01-001-sanji",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/prb01-001-sanji",
+  "scalpeurs_url_fr": null
 }

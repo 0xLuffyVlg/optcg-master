@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 2.9,
   "price_avg7_eur": 3.6,
-  "price_avg30_eur": 3.62
+  "price_avg30_eur": 3.62,
+  "slug": "op01-021-franky-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op01-021-franky-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op01-021-franky-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op01-021-franky-v2",
+  "scalpeurs_url_fr": null
 }

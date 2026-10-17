@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 273.43,
-  "price_avg30_eur": 198.65
+  "price_avg30_eur": 198.65,
+  "slug": "op06-092-brook",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op06-092-brook",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op06-092-brook",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op06-092-brook",
+  "scalpeurs_url_fr": null
 }

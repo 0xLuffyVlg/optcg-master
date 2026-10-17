@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 10.48,
-  "price_avg30_eur": 8.83
+  "price_avg30_eur": 8.83,
+  "slug": "op05-085-nefeltari-cobra",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op05-085-nefeltari-cobra",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op05-085-nefeltari-cobra",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op05-085-nefeltari-cobra",
+  "scalpeurs_url_fr": null
 }

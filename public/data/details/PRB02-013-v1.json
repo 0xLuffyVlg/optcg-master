@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Gecko-Moria-PRB02-013-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/653842",
   "pricecharting_url": null,
-  "price_min_eur": 0.45
+  "price_min_eur": 0.45,
+  "slug": "prb02-013-gecko-moria",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/prb02-013-gecko-moria",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/prb02-013-gecko-moria",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/prb02-013-gecko-moria",
+  "scalpeurs_url_fr": null
 }

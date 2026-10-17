@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/8828225",
   "price_min_eur": 0.1,
   "price_avg7_eur": 1.21,
-  "price_avg30_eur": 1.43
+  "price_avg30_eur": 1.43,
+  "slug": "op10-030-smoker",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op10-030-smoker",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op10-030-smoker",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op10-030-smoker",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op10-030-smoker"
 }

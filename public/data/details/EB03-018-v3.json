@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/12054369",
   "price_min_eur": 105,
   "price_avg7_eur": 137.84,
-  "price_avg30_eur": 127.54
+  "price_avg30_eur": 127.54,
+  "slug": "eb03-018-tashigi-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb03-018-tashigi-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb03-018-tashigi-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb03-018-tashigi-v3",
+  "scalpeurs_url_fr": null
 }

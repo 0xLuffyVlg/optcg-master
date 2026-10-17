@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 1.07,
-  "price_avg30_eur": 0.98
+  "price_avg30_eur": 0.98,
+  "slug": "eb01-049-t-bone",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb01-049-t-bone",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb01-049-t-bone",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb01-049-t-bone",
+  "scalpeurs_url_fr": null
 }

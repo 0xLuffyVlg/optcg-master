@@ -26,10 +26,15 @@
   "price_eur": 2.5,
   "price_usd": 0.17,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best/Helmeppo-ST06-010-V1",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Japanese/Helmeppo-ST06-010-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/593673",
   "pricecharting_url": null,
   "price_min_eur": 2.5,
   "price_avg7_eur": 3.27,
-  "price_avg30_eur": 3.34
+  "price_avg30_eur": 3.34,
+  "slug": "st06-010-helmeppo-v4",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st06-010-helmeppo-v4",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st06-010-helmeppo-v4",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st06-010-helmeppo-v4",
+  "scalpeurs_url_fr": null
 }

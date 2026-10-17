@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11634282",
   "price_min_eur": 4,
   "price_avg7_eur": 3.8,
-  "price_avg30_eur": 4.18
+  "price_avg30_eur": 4.18,
+  "slug": "op14-042-arlong-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op14-042-arlong-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op14-042-arlong-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op14-042-arlong-v2",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op14-042-arlong-v2"
 }

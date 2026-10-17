@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Nico-Robin-OP09-071?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World-Japanese/Nico-Robin-OP09-071",
   "tcgplayer_url": "https://www.tcgplayer.com/product/597010",
   "pricecharting_url": "https://www.pricecharting.com/game/8091629",
   "price_min_eur": 0.02,
   "price_avg7_eur": 12.66,
-  "price_avg30_eur": 10.31
+  "price_avg30_eur": 10.31,
+  "slug": "op09-071-nico-robin",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op09-071-nico-robin",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op09-071-nico-robin",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op09-071-nico-robin",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op09-071-nico-robin"
 }

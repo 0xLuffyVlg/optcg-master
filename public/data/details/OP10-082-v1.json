@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Royal-Blood-Non-English/Kuzan-OP10-082-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/617128",
   "pricecharting_url": "https://www.pricecharting.com/game/8828286",
-  "price_min_eur": 0.35
+  "price_min_eur": 0.35,
+  "slug": "op10-082-kuzan",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op10-082-kuzan",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op10-082-kuzan",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op10-082-kuzan",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op10-082-kuzan"
 }

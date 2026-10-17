@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World/Soul-Franky-Swing-Arm-Boxing-Solid-OP09-041?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Emperors-in-the-New-World-Japanese/Soul-Franky-Swing-Arm-Boxing-Solid-OP09-041",
   "tcgplayer_url": "https://www.tcgplayer.com/product/596969",
   "pricecharting_url": "https://www.pricecharting.com/game/8091589",
   "price_min_eur": 0.02,
   "price_avg7_eur": 0.41,
-  "price_avg30_eur": 0.37
+  "price_avg30_eur": 0.37,
+  "slug": "op09-041-soul-franky-swing-arm-boxing-solid",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op09-041-soul-franky-swing-arm-boxing-solid",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op09-041-soul-franky-swing-arm-boxing-solid",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op09-041-soul-franky-swing-arm-boxing-solid",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op09-041-soul-franky-swing-arm-boxing-solid"
 }

@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Best-Vol-2-Non-English/Oh-Come-My-Way-EB01-038-V2",
   "tcgplayer_url": "https://www.tcgplayer.com/product/544571",
   "pricecharting_url": null,
-  "price_min_eur": 0.02
+  "price_min_eur": 0.02,
+  "slug": "eb01-038-oh-come-my-way",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb01-038-oh-come-my-way",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb01-038-oh-come-my-way",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb01-038-oh-come-my-way",
+  "scalpeurs_url_fr": null
 }

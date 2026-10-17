@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 1,
   "price_avg7_eur": 2.23,
-  "price_avg30_eur": 1.98
+  "price_avg30_eur": 1.98,
+  "slug": "op02-009-squard-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op02-009-squard-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op02-009-squard-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op02-009-squard-v2",
+  "scalpeurs_url_fr": null
 }

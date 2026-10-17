@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 5000,
   "price_avg7_eur": null,
-  "price_avg30_eur": null
+  "price_avg30_eur": null,
+  "slug": "op05-062-o-nami-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op05-062-o-nami-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op05-062-o-nami-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op05-062-o-nami-v2",
+  "scalpeurs_url_fr": null
 }

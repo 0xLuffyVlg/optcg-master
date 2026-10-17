@@ -26,8 +26,13 @@
   "price_eur": 4200,
   "price_usd": 67.4,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/MonkeyDLuffy-EB04-061-V2?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island-Japanese/MonkeyDLuffy-EB04-061-V2",
   "tcgplayer_url": "https://www.tcgplayer.com/product/685334",
   "pricecharting_url": "https://www.pricecharting.com/game/12427215",
-  "price_min_eur": 4200
+  "price_min_eur": 4200,
+  "slug": "eb04-061-monkey-d-luffy-v3",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb04-061-monkey-d-luffy-v3",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb04-061-monkey-d-luffy-v3",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb04-061-monkey-d-luffy-v3",
+  "scalpeurs_url_fr": null
 }

@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": 0.17,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master/I-Love-You-OP12-115?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Legacy-of-the-Master-Japanese/I-Love-You-OP12-115",
   "tcgplayer_url": "https://www.tcgplayer.com/product/643862",
   "pricecharting_url": "https://www.pricecharting.com/game/10266500",
   "price_min_eur": 0.02,
   "price_avg7_eur": 5.9,
-  "price_avg30_eur": 3.08
+  "price_avg30_eur": 3.08,
+  "slug": "op12-115-je-taime-fort",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op12-115-je-taime-fort",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op12-115-je-taime-fort",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op12-115-je-taime-fort",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op12-115-je-taime-fort"
 }

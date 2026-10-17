@@ -26,10 +26,15 @@
   "price_eur": 0.02,
   "price_usd": null,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/PortgasDAce-OP17-013?language=2",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17-Japanese/PortgasDAce-OP17-013",
   "tcgplayer_url": "https://www.tcgplayer.com/product/708780",
   "pricecharting_url": "https://www.pricecharting.com/game/14107659",
   "price_min_eur": 0.02,
   "price_avg7_eur": 2.58,
-  "price_avg30_eur": 2.78
+  "price_avg30_eur": 2.78,
+  "slug": "op17-013-portgas-d-ace",
+  "scalpeurs_url": "https://scalpeurs.com/carte-francaise/op17-013-portgas-d-ace",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op17-013-portgas-d-ace",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op17-013-portgas-d-ace",
+  "scalpeurs_url_fr": "https://scalpeurs.com/carte-francaise/op17-013-portgas-d-ace"
 }

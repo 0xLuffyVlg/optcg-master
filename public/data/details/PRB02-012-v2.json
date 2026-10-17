@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 9.99,
   "price_avg7_eur": 21.31,
-  "price_avg30_eur": 19.08
+  "price_avg30_eur": 19.08,
+  "slug": "prb02-012-nami-v2",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/prb02-012-nami-v2",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/prb02-012-nami-v2",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/prb02-012-nami-v2",
+  "scalpeurs_url_fr": null
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.5,
   "price_avg7_eur": 0.46,
-  "price_avg30_eur": 0.41
+  "price_avg30_eur": 0.41,
+  "slug": "st02-014-x-drake",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st02-014-x-drake",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st02-014-x-drake",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st02-014-x-drake",
+  "scalpeurs_url_fr": null
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 0.02,
   "price_avg7_eur": 3.1,
-  "price_avg30_eur": 1.66
+  "price_avg30_eur": 1.66,
+  "slug": "op07-060-itomimizu",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op07-060-itomimizu",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op07-060-itomimizu",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op07-060-itomimizu",
+  "scalpeurs_url_fr": null
 }

@@ -31,5 +31,10 @@
   "pricecharting_url": "https://www.pricecharting.com/game/11703057",
   "price_min_eur": 2.99,
   "price_avg7_eur": 3.02,
-  "price_avg30_eur": 2.77
+  "price_avg30_eur": 2.77,
+  "slug": "eb04-032-queen",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb04-032-queen",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb04-032-queen",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb04-032-queen",
+  "scalpeurs_url_fr": null
 }

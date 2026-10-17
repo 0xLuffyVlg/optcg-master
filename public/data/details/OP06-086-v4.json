@@ -31,5 +31,10 @@
   "pricecharting_url": null,
   "price_min_eur": 13.99,
   "price_avg7_eur": 12.91,
-  "price_avg30_eur": 13.57
+  "price_avg30_eur": 13.57,
+  "slug": "op06-086-gecko-moria-v4",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op06-086-gecko-moria-v4",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op06-086-gecko-moria-v4",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op06-086-gecko-moria-v4",
+  "scalpeurs_url_fr": null
 }

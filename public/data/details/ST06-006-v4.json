@@ -29,5 +29,10 @@
   "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Unnumbered-Promos-Japanese/Tashigi-ST06-006-V1",
   "tcgplayer_url": "https://www.tcgplayer.com/product/525339",
   "pricecharting_url": null,
-  "price_min_eur": 45
+  "price_min_eur": 45,
+  "slug": "st06-006-tashigi-v4",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/st06-006-tashigi-v4",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/st06-006-tashigi-v4",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/st06-006-tashigi-v4",
+  "scalpeurs_url_fr": null
 }

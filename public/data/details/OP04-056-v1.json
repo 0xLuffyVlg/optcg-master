@@ -26,10 +26,15 @@
   "price_eur": 0.2,
   "price_usd": 0.69,
   "cardmarket_url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue/Gum-Gum-Red-Roc-OP04-056",
-  "cardmarket_url_jp": null,
+  "cardmarket_url_jp": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Kingdoms-of-Intrigue-Japanese/Gum-Gum-Red-Roc-OP04-056",
   "tcgplayer_url": "https://www.tcgplayer.com/product/516772",
   "pricecharting_url": null,
   "price_min_eur": 0.2,
   "price_avg7_eur": 0.75,
-  "price_avg30_eur": 0.79
+  "price_avg30_eur": 0.79,
+  "slug": "op04-056-gum-gum-red-roc",
+  "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/op04-056-gum-gum-red-roc",
+  "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/op04-056-gum-gum-red-roc",
+  "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/op04-056-gum-gum-red-roc",
+  "scalpeurs_url_fr": null
 }
