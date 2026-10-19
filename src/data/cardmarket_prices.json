@@ -4745,7 +4745,7 @@
   },
   "OP17-118": {
     "idProduct": 904145,
-    "trend_eur": 13,
+    "trend_eur": 13.99,
     "low_eur": 14,
     "avg_eur": 23.82,
     "foil_trend_eur": 0,
@@ -4753,7 +4753,7 @@
   },
   "OP17-119": {
     "idProduct": 904148,
-    "trend_eur": 17,
+    "trend_eur": 17.5,
     "low_eur": 18,
     "avg_eur": 25.52,
     "foil_trend_eur": 0,
@@ -4761,7 +4761,7 @@
   },
   "EB04-007": {
     "idProduct": 870579,
-    "trend_eur": 229,
+    "trend_eur": 228,
     "low_eur": 229,
     "avg_eur": 12.54,
     "foil_trend_eur": 0,
@@ -5777,7 +5777,7 @@
   },
   "OP16-119": {
     "idProduct": 890517,
-    "trend_eur": 19.9,
+    "trend_eur": 22,
     "low_eur": 20,
     "avg_eur": 26.74,
     "foil_trend_eur": 0,
@@ -6993,7 +6993,7 @@
   },
   "OP15-118": {
     "idProduct": 875134,
-    "trend_eur": 9.9,
+    "trend_eur": 12,
     "low_eur": 13,
     "avg_eur": 13.69,
     "foil_trend_eur": 0,
@@ -7001,9 +7001,9 @@
   },
   "OP15-119": {
     "idProduct": 875137,
-    "trend_eur": 7.8,
+    "trend_eur": 8,
     "low_eur": 8,
-    "avg_eur": 7.8,
+    "avg_eur": 8,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/MonkeyDLuffy-OP15-119-V1?language=2"
   },
@@ -7049,7 +7049,7 @@
   },
   "ST26-005": {
     "idProduct": 829156,
-    "trend_eur": 290,
+    "trend_eur": 280,
     "low_eur": 290,
     "avg_eur": 2.47,
     "foil_trend_eur": 0,
@@ -13073,9 +13073,9 @@
   },
   "OP08-043": {
     "idProduct": 771666,
-    "trend_eur": 52.5,
+    "trend_eur": 49.99,
     "low_eur": 55,
-    "avg_eur": 52.5,
+    "avg_eur": 49.99,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Two-Legends/EdwardNewgate-OP08-043-V1"
   },
@@ -19249,7 +19249,7 @@
   },
   "ST21-001": {
     "idProduct": 808750,
-    "trend_eur": 7,
+    "trend_eur": 6,
     "low_eur": 7,
     "avg_eur": 2.23,
     "foil_trend_eur": 0,
