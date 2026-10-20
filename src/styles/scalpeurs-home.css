@@ -2366,32 +2366,41 @@ html:not([data-intro]) .acc-hero--ciel .acc-galaxie-filante{animation:1.1s cubic
   }
 
   .acc-preuves {
-    display: grid !important;
-    grid-template-columns: repeat(2, 1fr) !important;
-    gap: 12px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 10px !important;
     margin-top: 14px !important;
     width: 100% !important;
   }
 
   .acc-preuves li {
-    display: flex !important;
-    flex-direction: column !important;
-    align-items: flex-start !important;
-    padding: 16px 14px !important;
+    display: grid !important;
+    grid-template-columns: 48px 1fr !important;
+    grid-template-rows: auto auto !important;
+    column-gap: 14px !important;
+    row-gap: 2px !important;
+    align-items: center !important;
+    padding: 14px 16px !important;
     border-radius: 18px !important;
     background: #141722 !important;
     border: 1px solid rgba(255, 255, 255, 0.08) !important;
+    width: 100% !important;
   }
 
   .acc-preuves li .acc-preuve-illu {
-    margin-bottom: 12px !important;
-    height: 42px !important;
+    grid-row: 1 / 3 !important;
+    grid-column: 1 !important;
+    margin: 0 auto !important;
+    height: 44px !important;
     display: flex !important;
     align-items: center !important;
+    justify-content: center !important;
   }
 
   .acc-preuves li b {
-    font-size: 24px !important;
+    grid-row: 1 !important;
+    grid-column: 2 !important;
+    font-size: 1.55rem !important;
     font-weight: 900 !important;
     color: #fff !important;
     line-height: 1.1 !important;
@@ -2399,10 +2408,12 @@ html:not([data-intro]) .acc-hero--ciel .acc-galaxie-filante{animation:1.1s cubic
   }
 
   .acc-preuves li > span {
-    font-size: 12px !important;
+    grid-row: 2 !important;
+    grid-column: 2 !important;
+    font-size: 13px !important;
     color: #94a3b8 !important;
     line-height: 1.35 !important;
-    margin-top: 4px !important;
+    margin: 0 !important;
   }
 
   /* 4. Section Market Movers */

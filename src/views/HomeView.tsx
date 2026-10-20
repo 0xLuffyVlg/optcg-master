@@ -761,17 +761,6 @@ export const HomeView: React.FC<HomeViewProps> = ({
               <b>16 751</b>
               <span>cartes avec leur prix Cardmarket</span>
             </li>
-            <li>
-              <div className="acc-preuve-illu">
-                <div className="w-9 h-9 rounded-xl bg-amber-500/15 border border-amber-500/30 flex items-center justify-center">
-                  <svg className="w-5 h-5 text-amber-400" viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z"/>
-                  </svg>
-                </div>
-              </div>
-              <b>21 776</b>
-              <span>messages sur le forum des passionnés</span>
-            </li>
           </ul>
         </div>
       </div>
