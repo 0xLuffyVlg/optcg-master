@@ -254,6 +254,7 @@ export const allPrintsAsCards: Card[] = allRawCards.map(raw => {
     effect: raw.effect || existing?.effect || '',
     effect_fr: existing?.effect_fr,
     language: (raw.language || (raw.id.startsWith('fr-') ? 'fr' : (raw.id.startsWith('jp-') ? 'jp' : 'en'))).toLowerCase(),
+    is_japanese: (raw.language === 'jp' || raw.id.startsWith('jp-') || existing?.is_japanese || false),
     price_eur: raw.price_eur !== undefined && raw.price_eur !== null 
       ? raw.price_eur 
       : (vMatch?.price_eur || existing?.price_eur),
