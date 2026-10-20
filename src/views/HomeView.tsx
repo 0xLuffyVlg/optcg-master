@@ -362,9 +362,9 @@ export const HomeView: React.FC<HomeViewProps> = ({
     const diff = touchStartXRef.current - e.changedTouches[0].clientX;
     if (Math.abs(diff) > 35) {
       if (diff > 0) {
-        setGestureStep(1);
+        setGestureStep(prev => Math.min(2, prev + 1));
       } else {
-        setGestureStep(0);
+        setGestureStep(prev => Math.max(0, prev - 1));
       }
     }
   };
@@ -568,7 +568,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
           <div className="acc-hero-texte">
             <a className="acc-sur acc-sur--lien" href="#mouvements">
               <span className="acc-point" aria-hidden="true"></span>
-              <span>Prix relus le 17 octobre</span>
+              <span>Prix relus le 20 octobre</span>
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                 <path d="m9 6 6 6-6 6"></path>
               </svg>
@@ -758,8 +758,19 @@ export const HomeView: React.FC<HomeViewProps> = ({
                   <circle cx="112" cy="4" r="4" fill="#34c759" />
                 </svg>
               </div>
-              <b>16 739</b>
+              <b>16 751</b>
               <span>cartes avec leur prix Cardmarket</span>
+            </li>
+            <li>
+              <div className="acc-preuve-illu">
+                <div className="w-9 h-9 rounded-xl bg-amber-500/15 border border-amber-500/30 flex items-center justify-center">
+                  <svg className="w-5 h-5 text-amber-400" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z"/>
+                  </svg>
+                </div>
+              </div>
+              <b>21 776</b>
+              <span>messages sur le forum des passionnés</span>
             </li>
           </ul>
         </div>
@@ -779,13 +790,13 @@ export const HomeView: React.FC<HomeViewProps> = ({
           <div className="acc-mv-tete">
             <p className="acc-direct">
               <span className="acc-point" aria-hidden="true"></span>
-              Relevé du samedi 17 octobre
+              Relevé du mardi 20 octobre
             </p>
             <h2 className="acc-h2" id="acc-mv-titre">
               Depuis hier,<br /><em>ces cartes ont bougé.</em>
             </h2>
             <p className="acc-p">
-              Comparé au relevé du 16 octobre. Une carte peut prendre ou perdre des centaines d'euros en une nuit : ici, tu le vois.
+              Comparé au relevé du 19 octobre. Une carte peut prendre ou perdre des centaines d'euros en une nuit : ici, tu le vois.
             </p>
           </div>
 
@@ -923,7 +934,17 @@ export const HomeView: React.FC<HomeViewProps> = ({
             Prix Cardmarket : la moins chère en Near Mint, dans la langue de la carte. Seulement les cartes à 20 € et plus, avec au moins 3 offres.
           </p>
 
-          <div className="acc-ctas acc-ctas--centre mt-6">
+          <div className="text-center mt-3">
+            <button 
+              type="button" 
+              onClick={() => onNavigateTab('database')} 
+              className="text-[#f58223] hover:text-amber-400 font-bold text-sm inline-flex items-center gap-1 cursor-pointer"
+            >
+              Sois prévenu à la prochaine baisse <ChevronRight className="w-4 h-4" />
+            </button>
+          </div>
+
+          <div className="acc-ctas acc-ctas--centre mt-4 hidden sm:flex">
             <button 
               type="button" 
               onClick={() => onNavigateTab('database')} 
@@ -951,7 +972,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
                 Même carte,<br />même illustration.<br /><em>Pas le même prix.</em>
               </h2>
               <p className="acc-p">
-                Gol.D.Roger, version manga (OP09-118) : <b>4 500 €</b> en japonais, <b>7 999 €</b> en français, <b>7 999 €</b> en anglais, le 17 octobre. Ta collection est estimée dans la langue de <b>chaque</b> carte, jamais au prix d'une autre.
+                Gol.D.Roger, version manga (OP09-118) : <b>4 500 €</b> en japonais, <b>7 999 €</b> en français, <b>7 999 €</b> en anglais, le 20 octobre. Ta collection est estimée dans la langue de <b>chaque</b> carte, jamais au prix d'une autre.
               </p>
 
               <ul className="acc-catalogues" aria-label="Les catalogues par langue">
@@ -1079,6 +1100,20 @@ export const HomeView: React.FC<HomeViewProps> = ({
               <p className="acc-legende mt-4 text-slate-400">
                 Jusqu'à <strong className="text-white font-bold">x1,8</strong> d'écart, pour la même carte
               </p>
+
+              <div className="w-full flex justify-center mt-4">
+                <button
+                  type="button"
+                  onClick={() => onNavigateTab('database')}
+                  className="acc-catalogue-pill flex items-center justify-between w-full max-w-[320px] px-5 py-3 rounded-full bg-[#11141c] hover:bg-[#161a24] border border-slate-700/60 shadow-lg text-white font-bold text-sm cursor-pointer transition-all active:scale-95"
+                >
+                  <span className="flex items-center gap-2.5">
+                    <img className="w-5 h-5 rounded-full" src="/media/flag-jp.png" alt="JP" />
+                    <span><b>5 772</b> cartes japonaises</span>
+                  </span>
+                  <ChevronRight className="w-4 h-4 text-slate-400" />
+                </button>
+              </div>
             </div>
           </div>
         </div>
@@ -1097,7 +1132,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
         <div className="acc-wrap">
           <div className="acc-gestes-tete">
             <h2 className="acc-h2" id="acc-plan-titre">
-              Ta collection estimée <em>en 2 gestes.</em>
+              Ta collection estimée <em>en 3 gestes.</em>
             </h2>
           </div>
 
@@ -1110,7 +1145,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
               {/* Phone 1: OPTCG Master - Ajoute ta carte / Fiche scanner */}
               <button
                 type="button"
-                className={`acc-tel-pos ${gestureStep === 0 ? 'acc-tel-pos--centre' : 'acc-tel-pos--gauche'}`}
+                className={`acc-tel-pos ${gestureStep === 0 ? 'acc-tel-pos--centre' : gestureStep === 1 ? 'acc-tel-pos--gauche' : 'acc-tel-pos--droite'}`}
                 onClick={() => setGestureStep(0)}
                 data-etape="0"
                 data-actif={gestureStep === 0 ? 'oui' : undefined}
@@ -1145,7 +1180,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
               {/* Phone 2: OPTCG Master - Suis sa valeur / Tableau de bord */}
               <button
                 type="button"
-                className={`acc-tel-pos ${gestureStep === 1 ? 'acc-tel-pos--centre' : 'acc-tel-pos--droite'}`}
+                className={`acc-tel-pos ${gestureStep === 1 ? 'acc-tel-pos--centre' : gestureStep === 2 ? 'acc-tel-pos--gauche' : 'acc-tel-pos--droite'}`}
                 onClick={() => setGestureStep(1)}
                 data-etape="1"
                 data-actif={gestureStep === 1 ? 'oui' : undefined}
@@ -1176,12 +1211,62 @@ export const HomeView: React.FC<HomeViewProps> = ({
                   <i>2</i><b>Suis sa valeur</b><small>Au prix du jour</small>
                 </span>
               </button>
+
+              {/* Phone 3: Lock Screen with Notification Toasts */}
+              <button
+                type="button"
+                className={`acc-tel-pos ${gestureStep === 2 ? 'acc-tel-pos--centre' : gestureStep === 0 ? 'acc-tel-pos--droite' : 'acc-tel-pos--gauche'}`}
+                onClick={() => setGestureStep(2)}
+                data-etape="2"
+                data-actif={gestureStep === 2 ? 'oui' : undefined}
+                aria-label="Étape 3 : Alertes & Notifications"
+              >
+                <div className="acc-tel">
+                  <div className="acc-tel-ecran" style={{ ['--haut' as any]: '#0e0f14' }}>
+                    <div className="acc-tel-vue acc-tel-vue--plein">
+                      <div className="acc-verrou">
+                        <div className="acc-verrou-heure" aria-hidden="true">
+                          <small>Mardi 20 octobre</small>
+                          <b>9:41</b>
+                        </div>
+                        <div className="acc-verrou-notifs">
+                          <div className="acc-verrou-notif">
+                            <img src="/logo.png" alt="" width="38" height="38" loading="lazy" />
+                            <div>
+                              <small>
+                                <span>SCALPEURS</span><span>maintenant</span>
+                              </small>
+                              <b>Shanks · 349,00 €</b>
+                              <span>▼ 11 € sous ton seuil · carte japonaise, Near Mint</span>
+                            </div>
+                          </div>
+                          <div className="acc-verrou-notif">
+                            <img src="/logo.png" alt="" width="38" height="38" loading="lazy" />
+                            <div>
+                              <small>
+                                <span>SCALPEURS</span><span>il y a 2 h</span>
+                              </small>
+                              <b>Monkey.D.Luffy · 1 790,00 €</b>
+                              <span>▼ 10 € sous ton seuil · carte française</span>
+                            </div>
+                          </div>
+                        </div>
+                        <span className="acc-verrou-barre" aria-hidden="true"></span>
+                      </div>
+                    </div>
+                    <span className="acc-tel-ilot" aria-hidden="true"></span>
+                  </div>
+                </div>
+                <span className="acc-tel-legende" aria-hidden="true">
+                  <i>3</i><b>Sois alerté</b><small>À la moindre baisse</small>
+                </span>
+              </button>
             </div>
 
             <p className="acc-geste">
               <span>{gestureStep + 1}</span>
-              <b>{gestureStep === 0 ? 'Ajoute ta carte' : 'Suis sa valeur'}</b>
-              <small>{gestureStep === 0 ? 'Son prix dans sa langue' : 'Au prix du jour'}</small>
+              <b>{gestureStep === 0 ? 'Ajoute ta carte' : gestureStep === 1 ? 'Suis sa valeur' : 'Sois alerté'}</b>
+              <small>{gestureStep === 0 ? 'Son prix dans sa langue' : gestureStep === 1 ? 'Au prix du jour' : 'À la moindre baisse'}</small>
             </p>
 
             <div className="acc-points">
@@ -1189,6 +1274,9 @@ export const HomeView: React.FC<HomeViewProps> = ({
                 <i></i>
               </button>
               <button type="button" aria-label="Étape 2" aria-current={gestureStep === 1} onClick={() => setGestureStep(1)}>
+                <i></i>
+              </button>
+              <button type="button" aria-label="Étape 3" aria-current={gestureStep === 2} onClick={() => setGestureStep(2)}>
                 <i></i>
               </button>
             </div>
