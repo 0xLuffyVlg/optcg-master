@@ -753,9 +753,17 @@ export const HomeView: React.FC<HomeViewProps> = ({
             </li>
             <li>
               <div className="acc-preuve-illu acc-preuve-illu--courbe">
-                <svg viewBox="0 0 116 44" fill="none">
+                <svg viewBox="0 0 116 44" fill="none" style={{ width: '116px', height: '44px' }}>
+                  <defs>
+                    <linearGradient id="accCurveGrad" x1="0" y1="0" x2="0" y2="1">
+                      <stop offset="0%" stopColor="#34c759" stopOpacity="0.25" />
+                      <stop offset="100%" stopColor="#34c759" stopOpacity="0" />
+                    </linearGradient>
+                  </defs>
+                  <path d="M4 36 C 30 36, 50 20, 80 18 C 95 16, 105 8, 112 4 L 112 44 L 4 44 Z" fill="url(#accCurveGrad)" />
                   <path d="M4 36 C 30 36, 50 20, 80 18 C 95 16, 105 8, 112 4" stroke="#34c759" strokeWidth="3" strokeLinecap="round" />
                   <circle cx="112" cy="4" r="4" fill="#34c759" />
+                  <circle cx="112" cy="4" r="7" fill="#34c759" fillOpacity="0.3" />
                 </svg>
               </div>
               <b>16 751</b>
