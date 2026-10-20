@@ -1661,191 +1661,550 @@ a.acc-mv-ligne:hover>img{transform:rotate(-3deg)scale(1.07)}
 
 .acc-opt .acc-entaille{left:6%;right:6%}
 
-.acc-opt--collections .acc-scene--collections img{width:80px;top:auto;bottom:18px}
-
-.acc-opt--forum .acc-scene--forum .acc-f-cadre{width:112px;height:150px;top:auto;bottom:-26px}
-
-.acc-scene--forum .acc-f-cadre{transition:none}
-
-.acc-opt .acc-scene{background:radial-gradient(95% 82% at 50% 106%,rgba(var(--teinte),.46),transparent 72%), radial-gradient(60% 50% at 88% 6%,rgba(var(--teinte),.14),transparent 70%), radial-gradient(70% 46% at 50% -6%,#ffffff12,transparent 70%), linear-gradient(180deg,#ffffff0d,#ffffff03)}
-
-.acc-scene--forum .acc-f-cadre .acc-f1{width:132%;max-width:none;margin-left:-4%}
-
-.acc-opt .acc-scene--collections img{width:46px}
-
-.acc-opt .acc-scene--collections .acc-c1{transform:translate(-130%)rotate(-10deg)}
-
-.acc-opt .acc-scene--collections .acc-c2{transform:translate(-82%)rotate(-4deg)}
-
-.acc-opt .acc-scene--collections .acc-c3{transform:translate(-34%)rotate(3deg)}
-
-.acc-opt .acc-scene--collections .acc-c4{transform:translate(14%)rotate(9deg)}
-
-.acc-opt .acc-scene--forum .acc-f-cadre{width:84px;height:116px;bottom:-24px}
-
-.acc-opt .acc-scene{background:radial-gradient(90% 80% at 50% 106%,#f5a6231f,#0000 72%),linear-gradient(#ffffff0d,#ffffff04);box-shadow:inset 0 0 0 1px #ffffff12}
-
-.acc-scene-eclat{display:none}
-
-.acc-opt .acc-scene{transition:opacity .45s linear,translate .65s cubic-bezier(.2,0,0,1)}
-
-.acc-anim .acc-opt:not(.acc-vu) .acc-scene{opacity:0;translate:0 14px}
-
-.acc-opt .acc-scene img,.acc-opt .acc-scene-puce,.acc-opt .acc-f-cadre{transition:translate .3s cubic-bezier(.2,0,0,1)}
-
-.acc-tuile--lien.acc-opt:hover .acc-scene img,.acc-tuile--lien.acc-opt:hover .acc-f-cadre{translate:0 -3px}
-
-.acc-tuile--lien.acc-opt:hover .acc-f-cadre img{translate:none}
-
-.acc-opt .acc-scene--forum .acc-f-cadre{background:0 0;border:0;border-radius:12px;width:auto;height:auto;inset:50% auto auto 50%;overflow:hidden;transform:translate(-50%,-50%);box-shadow:0 0 0 1px #ffffff29,0 16px 30px -14px #000000e6}
-
-.acc-opt .acc-scene--forum .acc-f-cadre .acc-f1{width:var(--fl,160px);border-radius:0;max-width:none;height:auto;margin:0;animation:none;display:block;position:static;transform:none}
-
-.acc-opt-chiffre{display:none}
-
-.acc-opt-chiffre{letter-spacing:.01em;font-weight:700;display:block;color:var(--acc-orange2)!important;margin:3px 0 0!important;font-size:12.5px!important}
-
-.acc-opt .acc-scene-puce{display:none}
-
-.acc-tuile--scene.acc-opt{grid-template-rows:auto auto auto 1fr}
-
-.acc-opt .acc-scene{grid-row:1/span 4}
-
-.acc-tuile--scene.acc-opt .acc-ctas{grid-row:4}
-
-.acc-opt .acc-scene--quotas .acc-s1,.acc-opt .acc-scene--quotas .acc-s3{display:none}
-
-.acc-opt .acc-scene--quotas .acc-s2{width:100px;bottom:9px;left:50%;transform:translate(-50%)}
-
-.acc-opt .acc-scene--collections .acc-c1,.acc-opt .acc-scene--collections .acc-c4{display:none}
-
-.acc-opt .acc-scene--collections img{width:62px;top:auto;bottom:26px}
-
-.acc-opt .acc-scene--collections .acc-c2{transform:translate(-88%)rotate(-5deg)}
-
-.acc-opt .acc-scene--collections .acc-c3{transform:translate(-12%)rotate(5deg)}
-
-.acc-opt .acc-scene--forum .acc-f-cadre .acc-f1{--fl:108px}
-
-.acc-opt .acc-scene--jeux img{width:46px}
-
-.acc-opt .acc-scene--jeux .acc-j1{top:46px;left:4%}
-
-.acc-opt .acc-scene--jeux .acc-j2{width:56px;top:20px;left:31%}
-
-.acc-opt .acc-scene--jeux .acc-j3{top:52px;left:60%}
-
-.acc-opt .acc-scene--forum .acc-f-cadre .acc-f1{--fl:150px}
-
-.acc-opt--quotas .acc-scene--quotas img{bottom:14px}
-
-.acc-opt .acc-scene--forum .acc-f-cadre{top:54%}
-
-.acc-opt .acc-scene--forum .acc-f-cadre .acc-f1{--fl:186px}
-
-.acc-opt .acc-scene,.acc-opt .acc-scene img,.acc-opt .acc-f-cadre{transition:none}
-
-.acc-opt .acc-scene-puce{display:none}
-
-.acc-opt-chiffre{letter-spacing:.01em;font-weight:700;display:block;color:var(--acc-orange2)!important;margin:4px 0 0!important;font-size:13px!important}
-
-.acc-tuile--scene.acc-opt--quotas,.acc-tuile--scene.acc-opt--jeux{grid-template-rows:minmax(28px,1fr) repeat(5,auto) minmax(28px,1fr)}
-
-.acc-opt--quotas>.acc-opt-chiffre,.acc-opt--jeux>.acc-opt-chiffre{grid-area:3/2}
-
-.acc-opt--quotas>p:not(.acc-opt-chiffre),.acc-opt--jeux>p:not(.acc-opt-chiffre){grid-row:4}
-
-.acc-opt--jeux>.acc-podium{grid-row:5}
-
-.acc-opt--quotas>.acc-ctas,.acc-opt--jeux>.acc-ctas{grid-row:6}
-
-.acc-opt .acc-scene--forum .acc-f-cadre{top:50%}
-
-.acc-scene--collections .acc-k{transform-origin:50% 100%;filter:none;border-radius:5%;top:auto;left:50%;box-shadow:0 14px 26px -12px #000000d9,0 0 0 1px #ffffff24}
-
-.acc-opt .acc-scene--collections .acc-k{aspect-ratio:63/88;width:54px;height:auto;margin-left:-27px;bottom:8px}
-
-.acc-opt .acc-scene--collections .acc-k1{transform:rotate(-24deg)}
-
-.acc-opt .acc-scene--collections .acc-k2{transform:rotate(-12deg)}
-
-.acc-opt .acc-scene--collections .acc-k3{z-index:3;transform:none}
-
-.acc-opt .acc-scene--collections .acc-k4{z-index:4;transform:rotate(12deg)}
-
-.acc-opt .acc-scene--collections .acc-k5{z-index:5;transform:rotate(24deg)}
-
-.acc-bento{grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
-
-.acc-opt--quotas,.acc-opt--jeux{grid-column:auto}
-
-.acc-tuile--scene.acc-opt{flex-direction:column;padding:0 26px 24px;display:flex}
-
-.acc-opt>.acc-scene{border-radius:24px 24px 0 0;height:210px;min-height:0;margin:0 -26px 20px}
-
-.acc-opt>h3{margin:0;font-size:20px}
-
-.acc-opt>p:not(.acc-opt-chiffre){margin-top:8px;font-size:15px}
-
-.acc-opt>.acc-podium{margin-top:14px}
-
-.acc-opt>.acc-ctas{margin-top:auto;padding-top:16px}
-
-.acc-opt .acc-scene--quotas img{width:112px;bottom:16px}
-
-.acc-opt .acc-scene--quotas .acc-s2{width:126px}
-
-.acc-opt .acc-scene--collections .acc-k{width:96px;margin-left:-48px;bottom:14px}
-
-.acc-opt .acc-scene--forum .acc-f-cadre{top:50%}
-
-.acc-opt .acc-scene--forum .acc-f-cadre .acc-f1{--fl:260px}
-
-.acc-opt .acc-scene--jeux img{width:78px}
-
-.acc-opt .acc-scene--jeux .acc-j1{top:76px;left:17%}
-
-.acc-opt .acc-scene--jeux .acc-j2{width:94px;top:36px;left:40%}
-
-.acc-opt .acc-scene--jeux .acc-j3{top:88px;left:64%}
-
-.acc-opt .acc-entaille{left:12%;right:12%}
-
-.acc-opt>.acc-scene{height:270px}
-
-.acc-tuile--scene.acc-opt{padding:0 32px 28px}
-
-.acc-opt>.acc-scene{margin:0 -32px 24px}
-
-.acc-opt>h3{font-size:22px}
-
-.acc-opt .acc-scene--quotas img{width:170px;bottom:22px}
-
-.acc-opt .acc-scene--quotas .acc-s2{width:192px}
-
-.acc-opt .acc-scene--collections .acc-k{width:124px;margin-left:-62px;bottom:20px}
-
-.acc-opt .acc-scene--forum .acc-f-cadre .acc-f1{--fl:330px}
-
-.acc-opt .acc-scene--jeux img{width:110px}
-
-.acc-opt .acc-scene--jeux .acc-j1{top:100px;left:20%}
-
-.acc-opt .acc-scene--jeux .acc-j2{width:132px;top:46px;left:42%}
-
-.acc-opt .acc-scene--jeux .acc-j3{top:112px;left:63%}
-
-.acc-opt .acc-scene--collections .acc-k{width:112px;margin-left:-56px;bottom:12px}
-
-.acc-opt .acc-scene--collections .acc-k1{transform:rotate(-26deg)}
-
-.acc-opt .acc-scene--collections .acc-k2{transform:rotate(-13deg)}
-
-.acc-opt .acc-scene--collections .acc-k4{transform:rotate(13deg)}
-
-.acc-opt .acc-scene--collections .acc-k5{transform:rotate(26deg)}
-
-.acc-opt .acc-scene--collections .acc-k{width:150px;margin-left:-75px;bottom:16px}
+/* ========================================================================== */
+/* BENTO SECTION: TOUT LE RESTE, GRATUIT (#options)                           */
+/* Identical to scalpeurs.com with full desktop & mobile 3D scenes            */
+/* ========================================================================== */
+
+.acc-scene {
+  background: radial-gradient(80% 90% at 50% 100%, #f5a62329, #0000 70%), linear-gradient(#ffffff09, #0000);
+  border-radius: 24px 24px 0 0;
+  height: 210px;
+  margin: 0 -26px 20px;
+  position: relative;
+  overflow: hidden;
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important;
+  transition: opacity .45s linear, translate .65s cubic-bezier(.2,0,0,1);
+}
+
+.acc-scene img {
+  height: auto;
+  transition: transform .5s cubic-bezier(.05,.7,.1,1), opacity .3s linear, translate .3s cubic-bezier(.2,0,0,1);
+  display: block;
+  position: absolute;
+}
+
+.acc-anim .acc-opt .acc-scene,
+.acc-anim .acc-opt:not(.acc-vu) .acc-scene {
+  opacity: 1 !important;
+  translate: none !important;
+}
+
+.acc-scene-puce {
+  z-index: 5;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  color: var(--acc-texte, #fff);
+  background: #14151ac7;
+  border-radius: 999px;
+  padding: 6px 12px;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  box-shadow: inset 0 0 0 1px #ffffff24, 0 4px 12px rgba(0, 0, 0, 0.4);
+  display: inline-flex !important;
+  align-items: center;
+  gap: 6px;
+  pointer-events: none;
+}
+
+.acc-scene-eclat {
+  display: none;
+}
+
+.acc-bento {
+  gap: 12px;
+  margin-top: 34px;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.acc-tuile--scene.acc-opt {
+  position: relative;
+  background: var(--acc-carte-bg, rgba(255, 255, 255, 0.03));
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 24px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  transition: border-color .3s, transform .3s, box-shadow .3s;
+}
+
+.acc-tuile--scene.acc-opt:hover {
+  border-color: rgba(245, 166, 35, 0.35);
+  box-shadow: 0 14px 40px rgba(0, 0, 0, 0.45);
+}
+
+/* Tile 1: Quotas Base */
+.acc-scene--quotas img {
+  filter: drop-shadow(0 18px 24px rgba(0, 0, 0, 0.85));
+  width: 140px;
+  bottom: 14px;
+  left: 50%;
+  display: block !important;
+}
+
+.acc-scene--quotas .acc-s1 {
+  z-index: 1;
+  transform: translate(-118%) rotate(-8deg);
+  display: block !important;
+}
+
+.acc-scene--quotas .acc-s2 {
+  z-index: 3;
+  width: 156px;
+  transform: translate(-50%);
+  display: block !important;
+}
+
+.acc-scene--quotas .acc-s3 {
+  z-index: 2;
+  transform: translate(18%) rotate(8deg);
+  display: block !important;
+}
+
+/* Tile 2: Collections Base */
+.acc-scene--collections .acc-k {
+  position: absolute;
+  left: 50%;
+  bottom: 20px;
+  transform-origin: 50% 100%;
+  border-radius: 8px;
+  aspect-ratio: 63/88;
+  width: 116px;
+  margin-left: -58px;
+  height: auto;
+  display: block !important;
+  box-shadow: 0 14px 26px -10px rgba(0, 0, 0, 0.85), 0 0 0 1px rgba(255, 255, 255, 0.18);
+  transition: transform 0.4s cubic-bezier(0.2, 0, 0, 1), translate 0.3s cubic-bezier(0.2, 0, 0, 1);
+}
+
+.acc-scene--collections .acc-k1 {
+  z-index: 1;
+  transform: rotate(-26deg);
+  display: block !important;
+}
+
+.acc-scene--collections .acc-k2 {
+  z-index: 2;
+  transform: rotate(-13deg);
+  display: block !important;
+}
+
+.acc-scene--collections .acc-k3 {
+  z-index: 3;
+  transform: rotate(0deg);
+  display: block !important;
+}
+
+.acc-scene--collections .acc-k4 {
+  z-index: 4;
+  transform: rotate(13deg);
+  display: block !important;
+}
+
+.acc-scene--collections .acc-k5 {
+  z-index: 5;
+  transform: rotate(26deg);
+  display: block !important;
+}
+
+/* Tile 3: Forum / Méta Base */
+.acc-opt .acc-scene--forum .acc-f-cadre {
+  background: 0 0;
+  border: 0;
+  border-radius: 14px;
+  width: auto;
+  height: auto;
+  position: absolute;
+  inset: 50% auto auto 50%;
+  overflow: hidden;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.18), 0 20px 36px -12px rgba(0, 0, 0, 0.85);
+  display: block !important;
+}
+
+.acc-opt .acc-scene--forum .acc-f-cadre .acc-f1 {
+  width: 270px;
+  border-radius: 0;
+  max-width: none;
+  height: auto;
+  margin: 0;
+  display: block !important;
+  position: static;
+  transform: none;
+}
+
+/* Tile 4: Jeux / Deckbuilder Base */
+.acc-scene--jeux img {
+  position: absolute;
+  display: block !important;
+  transition: transform .5s cubic-bezier(.05,.7,.1,1), translate .3s cubic-bezier(.2,0,0,1);
+  filter: drop-shadow(0 14px 22px rgba(0, 0, 0, 0.8));
+}
+
+.acc-scene--jeux .acc-j1 {
+  width: 82px;
+  top: 52px;
+  left: 17%;
+  transform: rotate(-14deg);
+  z-index: 1;
+}
+
+.acc-scene--jeux .acc-j2 {
+  width: 98px;
+  top: 24px;
+  left: 41%;
+  transform: rotate(6deg);
+  z-index: 3;
+}
+
+.acc-scene--jeux .acc-j3 {
+  width: 82px;
+  top: 58px;
+  left: 65%;
+  transform: rotate(16deg);
+  z-index: 2;
+}
+
+.acc-entaille {
+  opacity: .85;
+  background: linear-gradient(90deg, #0000, #ffffffe6 40%, #ffd27a 60%, #0000);
+  border-radius: 3px;
+  height: 3px;
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  right: 10%;
+  transform: rotate(-14deg);
+  box-shadow: 0 0 14px #ffd27acc;
+  z-index: 4;
+  pointer-events: none;
+}
+
+/* Mobile screen (max-width: 639px) */
+@media (max-width: 639px) {
+  .acc-bento {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 12px;
+  }
+  .acc-tuile--scene.acc-opt {
+    border-radius: 20px;
+    grid-template-rows: auto auto 1fr;
+    grid-template-columns: 120px minmax(0, 1fr);
+    align-items: start;
+    column-gap: 14px;
+    padding: 12px 14px 12px 12px;
+    display: grid;
+  }
+  .acc-opt > .acc-scene {
+    border-radius: 16px;
+    grid-row: 1 / span 4;
+    height: 124px;
+    margin: 0;
+  }
+  .acc-opt .acc-scene-puce {
+    display: none !important;
+  }
+  .acc-opt-chiffre {
+    display: block !important;
+    letter-spacing: .01em;
+    font-weight: 700;
+    color: var(--acc-orange2, #f5a623) !important;
+    margin: 3px 0 0 !important;
+    font-size: 12.5px !important;
+  }
+  .acc-opt > h3 {
+    font-size: 16px;
+    margin: 0;
+  }
+  .acc-opt > p:not(.acc-opt-chiffre) {
+    font-size: 13px;
+    margin: 4px 0 0;
+    line-height: 1.35;
+  }
+  .acc-opt > .acc-podium {
+    display: none;
+  }
+  .acc-tuile--scene.acc-opt .acc-ctas {
+    grid-row: 4;
+    margin-top: 6px;
+  }
+  /* Tile 1 Mobile */
+  .acc-opt .acc-scene--quotas .acc-s1,
+  .acc-opt .acc-scene--quotas .acc-s3 {
+    display: none !important;
+  }
+  .acc-opt .acc-scene--quotas .acc-s2 {
+    width: 90px;
+    bottom: 6px;
+    left: 50%;
+    transform: translate(-50%);
+  }
+  /* Tile 2 Mobile */
+  .acc-opt .acc-scene--collections .acc-k1,
+  .acc-opt .acc-scene--collections .acc-k4,
+  .acc-opt .acc-scene--collections .acc-k5 {
+    display: none !important;
+  }
+  .acc-opt .acc-scene--collections .acc-k2 {
+    width: 60px;
+    bottom: 8px;
+    left: 42%;
+    transform: translate(-50%) rotate(-8deg);
+  }
+  .acc-opt .acc-scene--collections .acc-k3 {
+    width: 64px;
+    bottom: 12px;
+    left: 58%;
+    transform: translate(-50%) rotate(8deg);
+  }
+  /* Tile 3 Mobile */
+  .acc-opt .acc-scene--forum .acc-f-cadre .acc-f1 {
+    width: 110px;
+  }
+  /* Tile 4 Mobile */
+  .acc-opt .acc-scene--jeux img {
+    width: 44px;
+  }
+  .acc-opt .acc-scene--jeux .acc-j1 {
+    top: 36px;
+    left: 6%;
+  }
+  .acc-opt .acc-scene--jeux .acc-j2 {
+    width: 52px;
+    top: 18px;
+    left: 32%;
+  }
+  .acc-opt .acc-scene--jeux .acc-j3 {
+    top: 40px;
+    left: 58%;
+  }
+}
+
+/* Tablet & Up (min-width: 640px) */
+@media (min-width: 640px) {
+  .acc-bento {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+  }
+  .acc-opt--quotas, .acc-opt--jeux {
+    grid-column: auto;
+  }
+  .acc-tuile--scene.acc-opt {
+    flex-direction: column;
+    padding: 0 26px 24px;
+    display: flex;
+  }
+  .acc-opt > .acc-scene {
+    border-radius: 24px 24px 0 0;
+    height: 210px;
+    min-height: 0;
+    margin: 0 -26px 20px;
+  }
+  .acc-opt > h3 {
+    margin: 0;
+    font-size: 20px;
+  }
+  .acc-opt > p:not(.acc-opt-chiffre) {
+    margin-top: 8px;
+    font-size: 15px;
+    line-height: 1.45;
+  }
+  .acc-opt-chiffre {
+    display: none !important;
+  }
+  .acc-opt .acc-scene-puce {
+    display: inline-flex !important;
+  }
+  .acc-opt > .acc-podium {
+    margin-top: 14px;
+    display: flex;
+    gap: 12px;
+  }
+  .acc-opt > .acc-ctas {
+    margin-top: auto;
+    padding-top: 18px;
+  }
+  /* Tile 1 */
+  .acc-opt .acc-scene--quotas img {
+    width: 126px;
+    bottom: 12px;
+    display: block !important;
+  }
+  .acc-opt .acc-scene--quotas .acc-s1 {
+    display: block !important;
+    z-index: 1;
+    transform: translate(-115%) rotate(-8deg);
+  }
+  .acc-opt .acc-scene--quotas .acc-s2 {
+    display: block !important;
+    z-index: 3;
+    width: 142px;
+    transform: translate(-50%);
+  }
+  .acc-opt .acc-scene--quotas .acc-s3 {
+    display: block !important;
+    z-index: 2;
+    transform: translate(15%) rotate(8deg);
+  }
+  /* Tile 2 */
+  .acc-opt .acc-scene--collections .acc-k {
+    display: block !important;
+    width: 104px;
+    margin-left: -52px;
+    bottom: 16px;
+  }
+  .acc-opt .acc-scene--collections .acc-k1 {
+    display: block !important;
+    transform: rotate(-26deg);
+  }
+  .acc-opt .acc-scene--collections .acc-k2 {
+    display: block !important;
+    transform: rotate(-13deg);
+  }
+  .acc-opt .acc-scene--collections .acc-k3 {
+    display: block !important;
+    transform: none;
+  }
+  .acc-opt .acc-scene--collections .acc-k4 {
+    display: block !important;
+    transform: rotate(13deg);
+  }
+  .acc-opt .acc-scene--collections .acc-k5 {
+    display: block !important;
+    transform: rotate(26deg);
+  }
+  /* Tile 3 */
+  .acc-opt .acc-scene--forum .acc-f-cadre .acc-f1 {
+    width: 260px;
+  }
+  /* Tile 4 */
+  .acc-opt .acc-scene--jeux img {
+    width: 82px;
+  }
+  .acc-opt .acc-scene--jeux .acc-j1 {
+    top: 66px;
+    left: 17%;
+  }
+  .acc-opt .acc-scene--jeux .acc-j2 {
+    width: 98px;
+    top: 30px;
+    left: 40%;
+  }
+  .acc-opt .acc-scene--jeux .acc-j3 {
+    top: 76px;
+    left: 64%;
+  }
+  .acc-opt .acc-entaille {
+    left: 12%;
+    right: 12%;
+  }
+}
+
+/* Large Desktop (min-width: 1100px) */
+@media (min-width: 1100px) {
+  .acc-bento {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
+  }
+  .acc-tuile--scene.acc-opt {
+    padding: 0 32px 28px;
+    border-radius: 28px;
+  }
+  .acc-opt > .acc-scene {
+    height: 270px;
+    margin: 0 -32px 24px;
+  }
+  .acc-opt > h3 {
+    font-size: 22px;
+  }
+  /* Tile 1 */
+  .acc-opt .acc-scene--quotas img {
+    width: 165px;
+    bottom: 18px;
+  }
+  .acc-opt .acc-scene--quotas .acc-s1 {
+    transform: translate(-118%) rotate(-8deg);
+  }
+  .acc-opt .acc-scene--quotas .acc-s2 {
+    width: 186px;
+    transform: translate(-50%);
+  }
+  .acc-opt .acc-scene--quotas .acc-s3 {
+    transform: translate(18%) rotate(8deg);
+  }
+  /* Tile 2 */
+  .acc-opt .acc-scene--collections .acc-k {
+    width: 130px;
+    margin-left: -65px;
+    bottom: 24px;
+  }
+  /* Tile 3 */
+  .acc-opt .acc-scene--forum .acc-f-cadre .acc-f1 {
+    width: 330px;
+  }
+  /* Tile 4 */
+  .acc-opt .acc-scene--jeux img {
+    width: 110px;
+  }
+  .acc-opt .acc-scene--jeux .acc-j1 {
+    top: 92px;
+    left: 20%;
+  }
+  .acc-opt .acc-scene--jeux .acc-j2 {
+    width: 130px;
+    top: 40px;
+    left: 42%;
+  }
+  .acc-opt .acc-scene--jeux .acc-j3 {
+    top: 102px;
+    left: 63%;
+  }
+}
+
+/* Desktop Hover Animations */
+@media (hover: hover) {
+  .acc-tuile--lien.acc-opt:hover .acc-scene--quotas .acc-s1 {
+    transform: translate(-118%, -5px) rotate(-9deg) scale(1.02);
+  }
+  .acc-tuile--lien.acc-opt:hover .acc-scene--quotas .acc-s2 {
+    transform: translate(-50%, -8px) scale(1.03);
+  }
+  .acc-tuile--lien.acc-opt:hover .acc-scene--quotas .acc-s3 {
+    transform: translate(18%, -5px) rotate(9deg) scale(1.02);
+  }
+  .acc-tuile--lien.acc-opt:hover .acc-scene--collections .acc-k1 {
+    transform: rotate(-28deg) translateY(-6px);
+  }
+  .acc-tuile--lien.acc-opt:hover .acc-scene--collections .acc-k2 {
+    transform: rotate(-14deg) translateY(-8px);
+  }
+  .acc-tuile--lien.acc-opt:hover .acc-scene--collections .acc-k3 {
+    transform: translateY(-10px);
+  }
+  .acc-tuile--lien.acc-opt:hover .acc-scene--collections .acc-k4 {
+    transform: rotate(14deg) translateY(-8px);
+  }
+  .acc-tuile--lien.acc-opt:hover .acc-scene--collections .acc-k5 {
+    transform: rotate(28deg) translateY(-6px);
+  }
+  .acc-tuile--lien.acc-opt:hover .acc-scene--forum .acc-f-cadre {
+    transform: translate(-50%, calc(-50% - 6px)) scale(1.02);
+  }
+  .acc-tuile--lien.acc-opt:hover .acc-scene--jeux .acc-j1 {
+    transform: rotate(-16deg) translateY(-4px);
+  }
+  .acc-tuile--lien.acc-opt:hover .acc-scene--jeux .acc-j2 {
+    transform: rotate(6deg) translateY(-8px) scale(1.04);
+  }
+  .acc-tuile--lien.acc-opt:hover .acc-scene--jeux .acc-j3 {
+    transform: rotate(18deg) translateY(-4px);
+  }
+}
 
 .acc-ciel-carte--loin .acc-ciel-flotte,.acc-hero--ciel .acc-ciel-carte--loin .acc-ciel-flotte{filter:none;opacity:.5}
 
@@ -1859,11 +2218,7 @@ a.acc-mv-ligne:hover>img{transform:rotate(-3deg)scale(1.07)}
 
 .acc-tel-pos{transition:transform .5s cubic-bezier(.2,0,0,1),opacity .4s linear}
 
-.acc-opt .acc-scene--collections .acc-k{bottom:27px}
 
-.acc-opt .acc-scene--collections .acc-k{width:104px;margin-left:-52px;bottom:40px}
-
-.acc-opt .acc-scene--collections .acc-k{width:136px;margin-left:-68px;bottom:50px}
 
 .acc-scene--forum .acc-fil{grid-template-rows:repeat(2,minmax(0,1fr));grid-template-columns:minmax(0,1fr);gap:6px;margin:0;padding:8px;list-style:none;display:grid;position:absolute;inset:0}
 

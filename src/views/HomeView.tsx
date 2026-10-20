@@ -1325,9 +1325,9 @@ export const HomeView: React.FC<HomeViewProps> = ({
               onClick={() => onNavigateTab('quotas')}
             >
               <div className="acc-scene acc-scene--quotas" aria-hidden="true">
-                <img className="acc-s1" src="/media/accueil/display-op13.webp" alt="Display OP-13" width="128" height="175" loading="lazy" decoding="async" />
-                <img className="acc-s2" src="/media/accueil/display-op16.webp" alt="Display OP-16" width="128" height="175" loading="lazy" decoding="async" />
-                <img className="acc-s3" src="/media/accueil/display-op14.webp" alt="Display OP-14" width="128" height="175" loading="lazy" decoding="async" />
+                <img className="acc-s1" src="/media/accueil/display-op13.webp" alt="Display OP-13" width="320" height="320" loading="lazy" decoding="async" />
+                <img className="acc-s2" src="/media/accueil/display-op16.webp" alt="Display OP-16" width="301" height="320" loading="lazy" decoding="async" />
+                <img className="acc-s3" src="/media/accueil/display-op14.webp" alt="Display OP-14" width="320" height="320" loading="lazy" decoding="async" />
                 <span className="acc-scene-puce">SEC · SP · Manga</span>
                 <span className="acc-scene-eclat"></span>
               </div>
@@ -1350,11 +1350,11 @@ export const HomeView: React.FC<HomeViewProps> = ({
               onClick={() => onNavigateTab('database')}
             >
               <div className="acc-scene acc-scene--collections" aria-hidden="true">
-                <img className="acc-k acc-k1" src="/media/cartes/op14-p154.webp" alt="OP14-154" width="96" height="134" loading="lazy" decoding="async" />
-                <img className="acc-k acc-k2" src="/media/cartes/eb03-p089.webp" alt="EB03-089" width="96" height="134" loading="lazy" decoding="async" />
-                <img className="acc-k acc-k3" src="/media/cartes/op13-p160-sabo.webp" alt="Sabo" width="96" height="134" loading="lazy" decoding="async" />
-                <img className="acc-k acc-k4" src="/media/cartes/op06-p142-zoro.webp" alt="Zoro" width="96" height="134" loading="lazy" decoding="async" />
-                <img className="acc-k acc-k5" src="/media/cartes/op16-p084.webp" alt="OP16-084" width="96" height="134" loading="lazy" decoding="async" />
+                <img className="acc-k acc-k1" src="/media/cartes/op14-p154.webp" alt="OP14-154" width="240" height="336" loading="lazy" decoding="async" />
+                <img className="acc-k acc-k2" src="/media/cartes/eb03-p089.webp" alt="EB03-089" width="240" height="336" loading="lazy" decoding="async" />
+                <img className="acc-k acc-k3" src="/media/cartes/op13-p160-sabo.webp" alt="Sabo" width="240" height="336" loading="lazy" decoding="async" />
+                <img className="acc-k acc-k4" src="/media/cartes/op06-p142-zoro.webp" alt="Zoro" width="240" height="336" loading="lazy" decoding="async" />
+                <img className="acc-k acc-k5" src="/media/cartes/op16-p084.webp" alt="OP16-084" width="240" height="336" loading="lazy" decoding="async" />
                 <span className="acc-scene-puce">17 600 cartes</span>
               </div>
               <h3>Toutes les collections, triées</h3>
@@ -1377,7 +1377,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
             >
               <div className="acc-scene acc-scene--forum" aria-hidden="true">
                 <span className="acc-f-cadre">
-                  <img className="acc-f1" src="/media/accueil/forum-une.webp" alt="Méta & Tournois" />
+                  <img className="acc-f1" src="/media/accueil/forum-une.webp" alt="Méta & Tournois" width="480" height="320" loading="lazy" decoding="async" />
                 </span>
               </div>
               <h3>Méta Decks & Tier List</h3>
@@ -1398,9 +1398,9 @@ export const HomeView: React.FC<HomeViewProps> = ({
               onClick={() => onNavigateTab('deckbuilder')}
             >
               <div className="acc-scene acc-scene--jeux" aria-hidden="true">
-                <img className="acc-j1" src="/media/cartes/op05-p147-luffy.webp" alt="" />
-                <img className="acc-j2" src="/media/cartes/op09-p009-shanks.webp" alt="" />
-                <img className="acc-j3" src="/media/cartes/op06-p142-zoro.webp" alt="" />
+                <img className="acc-j1" src="/media/accueil/fruit-flamme.webp" alt="Fruit Mera Mera" width="219" height="256" loading="lazy" decoding="async" />
+                <img className="acc-j2" src="/media/accueil/fruit-violet.webp" alt="Fruit Gomu Gomu" width="219" height="256" loading="lazy" decoding="async" />
+                <img className="acc-j3" src="/media/accueil/fruit-coeur.webp" alt="Fruit Ope Ope" width="219" height="256" loading="lazy" decoding="async" />
                 <span className="acc-entaille"></span>
               </div>
               <h3>Deckbuilder Compétitif</h3>
