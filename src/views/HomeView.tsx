@@ -1215,7 +1215,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
               {/* Phone 3: Lock Screen with Notification Toasts */}
               <button
                 type="button"
-                className={`acc-tel-pos ${gestureStep === 2 ? 'acc-tel-pos--centre' : gestureStep === 0 ? 'acc-tel-pos--droite' : 'acc-tel-pos--gauche'}`}
+                className={`acc-tel-pos ${gestureStep === 2 ? 'acc-tel-pos--centre' : gestureStep === 0 ? 'acc-tel-pos--gauche' : 'acc-tel-pos--droite'}`}
                 onClick={() => setGestureStep(2)}
                 data-etape="2"
                 data-actif={gestureStep === 2 ? 'oui' : undefined}
