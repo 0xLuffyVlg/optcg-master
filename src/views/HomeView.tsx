@@ -352,6 +352,22 @@ export const HomeView: React.FC<HomeViewProps> = ({
 
   // --- Gesture / Phone carousel state ---
   const [gestureStep, setGestureStep] = useState<number>(0);
+  const touchStartXRef = useRef<number>(0);
+
+  const handleTouchStart = (e: React.TouchEvent) => {
+    touchStartXRef.current = e.touches[0].clientX;
+  };
+
+  const handleTouchEnd = (e: React.TouchEvent) => {
+    const diff = touchStartXRef.current - e.changedTouches[0].clientX;
+    if (Math.abs(diff) > 35) {
+      if (diff > 0) {
+        setGestureStep(1);
+      } else {
+        setGestureStep(0);
+      }
+    }
+  };
 
   // Close search suggestions when clicking outside
   useEffect(() => {
@@ -1086,7 +1102,11 @@ export const HomeView: React.FC<HomeViewProps> = ({
           </div>
 
           <div className="acc-visuel acc-visuel--p3">
-            <div className="acc-p3-scene">
+            <div 
+              className="acc-p3-scene"
+              onTouchStart={handleTouchStart}
+              onTouchEnd={handleTouchEnd}
+            >
               {/* Phone 1: OPTCG Master - Ajoute ta carte / Fiche scanner */}
               <button
                 type="button"
