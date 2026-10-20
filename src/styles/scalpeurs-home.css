@@ -1533,11 +1533,13 @@ html[data-intro] .acc-ciel-prix{animation-delay:1.4s}
 
 .acc-gestes{background:radial-gradient(42% 36% at 50% 58%,#f5822313,#0000 72%)}
 
-.acc-gestes .acc-visuel--p3{--l3:226px}
+.acc-gestes .acc-visuel--p3{--l3:clamp(200px, 18vw, 226px)}
 
-.acc-gestes .acc-p3-scene{grid-template-columns:repeat(2,max-content);justify-content:center;align-items:start;column-gap:clamp(48px,5.5vw,96px);height:auto;padding:22px 0 4px;display:grid}
+.acc-gestes .acc-p3-scene{grid-template-columns:repeat(3,max-content);justify-content:center;align-items:start;column-gap:clamp(24px,3.5vw,56px);height:auto;padding:22px 0 4px;display:grid}
 
-.acc-gestes .acc-tel-pos{isolation:isolate;filter:none;opacity:.52;cursor:pointer;border-radius:28px;flex-direction:column;align-items:center;gap:26px;transition:opacity .45s linear,transform .55s cubic-bezier(.2,0,0,1);display:flex;position:relative;top:auto;left:auto;transform:none}
+.acc-gestes .acc-tel-pos{isolation:isolate;filter:none;opacity:.8;cursor:pointer;border-radius:28px;flex-direction:column;align-items:center;gap:26px;transition:opacity .35s ease,transform .4s cubic-bezier(.2,0,0,1);display:flex;position:relative;top:auto;left:auto;transform:none}
+
+.acc-gestes .acc-tel-pos:hover{opacity:1;transform:translateY(-8px)}
 
 .acc-gestes .acc-tel-pos[data-actif]{opacity:1;cursor:default;transform:translateY(-14px)}
 
