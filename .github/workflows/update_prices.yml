@@ -2,7 +2,8 @@ name: Auto-Sync CardTrader Live Marketplace Prices
 
 on:
   schedule:
-    - cron: "0 4 * * *" # Every day at 04:00 AM UTC
+    # Tous les matins à 03:00 UTC (05:00 heure de Paris) - Décalé pour éviter tout conflit avec Cardmarket (04:00)
+    - cron: "0 3 * * *"
   workflow_dispatch: # Allows manual 1-click execution anytime
 
 permissions:
@@ -16,6 +17,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -43,5 +46,6 @@ jobs:
             echo "No price changes detected."
           else
             git commit -m "chore(prices): auto-sync live CardTrader marketplace prices [skip ci]"
-            git push
+            git pull --rebase origin main
+            git push origin main
           fi
