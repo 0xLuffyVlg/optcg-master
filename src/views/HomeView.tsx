@@ -1324,10 +1324,10 @@ export const HomeView: React.FC<HomeViewProps> = ({
               className="acc-tuile acc-tuile--scene acc-tuile--lien acc-opt acc-opt--quotas acc-declic cursor-pointer"
               onClick={() => onNavigateTab('quotas')}
             >
-              <div className="acc-scene acc-scene--quotas" aria-hidden="true">
-                <img className="acc-s1" src="/media/accueil/display-op13.webp" alt="Display OP-13" width="320" height="320" loading="lazy" decoding="async" />
-                <img className="acc-s2" src="/media/accueil/display-op16.webp" alt="Display OP-16" width="301" height="320" loading="lazy" decoding="async" />
-                <img className="acc-s3" src="/media/accueil/display-op14.webp" alt="Display OP-14" width="320" height="320" loading="lazy" decoding="async" />
+              <div className="acc-scene acc-scene--quotas" style={{ width: 'calc(100% + 64px)', alignSelf: 'stretch', minWidth: '100%' }} aria-hidden="true">
+                <img className="acc-s1" src="/media/accueil/display-op13.webp" alt="Display OP-13" width="320" height="320" loading="eager" decoding="async" />
+                <img className="acc-s2" src="/media/accueil/display-op16.webp" alt="Display OP-16" width="301" height="320" loading="eager" decoding="async" />
+                <img className="acc-s3" src="/media/accueil/display-op14.webp" alt="Display OP-14" width="320" height="320" loading="eager" decoding="async" />
                 <span className="acc-scene-puce">SEC · SP · Manga</span>
                 <span className="acc-scene-eclat"></span>
               </div>
@@ -1349,12 +1349,12 @@ export const HomeView: React.FC<HomeViewProps> = ({
               className="acc-tuile acc-tuile--scene acc-tuile--lien acc-opt acc-opt--collections acc-declic cursor-pointer"
               onClick={() => onNavigateTab('database')}
             >
-              <div className="acc-scene acc-scene--collections" aria-hidden="true">
-                <img className="acc-k acc-k1" src="/media/cartes/op14-p154.webp" alt="OP14-154" width="240" height="336" loading="lazy" decoding="async" />
-                <img className="acc-k acc-k2" src="/media/cartes/eb03-p089.webp" alt="EB03-089" width="240" height="336" loading="lazy" decoding="async" />
-                <img className="acc-k acc-k3" src="/media/cartes/op13-p160-sabo.webp" alt="Sabo" width="240" height="336" loading="lazy" decoding="async" />
-                <img className="acc-k acc-k4" src="/media/cartes/op06-p142-zoro.webp" alt="Zoro" width="240" height="336" loading="lazy" decoding="async" />
-                <img className="acc-k acc-k5" src="/media/cartes/op16-p084.webp" alt="OP16-084" width="240" height="336" loading="lazy" decoding="async" />
+              <div className="acc-scene acc-scene--collections" style={{ width: 'calc(100% + 64px)', alignSelf: 'stretch', minWidth: '100%' }} aria-hidden="true">
+                <img className="acc-k acc-k1" src="/media/cartes/op14-p154.webp" alt="OP14-154" width="240" height="336" loading="eager" decoding="async" />
+                <img className="acc-k acc-k2" src="/media/cartes/eb03-p089.webp" alt="EB03-089" width="240" height="336" loading="eager" decoding="async" />
+                <img className="acc-k acc-k3" src="/media/cartes/op13-p160-sabo.webp" alt="Sabo" width="240" height="336" loading="eager" decoding="async" />
+                <img className="acc-k acc-k4" src="/media/cartes/op06-p142-zoro.webp" alt="Zoro" width="240" height="336" loading="eager" decoding="async" />
+                <img className="acc-k acc-k5" src="/media/cartes/op16-p084.webp" alt="OP16-084" width="240" height="336" loading="eager" decoding="async" />
                 <span className="acc-scene-puce">17 600 cartes</span>
               </div>
               <h3>Toutes les collections, triées</h3>
@@ -1375,9 +1375,9 @@ export const HomeView: React.FC<HomeViewProps> = ({
               className="acc-tuile acc-tuile--scene acc-tuile--lien acc-opt acc-opt--forum acc-declic cursor-pointer"
               onClick={() => onNavigateTab('meta')}
             >
-              <div className="acc-scene acc-scene--forum" aria-hidden="true">
+              <div className="acc-scene acc-scene--forum" style={{ width: 'calc(100% + 64px)', alignSelf: 'stretch', minWidth: '100%' }} aria-hidden="true">
                 <span className="acc-f-cadre">
-                  <img className="acc-f1" src="/media/accueil/forum-une.webp" alt="Méta & Tournois" width="480" height="320" loading="lazy" decoding="async" />
+                  <img className="acc-f1" src="/media/accueil/forum-une.webp" alt="Méta & Tournois" width="480" height="320" loading="eager" decoding="async" />
                 </span>
               </div>
               <h3>Méta Decks & Tier List</h3>
@@ -1397,10 +1397,10 @@ export const HomeView: React.FC<HomeViewProps> = ({
               className="acc-tuile acc-tuile--scene acc-tuile--lien acc-opt acc-opt--jeux acc-declic cursor-pointer"
               onClick={() => onNavigateTab('deckbuilder')}
             >
-              <div className="acc-scene acc-scene--jeux" aria-hidden="true">
-                <img className="acc-j1" src="/media/accueil/fruit-flamme.webp" alt="Fruit Mera Mera" width="219" height="256" loading="lazy" decoding="async" />
-                <img className="acc-j2" src="/media/accueil/fruit-violet.webp" alt="Fruit Gomu Gomu" width="219" height="256" loading="lazy" decoding="async" />
-                <img className="acc-j3" src="/media/accueil/fruit-coeur.webp" alt="Fruit Ope Ope" width="219" height="256" loading="lazy" decoding="async" />
+              <div className="acc-scene acc-scene--jeux" style={{ width: 'calc(100% + 64px)', alignSelf: 'stretch', minWidth: '100%' }} aria-hidden="true">
+                <img className="acc-j1" src="/media/accueil/fruit-flamme.webp" alt="Fruit Mera Mera" width="219" height="256" loading="eager" decoding="async" />
+                <img className="acc-j2" src="/media/accueil/fruit-violet.webp" alt="Fruit Gomu Gomu" width="219" height="256" loading="eager" decoding="async" />
+                <img className="acc-j3" src="/media/accueil/fruit-coeur.webp" alt="Fruit Ope Ope" width="219" height="256" loading="eager" decoding="async" />
                 <span className="acc-entaille"></span>
               </div>
               <h3>Deckbuilder Compétitif</h3>

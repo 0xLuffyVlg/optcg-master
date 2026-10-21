@@ -1,9 +1,12 @@
 {
   "functions": {
-    "api/*.ts": {
-      "includeFiles": "src/data/**",
+    "api/ssr-og.ts": {
+      "includeFiles": "src/data/{cards,variants,cardmarket_prices,cardtrader_prices}.json",
       "memory": 1024,
       "maxDuration": 15
+    },
+    "api/cron-daily.ts": {
+      "maxDuration": 60
     }
   },
   "crons": [
