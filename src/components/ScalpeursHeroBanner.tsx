@@ -174,14 +174,14 @@ export const ScalpeursHeroBanner: React.FC<ScalpeursHeroBannerProps> = ({
               <div className="flex items-center gap-1 truncate">
                 <button 
                   type="button" 
-                  onClick={() => onSelectLanguage('FR')}
+                  onClick={() => onSelectLanguage('ALL')}
                   className="hover:text-amber-300 text-white/70 transition-colors cursor-pointer truncate"
                 >
                   Cartes One Piece
                 </button>
                 <span className="text-white/40">›</span>
                 <span className="text-white/90 font-bold truncate">
-                  {selectedLanguage === 'JP' ? 'japonaises' : selectedLanguage === 'FR' ? 'françaises' : selectedLanguage === 'EN' ? 'anglaises' : 'anglaises'}
+                  {selectedLanguage === 'JP' ? 'japonaises' : selectedLanguage === 'FR' ? 'françaises' : selectedLanguage === 'EN' ? 'anglaises' : 'toutes'}
                 </span>
               </div>
             ) : (
@@ -196,6 +196,21 @@ export const ScalpeursHeroBanner: React.FC<ScalpeursHeroBannerProps> = ({
             {/* Language Capsule (Sleek Scalpeurs Pill) */}
             {onSelectLanguage && selectedLanguage && (
               <div className="flex items-center gap-0.5 bg-black/60 p-0.5 rounded-full border border-white/15 backdrop-blur-md shadow-md">
+                <button
+                  type="button"
+                  onClick={() => onSelectLanguage('JP')}
+                  className={`px-2 py-0.5 sm:px-2.5 sm:py-1 rounded-full text-[10.5px] sm:text-xs transition-all cursor-pointer flex items-center gap-1 ${
+                    selectedLanguage === 'JP'
+                      ? 'bg-amber-400 text-black font-extrabold shadow-sm'
+                      : 'text-white/70 hover:text-white font-medium'
+                  }`}
+                  title="Cartes japonaises"
+                >
+                  <span className="w-3.5 h-3.5 rounded-full bg-white flex items-center justify-center flex-shrink-0 p-[2px]">
+                    <span className="w-2 h-2 rounded-full bg-red-600 block" />
+                  </span>
+                  <span>JP</span>
+                </button>
                 <button
                   type="button"
                   onClick={() => onSelectLanguage('FR')}
@@ -221,21 +236,6 @@ export const ScalpeursHeroBanner: React.FC<ScalpeursHeroBannerProps> = ({
                 >
                   <span className="text-[12px] leading-none">🇬🇧</span>
                   <span>EN</span>
-                </button>
-                <button
-                  type="button"
-                  onClick={() => onSelectLanguage('JP')}
-                  className={`px-2 py-0.5 sm:px-2.5 sm:py-1 rounded-full text-[10.5px] sm:text-xs transition-all cursor-pointer flex items-center gap-1 ${
-                    selectedLanguage === 'JP'
-                      ? 'bg-amber-400 text-black font-extrabold shadow-sm'
-                      : 'text-white/70 hover:text-white font-medium'
-                  }`}
-                  title="Cartes japonaises"
-                >
-                  <span className="w-3.5 h-3.5 rounded-full bg-white flex items-center justify-center flex-shrink-0 p-[2px]">
-                    <span className="w-2 h-2 rounded-full bg-red-600 block" />
-                  </span>
-                  <span>JP</span>
                 </button>
               </div>
             )}
