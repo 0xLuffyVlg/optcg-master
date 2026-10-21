@@ -192,24 +192,21 @@ export const MobileFilterDrawer: React.FC<MobileFilterDrawerProps> = ({
                 <h3 className="text-[11px] font-black text-slate-400 uppercase tracking-widest">
                   LANGUE DES CARTES
                 </h3>
-                {selectedLanguage && selectedLanguage !== 'ALL' && (
+                {selectedLanguage && selectedLanguage !== 'FR' && (
                   <button
                     type="button"
-                    onClick={() => setSelectedLanguage('ALL')}
+                    onClick={() => setSelectedLanguage('FR')}
                     className="text-[10px] text-amber-400 font-bold hover:underline"
-                  >
-                    Toutes
-                  </button>
+                  >FR</button>
                 )}
               </div>
-              <div className="grid grid-cols-4 gap-2">
+              <div className="grid grid-cols-3 gap-2">
                 {[
-                  { id: 'ALL', label: '🌍 Toutes' },
                   { id: 'FR', label: '🇫🇷 FR' },
                   { id: 'EN', label: '🇬🇧 EN' },
                   { id: 'JP', label: '🇯🇵 JP' },
                 ].map((item) => {
-                  const isActive = (selectedLanguage || 'ALL') === item.id;
+                  const isActive = (selectedLanguage || 'FR') === item.id;
                   return (
                     <button
                       key={item.id}
