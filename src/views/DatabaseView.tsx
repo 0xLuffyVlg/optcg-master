@@ -223,7 +223,6 @@ const SORT_DROPDOWN_OPTIONS: { value: SortOption; label: string; short: string }
 ];
 
 const LANGUAGE_DROPDOWN_OPTIONS = [
-  { value: 'ALL', label: '🌍 Toutes les langues', short: '🌍 Toutes' },
   { value: 'FR', label: '🇫🇷 Français (FR)', short: '🇫🇷 Français' },
   { value: 'EN', label: '🇬🇧 Anglais (EN)', short: '🇬🇧 Anglais' },
   { value: 'JP', label: '🇯🇵 Japonais (JP)', short: '🇯🇵 Japonais' },
@@ -295,7 +294,7 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
   const { addCardToCollection, removeCardFromCollection, getCardCountInCollection, getTotalCardCopies } = useCollection();
   const [searchQuery, setSearchQuery] = useState('');
   const [variantTab, setVariantTab] = useState<'ALL' | 'BASE' | 'ALT'>('ALL');
-  const [selectedLanguage, setSelectedLanguage] = useState<'ALL' | 'JP' | 'EN' | 'FR'>('ALL');
+  const [selectedLanguage, setSelectedLanguage] = useState<'FR' | 'EN' | 'JP'>('FR');
   const [isSearchFocused, setIsSearchFocused] = useState(false);
   const [viewMode, setViewMode] = useState<'grouped' | 'allPrints'>('allPrints');
   const [selectedSetGroup, setSelectedSetGroup] = useState<SetGroupType>('ALL');
@@ -355,8 +354,8 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
       list = list.filter(card => matchesCardSearch(card, searchQuery));
     }
 
-    // Language filter (JP, EN, FR, ALL)
-    if (selectedLanguage !== 'ALL') {
+    // Language filter (FR, EN, JP)
+    {
       const targetLang = selectedLanguage.toLowerCase();
       list = list.filter(card => {
         if (viewMode === 'allPrints' || hasSearch) {
@@ -931,7 +930,7 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
   // Count active filters
   const activeFiltersCount = useMemo(() => {
     let count = 0;
-    if (selectedLanguage !== 'ALL') count++;
+    if (selectedLanguage !== 'FR') count++;
     if (selectedSort !== 'price-desc' && selectedSort !== 'code-asc') count++;
     if (selectedRarity !== 'ALL') count++;
     if (isMangaOnly) count++;
@@ -946,7 +945,7 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
   }, [selectedLanguage, selectedSort, selectedRarity, isMangaOnly, isCrewMangaOnly, variantTab, minPrice, selectedColor, selectedCategory, selectedIllustrator, selectedPriceRange]);
 
   const handleResetAllFilters = () => {
-    setSelectedLanguage('ALL');
+    setSelectedLanguage('FR');
     setSelectedSort('code-asc');
     setSelectedRarity('ALL');
     setIsMangaOnly(false);
@@ -975,7 +974,7 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
     const isOpen = activeDropdown === id;
     const isFiltered = id === 'sort' 
       ? (currentValue.startsWith('price') || currentValue.startsWith('alpha') || currentValue.startsWith('lang'))
-      : currentValue !== 'ALL';
+      : (id === 'language' ? currentValue !== 'FR' : currentValue !== 'ALL');
     const currentOption = options.find(o => o.value === currentValue);
     const displayLabel = currentOption ? currentOption.short : options[0]?.short;
 
@@ -1289,13 +1288,13 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
             ? 'Toutes les cartes japonaises'
             : selectedLanguage === 'EN'
             ? 'Toutes les cartes anglaises'
-            : 'Toutes les collections'
+            : 'Toutes les cartes françaises'
         }
         code={selectedSpecificSet !== 'ALL' ? selectedCollectionMeta.code : undefined}
         totalCards={filteredCards.length}
         selectedLanguage={selectedLanguage}
         onSelectLanguage={(lang) => {
-          setSelectedLanguage(lang);
+          setSelectedLanguage(lang === 'ALL' ? 'FR' : lang);
           setPage(1);
         }}
         breadcrumb={
@@ -1305,7 +1304,7 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
             ? 'Cartes One Piece › françaises'
             : selectedLanguage === 'EN'
             ? 'Cartes One Piece › anglaises'
-            : 'Cartes One Piece › toutes'
+            : 'Cartes One Piece › françaises'
         }
         viewMode={viewMode}
         onToggleViewMode={(mode) => {
@@ -1369,7 +1368,7 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
                     setActiveDropdown(activeDropdown === 'language' ? null : 'language');
                   }}
                   className="w-6 h-6 rounded-full border border-slate-600 hover:border-amber-400 p-0 flex items-center justify-center bg-black/40 hover:scale-105 active:scale-95 transition-all shadow-sm cursor-pointer"
-                  title="Changer de langue (FR, EN, JP, Toutes)"
+                  title="Changer de langue (FR, EN, JP)"
                 >
                   {renderCircularFlag(selectedLanguage, 'w-4 h-4')}
                 </button>
@@ -1398,7 +1397,6 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
                   { id: 'FR', label: 'Français (FR)', count: langCounts.fr },
                   { id: 'EN', label: 'Anglais (EN)', count: langCounts.en },
                   { id: 'JP', label: 'Japonais (JP)', count: langCounts.jp },
-                  { id: 'ALL', label: 'Toutes les langues', count: langCounts.total },
                 ].map(item => {
                   const isSelected = selectedLanguage === item.id;
                   return (
@@ -1857,7 +1855,7 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
         selectedCategory={selectedCategory}
         setSelectedCategory={(c) => { setSelectedCategory(c); setPage(1); }}
         selectedLanguage={selectedLanguage}
-        setSelectedLanguage={(l) => { setSelectedLanguage(l); setPage(1); }}
+        setSelectedLanguage={(l) => { setSelectedLanguage(l === 'ALL' ? 'FR' : l); setPage(1); }}
         selectedIllustrator={selectedIllustrator}
         setSelectedIllustrator={(i) => { setSelectedIllustrator(i); setPage(1); }}
         availableIllustrators={availableIllustrators}
