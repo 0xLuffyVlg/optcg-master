@@ -26,7 +26,7 @@ export function getCardImageUrl(card: Card | null | undefined, artworkName?: str
   // 0. Language-specific image preference (FR, EN, JP)
   if (preferredLang && typeof preferredLang === 'string') {
     const p = preferredLang.toLowerCase().trim();
-    if (p === 'fr' && card.image_fr) return card.image_fr;
+    if (p === 'fr' && card.image_fr && !card.image_fr.includes('cards-en') && !card.image_fr.includes('cards-jp')) return card.image_fr;
     if (p === 'en' && card.image_en) return card.image_en;
     if (p === 'jp' && card.image_jp) return card.image_jp;
     if (card._imagePaths && Array.isArray(card._imagePaths)) {

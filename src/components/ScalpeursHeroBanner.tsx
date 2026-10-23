@@ -193,53 +193,6 @@ export const ScalpeursHeroBanner: React.FC<ScalpeursHeroBannerProps> = ({
 
           {/* Droite: Language Capsule + Toggle ViewMode */}
           <div className="flex items-center gap-2 sm:gap-3 flex-shrink-0">
-            {/* Language Capsule (Sleek Scalpeurs Pill) */}
-            {onSelectLanguage && selectedLanguage && (
-              <div className="flex items-center gap-0.5 bg-black/60 p-0.5 rounded-full border border-white/15 backdrop-blur-md shadow-md">
-                <button
-                  type="button"
-                  onClick={() => onSelectLanguage('FR')}
-                  className={`px-2 py-0.5 sm:px-2.5 sm:py-1 rounded-full text-[10.5px] sm:text-xs transition-all cursor-pointer flex items-center gap-1 ${
-                    selectedLanguage === 'FR'
-                      ? 'bg-amber-400 text-black font-extrabold shadow-sm'
-                      : 'text-white/70 hover:text-white font-medium'
-                  }`}
-                  title="Cartes françaises"
-                >
-                  <span className="text-[12px] leading-none">🇫🇷</span>
-                  <span>FR</span>
-                </button>
-                <button
-                  type="button"
-                  onClick={() => onSelectLanguage('EN')}
-                  className={`px-2 py-0.5 sm:px-2.5 sm:py-1 rounded-full text-[10.5px] sm:text-xs transition-all cursor-pointer flex items-center gap-1 ${
-                    selectedLanguage === 'EN'
-                      ? 'bg-amber-400 text-black font-extrabold shadow-sm'
-                      : 'text-white/70 hover:text-white font-medium'
-                  }`}
-                  title="Cartes anglaises"
-                >
-                  <span className="text-[12px] leading-none">🇬🇧</span>
-                  <span>EN</span>
-                </button>
-                <button
-                  type="button"
-                  onClick={() => onSelectLanguage('JP')}
-                  className={`px-2 py-0.5 sm:px-2.5 sm:py-1 rounded-full text-[10.5px] sm:text-xs transition-all cursor-pointer flex items-center gap-1 ${
-                    selectedLanguage === 'JP'
-                      ? 'bg-amber-400 text-black font-extrabold shadow-sm'
-                      : 'text-white/70 hover:text-white font-medium'
-                  }`}
-                  title="Cartes japonaises"
-                >
-                  <span className="w-3.5 h-3.5 rounded-full bg-white flex items-center justify-center flex-shrink-0 p-[2px]">
-                    <span className="w-2 h-2 rounded-full bg-red-600 block" />
-                  </span>
-                  <span>JP</span>
-                </button>
-              </div>
-            )}
-
             {/* Desktop-only: ViewMode Toggles (Toutes les Variantes / Cartes Uniques) */}
             {onToggleViewMode && viewMode ? (
               <div className="hidden sm:flex items-center gap-2 sm:gap-3">

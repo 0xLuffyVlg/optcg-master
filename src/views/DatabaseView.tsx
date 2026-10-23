@@ -361,7 +361,10 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
         const l = (card.language || (card.id.startsWith('fr-') ? 'fr' : (card.id.startsWith('jp-') ? 'jp' : 'en'))).toLowerCase();
         return l === targetLang;
       } else {
-        if (targetLang === 'fr') return Boolean(card.image_fr || card.name_fr || card.language === 'fr');
+        if (targetLang === 'fr') {
+          const img = (card.image_fr || card.scalpeurs_image_url || card._defaultImagePath || '').toLowerCase();
+          return (card.language === 'fr' || card.id?.startsWith('fr-') || img.includes('cards-fr') || img.includes('/fr/')) && !img.includes('cards-en') && !img.includes('cards-jp');
+        }
         if (targetLang === 'en') return Boolean(card.image_en || card.language === 'en');
         if (targetLang === 'jp') return Boolean(card.image_jp || card.jp_name || card.is_japanese || card.language === 'jp');
         return true;
