@@ -1073,7 +1073,7 @@
   },
   "PRB02-010": {
     "idProduct": 0,
-    "trend_eur": 1.85,
+    "trend_eur": 1.8,
     "low_eur": 1.85,
     "avg_eur": 6.66,
     "foil_trend_eur": 0,
@@ -1385,7 +1385,7 @@
   },
   "EB01-006": {
     "idProduct": 754141,
-    "trend_eur": 3.96,
+    "trend_eur": 3.76,
     "low_eur": 10,
     "avg_eur": 1589.88,
     "foil_trend_eur": 0,
@@ -2433,9 +2433,9 @@
   },
   "EB03-024": {
     "idProduct": 858302,
-    "trend_eur": 4.4,
+    "trend_eur": 4,
     "low_eur": 4.4,
-    "avg_eur": 4.4,
+    "avg_eur": 4,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Nefeltari-Vivi-EB03-024-V1?language=2"
   },
@@ -2737,9 +2737,9 @@
   },
   "EB03-062": {
     "idProduct": 858357,
-    "trend_eur": 7.5,
+    "trend_eur": 7,
     "low_eur": 7.5,
-    "avg_eur": 7.5,
+    "avg_eur": 7,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Trafalgar-Law-EB03-062-V1?language=2"
   },
@@ -3977,9 +3977,9 @@
   },
   "OP17-022": {
     "idProduct": 903905,
-    "trend_eur": 1,
+    "trend_eur": 0.9,
     "low_eur": 1,
-    "avg_eur": 1,
+    "avg_eur": 0.9,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/OP17/Shanks-OP17-022-V1?language=2"
   },
@@ -4545,7 +4545,7 @@
   },
   "OP17-093": {
     "idProduct": 904114,
-    "trend_eur": 1,
+    "trend_eur": 1.25,
     "low_eur": 1.5,
     "avg_eur": 3.46,
     "foil_trend_eur": 0,
@@ -4745,7 +4745,7 @@
   },
   "OP17-118": {
     "idProduct": 904145,
-    "trend_eur": 10,
+    "trend_eur": 9,
     "low_eur": 12,
     "avg_eur": 23.82,
     "foil_trend_eur": 0,
@@ -4753,7 +4753,7 @@
   },
   "OP17-119": {
     "idProduct": 904148,
-    "trend_eur": 13,
+    "trend_eur": 14,
     "low_eur": 17,
     "avg_eur": 25.52,
     "foil_trend_eur": 0,
@@ -4761,7 +4761,7 @@
   },
   "EB04-007": {
     "idProduct": 870579,
-    "trend_eur": 13,
+    "trend_eur": 12,
     "low_eur": 228,
     "avg_eur": 12.54,
     "foil_trend_eur": 0,
@@ -4801,9 +4801,9 @@
   },
   "P-084": {
     "idProduct": 804533,
-    "trend_eur": 148.99,
+    "trend_eur": 143.99,
     "low_eur": 130,
-    "avg_eur": 148.99,
+    "avg_eur": 143.99,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-084"
   },
@@ -5777,7 +5777,7 @@
   },
   "OP16-119": {
     "idProduct": 890517,
-    "trend_eur": 22,
+    "trend_eur": 22.5,
     "low_eur": 23,
     "avg_eur": 26.74,
     "foil_trend_eur": 0,
@@ -6673,7 +6673,7 @@
   },
   "OP15-078": {
     "idProduct": 875085,
-    "trend_eur": 19,
+    "trend_eur": 15,
     "low_eur": 17.9,
     "avg_eur": 18.23,
     "foil_trend_eur": 0,
@@ -6753,7 +6753,7 @@
   },
   "OP15-088": {
     "idProduct": 875097,
-    "trend_eur": 4.99,
+    "trend_eur": 5,
     "low_eur": 4,
     "avg_eur": 5.37,
     "foil_trend_eur": 0,
@@ -6993,7 +6993,7 @@
   },
   "OP15-118": {
     "idProduct": 875134,
-    "trend_eur": 12,
+    "trend_eur": 11,
     "low_eur": 12,
     "avg_eur": 13.69,
     "foil_trend_eur": 0,
@@ -7001,9 +7001,9 @@
   },
   "OP15-119": {
     "idProduct": 875137,
-    "trend_eur": 8.4,
+    "trend_eur": 8,
     "low_eur": 8,
-    "avg_eur": 8.4,
+    "avg_eur": 8,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Adventure-on-Kamis-Island/MonkeyDLuffy-OP15-119-V1?language=2"
   },
@@ -7545,7 +7545,7 @@
   },
   "OP14-031": {
     "idProduct": 861800,
-    "trend_eur": 2,
+    "trend_eur": 1.5,
     "low_eur": 2,
     "avg_eur": 2.36,
     "foil_trend_eur": 0,
@@ -8233,7 +8233,7 @@
   },
   "OP14-119": {
     "idProduct": 861946,
-    "trend_eur": 1.99,
+    "trend_eur": 1.8,
     "low_eur": 1.99,
     "avg_eur": 2.25,
     "foil_trend_eur": 0,
@@ -8241,7 +8241,7 @@
   },
   "OP14-120": {
     "idProduct": 861950,
-    "trend_eur": 12,
+    "trend_eur": 11,
     "low_eur": 9.9,
     "avg_eur": 8.42,
     "foil_trend_eur": 0,
@@ -9233,7 +9233,7 @@
   },
   "OP09-118": {
     "idProduct": 786547,
-    "trend_eur": 12.39,
+    "trend_eur": 12.5,
     "low_eur": 14.9,
     "avg_eur": 16.72,
     "foil_trend_eur": 0,
@@ -11153,7 +11153,7 @@
   },
   "OP11-118": {
     "idProduct": 817494,
-    "trend_eur": 1.99,
+    "trend_eur": 2,
     "low_eur": 2,
     "avg_eur": 1.74,
     "foil_trend_eur": 0,
@@ -11225,7 +11225,7 @@
   },
   "OP10-005": {
     "idProduct": 802169,
-    "trend_eur": 2.45,
+    "trend_eur": 2.4,
     "low_eur": 2.3,
     "avg_eur": 4.5,
     "foil_trend_eur": 0,
@@ -16537,7 +16537,7 @@
   },
   "OP04-118": {
     "idProduct": 732811,
-    "trend_eur": 3.99,
+    "trend_eur": 4.4,
     "low_eur": 3.4,
     "avg_eur": 5.94,
     "foil_trend_eur": 0,
@@ -19145,9 +19145,9 @@
   },
   "ST34-004": {
     "idProduct": 900538,
-    "trend_eur": 4,
+    "trend_eur": 4.2,
     "low_eur": 4.2,
-    "avg_eur": 4,
+    "avg_eur": 4.2,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Purple-Charlotte-Katakuri/Charlotte-Linlin-ST34-004?language=2"
   },
@@ -19185,7 +19185,7 @@
   },
   "ST33-004": {
     "idProduct": 900316,
-    "trend_eur": 5.9,
+    "trend_eur": 5.95,
     "low_eur": 4,
     "avg_eur": 2.5,
     "foil_trend_eur": 0,
@@ -19289,7 +19289,7 @@
   },
   "ST31-005": {
     "idProduct": 900287,
-    "trend_eur": 3.49,
+    "trend_eur": 3.48,
     "low_eur": 3.5,
     "avg_eur": 3.54,
     "foil_trend_eur": 0,
@@ -19297,7 +19297,7 @@
   },
   "ST30-001": {
     "idProduct": 884714,
-    "trend_eur": 1.75,
+    "trend_eur": 1.74,
     "low_eur": 1.98,
     "avg_eur": 4.06,
     "foil_trend_eur": 0,
@@ -19745,7 +19745,7 @@
   },
   "ST24-004": {
     "idProduct": 829125,
-    "trend_eur": 2.49,
+    "trend_eur": 2.5,
     "low_eur": 2.49,
     "avg_eur": 3.74,
     "foil_trend_eur": 0,
@@ -20009,7 +20009,7 @@
   },
   "ST21-014": {
     "idProduct": 808776,
-    "trend_eur": 7.5,
+    "trend_eur": 6.99,
     "low_eur": 1050,
     "avg_eur": 8.65,
     "foil_trend_eur": 0,
@@ -21721,9 +21721,9 @@
   },
   "P-006": {
     "idProduct": 691237,
-    "trend_eur": 100,
+    "trend_eur": 99,
     "low_eur": 115,
-    "avg_eur": 100,
+    "avg_eur": 99,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-006"
   },
@@ -21801,9 +21801,9 @@
   },
   "P-017": {
     "idProduct": 777162,
-    "trend_eur": 2,
+    "trend_eur": 2.39,
     "low_eur": 2.37,
-    "avg_eur": 2,
+    "avg_eur": 2.39,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-017"
   },
@@ -21945,9 +21945,9 @@
   },
   "P-037": {
     "idProduct": 719925,
-    "trend_eur": 7.49,
+    "trend_eur": 6,
     "low_eur": 7.89,
-    "avg_eur": 7.49,
+    "avg_eur": 6,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-037"
   },
@@ -21961,17 +21961,17 @@
   },
   "P-042": {
     "idProduct": 732279,
-    "trend_eur": 230,
+    "trend_eur": 245,
     "low_eur": 222,
-    "avg_eur": 230,
+    "avg_eur": 245,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-042"
   },
   "P-043": {
     "idProduct": 731466,
-    "trend_eur": 8,
+    "trend_eur": 8.5,
     "low_eur": 8,
-    "avg_eur": 8,
+    "avg_eur": 8.5,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-043"
   },
@@ -22193,9 +22193,9 @@
   },
   "P-110": {
     "idProduct": 847921,
-    "trend_eur": 4,
+    "trend_eur": 3.95,
     "low_eur": 3.79,
-    "avg_eur": 4,
+    "avg_eur": 3.95,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-110"
   },
@@ -22297,9 +22297,9 @@
   },
   "P-040": {
     "idProduct": 722803,
-    "trend_eur": 2.95,
+    "trend_eur": 2.5,
     "low_eur": 2.95,
-    "avg_eur": 2.95,
+    "avg_eur": 2.5,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-040"
   },
@@ -22313,9 +22313,9 @@
   },
   "P-066": {
     "idProduct": 764457,
-    "trend_eur": 120,
+    "trend_eur": 100.99,
     "low_eur": 102,
-    "avg_eur": 120,
+    "avg_eur": 100.99,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-066"
   },
@@ -22329,9 +22329,9 @@
   },
   "P-080": {
     "idProduct": 895479,
-    "trend_eur": 22,
+    "trend_eur": 24.88,
     "low_eur": 20,
-    "avg_eur": 22,
+    "avg_eur": 24.88,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-080"
   },
@@ -22369,9 +22369,9 @@
   },
   "P-108": {
     "idProduct": 854588,
-    "trend_eur": 5.99,
+    "trend_eur": 5,
     "low_eur": 5.79,
-    "avg_eur": 5.99,
+    "avg_eur": 5,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-108"
   },
@@ -22401,9 +22401,9 @@
   },
   "P-118": {
     "idProduct": 865643,
-    "trend_eur": 2.5,
+    "trend_eur": 1.99,
     "low_eur": 2,
-    "avg_eur": 2.5,
+    "avg_eur": 1.99,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-118"
   },
