@@ -23,7 +23,7 @@
   "image_fr": "https://scalpeurs.com/img/cards-en/eb05-p012.webp",
   "image_en": "https://scalpeurs.com/img/cards-en/eb05-p012.webp",
   "image_jp": "https://scalpeurs.com/img/cards-jp/eb05-p012.webp",
-  "price_eur": null,
+  "price_eur": 1.5,
   "price_usd": null,
   "cardmarket_url": "https://scalpeurs.com/go/en/eb05-025-domino/cm",
   "cardmarket_url_jp": "https://scalpeurs.com/go/jp/eb05-025-domino/cm",
@@ -33,5 +33,6 @@
   "scalpeurs_url": "https://scalpeurs.com/carte-anglaise/eb05-025-domino",
   "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb05-025-domino",
   "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb05-025-domino",
-  "scalpeurs_url_fr": null
+  "scalpeurs_url_fr": null,
+  "price_min_eur": 1.5
 }
