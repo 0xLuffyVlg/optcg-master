@@ -23,7 +23,7 @@
   "image_fr": "https://scalpeurs.com/img/cards-en/eb05-p002.webp",
   "image_en": "https://scalpeurs.com/img/cards-en/eb05-p002.webp",
   "image_jp": "https://scalpeurs.com/img/cards-jp/eb05-p002.webp",
-  "price_eur": 55,
+  "price_eur": 35,
   "price_usd": null,
   "cardmarket_url": "https://scalpeurs.com/go/en/eb05-005-belo-betty/cm",
   "cardmarket_url_jp": "https://scalpeurs.com/go/jp/eb05-005-belo-betty/cm",
@@ -34,5 +34,5 @@
   "scalpeurs_url_jp": "https://scalpeurs.com/carte-japonaise/eb05-005-belo-betty",
   "scalpeurs_url_en": "https://scalpeurs.com/carte-anglaise/eb05-005-belo-betty",
   "scalpeurs_url_fr": null,
-  "price_min_eur": 55
+  "price_min_eur": 35
 }
