@@ -210,7 +210,7 @@
     ]
   },
   {
-    "id": "op17-eng-1-mvtggaks-86tn",
+    "id": "op17-eng-1",
     "tournament_name": "StoreCS",
     "source_name": "English OP17",
     "start_date": "10/24/2026",
@@ -540,90 +540,6 @@
           "wins": 4,
           "losses": 0,
           "matches": 4,
-          "winRate": 100
-        }
-      }
-    ]
-  },
-  {
-    "id": "op17-jp-7",
-    "tournament_name": "FS",
-    "source_name": "Japan OP17",
-    "start_date": "10/20/2026",
-    "country": "JP",
-    "host": "Cardshop",
-    "player_name": "yu",
-    "deck_name": "Blue Rocks",
-    "deck_type": "OP17-039",
-    "placement_str": "1st Place",
-    "placement": 1,
-    "score": {
-      "wins": 5,
-      "losses": 0,
-      "matches": 5,
-      "winRate": 100
-    },
-    "set_group": "OP17",
-    "format": "Japan OP17 - OP17",
-    "deck_color": "Blue",
-    "deck_composition_raw": "1nOP17-039a4nOP08-051a4nOP17-045a4nOP17-052a4nOP17-054a1nOP17-042a4nOP17-044a4nOP17-046a4nOP17-049a4nOP17-040a4nOP17-048a4nOP17-118a4nOP17-055a4nOP17-056a1nEB02-030",
-    "tournament_results": [
-      {
-        "player_name": "yu",
-        "deck_type": "OP17-039",
-        "placement": 1,
-        "deck_list_url": [
-          "https://deckbuilder.egmanevents.com/?deck=OP17-039:1,OP08-051:4,OP17-045:4,OP17-052:4,OP17-054:4,OP17-042:1,OP17-044:4,OP17-046:4,OP17-049:4,OP17-040:4,OP17-048:4,OP17-118:4,OP17-055:4,OP17-056:4,EB02-030:1&type=optcg"
-        ],
-        "country": "JP",
-        "host": "Cardshop",
-        "placement_str": "1st Place",
-        "score": {
-          "wins": 5,
-          "losses": 0,
-          "matches": 5,
-          "winRate": 100
-        }
-      }
-    ]
-  },
-  {
-    "id": "op17-eng-8",
-    "tournament_name": "SB",
-    "source_name": "English OP17",
-    "start_date": "10/20/2026",
-    "country": "Germany",
-    "host": "Nextturncards(13)",
-    "player_name": "Loco24",
-    "deck_name": "Purple Kaido",
-    "deck_type": "OP17-058",
-    "placement_str": "1st Place",
-    "placement": 1,
-    "score": {
-      "wins": 5,
-      "losses": 0,
-      "matches": 5,
-      "winRate": 100
-    },
-    "set_group": "OP17",
-    "format": "English OP17 - OP17",
-    "deck_color": "Purple",
-    "deck_composition_raw": "1nOP17-058a4nEB04-032a4nOP17-073a4nOP17-074a4nEB04-031a2nEB04-030a4nOP17-061a2nOP17-065a1nOP17-069a2nST34-004a3nOP17-062a3nOP17-063a4nOP15-078a3nOP17-076a4nOP07-077a4nOP07-076a2nOP09-077",
-    "tournament_results": [
-      {
-        "player_name": "Loco24",
-        "deck_type": "OP17-058",
-        "placement": 1,
-        "deck_list_url": [
-          "https://deckbuilder.egmanevents.com/?deck=OP17-058:1,EB04-032:4,OP17-073:4,OP17-074:4,EB04-031:4,EB04-030:2,OP17-061:4,OP17-065:2,OP17-069:1,ST34-004:2,OP17-062:3,OP17-063:3,OP15-078:4,OP17-076:3,OP07-077:4,OP07-076:4,OP09-077:2&type=optcg"
-        ],
-        "country": "Germany",
-        "host": "Nextturncards(13)",
-        "placement_str": "1st Place",
-        "score": {
-          "wins": 5,
-          "losses": 0,
-          "matches": 5,
           "winRate": 100
         }
       }
@@ -1092,7 +1008,7 @@
     ]
   },
   {
-    "id": "op17-eng-10-mvtggaks-r5yo",
+    "id": "op17-eng-10",
     "tournament_name": "StoreCS",
     "source_name": "English OP17",
     "start_date": "10/18/2026",
@@ -1134,7 +1050,7 @@
     ]
   },
   {
-    "id": "op17-eng-13-mvtggaks-x3t9",
+    "id": "op17-eng-13",
     "tournament_name": "StoreCS",
     "source_name": "English OP17",
     "start_date": "10/18/2026",
@@ -1218,7 +1134,7 @@
     ]
   },
   {
-    "id": "op17-eng-16-mvtggaks-wqi2",
+    "id": "op17-eng-16",
     "tournament_name": "StoreCS",
     "source_name": "English OP17",
     "start_date": "10/18/2026",
@@ -1260,7 +1176,7 @@
     ]
   },
   {
-    "id": "op17-eng-20-mvtggaks-44n4",
+    "id": "op17-eng-20",
     "tournament_name": "SB",
     "source_name": "English OP17",
     "start_date": "10/18/2026",
@@ -1302,7 +1218,7 @@
     ]
   },
   {
-    "id": "op17-eng-21-mvtggaks-07ri",
+    "id": "op17-eng-21",
     "tournament_name": "StoreCS",
     "source_name": "English OP17",
     "start_date": "10/18/2026",
@@ -1344,7 +1260,7 @@
     ]
   },
   {
-    "id": "op17-eng-22-mvtggaks-cm7i",
+    "id": "op17-eng-22",
     "tournament_name": "SB",
     "source_name": "English OP17",
     "start_date": "10/18/2026",
@@ -1386,7 +1302,7 @@
     ]
   },
   {
-    "id": "op17-eng-23-mvtggaks-c3iu",
+    "id": "op17-eng-23",
     "tournament_name": "SB",
     "source_name": "English OP17",
     "start_date": "10/18/2026",
@@ -1428,7 +1344,7 @@
     ]
   },
   {
-    "id": "op17-eng-24-mvtggaks-u1k2",
+    "id": "op17-eng-24",
     "tournament_name": "StoreCS",
     "source_name": "English OP17",
     "start_date": "10/18/2026",
@@ -1512,7 +1428,7 @@
     ]
   },
   {
-    "id": "op17-eng-27-mvtggakt-pedk",
+    "id": "op17-eng-27",
     "tournament_name": "StoreCS",
     "source_name": "English OP17",
     "start_date": "10/18/2026",
@@ -1554,7 +1470,7 @@
     ]
   },
   {
-    "id": "op17-eng-28-mvtggakt-clvs",
+    "id": "op17-eng-28",
     "tournament_name": "StoreCS",
     "source_name": "English OP17",
     "start_date": "10/18/2026",
@@ -1764,7 +1680,7 @@
     ]
   },
   {
-    "id": "op17-eng-19-mvtggaks-2zsk",
+    "id": "op17-eng-19",
     "tournament_name": "StoreCS",
     "source_name": "English OP17",
     "start_date": "10/18/2026",
@@ -1932,7 +1848,7 @@
     ]
   },
   {
-    "id": "op17-eng-18-mvtggaks-urm0",
+    "id": "op17-eng-18",
     "tournament_name": "StoreCS",
     "source_name": "English OP17",
     "start_date": "10/18/2026",
@@ -1969,6 +1885,48 @@
           "losses": 1,
           "matches": 7,
           "winRate": 85.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "op17-jp-32",
+    "tournament_name": "FS",
+    "source_name": "Japan OP17",
+    "start_date": "10/17/2026",
+    "country": "JP",
+    "host": "PAO",
+    "player_name": "Yumeu",
+    "deck_name": "Blue Rocks",
+    "deck_type": "OP17-039",
+    "placement_str": "1st (5-0)",
+    "placement": 1,
+    "score": {
+      "wins": 5,
+      "losses": 0,
+      "matches": 5,
+      "winRate": 100
+    },
+    "set_group": "OP17",
+    "format": "Japan OP17 - OP17",
+    "deck_color": "Blue",
+    "deck_composition_raw": "1nOP17-039a4nOP08-051a4nOP17-045a4nOP17-052a4nOP17-054a1nOP17-042a4nOP17-044a4nOP17-046a4nOP17-049a4nOP17-040a4nOP17-048a4nOP17-118a4nOP17-055a4nOP17-056a1nEB02-030",
+    "tournament_results": [
+      {
+        "player_name": "Yumeu",
+        "deck_type": "OP17-039",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP17-039:1,OP08-051:4,OP17-045:4,OP17-052:4,OP17-054:4,OP17-042:1,OP17-044:4,OP17-046:4,OP17-049:4,OP17-040:4,OP17-048:4,OP17-118:4,OP17-055:4,OP17-056:4,EB02-030:1&type=optcg"
+        ],
+        "country": "JP",
+        "host": "PAO",
+        "placement_str": "1st (5-0)",
+        "score": {
+          "wins": 5,
+          "losses": 0,
+          "matches": 5,
+          "winRate": 100
         }
       }
     ]
@@ -2142,7 +2100,7 @@
     ]
   },
   {
-    "id": "op17-jp-29-mvtggako-akid",
+    "id": "op17-jp-29",
     "tournament_name": "EGB",
     "source_name": "Japan OP17",
     "start_date": "10/17/2026",
@@ -2184,7 +2142,7 @@
     ]
   },
   {
-    "id": "op17-jp-30-mvtggako-dnl6",
+    "id": "op17-jp-30",
     "tournament_name": "FS",
     "source_name": "Japan OP17",
     "start_date": "10/17/2026",
@@ -2226,7 +2184,7 @@
     ]
   },
   {
-    "id": "op17-jp-33-mvtggako-q2ja",
+    "id": "op17-jp-33",
     "tournament_name": "FS",
     "source_name": "Japan OP17",
     "start_date": "10/17/2026",
@@ -2268,7 +2226,7 @@
     ]
   },
   {
-    "id": "op17-jp-35-mvtggako-eifs",
+    "id": "op17-jp-35",
     "tournament_name": "EGB",
     "source_name": "Japan OP17",
     "start_date": "10/17/2026",
@@ -2310,7 +2268,7 @@
     ]
   },
   {
-    "id": "op17-jp-36-mvtggako-vp32",
+    "id": "op17-jp-36",
     "tournament_name": "EGB",
     "source_name": "Japan OP17",
     "start_date": "10/17/2026",
@@ -2352,7 +2310,7 @@
     ]
   },
   {
-    "id": "op17-jp-37-mvtggako-osop",
+    "id": "op17-jp-37",
     "tournament_name": "FS",
     "source_name": "Japan OP17",
     "start_date": "10/17/2026",
@@ -2394,7 +2352,7 @@
     ]
   },
   {
-    "id": "op17-jp-38-mvtggako-0pv7",
+    "id": "op17-jp-38",
     "tournament_name": "EGB",
     "source_name": "Japan OP17",
     "start_date": "10/17/2026",
@@ -2436,7 +2394,7 @@
     ]
   },
   {
-    "id": "op17-jp-39-mvtggako-0zhh",
+    "id": "op17-jp-39",
     "tournament_name": "FS",
     "source_name": "Japan OP17",
     "start_date": "10/17/2026",
@@ -2520,7 +2478,7 @@
     ]
   },
   {
-    "id": "op17-eng-31-mvtggakt-4pg1",
+    "id": "op17-eng-31",
     "tournament_name": "StoreCS",
     "source_name": "English OP17",
     "start_date": "10/17/2026",
@@ -2730,7 +2688,7 @@
     ]
   },
   {
-    "id": "op17-eng-33-mvtggakt-55mj",
+    "id": "op17-eng-33",
     "tournament_name": "StoreCS",
     "source_name": "English OP17",
     "start_date": "10/17/2026",
@@ -2856,7 +2814,7 @@
     ]
   },
   {
-    "id": "op17-jp-31-mvtggako-e0kq",
+    "id": "op17-jp-31",
     "tournament_name": "FS",
     "source_name": "Japan OP17",
     "start_date": "10/17/2026",
@@ -2898,7 +2856,7 @@
     ]
   },
   {
-    "id": "op17-jp-41-mvtggako-poez",
+    "id": "op17-jp-41",
     "tournament_name": "EGB",
     "source_name": "Japan OP17",
     "start_date": "10/16/2026",
@@ -2940,7 +2898,7 @@
     ]
   },
   {
-    "id": "op17-eng-34-mvtggakt-gvnh",
+    "id": "op17-eng-34",
     "tournament_name": "SB",
     "source_name": "English OP17",
     "start_date": "10/16/2026",
@@ -2982,7 +2940,7 @@
     ]
   },
   {
-    "id": "op17-eng-35-mvtggakt-5x0j",
+    "id": "op17-eng-35",
     "tournament_name": "SB",
     "source_name": "English OP17",
     "start_date": "10/16/2026",
@@ -3024,7 +2982,7 @@
     ]
   },
   {
-    "id": "op17-jp-42-mvtggako-zwcz",
+    "id": "op17-jp-42",
     "tournament_name": "FS",
     "source_name": "Japan OP17",
     "start_date": "10/15/2026",
@@ -3066,7 +3024,7 @@
     ]
   },
   {
-    "id": "op17-jp-43-mvtggako-tmnf",
+    "id": "op17-jp-43",
     "tournament_name": "EGB",
     "source_name": "Japan OP17",
     "start_date": "10/15/2026",
@@ -3108,7 +3066,7 @@
     ]
   },
   {
-    "id": "op17-eng-36-mvtggakt-kim0",
+    "id": "op17-eng-36",
     "tournament_name": "SB",
     "source_name": "English OP17",
     "start_date": "10/15/2026",
@@ -3150,7 +3108,7 @@
     ]
   },
   {
-    "id": "op17-eng-37-mvtggakt-dkwg",
+    "id": "op17-eng-37",
     "tournament_name": "SB",
     "source_name": "English OP17",
     "start_date": "10/15/2026",
@@ -3192,7 +3150,7 @@
     ]
   },
   {
-    "id": "op17-jp-44-mvtggako-zpxz",
+    "id": "op17-jp-44",
     "tournament_name": "EGB",
     "source_name": "Japan OP17",
     "start_date": "10/14/2026",
@@ -3234,7 +3192,7 @@
     ]
   },
   {
-    "id": "op17-jp-45-mvtggako-4nar",
+    "id": "op17-jp-45",
     "tournament_name": "SB",
     "source_name": "Japan OP17",
     "start_date": "10/14/2026",
@@ -3276,7 +3234,7 @@
     ]
   },
   {
-    "id": "op17-jp-46-mvtggako-ikcs",
+    "id": "op17-jp-46",
     "tournament_name": "EGB",
     "source_name": "Japan OP17",
     "start_date": "10/14/2026",
@@ -3318,7 +3276,7 @@
     ]
   },
   {
-    "id": "op17-jp-47-mvtggako-m2bf",
+    "id": "op17-jp-47",
     "tournament_name": "FS",
     "source_name": "Japan OP17",
     "start_date": "10/14/2026",
@@ -3360,7 +3318,7 @@
     ]
   },
   {
-    "id": "op17-jp-48-mvtggako-stww",
+    "id": "op17-jp-48",
     "tournament_name": "FS",
     "source_name": "Japan OP17",
     "start_date": "10/14/2026",
@@ -3402,7 +3360,7 @@
     ]
   },
   {
-    "id": "op17-jp-49-mvtggako-73q6",
+    "id": "op17-jp-49",
     "tournament_name": "SB",
     "source_name": "Japan OP17",
     "start_date": "10/14/2026",
@@ -3444,7 +3402,7 @@
     ]
   },
   {
-    "id": "op17-jp-50-mvtggako-19ns",
+    "id": "op17-jp-50",
     "tournament_name": "FS",
     "source_name": "Japan OP17",
     "start_date": "10/14/2026",
@@ -3486,7 +3444,7 @@
     ]
   },
   {
-    "id": "op17-eng-38-mvtggakt-j47p",
+    "id": "op17-eng-38",
     "tournament_name": "SB",
     "source_name": "English OP17",
     "start_date": "10/14/2026",
@@ -3528,7 +3486,7 @@
     ]
   },
   {
-    "id": "op17-eng-39-mvtggakt-i6gi",
+    "id": "op17-eng-39",
     "tournament_name": "SB",
     "source_name": "English OP17",
     "start_date": "10/14/2026",
@@ -3570,7 +3528,7 @@
     ]
   },
   {
-    "id": "op17-jp-53-mvtggako-8pwf",
+    "id": "op17-jp-53",
     "tournament_name": "FS",
     "source_name": "Japan OP17",
     "start_date": "10/13/2026",
@@ -3612,7 +3570,7 @@
     ]
   },
   {
-    "id": "op17-jp-56-mvtggako-d9cz",
+    "id": "op17-jp-56",
     "tournament_name": "StorePrelims",
     "source_name": "Japan OP17",
     "start_date": "10/13/2026",
@@ -3654,7 +3612,7 @@
     ]
   },
   {
-    "id": "op17-jp-59-mvtggako-l2e2",
+    "id": "op17-jp-59",
     "tournament_name": "ShopEvent",
     "source_name": "Japan OP17",
     "start_date": "10/13/2026",
@@ -3696,7 +3654,7 @@
     ]
   },
   {
-    "id": "op17-eng-40-mvtggakt-epp5",
+    "id": "op17-eng-40",
     "tournament_name": "SB",
     "source_name": "English OP17",
     "start_date": "10/13/2026",
@@ -3864,7 +3822,7 @@
     ]
   },
   {
-    "id": "op17-jp-58-mvtggako-knd6",
+    "id": "op17-jp-58",
     "tournament_name": "FS",
     "source_name": "Japan OP17",
     "start_date": "10/13/2026",
@@ -4116,7 +4074,7 @@
     ]
   },
   {
-    "id": "op17-eng-42-mvtggakt-9hkz",
+    "id": "op17-eng-42",
     "tournament_name": "SB",
     "source_name": "English OP17",
     "start_date": "10/11/2026",
@@ -4867,6 +4825,48 @@
           "losses": 2,
           "matches": 11,
           "winRate": 81.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "op17-eng-48",
+    "tournament_name": "SB",
+    "source_name": "English OP17",
+    "start_date": "10/9/2026",
+    "country": "Germany",
+    "host": "Nextturncards(18)",
+    "player_name": "Loco24",
+    "deck_name": "Purple Kaido",
+    "deck_type": "OP17-058",
+    "placement_str": "1st Place",
+    "placement": 1,
+    "score": {
+      "wins": 5,
+      "losses": 0,
+      "matches": 5,
+      "winRate": 100
+    },
+    "set_group": "OP17",
+    "format": "English OP17 - OP17",
+    "deck_color": "Purple",
+    "deck_composition_raw": "1nOP17-058a4nEB04-032a4nOP17-073a4nOP17-074a4nEB04-031a2nEB04-030a4nOP17-061a2nOP17-065a1nOP17-069a2nST34-004a3nOP17-062a3nOP17-063a4nOP15-078a3nOP17-076a4nOP07-077a4nOP07-076a2nOP09-077",
+    "tournament_results": [
+      {
+        "player_name": "Loco24",
+        "deck_type": "OP17-058",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP17-058:1,EB04-032:4,OP17-073:4,OP17-074:4,EB04-031:4,EB04-030:2,OP17-061:4,OP17-065:2,OP17-069:1,ST34-004:2,OP17-062:3,OP17-063:3,OP15-078:4,OP17-076:3,OP07-077:4,OP07-076:4,OP09-077:2&type=optcg"
+        ],
+        "country": "Germany",
+        "host": "Nextturncards(18)",
+        "placement_str": "1st Place",
+        "score": {
+          "wins": 5,
+          "losses": 0,
+          "matches": 5,
+          "winRate": 100
         }
       }
     ]
