@@ -232,6 +232,18 @@ export const allPrintsAsCards: Card[] = allRawCards.map(raw => {
     variantLabel = 'Alternate Art ✨';
   }
 
+  const mappedEur = raw.price_eur !== undefined && raw.price_eur !== null
+    ? raw.price_eur
+    : (vMatch?.price_eur || existing?.price_eur);
+  let mappedMin = (raw.price_min_eur !== undefined && raw.price_min_eur !== null)
+    ? raw.price_min_eur
+    : (mappedEur !== undefined && mappedEur !== null
+        ? mappedEur
+        : (vMatch?.price_min_eur || vMatch?.price_eur || existing?.price_min_eur));
+  if (mappedMin && mappedEur && mappedMin > mappedEur * 3) {
+    mappedMin = mappedEur;
+  }
+
   return {
     id: raw.id,
     card_code: baseCode,
@@ -255,14 +267,8 @@ export const allPrintsAsCards: Card[] = allRawCards.map(raw => {
     effect_fr: existing?.effect_fr,
     language: (raw.language || (raw.id.startsWith('fr-') ? 'fr' : (raw.id.startsWith('jp-') ? 'jp' : 'en'))).toLowerCase(),
     is_japanese: (raw.language === 'jp' || raw.id.startsWith('jp-') || existing?.is_japanese || false),
-    price_eur: raw.price_eur !== undefined && raw.price_eur !== null 
-      ? raw.price_eur 
-      : (vMatch?.price_eur || existing?.price_eur),
-    price_min_eur: (raw.price_min_eur !== undefined && raw.price_min_eur !== null) 
-      ? raw.price_min_eur 
-      : (raw.price_eur !== undefined && raw.price_eur !== null 
-          ? raw.price_eur 
-          : (vMatch?.price_min_eur || vMatch?.price_eur || existing?.price_min_eur)),
+    price_eur: mappedEur,
+    price_min_eur: mappedMin,
     price_avg7_eur: raw.price_avg7_eur !== undefined && raw.price_avg7_eur !== null ? raw.price_avg7_eur : (vMatch?.price_avg7_eur || existing?.price_avg7_eur),
     price_avg30_eur: raw.price_avg30_eur !== undefined && raw.price_avg30_eur !== null ? raw.price_avg30_eur : (vMatch?.price_avg30_eur || existing?.price_avg30_eur),
     listings_count: raw.listings_count !== undefined && raw.listings_count !== null ? raw.listings_count : (vMatch?.listings_count || existing?.listings_count),

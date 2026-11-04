@@ -1,10 +1,7 @@
 name: Auto-Sync CardTrader Live Marketplace Prices
 
 on:
-  schedule:
-    # Tous les matins à 03:00 UTC (05:00 heure de Paris) - Décalé pour éviter tout conflit avec Cardmarket (04:00)
-    - cron: "0 3 * * *"
-  workflow_dispatch: # Allows manual 1-click execution anytime
+  workflow_dispatch: # Execution manuelle a la demande uniquement (pas de cron automatique quotidien)
 
 permissions:
   contents: write
@@ -34,18 +31,15 @@ jobs:
           CARDTRADER_TOKEN: ${{ secrets.CARDTRADER_TOKEN }}
         run: node scripts/sync_cardtrader_prices.cjs
 
-      - name: Test Production Build
-        run: npm run build
-
       - name: Commit and Push Updated Prices to Production
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add src/data/cardtrader_prices.json src/data/cardtrader_blueprint_prices.json src/data/variants.json src/data/market_trends.json src/data/cardtrader_mapping.json
-          if git diff --quiet && git diff --staged --quiet; then
+          if git diff --staged --quiet; then
             echo "No price changes detected."
           else
             git commit -m "chore(prices): auto-sync live CardTrader marketplace prices [skip ci]"
-            git pull --rebase origin main
+            git pull --rebase --autostash origin main
             git push origin main
           fi

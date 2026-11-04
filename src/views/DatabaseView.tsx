@@ -1,4 +1,4 @@
-import React, { useState, useMemo, useRef, useEffect } from 'react';
+import React, { useState, useMemo, useRef, useEffect, useCallback } from 'react';
 import { 
   Search, 
   Filter, 
@@ -24,7 +24,7 @@ import {
 } from 'lucide-react';
 import { Card } from '../types';
 import { allCards, allVariants, allRawCards, cardsByCode, allPrintsAsCards } from '../data/dataProvider';
-import { getCardImageUrl, getColorClass, handleCardImageError, matchesCardSearch, getCardmarketUrl, resolveCardmarketUrlForLanguage, getTcgplayerUrl, isAltArtworkCard, fixVariantCardmarketUrl } from '../utils/cardUtils';
+import { getCardImageUrl, getColorClass, handleCardImageError, matchesCardSearch, getCardmarketUrl, resolveCardmarketUrlForLanguage, getTcgplayerUrl, isAltArtworkCard, fixVariantCardmarketUrl, getEffectiveCardPrice } from '../utils/cardUtils';
 import { useDeck } from '../context/DeckContext';
 import { useCollection } from '../context/CollectionContext';
 import { getCardmarketPriceInfo, getCardPriceForArtwork, formatEur } from '../services/cardmarketPriceService';
@@ -343,6 +343,14 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
     setPage(1);
   };
 
+  // Reliable single source of truth price (EUR) used strictly for sorting, filtering, and card rendering
+  const getCardPrice = useCallback((c: Card): number => {
+    const direct = getEffectiveCardPrice(c);
+    if (direct > 0) return direct;
+    const priceInfo = getCardPriceForArtwork(c, c._defaultImagePath || c.id);
+    return priceInfo.priceEur || priceInfo.priceMinEur || 0;
+  }, []);
+
   // Filter cards with 0ms real-time latency
   const filteredCards = useMemo(() => {
     const hasSearch = Boolean(searchQuery.trim());
@@ -531,7 +539,7 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
     // Price range filter
     if (selectedPriceRange !== 'ALL') {
       list = list.filter(card => {
-        const p = card.price_min_eur || card.price_eur || 0;
+        const p = getCardPrice(card);
         if (selectedPriceRange === '0-1') return p > 0 && p < 1;
         if (selectedPriceRange === '1-5') return p >= 1 && p <= 5;
         if (selectedPriceRange === '5-20') return p >= 5 && p <= 20;
@@ -566,7 +574,7 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
     // Min price slider filter
     if (minPrice > 0) {
       list = list.filter(card => {
-        const p = card.price_min_eur || card.price_eur || 0;
+        const p = getCardPrice(card);
         return p >= minPrice;
       });
     }
@@ -606,14 +614,14 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
     return [...list].sort((a, b) => {
       switch (selectedSort) {
         case 'price-desc': {
-          const pA = a.price_min_eur || a.price_eur || 0;
-          const pB = b.price_min_eur || b.price_eur || 0;
+          const pA = getCardPrice(a);
+          const pB = getCardPrice(b);
           if (pB !== pA) return pB - pA;
           return a.card_code !== b.card_code ? (b.card_code > a.card_code ? 1 : -1) : 0;
         }
         case 'price-asc': {
-          const pA = a.price_min_eur || a.price_eur || 0;
-          const pB = b.price_min_eur || b.price_eur || 0;
+          const pA = getCardPrice(a);
+          const pB = getCardPrice(b);
           const effA = pA > 0 ? pA : 999999;
           const effB = pB > 0 ? pB : 999999;
           if (effA !== effB) return effA - effB;
@@ -897,7 +905,7 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
     const prices: number[] = [];
 
     for (let i = 0; i < filteredCards.length; i++) {
-      const p = filteredCards[i].price_min_eur || filteredCards[i].price_eur || 0;
+      const p = getCardPrice(filteredCards[i]);
       if (p > 0) {
         prices.push(p);
         if (p > maxP && p <= 1500) maxP = p;
@@ -1090,10 +1098,8 @@ export const DatabaseView: React.FC<DatabaseViewProps> = ({ onSelectCard }) => {
     };
     const badgeInfo = getBadgeInfo();
 
-    // Prices calculation (100% cohérent entre la grille et la modale CardDetailModal)
-    const rawCmPrice = (card as any).price_eur !== undefined && (card as any).price_eur !== null && (card as any).price_eur > 0
-      ? (card as any).price_eur
-      : (priceInfo.priceEur || priceInfo.priceMinEur || 0);
+    // Prices calculation (100% cohérent entre la grille, le tri et la modale CardDetailModal)
+    const rawCmPrice = getCardPrice(card);
     const formatCardPrice = (val: number) => {
       if (!val || isNaN(val) || val <= 0) return '—';
       if (val >= 100) {

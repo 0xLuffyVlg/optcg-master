@@ -736,3 +736,25 @@ export function isAltArtworkCard(c: Card | { id?: string; card_code?: string; va
   if (img.includes('_p') || img.includes('-p0') || img.includes('manga') || img.includes('sp') || img.includes('winner') || img.includes('parallel')) return (anyC._isAlt = true);
   return (anyC._isAlt = false);
 }
+
+/**
+ * Returns the reliable market price in EUR for a card.
+ * Single source of truth used across sorting, filtering, and card rendering to guarantee 100% price consistency.
+ */
+export function getEffectiveCardPrice(c: Card | { price_eur?: number | null; price_min_eur?: number | null; price_avg7_eur?: number | null; price_avg30_eur?: number | null } | null | undefined): number {
+  if (!c) return 0;
+  const anyC = c as any;
+  if (typeof anyC.price_eur === 'number' && !isNaN(anyC.price_eur) && anyC.price_eur > 0) {
+    return anyC.price_eur;
+  }
+  if (typeof anyC.price_min_eur === 'number' && !isNaN(anyC.price_min_eur) && anyC.price_min_eur > 0) {
+    return anyC.price_min_eur;
+  }
+  if (typeof anyC.price_avg7_eur === 'number' && !isNaN(anyC.price_avg7_eur) && anyC.price_avg7_eur > 0) {
+    return anyC.price_avg7_eur;
+  }
+  if (typeof anyC.price_avg30_eur === 'number' && !isNaN(anyC.price_avg30_eur) && anyC.price_avg30_eur > 0) {
+    return anyC.price_avg30_eur;
+  }
+  return 0;
+}

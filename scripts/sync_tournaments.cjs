@@ -215,9 +215,19 @@ async function syncTournaments() {
   console.log(`1. Base locale chargée : ${existing.length} tournois existants.`);
 
   console.log('2. Scraping de OnePieceTopDecks (Japan OP17 & English OP17)...');
-  const jpHtml = await getUrl('https://onepiecetopdecks.com/deck-list/japan-op17-deck-list-the-worlds-strongest-warriors/');
-  await new Promise(r => setTimeout(r, 1200));
-  const engHtml = await getUrl('https://onepiecetopdecks.com/deck-list/english-op17-deck-list-the-worlds-strongest-warriors/');
+  let jpHtml = '';
+  let engHtml = '';
+  try {
+    jpHtml = await getUrl('https://onepiecetopdecks.com/deck-list/japan-op17-deck-list-the-worlds-strongest-warriors/');
+  } catch (err) {
+    console.warn('[SYNC WARNING] Erreur recuperation tournois JP OP17:', err.message);
+  }
+  await new Promise(r => setTimeout(r, 1500));
+  try {
+    engHtml = await getUrl('https://onepiecetopdecks.com/deck-list/english-op17-deck-list-the-worlds-strongest-warriors/');
+  } catch (err) {
+    console.warn('[SYNC WARNING] Erreur recuperation tournois ENG OP17:', err.message);
+  }
 
   const jpTourneys = parsePageHtml(jpHtml, 'Japan OP17', 'jp');
   const engTourneys = parsePageHtml(engHtml, 'English OP17', 'eng');
@@ -277,6 +287,7 @@ async function syncTournaments() {
 }
 
 syncTournaments().catch(err => {
-  console.error('[SYNC ERROR]:', err);
-  process.exit(1);
+  console.warn('[SYNC WARNING]: Impossible de finaliser la mise a jour tournois ce jour :', err.message);
+  // Ne pas faire echouer le job GitHub Actions si le site tiers externe est temporairement injoignable
+  process.exit(0);
 });
