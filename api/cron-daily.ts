@@ -72,18 +72,22 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     results.tasks.prices = { success: false, error: err.message };
   }
 
-  // 3. Task: OP17 Japan & English Live Tournaments Sync
+  // 3. Task: EB05/OP18 & OP17 Japan & English Live Tournaments Check
   try {
     const headers = { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' };
-    const [jpRes, engRes] = await Promise.all([
+    const [jpEbRes, engEbRes, jpOp17Res, engOp17Res] = await Promise.all([
+      fetch('https://onepiecetopdecks.com/deck-list/japan-eb05op18-deck-list-heroines-and-the-dominance-of-god/', { headers }),
+      fetch('https://onepiecetopdecks.com/deck-list/english-eb05op18-deck-list-heroines-and-the-dominance-of-god/', { headers }),
       fetch('https://onepiecetopdecks.com/deck-list/japan-op17-deck-list-the-worlds-strongest-warriors/', { headers }),
       fetch('https://onepiecetopdecks.com/deck-list/english-op17-deck-list-the-worlds-strongest-warriors/', { headers })
     ]);
     results.tasks.tournaments = {
       success: true,
-      status: 'OP17 Japan & English checked successfully',
-      japanOk: jpRes.ok,
-      englishOk: engRes.ok
+      status: 'EB05/OP18 & OP17 Japan & English checked successfully',
+      jpEbOk: jpEbRes.ok,
+      engEbOk: engEbRes.ok,
+      jpOp17Ok: jpOp17Res.ok,
+      engOp17Ok: engOp17Res.ok
     };
   } catch (err: any) {
     results.tasks.tournaments = { success: false, error: err.message };

@@ -6,7 +6,7 @@ import { parseDecklistString } from '../utils/cardUtils';
 /**
  * Total estimated tournaments count for fast display without parsing
  */
-export let TOTAL_TOURNAMENTS_COUNT = 10430;
+export let TOTAL_TOURNAMENTS_COUNT = 10707;
 
 /**
  * Parse any tournament date string into a numeric timestamp for precise sorting
@@ -351,22 +351,19 @@ export function computeMetaForSet(setGroup?: string): MetaLeaderSummary[] {
 export function mergeLiveTournaments(newTournaments: Tournament[]): number {
   if (!newTournaments || !Array.isArray(newTournaments)) return 0;
   
-  const existingDeckUrls = new Set<string>();
+  const existingKeys = new Set<string>();
+  const makeKey = (t: Tournament) => `${(t.start_date || '').trim()}|${(t.player_name || '').trim().toLowerCase()}|${(t.deck_type || '').trim().toUpperCase()}|${(t.host || '').trim().toLowerCase()}|${(t.placement_str || '').trim().toLowerCase()}`;
+
   allTournaments.forEach(t => {
-    if (t.tournament_results) {
-      t.tournament_results.forEach(r => {
-        if (r.deck_list_url) {
-          r.deck_list_url.forEach(u => existingDeckUrls.add(u));
-        }
-      });
-    }
+    existingKeys.add(makeKey(t));
+    if (t.id) tournamentsById.set(t.id.toLowerCase(), t);
   });
 
   let added = 0;
   for (const t of newTournaments) {
-    const url = t.tournament_results?.[0]?.deck_list_url?.[0];
-    if (url && !existingDeckUrls.has(url)) {
-      existingDeckUrls.add(url);
+    const key = makeKey(t);
+    if (!existingKeys.has(key)) {
+      existingKeys.add(key);
       allTournaments.push(t);
       if (t.id) tournamentsById.set(t.id.toLowerCase(), t);
       added++;

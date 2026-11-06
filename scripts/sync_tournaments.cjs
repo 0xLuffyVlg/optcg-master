@@ -2,36 +2,68 @@
  * scripts/sync_tournaments.cjs
  * 
  * Synchronise automatiquement les tournois compétitifs One Piece TCG depuis OnePieceTopDecks :
+ * - Japan EB05/OP18 (Heroines and the Dominance of God)
+ * - English EB05/OP18 (Heroines and the Dominance of God)
  * - Japan OP17 (The World's Strongest Warriors)
  * - English OP17 (The World's Strongest Warriors)
+ * - Auto-découverte des nouveaux formats sur le hub de OnePieceTopDecks
  * 
  * Fusionne avec src/data/tournaments.json sans doublons, avec tri chronologique UTC strict.
  */
 
-const https = require('https');
+const { execFileSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
 const TOURNAMENTS_FILE = path.resolve(__dirname, '../src/data/tournaments.json');
 
-function getUrl(url) {
-  return new Promise((resolve, reject) => {
-    https.get(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.9,fr;q=0.8',
-        'Referer': 'https://onepiecetopdecks.com/'
+async function fetchUrl(url, maxRetries = 3) {
+  const headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.9,fr;q=0.8',
+    'Referer': 'https://onepiecetopdecks.com/'
+  };
+
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    // Attempt 1: Node 18+ native fetch
+    try {
+      if (typeof fetch === 'function') {
+        const controller = new AbortController();
+        const timer = setTimeout(() => controller.abort(), 25000);
+        const res = await fetch(url, { headers, signal: controller.signal });
+        clearTimeout(timer);
+        if (res.ok) {
+          const text = await res.text();
+          if (text && text.length > 500) {
+            return text;
+          }
+        }
       }
-    }, res => {
-      if (res.statusCode !== 200) {
-        console.warn(`[SYNC] ${url} returned status ${res.statusCode}`);
+    } catch (e) {
+      // fetch error, fallback to curl
+    }
+
+    // Attempt 2: Fallback to curl binary
+    try {
+      const curlBin = process.platform === 'win32' ? 'curl.exe' : 'curl';
+      const output = execFileSync(curlBin, ['-s', '-L', '--max-time', '30', url], {
+        maxBuffer: 30 * 1024 * 1024,
+        encoding: 'utf8'
+      });
+      if (output && output.length > 500) {
+        return output;
       }
-      let data = '';
-      res.on('data', c => data += c);
-      res.on('end', () => resolve(data));
-    }).on('error', reject);
-  });
+    } catch (err) {
+      // curl error
+    }
+
+    if (attempt < maxRetries) {
+      await new Promise(r => setTimeout(r, 1500 * attempt));
+    }
+  }
+
+  return '';
 }
 
 function parseDeckComposition(compStr) {
@@ -128,7 +160,8 @@ function parseTournamentDateToTimestamp(dateStr) {
   return isNaN(ts) ? 0 : ts;
 }
 
-function parsePageHtml(html, sourceName, prefix) {
+function parsePageHtml(html, sourceName, setGroup, prefix) {
+  if (!html) return [];
   const rows = [...html.matchAll(/<tr[^>]*>([\s\S]*?)<\/tr>/gi)];
   const tournaments = [];
 
@@ -148,7 +181,7 @@ function parsePageHtml(html, sourceName, prefix) {
     const country = cleanCells[6] || (sourceName.includes('Japan') ? 'JP' : 'Global');
     const author = cleanCells[7] || 'Anonymous';
     const placementStr = cleanCells[8] || 'Top Cut';
-    const tournamentName = cleanCells[9] || 'OP17 Tournament';
+    const tournamentName = cleanCells[9] || `${setGroup} Tournament`;
     const host = cleanCells[10] || 'Official Store';
 
     let placement = 8;
@@ -167,7 +200,7 @@ function parsePageHtml(html, sourceName, prefix) {
     const decklistUrl = `https://deckbuilder.egmanevents.com/?deck=${deckQuery}&type=optcg`;
 
     tournaments.push({
-      id: `op17-${prefix}-${i}`,
+      id: `${setGroup.toLowerCase()}-${prefix}-${i}`,
       tournament_name: tournamentName,
       source_name: sourceName,
       start_date: dateStr,
@@ -179,8 +212,8 @@ function parsePageHtml(html, sourceName, prefix) {
       placement_str: placementStr,
       placement: placement,
       score: score,
-      set_group: 'OP17',
-      format: `${sourceName} - OP17`,
+      set_group: setGroup,
+      format: `${sourceName} - ${setGroup}`,
       deck_color: color,
       deck_composition_raw: compRaw,
       tournament_results: [
@@ -201,9 +234,18 @@ function parsePageHtml(html, sourceName, prefix) {
   return tournaments;
 }
 
+function makeFingerprint(t) {
+  const date = (t.start_date || '').trim();
+  const player = (t.player_name || '').trim().toLowerCase();
+  const leader = (t.deck_type || '').trim().toUpperCase();
+  const host = (t.host || '').trim().toLowerCase();
+  const placement = (t.placement_str || '').trim().toLowerCase();
+  return `${date}|${player}|${leader}|${host}|${placement}`;
+}
+
 async function syncTournaments() {
   console.log('===========================================================');
-  console.log('🏆 SYNCHRONISATION AUTOMATIQUE DES TOURNOIS');
+  console.log('🏆 SYNCHRONISATION AUTOMATIQUE DES TOURNOIS COMPETITIFS');
   console.log('===========================================================\n');
 
   if (!fs.existsSync(TOURNAMENTS_FILE)) {
@@ -214,33 +256,94 @@ async function syncTournaments() {
   const existing = JSON.parse(fs.readFileSync(TOURNAMENTS_FILE, 'utf8'));
   console.log(`1. Base locale chargée : ${existing.length} tournois existants.`);
 
-  console.log('2. Scraping de OnePieceTopDecks (Japan OP17 & English OP17)...');
-  let jpHtml = '';
-  let engHtml = '';
+  // 1. Définition des cibles prioritaires (EB05/OP18 et OP17)
+  const targets = [
+    {
+      url: 'https://onepiecetopdecks.com/deck-list/japan-eb05op18-deck-list-heroines-and-the-dominance-of-god/',
+      sourceName: 'Japan EB05/OP18',
+      setGroup: 'OP18',
+      prefix: 'jp'
+    },
+    {
+      url: 'https://onepiecetopdecks.com/deck-list/english-eb05op18-deck-list-heroines-and-the-dominance-of-god/',
+      sourceName: 'English EB05/OP18',
+      setGroup: 'OP18',
+      prefix: 'eng'
+    },
+    {
+      url: 'https://onepiecetopdecks.com/deck-list/japan-op17-deck-list-the-worlds-strongest-warriors/',
+      sourceName: 'Japan OP17',
+      setGroup: 'OP17',
+      prefix: 'jp'
+    },
+    {
+      url: 'https://onepiecetopdecks.com/deck-list/english-op17-deck-list-the-worlds-strongest-warriors/',
+      sourceName: 'English OP17',
+      setGroup: 'OP17',
+      prefix: 'eng'
+    }
+  ];
+
+  // 2. Découverte optionnelle depuis le hub OnePieceTopDecks
   try {
-    jpHtml = await getUrl('https://onepiecetopdecks.com/deck-list/japan-op17-deck-list-the-worlds-strongest-warriors/');
-  } catch (err) {
-    console.warn('[SYNC WARNING] Erreur recuperation tournois JP OP17:', err.message);
+    const hubHtml = await fetchUrl('https://onepiecetopdecks.com/deck-list/', 2);
+    if (hubHtml) {
+      const linkRegex = /href="(https:\/\/onepiecetopdecks\.com\/deck-list\/[^"]+)"/gi;
+      let match;
+      const discoveredUrls = new Set();
+      while ((match = linkRegex.exec(hubHtml)) !== null) {
+        const u = match[1];
+        if (u.includes('op19') || u.includes('op20') || u.includes('eb06')) {
+          discoveredUrls.add(u);
+        }
+      }
+      for (const dUrl of discoveredUrls) {
+        const isJp = dUrl.toLowerCase().includes('japan') || dUrl.toLowerCase().includes('jp');
+        const setMatch = dUrl.match(/(op\d+|eb\d+)/i);
+        const setCode = setMatch ? setMatch[1].toUpperCase() : 'OP18';
+        targets.push({
+          url: dUrl,
+          sourceName: `${isJp ? 'Japan' : 'English'} ${setCode}`,
+          setGroup: setCode,
+          prefix: isJp ? 'jp' : 'eng'
+        });
+      }
+    }
+  } catch (hubErr) {
+    console.warn('[SYNC WARNING] Impossible de lire le hub deck-list:', hubErr.message);
   }
-  await new Promise(r => setTimeout(r, 1500));
-  try {
-    engHtml = await getUrl('https://onepiecetopdecks.com/deck-list/english-op17-deck-list-the-worlds-strongest-warriors/');
-  } catch (err) {
-    console.warn('[SYNC WARNING] Erreur recuperation tournois ENG OP17:', err.message);
+
+  console.log(`2. Scraping de ${targets.length} pages de métagame actives...`);
+  const scraped = [];
+
+  for (const target of targets) {
+    try {
+      console.log(`   -> Téléchargement de ${target.sourceName} (${target.url})...`);
+      const html = await fetchUrl(target.url);
+      if (html) {
+        const tourneys = parsePageHtml(html, target.sourceName, target.setGroup, target.prefix);
+        console.log(`      Trouvé : ${tourneys.length} tournois.`);
+        scraped.push(...tourneys);
+      } else {
+        console.warn(`      [AVERTISSEMENT] Aucune donnée reçue pour ${target.sourceName}`);
+      }
+    } catch (err) {
+      console.warn(`      [AVERTISSEMENT] Erreur scraping ${target.sourceName}:`, err.message);
+    }
+    await new Promise(r => setTimeout(r, 800));
   }
 
-  const jpTourneys = parsePageHtml(jpHtml, 'Japan OP17', 'jp');
-  const engTourneys = parsePageHtml(engHtml, 'English OP17', 'eng');
-  console.log(`   Récupéré : ${jpTourneys.length} tournois JP, ${engTourneys.length} tournois ENG.`);
+  console.log(`\n3. Analyse des résultats : ${scraped.length} tournois récupérés au total.`);
 
-  const scraped = [...jpTourneys, ...engTourneys];
-
-  const existingUrls = new Set();
+  // 3. Déduplication précise par empreinte unique
+  const existingFingerprints = new Map();
   const existingIds = new Set();
-  for (const t of existing) {
+
+  for (let idx = 0; idx < existing.length; idx++) {
+    const t = existing[idx];
     if (t.id) existingIds.add(t.id.toLowerCase());
-    const u = t.tournament_results?.[0]?.deck_list_url?.[0];
-    if (u) existingUrls.add(u);
+    const fp = makeFingerprint(t);
+    existingFingerprints.set(fp, idx);
   }
 
   let added = 0;
@@ -248,28 +351,34 @@ async function syncTournaments() {
   const toAdd = [];
 
   for (const t of scraped) {
-    const url = t.tournament_results?.[0]?.deck_list_url?.[0];
-    if (url && existingUrls.has(url)) {
-      const idx = existing.findIndex(e => e.tournament_results?.[0]?.deck_list_url?.[0] === url);
-      if (idx !== -1) {
-        existing[idx] = t;
-        updated++;
-      }
+    const fp = makeFingerprint(t);
+    if (existingFingerprints.has(fp)) {
+      const idx = existingFingerprints.get(fp);
+      // Actualise si nécessaire
+      existing[idx] = {
+        ...existing[idx],
+        ...t,
+        id: existing[idx].id || t.id // préserve l'ID d'origine
+      };
+      updated++;
     } else {
-      if (url) existingUrls.add(url);
-      if (existingIds.has(t.id.toLowerCase())) {
-        t.id = `${t.id}-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 6)}`;
+      existingFingerprints.set(fp, -1);
+      // Assurer un ID unique sans collision
+      let finalId = t.id;
+      if (existingIds.has(finalId.toLowerCase())) {
+        finalId = `${t.id}-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 6)}`;
       }
-      existingIds.add(t.id.toLowerCase());
+      existingIds.add(finalId.toLowerCase());
+      t.id = finalId;
       toAdd.push(t);
       added++;
     }
   }
 
-  console.log(`3. Fusion : +${added} nouveaux tournois, ${updated} actualisés.`);
+  console.log(`4. Fusion : +${added} nouveaux tournois ajoutés, ${updated} actualisés.`);
   const all = [...toAdd, ...existing];
 
-  // Tri strict décroissant par date UTC
+  // Tri strict décroissant par date UTC (du plus récent au plus ancien)
   all.sort((a, b) => {
     const diff = parseTournamentDateToTimestamp(b.start_date) - parseTournamentDateToTimestamp(a.start_date);
     if (diff !== 0) return diff;
@@ -277,17 +386,19 @@ async function syncTournaments() {
   });
 
   fs.writeFileSync(TOURNAMENTS_FILE, JSON.stringify(all, null, 2), 'utf8');
+
   const publicTournaments = path.resolve(__dirname, '../public/data/tournaments.json');
   fs.writeFileSync(publicTournaments, JSON.stringify(all), 'utf8');
+
   const initialTournaments = path.resolve(__dirname, '../src/data/tournaments_initial.json');
   fs.writeFileSync(initialTournaments, JSON.stringify(all.slice(0, 50)), 'utf8');
-  console.log(`4. Sauvegardé avec succès : ${all.length} tournois au total.`);
-  console.log(`   Plus récent : [${all[0]?.start_date}] ${all[0]?.tournament_name} - ${all[0]?.player_name}`);
-  console.log('\n===========================================================');
+
+  console.log(`5. Sauvegardé avec succès : ${all.length} tournois au total.`);
+  console.log(`   Plus récent : [${all[0]?.start_date}] ${all[0]?.tournament_name} (${all[0]?.deck_name}) - ${all[0]?.player_name}`);
+  console.log('===========================================================');
 }
 
 syncTournaments().catch(err => {
-  console.warn('[SYNC WARNING]: Impossible de finaliser la mise a jour tournois ce jour :', err.message);
-  // Ne pas faire echouer le job GitHub Actions si le site tiers externe est temporairement injoignable
+  console.warn('[SYNC WARNING]: Impossible de finaliser la mise à jour tournois ce jour :', err.message);
   process.exit(0);
 });

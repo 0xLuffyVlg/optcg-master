@@ -56,7 +56,7 @@ function parseScore(placementStr: string) {
   return { wins, losses, matches, winRate };
 }
 
-function parsePageHtml(html: string, sourceName: string, prefix: string) {
+function parsePageHtml(html: string, sourceName: string, setGroup: string, prefix: string) {
   const rows = [...html.matchAll(/<tr[^>]*>([\s\S]*?)<\/tr>/gi)];
   const tournaments: any[] = [];
 
@@ -76,7 +76,7 @@ function parsePageHtml(html: string, sourceName: string, prefix: string) {
     const country = cleanCells[6] || (sourceName.includes('Japan') ? 'JP' : 'Global');
     const author = cleanCells[7] || 'Anonymous';
     const placementStr = cleanCells[8] || 'Top Cut';
-    const tournamentName = cleanCells[9] || 'OP17 Tournament';
+    const tournamentName = cleanCells[9] || `${setGroup} Tournament`;
     const host = cleanCells[10] || 'Official Store';
 
     let placement = 8;
@@ -95,7 +95,7 @@ function parsePageHtml(html: string, sourceName: string, prefix: string) {
     const decklistUrl = `https://deckbuilder.egmanevents.com/?deck=${deckQuery}&type=optcg`;
 
     tournaments.push({
-      id: `op17-${prefix}-${i}`,
+      id: `${setGroup.toLowerCase()}-${prefix}-${i}`,
       tournament_name: tournamentName,
       source_name: sourceName,
       start_date: dateStr,
@@ -107,8 +107,8 @@ function parsePageHtml(html: string, sourceName: string, prefix: string) {
       placement_str: placementStr,
       placement: placement,
       score: score,
-      set_group: 'OP17',
-      format: `${sourceName} - OP17`,
+      set_group: setGroup,
+      format: `${sourceName} - ${setGroup}`,
       deck_color: color,
       deck_composition_raw: compRaw,
       tournament_results: [
@@ -180,26 +180,54 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       'Referer': 'https://onepiecetopdecks.com/'
     };
 
-    // Fetch both target pages sequentially with delay to avoid rate-limiting
-    const jpRes = await fetch('https://onepiecetopdecks.com/deck-list/japan-op17-deck-list-the-worlds-strongest-warriors/', { headers });
-    await new Promise(r => setTimeout(r, 1000));
-    const engRes = await fetch('https://onepiecetopdecks.com/deck-list/english-op17-deck-list-the-worlds-strongest-warriors/', { headers });
+    // Fetch target pages with slight delays
+    const targets = [
+      {
+        url: 'https://onepiecetopdecks.com/deck-list/japan-eb05op18-deck-list-heroines-and-the-dominance-of-god/',
+        sourceName: 'Japan EB05/OP18',
+        setGroup: 'OP18',
+        prefix: 'jp'
+      },
+      {
+        url: 'https://onepiecetopdecks.com/deck-list/english-eb05op18-deck-list-heroines-and-the-dominance-of-god/',
+        sourceName: 'English EB05/OP18',
+        setGroup: 'OP18',
+        prefix: 'eng'
+      },
+      {
+        url: 'https://onepiecetopdecks.com/deck-list/japan-op17-deck-list-the-worlds-strongest-warriors/',
+        sourceName: 'Japan OP17',
+        setGroup: 'OP17',
+        prefix: 'jp'
+      },
+      {
+        url: 'https://onepiecetopdecks.com/deck-list/english-op17-deck-list-the-worlds-strongest-warriors/',
+        sourceName: 'English OP17',
+        setGroup: 'OP17',
+        prefix: 'eng'
+      }
+    ];
 
-    let jpTourneys: any[] = [];
-    let engTourneys: any[] = [];
+    const scraped: any[] = [];
+    const counts: Record<string, number> = {};
 
-    if (jpRes.ok) {
-      const jpHtml = await jpRes.text();
-      jpTourneys = parsePageHtml(jpHtml, 'Japan OP17', 'jp');
-    }
-
-    if (engRes.ok) {
-      const engHtml = await engRes.text();
-      engTourneys = parsePageHtml(engHtml, 'English OP17', 'eng');
+    for (const target of targets) {
+      try {
+        const resp = await fetch(target.url, { headers });
+        if (resp.ok) {
+          const html = await resp.text();
+          const list = parsePageHtml(html, target.sourceName, target.setGroup, target.prefix);
+          counts[target.sourceName] = list.length;
+          scraped.push(...list);
+        }
+      } catch (err) {
+        console.warn(`Error fetching ${target.sourceName}:`, err);
+      }
+      await new Promise(r => setTimeout(r, 600));
     }
 
     // Combine and sort strictly by date descending (newest first)
-    const allCombined = [...jpTourneys, ...engTourneys].sort((a, b) => {
+    const allCombined = scraped.sort((a, b) => {
       const diff = parseTournamentDateToTimestamp(b.start_date) - parseTournamentDateToTimestamp(a.start_date);
       if (diff !== 0) return diff;
       return (a.placement || 8) - (b.placement || 8);
@@ -235,8 +263,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       success: true,
       timestamp: new Date().toISOString(),
       counts: {
-        japan: jpTourneys.length,
-        english: engTourneys.length,
+        ...counts,
         total: allCombined.length
       },
       tournaments: allCombined
