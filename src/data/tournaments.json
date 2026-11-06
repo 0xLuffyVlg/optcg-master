@@ -1,5 +1,215 @@
 [
   {
+    "id": "op18-eng-1-mw4z02ry-d9oh",
+    "tournament_name": "SB",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/5/2026",
+    "country": "Germany",
+    "host": "Heavens Door",
+    "player_name": "Mauzio",
+    "deck_name": "RG Luffy",
+    "deck_type": "OP13-001",
+    "placement_str": "1st (5-0)",
+    "placement": 1,
+    "score": {
+      "wins": 5,
+      "losses": 0,
+      "matches": 5,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Red",
+    "deck_composition_raw": "1nOP13-001a4nOP13-016a4nST30-004a2nOP11-003a4nEB05-001a1nOP08-118a4nOP07-022a4nOP06-033a4nEB01-013a4nOP14-031a4nOP12-023a4nST32-002a4nOP13-031a3nOP17-022a2nOP01-055a2nOP10-040",
+    "tournament_results": [
+      {
+        "player_name": "Mauzio",
+        "deck_type": "OP13-001",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP13-001:1,OP13-016:4,ST30-004:4,OP11-003:2,EB05-001:4,OP08-118:1,OP07-022:4,OP06-033:4,EB01-013:4,OP14-031:4,OP12-023:4,ST32-002:4,OP13-031:4,OP17-022:3,OP01-055:2,OP10-040:2&type=optcg"
+        ],
+        "country": "Germany",
+        "host": "Heavens Door",
+        "placement_str": "1st (5-0)",
+        "score": {
+          "wins": 5,
+          "losses": 0,
+          "matches": 5,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-3-mw4z02ry-v8ve",
+    "tournament_name": "SB",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/4/2026",
+    "country": "USA",
+    "host": "LGS",
+    "player_name": "SageModeNaldo",
+    "deck_name": "YG Robin",
+    "deck_type": "EB05-010",
+    "placement_str": "1st (4-0)",
+    "placement": 1,
+    "score": {
+      "wins": 4,
+      "losses": 0,
+      "matches": 4,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Yellow",
+    "deck_composition_raw": "1nEB05-010a4nOP09-106a4nOP13-113a4nOP17-107a4nOP17-109a4nP-160a4nEB05-052a2nEB04-058a4nEB05-055a4nOP17-114a4nOP17-112a4nEB04-018a2nOP13-031a4nEB05-016a2nOP17-022",
+    "tournament_results": [
+      {
+        "player_name": "SageModeNaldo",
+        "deck_type": "EB05-010",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=EB05-010:1,OP09-106:4,OP13-113:4,OP17-107:4,OP17-109:4,P-160:4,EB05-052:4,EB04-058:2,EB05-055:4,OP17-114:4,OP17-112:4,EB04-018:4,OP13-031:2,EB05-016:4,OP17-022:2&type=optcg"
+        ],
+        "country": "USA",
+        "host": "LGS",
+        "placement_str": "1st (4-0)",
+        "score": {
+          "wins": 4,
+          "losses": 0,
+          "matches": 4,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-4-mw4z02ry-akgi",
+    "tournament_name": "Shopevent",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/4/2026",
+    "country": "USA",
+    "host": "LGS",
+    "player_name": "Dustin",
+    "deck_name": "RG Luffy",
+    "deck_type": "OP13-001",
+    "placement_str": "1st Place",
+    "placement": 1,
+    "score": {
+      "wins": 5,
+      "losses": 0,
+      "matches": 5,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Red",
+    "deck_composition_raw": "1nOP13-001a4nOP13-016a4nST30-004a1nST31-002a4nEB05-001a4nOP07-022a4nOP06-033a4nEB01-013a4nOP14-031a4nOP12-023a4nST32-002a4nOP13-031a3nOP17-022a1nOP12-018a2nOP01-055a3nOP10-040",
+    "tournament_results": [
+      {
+        "player_name": "Dustin",
+        "deck_type": "OP13-001",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP13-001:1,OP13-016:4,ST30-004:4,ST31-002:1,EB05-001:4,OP07-022:4,OP06-033:4,EB01-013:4,OP14-031:4,OP12-023:4,ST32-002:4,OP13-031:4,OP17-022:3,OP12-018:1,OP01-055:2,OP10-040:3&type=optcg"
+        ],
+        "country": "USA",
+        "host": "LGS",
+        "placement_str": "1st Place",
+        "score": {
+          "wins": 5,
+          "losses": 0,
+          "matches": 5,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-5-mw4z02ry-ma78",
+    "tournament_name": "2SB",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/4/2026",
+    "country": "Spain",
+    "host": "LGS",
+    "player_name": "SilverOPTCG",
+    "deck_name": "RG Luffy",
+    "deck_type": "OP13-001",
+    "placement_str": "1st (7-1)",
+    "placement": 1,
+    "score": {
+      "wins": 7,
+      "losses": 1,
+      "matches": 8,
+      "winRate": 87.5
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Red",
+    "deck_composition_raw": "1nOP13-001a4nOP13-016a4nST30-004a1nPRB02-003a4nEB05-001a4nOP07-022a2nST32-001a4nOP06-033a4nEB01-013a4nOP14-031a4nOP12-023a4nST32-002a4nOP13-031a3nOP17-022a2nOP01-055a2nOP08-036",
+    "tournament_results": [
+      {
+        "player_name": "SilverOPTCG",
+        "deck_type": "OP13-001",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP13-001:1,OP13-016:4,ST30-004:4,PRB02-003:1,EB05-001:4,OP07-022:4,ST32-001:2,OP06-033:4,EB01-013:4,OP14-031:4,OP12-023:4,ST32-002:4,OP13-031:4,OP17-022:3,OP01-055:2,OP08-036:2&type=optcg"
+        ],
+        "country": "Spain",
+        "host": "LGS",
+        "placement_str": "1st (7-1)",
+        "score": {
+          "wins": 7,
+          "losses": 1,
+          "matches": 8,
+          "winRate": 87.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-6-mw4z02ry-slsn",
+    "tournament_name": "SB",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/4/2026",
+    "country": "Philippines",
+    "host": "Hobby Stadium",
+    "player_name": "SiegeTenk",
+    "deck_name": "Blue Buggy",
+    "deck_type": "OP09-042",
+    "placement_str": "1st (6-0)",
+    "placement": 1,
+    "score": {
+      "wins": 6,
+      "losses": 0,
+      "matches": 6,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Blue",
+    "deck_composition_raw": "1nOP09-042a4nOP09-056a4nST25-001a4nST25-002a4nST25-005a1nEB05-028a3nOP16-056a4nOP09-048a2nOP12-049a2nST33-004a2nP-084a4nST25-003a4nEB05-021a4nOP09-051a4nOP09-057a2nOP09-060a2nOP06-058",
+    "tournament_results": [
+      {
+        "player_name": "SiegeTenk",
+        "deck_type": "OP09-042",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP09-042:1,OP09-056:4,ST25-001:4,ST25-002:4,ST25-005:4,EB05-028:1,OP16-056:3,OP09-048:4,OP12-049:2,ST33-004:2,P-084:2,ST25-003:4,EB05-021:4,OP09-051:4,OP09-057:4,OP09-060:2,OP06-058:2&type=optcg"
+        ],
+        "country": "Philippines",
+        "host": "Hobby Stadium",
+        "placement_str": "1st (6-0)",
+        "score": {
+          "wins": 6,
+          "losses": 0,
+          "matches": 6,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
     "id": "op18-eng-1",
     "tournament_name": "ShopEvent",
     "source_name": "English EB05/OP18",
@@ -30,6 +240,48 @@
           "https://deckbuilder.egmanevents.com/?deck=EB05-010:1,OP09-106:4,OP13-113:4,EB05-050:4,EB05-057:4,OP17-109:4,EB05-052:3,EB05-055:4,OP14-108:4,OP17-114:2,EB03-055:3,EB04-018:3,OP13-031:2,EB05-016:4,OP17-022:3,OP14-118:2&type=optcg"
         ],
         "country": "Europe",
+        "host": "LGS",
+        "placement_str": "1st (5-0)",
+        "score": {
+          "wins": 5,
+          "losses": 0,
+          "matches": 5,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-7-mw4z02ry-rgqf",
+    "tournament_name": "SB",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/3/2026",
+    "country": "USA",
+    "host": "LGS",
+    "player_name": "Dom Vex",
+    "deck_name": "G Shanks",
+    "deck_type": "OP17-020",
+    "placement_str": "1st (5-0)",
+    "placement": 1,
+    "score": {
+      "wins": 5,
+      "losses": 0,
+      "matches": 5,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Green",
+    "deck_composition_raw": "1nOP17-020a4nEB05-018a4nOP12-034a4nOP17-021a4nOP17-032a4nPRB02-005a4nST32-002a4nOP17-031a4nOP13-031a4nOP17-027a3nST16-004a4nOP17-022a3nOP17-036a4nOP17-037",
+    "tournament_results": [
+      {
+        "player_name": "Dom Vex",
+        "deck_type": "OP17-020",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP17-020:1,EB05-018:4,OP12-034:4,OP17-021:4,OP17-032:4,PRB02-005:4,ST32-002:4,OP17-031:4,OP13-031:4,OP17-027:4,ST16-004:3,OP17-022:4,OP17-036:3,OP17-037:4&type=optcg"
+        ],
+        "country": "USA",
         "host": "LGS",
         "placement_str": "1st (5-0)",
         "score": {
