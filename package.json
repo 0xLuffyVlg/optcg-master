@@ -8,6 +8,7 @@
     "build": "node scripts/generate-sitemap.cjs && tsc && vite build",
     "preview": "vite preview",
     "sync:tournaments": "node scripts/sync_tournaments.cjs",
+    "sync:oplay": "node scripts/sync_oplay_meta.cjs",
     "sync:prices": "node scripts/sync_prices.cjs",
     "sync:reveals": "node scripts/auto_reveals_bot.js",
     "sync:cardmarket-csv": "node scripts/sync_cardmarket_csv.js",
