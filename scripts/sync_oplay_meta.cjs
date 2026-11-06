@@ -220,6 +220,39 @@ async function main() {
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(processed, null, 2), 'utf8');
   console.log(`4. Sauvegardé avec succès dans : ${OUTPUT_FILE}`);
 
+  const publicFile = path.resolve(__dirname, '../public/data/oplay_meta_stats.json');
+  fs.writeFileSync(publicFile, JSON.stringify(processed), 'utf8');
+
+  const summaryFile = path.resolve(__dirname, '../src/data/oplay_summary.json');
+  const summary = {
+    source: processed.source,
+    generatedAt: processed.generatedAt,
+    period: processed.period,
+    windows: {}
+  };
+  for (const wKey of Object.keys(processed.windows || {})) {
+    const w = processed.windows[wKey];
+    summary.windows[wKey] = {
+      days: w.days,
+      totalRankedGames: w.totalRankedGames,
+      globalFirstPlayerWinrate: w.globalFirstPlayerWinrate,
+      leadersCount: w.leadersCount,
+      leaders: (w.leaders || []).map(l => ({
+        leaderCode: l.leaderCode,
+        rank: l.rank,
+        totalGames: l.totalGames,
+        totalWins: l.totalWins,
+        winrate: l.winrate,
+        firstTurn: l.firstTurn,
+        secondTurn: l.secondTurn,
+        uniquePlayers: l.uniquePlayers,
+        topMatchups: (l.matchups || []).slice(0, 15)
+      }))
+    };
+  }
+  fs.writeFileSync(summaryFile, JSON.stringify(summary), 'utf8');
+  console.log('   Également synchronisé public/data/oplay_meta_stats.json et src/data/oplay_summary.json');
+
   const d7 = processed.windows.d7;
   if (d7) {
     console.log(`\n📊 Aperçu Fenêtre 7 Jours :`);

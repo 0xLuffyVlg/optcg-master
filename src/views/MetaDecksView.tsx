@@ -24,6 +24,7 @@ import { getMetaSyncStatus, syncLiveMetaData, MetaSyncStatus } from '../services
 import { computeLeaderVariants, LeaderDeckVariant } from '../services/leaderVariantsService';
 import { LeaderVariantsModal } from '../components/LeaderVariantsModal';
 import { getTournamentDeckPrice } from '../services/cardmarketPriceService';
+import { getLeaderSimulatorStats } from '../services/oplayMetaService';
 import ScalpeursHeroBanner from '../components/ScalpeursHeroBanner';
 
 interface MetaDecksViewProps {
@@ -322,6 +323,11 @@ export const MetaDecksView: React.FC<MetaDecksViewProps> = ({
             <span className="font-bold">{allTournaments.length} Tournois Compilés</span>
             <span className="text-slate-600">·</span>
             <span className="font-bold">Tier 0 → Tier 3</span>
+            <span className="text-slate-600">·</span>
+            <span className="font-bold text-cyan-300 flex items-center gap-1">
+              <Zap className="w-3.5 h-3.5 text-cyan-400 fill-cyan-400" />
+              <span>+238k matchs OPlayTCG</span>
+            </span>
           </div>
         }
       >
@@ -428,6 +434,7 @@ export const MetaDecksView: React.FC<MetaDecksViewProps> = ({
                     ? getTournamentDeckPrice(bestDeck.decklistUrl, leaderCard.card_code)
                     : { totalEur: 65, minEur: 40, isBudget: false };
                   const displayKeyCards = getLeaderConsensusCards(leaderItem);
+                  const simStats = getLeaderSimulatorStats(leaderCard.card_code);
 
                   return (
                     <div
@@ -547,6 +554,32 @@ export const MetaDecksView: React.FC<MetaDecksViewProps> = ({
 
                         </div>
                       </div>
+
+                      {/* Live Simulator Pill */}
+                      {simStats && (
+                        <div className="px-4 sm:px-5 pb-3">
+                          <div className="flex items-center justify-between px-3 py-1.5 rounded-xl bg-gradient-to-r from-cyan-950/50 to-blue-950/40 border border-cyan-500/30 text-xs shadow-inner">
+                            <span className="flex items-center gap-1.5 text-cyan-300 font-bold">
+                              <Zap className="w-3.5 h-3.5 text-cyan-400 fill-cyan-400" />
+                              <span className="text-[11px] uppercase tracking-wider font-extrabold">Simulateur OPlay</span>
+                            </span>
+                            <div className="flex items-center gap-2">
+                              <span className="text-[11px] text-slate-400">
+                                {(simStats.totalGames >= 1000 ? `${(simStats.totalGames / 1000).toFixed(1)}k` : simStats.totalGames)} matchs
+                              </span>
+                              <span className={`px-2 py-0.5 rounded-md text-xs font-black ${
+                                simStats.winrate >= 52
+                                  ? 'bg-emerald-500/20 text-emerald-300 border border-emerald-500/30'
+                                  : simStats.winrate <= 48
+                                    ? 'bg-rose-500/20 text-rose-300 border border-rose-500/30'
+                                    : 'bg-cyan-500/20 text-cyan-300 border border-cyan-500/30'
+                              }`}>
+                                {simStats.winrate}% WR
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                      )}
 
                       {/* Consensus Cartes (Core & Tech) */}
                       {displayKeyCards.length > 0 && (

@@ -1,5 +1,6 @@
 import { Card, MetaLeaderSummary } from '../types';
 import { getCardByCode } from '../data/dataProvider';
+import { getHeadToHeadSimulatorMatchup, getLeaderSimulatorStats } from '../services/oplayMetaService';
 
 export interface MatchupDetails {
   leaderA: Card;
@@ -31,6 +32,16 @@ export interface MatchupDetails {
     priorityKeep: string[];
     priorityMulligan: string[];
   };
+  simulatorData?: {
+    games: number;
+    winsA: number;
+    lossesA: number;
+    winrateA: number;
+    winrateB: number;
+    firstGamesA?: number;
+    firstWinsA?: number;
+    source: string;
+  };
 }
 
 export interface LeaderMatchupProfile {
@@ -45,6 +56,15 @@ export interface LeaderMatchupProfile {
   recommendedTurnReason: string;
   winrate1st: number;
   winrate2nd: number;
+  simulatorStats?: {
+    totalGames: number;
+    totalWins: number;
+    winrate: number;
+    uniquePlayers: number;
+    firstTurnWinrate: number;
+    secondTurnWinrate: number;
+    source: string;
+  };
   favorableMatchups: { opponent: Card; winrate: number; label: string; reason: string }[];
   evenMatchups: { opponent: Card; winrate: number; label: string; reason: string }[];
   unfavorableMatchups: { opponent: Card; winrate: number; label: string; reason: string }[];
@@ -192,6 +212,12 @@ export function calculateLeaderWinrate(
   const overrideKey = `${leaderA.card_code}_${leaderB.card_code}`;
   if (HISTORICAL_MATCHUP_OVERRIDES[overrideKey] !== undefined) {
     return HISTORICAL_MATCHUP_OVERRIDES[overrideKey];
+  }
+
+  // Real simulator data from OPlayTCG (+238,000 matches) takes precedence when sample is solid
+  const sim = getHeadToHeadSimulatorMatchup(leaderA.card_code, leaderB.card_code);
+  if (sim.hasData && sim.games >= 15) {
+    return sim.winrateA;
   }
 
   // Base power ratio derived from tournament tops and winrate
@@ -412,9 +438,11 @@ export function getDetailedMatchup(
   const winrateA = calculateLeaderWinrate(leaderA, leaderB, metaA, metaB);
   const winrateB = Math.round((100 - winrateA) * 10) / 10;
 
+  const sim = getHeadToHeadSimulatorMatchup(leaderA.card_code, leaderB.card_code);
   const sampleSize = Math.max(30, Math.min(150, ((metaA?.totalTops || 10) + (metaB?.totalTops || 10)) * 2));
-  const winsA = Math.round((winrateA / 100) * sampleSize);
-  const lossesA = sampleSize - winsA;
+  const totalMatches = sim.hasData && sim.games > 0 ? sim.games : sampleSize;
+  const winsA = sim.hasData && sim.games > 0 ? sim.winsA : Math.round((winrateA / 100) * sampleSize);
+  const lossesA = totalMatches - winsA;
 
   let advantageStatus: MatchupDetails['advantageStatus'] = 'equilibre';
   let advantageLabel = 'Équilibré (50/50)';
@@ -440,10 +468,23 @@ export function getDetailedMatchup(
 
   const colA = leaderA.color || [];
   const isAggro = colA.includes('Red') || colA.includes('Green');
-  const recommendedTurn: '1st' | '2nd' = isAggro ? '1st' : '2nd';
-  const recommendedTurnReason = recommendedTurn === '1st'
-    ? 'Permet d\'attaquer en premier et d\'appliquer une forte pression tempo dès les premiers tours.'
-    : 'Donne 2 DON au tour 1 et 4 DON au tour 2 pour déployer vos moteurs et cartes de contrôle sans retard.';
+  
+  const leaderASim = getLeaderSimulatorStats(leaderA.card_code);
+  let recommendedTurn: '1st' | '2nd' = isAggro ? '1st' : '2nd';
+  let recommendedTurnReason = '';
+  if (leaderASim && leaderASim.firstTurn.games >= 50) {
+    if (leaderASim.firstTurn.winrate >= leaderASim.secondTurn.winrate) {
+      recommendedTurn = '1st';
+      recommendedTurnReason = `Sur ${leaderASim.totalGames.toLocaleString()} parties réelles (simulateur) : ${leaderASim.firstTurn.winrate}% de victoires au 1er Tour (vs ${leaderASim.secondTurn.winrate}% au 2ème Tour).`;
+    } else {
+      recommendedTurn = '2nd';
+      recommendedTurnReason = `Sur ${leaderASim.totalGames.toLocaleString()} parties réelles (simulateur) : ${leaderASim.secondTurn.winrate}% de victoires au 2ème Tour (vs ${leaderASim.firstTurn.winrate}% au 1er Tour).`;
+    }
+  } else {
+    recommendedTurnReason = recommendedTurn === '1st'
+      ? 'Permet d\'attaquer en premier et d\'appliquer une forte pression tempo dès les premiers tours.'
+      : 'Donne 2 DON au tour 1 et 4 DON au tour 2 pour déployer vos moteurs et cartes de contrôle sans retard.';
+  }
 
   const keyCardsA = extractKeyCardsForLeader(metaA);
   const keyCardsB = extractKeyCardsForLeader(metaB);
@@ -471,7 +512,7 @@ export function getDetailedMatchup(
     leaderB,
     winrateA,
     winrateB,
-    totalMatches: sampleSize,
+    totalMatches,
     winsA,
     lossesA,
     advantageStatus,
@@ -487,7 +528,17 @@ export function getDetailedMatchup(
     mulliganTargets: {
       priorityKeep,
       priorityMulligan
-    }
+    },
+    simulatorData: sim.hasData && sim.games > 0 ? {
+      games: sim.games,
+      winsA: sim.winsA,
+      lossesA: sim.lossesA,
+      winrateA: sim.winrateA,
+      winrateB: sim.winrateB,
+      firstGamesA: sim.firstGamesA,
+      firstWinsA: sim.firstWinsA,
+      source: 'OPlayTCG Simulator'
+    } : undefined
   };
 }
 
@@ -543,12 +594,27 @@ export function getLeaderMatchupProfile(
   const isAggro = colors.includes('red') || colors.includes('green');
   const isControl = colors.includes('black') || colors.includes('blue') || colors.includes('purple');
 
-  const winrate1st = isAggro ? 55 : isControl ? 46 : 50;
-  const winrate2nd = 100 - winrate1st;
-  const recommendedTurn: '1st' | '2nd' = winrate1st >= 50 ? '1st' : '2nd';
-  const recommendedTurnReason = recommendedTurn === '1st'
-    ? 'Prend l\'initiative des frappes et permet de courber les menaces impaires (1, 3, 5, 7 DON).'
-    : 'Donne 2 DON dès le tour 1 et 4 DON au tour 2 pour installer immédiatement vos moteurs de jeu.';
+  const simStats = getLeaderSimulatorStats(code);
+  let winrate1st = isAggro ? 55 : isControl ? 46 : 50;
+  let winrate2nd = 100 - winrate1st;
+  let recommendedTurn: '1st' | '2nd' = isAggro ? '1st' : '2nd';
+  let recommendedTurnReason = '';
+
+  if (simStats && simStats.firstTurn.games >= 50) {
+    winrate1st = simStats.firstTurn.winrate;
+    winrate2nd = simStats.secondTurn.winrate;
+    if (winrate1st >= winrate2nd) {
+      recommendedTurn = '1st';
+      recommendedTurnReason = `Sur ${simStats.totalGames.toLocaleString()} parties réelles de simulateur : ${winrate1st}% de victoires au 1er Tour (contre ${winrate2nd}% au 2ème Tour).`;
+    } else {
+      recommendedTurn = '2nd';
+      recommendedTurnReason = `Sur ${simStats.totalGames.toLocaleString()} parties réelles de simulateur : ${winrate2nd}% de victoires au 2ème Tour (contre ${winrate1st}% au 1er Tour).`;
+    }
+  } else {
+    recommendedTurnReason = recommendedTurn === '1st'
+      ? 'Prend l\'initiative des frappes et permet de courber les menaces impaires (1, 3, 5, 7 DON).'
+      : 'Donne 2 DON dès le tour 1 et 4 DON au tour 2 pour installer immédiatement vos moteurs de jeu.';
+  }
 
   const avgWinrate = count > 0 ? Math.round((totalWinrate / count) * 10) / 10 : 50;
 
@@ -585,6 +651,15 @@ export function getLeaderMatchupProfile(
     recommendedTurnReason,
     winrate1st,
     winrate2nd,
+    simulatorStats: simStats ? {
+      totalGames: simStats.totalGames,
+      totalWins: simStats.totalWins,
+      winrate: simStats.winrate,
+      uniquePlayers: simStats.uniquePlayers,
+      firstTurnWinrate: simStats.firstTurn.winrate,
+      secondTurnWinrate: simStats.secondTurn.winrate,
+      source: 'OPlayTCG Simulator'
+    } : undefined,
     favorableMatchups: favorable,
     evenMatchups: even,
     unfavorableMatchups: unfavorable,

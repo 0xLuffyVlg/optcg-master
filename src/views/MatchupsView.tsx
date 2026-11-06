@@ -41,6 +41,11 @@ import {
   LeaderMatchupProfile 
 } from '../utils/matchupEngine';
 import { ScalpeursHeroBanner } from '../components/ScalpeursHeroBanner';
+import { 
+  getLeaderSimulatorStats, 
+  getOPlayMetadata, 
+  loadFullOPlayStats 
+} from '../services/oplayMetaService';
 
 const ANALYSIS_MODES = [
   { id: 'matrix' as const, label: 'Matrice Croisée', icon: <BarChart3 className="w-4 h-4 text-cyan-400" /> },
@@ -59,6 +64,10 @@ export const MatchupsView: React.FC<MatchupsViewProps> = ({ onSelectCard }) => {
   const [activeTab, setActiveTab] = useState<'matrix' | 'simulator' | 'leaderProfile' | 'firstSecond' | 'rankings'>('matrix');
   const [isModeMenuOpen, setIsModeMenuOpen] = useState<boolean>(false);
   const modeMenuRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    loadFullOPlayStats().catch(() => {});
+  }, []);
 
   useEffect(() => {
     const handleClickOutside = (e: MouseEvent) => {
@@ -173,7 +182,7 @@ export const MatchupsView: React.FC<MatchupsViewProps> = ({ onSelectCard }) => {
     setInspectedMatchup(details);
   };
 
-  // First vs Second turn live statistics
+  // First vs Second turn live statistics with OPlay simulator integration (+238,000 matches)
   const firstSecondStats = useMemo(() => {
     return metaLeaders.map((item) => {
       const colors = (item.leaderCard.color || []).map(c => c.toLowerCase());
@@ -186,10 +195,20 @@ export const MatchupsView: React.FC<MatchupsViewProps> = ({ onSelectCard }) => {
         ? Math.min(68, Math.max(45, Math.round(48 + (wins / tops) * 20 + (item.metaShare * 0.4))))
         : 50;
 
+      const sim = getLeaderSimulatorStats(item.leaderCard.card_code);
       let winRate1st = isAggro ? 55 : isControl ? 45 : 50;
       let winRate2nd = 100 - winRate1st;
+      let realGames: number | null = null;
+      let realPlayers: number | null = null;
 
-      const diff = winRate1st - winRate2nd;
+      if (sim && sim.firstTurn.games >= 30) {
+        winRate1st = sim.firstTurn.winrate;
+        winRate2nd = sim.secondTurn.winrate;
+        realGames = sim.totalGames;
+        realPlayers = sim.uniquePlayers;
+      }
+
+      const diff = Math.round((winRate1st - winRate2nd) * 10) / 10;
       const preference = diff > 0 ? `1er Tour (+${diff}%)` : `2ème Tour (+${Math.abs(diff)}%)`;
 
       return {
@@ -202,6 +221,9 @@ export const MatchupsView: React.FC<MatchupsViewProps> = ({ onSelectCard }) => {
         overallWinrate: calculatedWinrate,
         winRate1st,
         winRate2nd,
+        realGames,
+        realPlayers,
+        simWinrate: sim ? sim.winrate : null,
         preference,
         prefColor: diff > 0 ? 'text-amber-400' : 'text-blue-400'
       };
@@ -238,7 +260,12 @@ export const MatchupsView: React.FC<MatchupsViewProps> = ({ onSelectCard }) => {
             <span className="text-slate-600">•</span>
             <span className="text-slate-400 font-bold">{filteredTournamentsCount} Tournois analysés</span>
             <span className="text-slate-600">•</span>
-            <span className="text-cyan-400 font-bold">Matrice Format {selectedSet}</span>
+            <span className="text-cyan-400 font-bold inline-flex items-center gap-1">
+              <Zap className="w-3.5 h-3.5 text-cyan-400" />
+              <span>+238k matchs OPlayTCG</span>
+            </span>
+            <span className="text-slate-600">•</span>
+            <span className="text-amber-400 font-bold">Matrice Format {selectedSet}</span>
           </>
         }
       >
@@ -622,7 +649,7 @@ export const MatchupsView: React.FC<MatchupsViewProps> = ({ onSelectCard }) => {
                 <div className="flex items-center justify-between text-xs font-bold">
                   <span className="text-emerald-400">{simulatorResult.leaderA.name} : {simulatorResult.winrateA}%</span>
                   <span className="text-slate-400 font-normal">
-                    {simulatorResult.winsA}W - {simulatorResult.lossesA}L ({simulatorResult.totalMatches} matchs enregistrés)
+                    {simulatorResult.winsA}W - {simulatorResult.lossesA}L ({simulatorResult.totalMatches.toLocaleString()} matchs enregistrés)
                   </span>
                   <span className="text-rose-400">{simulatorResult.winrateB}% : {simulatorResult.leaderB.name}</span>
                 </div>
@@ -637,6 +664,18 @@ export const MatchupsView: React.FC<MatchupsViewProps> = ({ onSelectCard }) => {
                     style={{ width: `${simulatorResult.winrateB}%` }} 
                   />
                 </div>
+
+                {simulatorResult.simulatorData && (
+                  <div className="flex items-center justify-between px-3 py-1.5 rounded-lg bg-cyan-950/60 border border-cyan-500/40 text-[11px] text-cyan-300 font-bold">
+                    <span className="flex items-center gap-1.5">
+                      <Zap className="w-3.5 h-3.5 text-cyan-400" />
+                      <span>Données réelles OPlayTCG Simulator : {simulatorResult.simulatorData.games.toLocaleString()} duels mesurés</span>
+                    </span>
+                    <span className="text-white font-mono">
+                      {simulatorResult.simulatorData.winsA}V - {simulatorResult.simulatorData.lossesA}D
+                    </span>
+                  </div>
+                )}
               </div>
 
               {/* Turn Recommandation */}
@@ -1241,6 +1280,29 @@ export const MatchupsView: React.FC<MatchupsViewProps> = ({ onSelectCard }) => {
             </h3>
           </div>
 
+          {/* OPlay Simulator Integration Banner */}
+          <div className="p-3.5 sm:p-4 rounded-xl bg-gradient-to-r from-emerald-950/70 via-slate-900 to-cyan-950/70 border border-emerald-500/40 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 shadow-lg">
+            <div className="flex items-center space-x-3">
+              <div className="w-10 h-10 rounded-xl bg-emerald-500/20 border border-emerald-500/40 flex items-center justify-center flex-shrink-0 text-emerald-400">
+                <Zap className="w-5 h-5 drop-shadow-[0_0_8px_rgba(52,211,153,0.6)]" />
+              </div>
+              <div>
+                <div className="flex items-center gap-2 flex-wrap">
+                  <h4 className="text-xs sm:text-sm font-black text-white">Statistiques Réelles Simulateur</h4>
+                  <span className="px-2 py-0.5 rounded text-[10px] font-extrabold bg-cyan-500/20 text-cyan-300 border border-cyan-500/30">
+                    OPlayTCG Live Engine
+                  </span>
+                </div>
+                <p className="text-[11px] text-slate-300 mt-0.5">
+                  Calculé sur <strong>+238 000 parties classées réelles</strong>. Taux global de victoire du 1er joueur (Going 1st) : <strong className="text-emerald-400">50.2%</strong>
+                </p>
+              </div>
+            </div>
+            <span className="px-3 py-1 rounded-lg bg-slate-950/80 border border-slate-800 text-[11px] font-mono text-slate-300 flex-shrink-0">
+              64 Leaders suivis
+            </span>
+          </div>
+
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {firstSecondStats.map((item) => (
               <div
@@ -1261,9 +1323,18 @@ export const MatchupsView: React.FC<MatchupsViewProps> = ({ onSelectCard }) => {
 
                   <div className="min-w-0">
                     <h4 className="text-sm font-bold text-white truncate">{item.leader.name}</h4>
-                    <p className="text-xs text-slate-400 mt-0.5">
-                      Meta Share : <strong className="text-amber-400">{item.metaShare}%</strong>
-                    </p>
+                    <div className="flex items-center gap-2 text-xs text-slate-400 mt-0.5 flex-wrap">
+                      <span>Meta Share : <strong className="text-amber-400">{item.metaShare}%</strong></span>
+                      {item.realGames && (
+                        <>
+                          <span>•</span>
+                          <span className="text-cyan-300 font-bold inline-flex items-center gap-1">
+                            <Zap className="w-3 h-3 text-cyan-400" />
+                            {item.realGames.toLocaleString()} matchs ({item.realPlayers} joueurs)
+                          </span>
+                        </>
+                      )}
+                    </div>
                     <p className="text-xs font-bold mt-1">
                       Préférence : <span className={item.prefColor}>{item.preference}</span>
                     </p>
@@ -1333,10 +1404,19 @@ export const MatchupsView: React.FC<MatchupsViewProps> = ({ onSelectCard }) => {
                       </span>
                       <h4 className="text-sm font-black text-white truncate">{item.leader.name}</h4>
                     </div>
-                    <p className="text-xs text-slate-400 mt-1 flex items-center gap-2">
+                    <p className="text-xs text-slate-400 mt-1 flex items-center gap-2 flex-wrap">
                       <span className="font-mono text-amber-400/90">{item.leader.card_code}</span>
                       <span>•</span>
-                      <span>{item.sampleDecklistsCount} decklists répertoriées</span>
+                      <span>{item.sampleDecklistsCount} decklists</span>
+                      {item.realGames && (
+                        <>
+                          <span>•</span>
+                          <span className="text-cyan-300 font-bold inline-flex items-center gap-1">
+                            <Zap className="w-3 h-3 text-cyan-400" />
+                            {item.realGames.toLocaleString()} matchs OPlay
+                          </span>
+                        </>
+                      )}
                     </p>
                   </div>
                 </div>
@@ -1353,8 +1433,12 @@ export const MatchupsView: React.FC<MatchupsViewProps> = ({ onSelectCard }) => {
                   </div>
 
                   <div className="p-2 rounded-lg bg-slate-900/80 border border-slate-800/80">
-                    <span className="text-[10px] text-slate-500 uppercase block font-bold">Winrate Global</span>
-                    <span className="text-xs font-black text-purple-400">{item.overallWinrate}%</span>
+                    <span className="text-[10px] text-slate-500 uppercase block font-bold">
+                      {item.simWinrate ? 'WR Tournois / Sim' : 'Winrate Global'}
+                    </span>
+                    <span className="text-xs font-black text-purple-400">
+                      {item.overallWinrate}% {item.simWinrate ? <span className="text-cyan-300 font-bold">/ {item.simWinrate}%</span> : ''}
+                    </span>
                   </div>
 
                   <div className="p-2 rounded-lg bg-slate-900/80 border border-slate-800/80">
@@ -1439,7 +1523,7 @@ export const MatchupsView: React.FC<MatchupsViewProps> = ({ onSelectCard }) => {
                 <div className="flex items-center justify-between text-sm font-black">
                   <span className="text-emerald-400">{inspectedMatchup.winrateA}%</span>
                   <span className="text-xs text-slate-400 font-normal">
-                    {inspectedMatchup.winsA}W - {inspectedMatchup.lossesA}L ({inspectedMatchup.totalMatches} matchs)
+                    {inspectedMatchup.winsA}W - {inspectedMatchup.lossesA}L ({inspectedMatchup.totalMatches.toLocaleString()} matchs)
                   </span>
                   <span className="text-rose-400">{inspectedMatchup.winrateB}%</span>
                 </div>
@@ -1448,6 +1532,18 @@ export const MatchupsView: React.FC<MatchupsViewProps> = ({ onSelectCard }) => {
                   <div className="bg-emerald-500 h-full transition-all duration-500" style={{ width: `${inspectedMatchup.winrateA}%` }} />
                   <div className="bg-rose-500 h-full transition-all duration-500" style={{ width: `${inspectedMatchup.winrateB}%` }} />
                 </div>
+
+                {inspectedMatchup.simulatorData && (
+                  <div className="flex items-center justify-between px-3 py-1.5 rounded-lg bg-cyan-950/60 border border-cyan-500/40 text-[11px] text-cyan-300 font-bold">
+                    <span className="flex items-center gap-1.5">
+                      <Zap className="w-3.5 h-3.5 text-cyan-400" />
+                      <span>{inspectedMatchup.simulatorData.games.toLocaleString()} duels réels mesurés sur simulateur</span>
+                    </span>
+                    <span className="text-white font-mono">
+                      {inspectedMatchup.simulatorData.winsA}V - {inspectedMatchup.simulatorData.lossesA}D
+                    </span>
+                  </div>
+                )}
               </div>
             </div>
 
