@@ -1231,7 +1231,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
                             <img src="/logo.png" alt="" width="38" height="38" loading="lazy" />
                             <div>
                               <small>
-                                <span>SCALPEURS</span><span>maintenant</span>
+                                <span>OPTCG MASTER</span><span>maintenant</span>
                               </small>
                               <b>Shanks · 349,00 €</b>
                               <span>▼ 11 € sous ton seuil · carte japonaise, Near Mint</span>
@@ -1241,7 +1241,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
                             <img src="/logo.png" alt="" width="38" height="38" loading="lazy" />
                             <div>
                               <small>
-                                <span>SCALPEURS</span><span>il y a 2 h</span>
+                                <span>OPTCG MASTER</span><span>il y a 2 h</span>
                               </small>
                               <b>Monkey.D.Luffy · 1 790,00 €</b>
                               <span>▼ 10 € sous ton seuil · carte française</span>

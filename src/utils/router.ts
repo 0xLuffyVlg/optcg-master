@@ -41,7 +41,7 @@ const TAB_PATHS: Record<ActiveTab, string> = {
 };
 
 const TAB_TITLES: Record<ActiveTab, string> = {
-  home: 'Scalpeurs OPTCG — Argus, Côtes Cartes One Piece & Base de Données',
+  home: 'OPTCG Master — Argus, Côtes Cartes One Piece & Base de Données',
   meta: 'Tier List & Méta Decks One Piece TCG — OPTCG Master',
   deckbuilder: 'Deckbuilder Compétitif One Piece TCG — OPTCG Master',
   tournaments: 'Résultats des Tournois Mondiaux One Piece TCG — OPTCG Master',
