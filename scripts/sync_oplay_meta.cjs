@@ -97,9 +97,19 @@ function processPayload(rawJson) {
     throw new Error('Structure payload invalide');
   }
 
+  let extractedAt = new Date().toISOString();
+  try {
+    if (fs.existsSync(OUTPUT_FILE)) {
+      const existing = JSON.parse(fs.readFileSync(OUTPUT_FILE, 'utf8'));
+      if (existing && existing.generatedAt === payload.gen && existing.extractedAt) {
+        extractedAt = existing.extractedAt;
+      }
+    }
+  } catch (e) {}
+
   const result = {
     source: 'OPlayTCG Simulator (oplaytcg.com)',
-    extractedAt: new Date().toISOString(),
+    extractedAt,
     generatedAt: payload.gen,
     period: {
       from: payload.from,

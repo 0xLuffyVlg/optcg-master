@@ -1,0 +1,45 @@
+name: Daily OPlayTCG Simulator Stats Sync
+
+on:
+  schedule:
+    # Tous les matins à 06:00 UTC (07:00 en hiver / 08:00 en été, heure de Paris)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Permet de forcer la mise à jour à la demande depuis l'onglet Actions de GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  sync-oplay:
+    name: Sync Live OPlayTCG Simulator Meta Stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci --prefer-offline --no-audit
+
+      - name: Fetch and Process Live Simulator Stats
+        run: npm run sync:oplay
+
+      - name: Commit and Push Updated OPlay Stats
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/oplay_meta_stats.json public/data/oplay_meta_stats.json src/data/oplay_summary.json
+          if git diff --staged --quiet; then
+            echo "Aucune modification détectée dans les statistiques OPlayTCG."
+          else
+            git commit -m "chore(oplay): auto-sync live simulator meta-stats"
+            git pull --rebase --autostash origin main
+            git push origin main
+          fi
