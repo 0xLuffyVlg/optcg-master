@@ -12474,15 +12474,17 @@
     "block": "5",
     "language": "en",
     "is_japanese": false,
-    "image_path": "https://scalpeurs.com/img/cards-en/eb05-p004.webp",
-    "image_url": "https://scalpeurs.com/img/cards-en/eb05-p004.webp",
-    "image_en": "https://scalpeurs.com/img/cards-en/eb05-p004.webp",
-    "image_jp": "https://scalpeurs.com/img/cards-en/eb05-p004.webp",
+    "image_path": "https://scalpeurs.com/img/cards-en/eb05-p013.webp",
+    "image_url": "https://scalpeurs.com/img/cards-en/eb05-p013.webp",
+    "image_en": "https://scalpeurs.com/img/cards-en/eb05-p013.webp",
+    "image_jp": "https://scalpeurs.com/img/cards-jp/eb05-p013.webp",
     "_imagePaths": [
-      "https://scalpeurs.com/img/cards-en/eb05-p004.webp"
+      "https://scalpeurs.com/img/cards-fr/eb05-p013.webp",
+      "https://scalpeurs.com/img/cards-en/eb05-p013.webp",
+      "https://scalpeurs.com/img/cards-jp/eb05-p013.webp"
     ],
-    "_defaultImagePath": "https://scalpeurs.com/img/cards-en/eb05-p004.webp",
-    "scalpeurs_image_url": "https://scalpeurs.com/img/cards-en/eb05-p004.webp",
+    "_defaultImagePath": "https://scalpeurs.com/img/cards-en/eb05-p013.webp",
+    "scalpeurs_image_url": "https://scalpeurs.com/img/cards-en/eb05-p013.webp",
     "price_eur": 0.02,
     "price_min_eur": 0.02,
     "price_avg7_eur": 0.02,
@@ -12491,7 +12493,8 @@
     "cardmarket_url": "https://scalpeurs.com/go/en/eb05-010-nico-robin/cm",
     "cardmarket_url_jp": "https://scalpeurs.com/go/jp/eb05-010-nico-robin/cm",
     "tcgplayer_url": null,
-    "detail_file": "EB05-010.json"
+    "detail_file": "EB05-010.json",
+    "image_fr": "https://scalpeurs.com/img/cards-fr/eb05-p013.webp"
   },
   {
     "id": "EB05-011",

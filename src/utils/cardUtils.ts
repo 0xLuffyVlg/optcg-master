@@ -23,6 +23,21 @@ export const CDN_BASE_URL = CARD_IMG_BASE;
 export function getCardImageUrl(card: Card | null | undefined, artworkName?: string, preferredLang?: string): string {
   if (!card) return 'https://placehold.co/300x420/1e293b/94a3b8?text=No+Card';
   
+  // Specific fix for Nico Robin EB05-010 to prevent any lingering misalignments or stale p004 event references
+  const cardCode = (card.card_code || card.id || '').toUpperCase().trim();
+  if (cardCode === 'EB05-010' || cardCode.startsWith('EB05-010-') || cardCode.startsWith('EB05-010_')) {
+    const isAlt = (card.variant === 2 || card.variant_type === 'ALT' || cardCode.includes('V2') || (artworkName && (artworkName.includes('p014') || artworkName.includes('v2'))));
+    const p = (preferredLang || '').toLowerCase().trim();
+    if (isAlt) {
+      if (p === 'jp') return 'https://scalpeurs.com/img/cards-jp/eb05-p014.webp';
+      if (p === 'fr') return 'https://scalpeurs.com/img/cards-fr/eb05-p014.webp';
+      return 'https://scalpeurs.com/img/cards-en/eb05-p014.webp';
+    }
+    if (p === 'jp') return 'https://scalpeurs.com/img/cards-jp/eb05-p013.webp';
+    if (p === 'fr') return 'https://scalpeurs.com/img/cards-fr/eb05-p013.webp';
+    return 'https://scalpeurs.com/img/cards-en/eb05-p013.webp';
+  }
+  
   // 0. Language-specific image preference (FR, EN, JP)
   if (preferredLang && typeof preferredLang === 'string') {
     const p = preferredLang.toLowerCase().trim();
@@ -116,6 +131,20 @@ export function handleCardImageError(
 
   if (currentSrc.includes('placehold.co')) {
     return;
+  }
+
+  // Fallback for EB05-010 Nico Robin Leader
+  if (baseCode === 'EB05-010') {
+    const robinScalpeurs = 'https://scalpeurs.com/img/cards-en/eb05-p013.webp';
+    const robinOfficial = 'https://en.onepiece-cardgame.com/images/cardlist/card/EB05-010.png';
+    if (!currentSrc.includes(robinScalpeurs)) {
+      img.src = robinScalpeurs;
+      return;
+    }
+    if (!currentSrc.includes(robinOfficial)) {
+      img.src = robinOfficial;
+      return;
+    }
   }
 
   // Fallback 1: Try direct Scalpeurs image if not yet tried
