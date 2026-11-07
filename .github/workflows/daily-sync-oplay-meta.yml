@@ -2,8 +2,8 @@ name: Daily OPlayTCG Simulator Stats Sync
 
 on:
   schedule:
-    # Tous les matins à 06:00 UTC (07:00 en hiver / 08:00 en été, heure de Paris)
-    - cron: '0 6 * * *'
+    # Tous les matins à 05:45 UTC (06:45 en hiver / 07:45 en été, heure de Paris)
+    - cron: '45 5 * * *'
   workflow_dispatch: # Permet de forcer la mise à jour à la demande depuis l'onglet Actions de GitHub
 
 permissions:
@@ -13,6 +13,7 @@ jobs:
   sync-oplay:
     name: Sync Live OPlayTCG Simulator Meta Stats
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4

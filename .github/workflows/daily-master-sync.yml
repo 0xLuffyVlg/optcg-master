@@ -1,0 +1,54 @@
+name: Daily Master Sync (Prices, Tournaments & Simulator Meta)
+
+on:
+  schedule:
+    # Tous les matins à 04:30 UTC (05:30 en hiver / 06:30 en été, heure de Paris)
+    # Minute 30 pour éviter l'embouteillage GitHub Actions des heures rondes
+    - cron: '30 4 * * *'
+  workflow_dispatch: # Permet de forcer la mise à jour complète à la demande depuis GitHub Actions
+
+permissions:
+  contents: write
+
+jobs:
+  master-sync:
+    name: Sync Live Prices, Tournaments & OPlay Meta
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci --prefer-offline --no-audit
+
+      - name: 1. Sync Live Cardmarket Prices (FR, EN, JP)
+        run: npm run sync:prices
+
+      - name: 2. Sync Daily Competitive Tournaments
+        run: npm run sync:tournaments
+
+      - name: 3. Sync OPlayTCG Simulator Meta Stats
+        run: npm run sync:oplay
+
+      - name: Commit and Push Updated Data to Production
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/ public/data/
+          if git diff --staged --quiet; then
+            echo "Aucune modification détectée dans les données."
+          else
+            git commit -m "chore(data): auto-sync daily prices, tournaments and simulator meta"
+            git pull --rebase --autostash origin main
+            git push origin main
+          fi

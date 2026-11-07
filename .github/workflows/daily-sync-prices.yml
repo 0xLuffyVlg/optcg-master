@@ -2,8 +2,8 @@ name: Daily Cardmarket Prices Sync
 
 on:
   schedule:
-    # Tous les matins à 04:00 UTC (06:00 heure de Paris)
-    - cron: '0 4 * * *'
+    # Tous les matins à 04:15 UTC (05:15 en hiver / 06:15 en été, heure de Paris)
+    - cron: '15 4 * * *'
   workflow_dispatch: # Permet de lancer manuellement depuis l'interface GitHub
 
 permissions:
@@ -11,7 +11,9 @@ permissions:
 
 jobs:
   sync-prices:
+    name: Sync Daily Cardmarket Near Mint Prices
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -38,7 +40,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "Aucune modification de prix détectée."
           else
-            git commit -m "chore: auto-sync daily Cardmarket Near Mint prices [skip ci]"
+            git commit -m "chore: auto-sync daily Cardmarket Near Mint prices"
             git pull --rebase --autostash origin main
             git push origin main
           fi

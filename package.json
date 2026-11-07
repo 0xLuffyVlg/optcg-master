@@ -7,6 +7,7 @@
     "dev": "vite",
     "build": "node scripts/generate-sitemap.cjs && tsc && vite build",
     "preview": "vite preview",
+    "sync:all": "npm run sync:prices && npm run sync:tournaments && npm run sync:oplay",
     "sync:tournaments": "node scripts/sync_tournaments.cjs",
     "sync:oplay": "node scripts/sync_oplay_meta.cjs",
     "sync:prices": "node scripts/sync_prices.cjs",

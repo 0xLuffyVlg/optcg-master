@@ -2,8 +2,8 @@ name: Daily Tournaments Sync
 
 on:
   schedule:
-    # Tous les matins à 05:00 UTC (07:00 heure de Paris) - Décalé après Cardmarket
-    - cron: '0 5 * * *'
+    # Tous les matins à 05:15 UTC (06:15 en hiver / 07:15 en été, heure de Paris)
+    - cron: '15 5 * * *'
   workflow_dispatch: # Permet de lancer manuellement depuis l'interface GitHub
 
 permissions:
@@ -11,7 +11,9 @@ permissions:
 
 jobs:
   sync-tournaments:
+    name: Sync Daily Competitive Tournaments
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -38,7 +40,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No tournament changes detected."
           else
-            git commit -m "chore: auto-sync daily competitive tournaments [skip ci]"
+            git commit -m "chore: auto-sync daily competitive tournaments"
             git pull --rebase --autostash origin main
             git push origin main
           fi
