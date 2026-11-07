@@ -49,6 +49,26 @@ jobs:
             echo "Aucune modification détectée dans les données."
           else
             git commit -m "chore(data): auto-sync daily prices, tournaments and simulator meta"
-            git pull --rebase --autostash origin main
-            git push origin main
+            pushed=0
+            for attempt in 1 2 3; do
+              echo "Tentative de push $attempt/3..."
+              if git push origin main; then
+                echo "✓ Push réussi vers origin main !"
+                pushed=1
+                break
+              fi
+              echo "⚠ Push rejeté (origin/main a avancé). Rebase automatique avec priorité aux données fraîches..."
+              git fetch origin main
+              if ! git pull --rebase -X theirs origin main; then
+                echo "⚠ Conflit résolu en faveur des données fraîches..."
+                git checkout --theirs src/data/ public/data/ 2>/dev/null || true
+                git add -A
+                git -c core.editor=true rebase --continue || git rebase --abort || true
+              fi
+              sleep 2
+            done
+            if [ $pushed -eq 0 ]; then
+              echo "Échec du push après 3 tentatives"
+              exit 1
+            fi
           fi

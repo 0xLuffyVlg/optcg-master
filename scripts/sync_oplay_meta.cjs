@@ -278,7 +278,12 @@ async function main() {
   console.log('\n===========================================================');
 }
 
-main().catch(err => {
-  console.error('Erreur:', err.message);
-  process.exit(1);
-});
+main()
+  .then(() => {
+    console.log('✓ Synchronisation OPlay terminée avec succès.');
+    process.exit(0);
+  })
+  .catch(err => {
+    console.error('Erreur:', err.message);
+    process.exit(1);
+  });

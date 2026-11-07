@@ -25,16 +25,26 @@ const OPTCG_DIR = path.resolve(__dirname, '..');
 const ONPIECE_DIR_LOCAL = path.resolve('C:/Users/LuffyVlg/.gemini/antigravity/scratch/onepiece-database');
 const HAS_ONPIECE_DIR = fs.existsSync(path.join(ONPIECE_DIR_LOCAL, 'data/cards-all.json'));
 
-function fetchJson(url) {
+const noKeepAliveAgent = new https.Agent({ keepAlive: false });
+
+function fetchJson(url, timeoutMs = 15000) {
   return new Promise((resolve, reject) => {
-    https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' } }, (res) => {
+    const req = https.get(url, {
+      agent: noKeepAliveAgent,
+      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' },
+      timeout: timeoutMs
+    }, (res) => {
       if (res.statusCode !== 200) return reject(new Error(`HTTP ${res.statusCode} from ${url}`));
       let d = '';
       res.on('data', c => d += c);
       res.on('end', () => {
         try { resolve(JSON.parse(d)); } catch (e) { reject(e); }
       });
-    }).on('error', reject);
+    });
+    req.on('timeout', () => {
+      req.destroy(new Error(`Timeout after ${timeoutMs}ms from ${url}`));
+    });
+    req.on('error', reject);
   });
 }
 
@@ -469,7 +479,12 @@ async function main() {
   console.log('===========================================================');
 }
 
-main().catch(err => {
-  console.error('❌ Erreur lors de la synchronisation des prix :', err);
-  process.exit(1);
-});
+main()
+  .then(() => {
+    console.log('✓ Synchronisation des prix terminée avec succès.');
+    process.exit(0);
+  })
+  .catch(err => {
+    console.error('❌ Erreur lors de la synchronisation des prix :', err);
+    process.exit(1);
+  });
