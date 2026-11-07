@@ -36,7 +36,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add src/data/price_sync_meta.json src/data/optcg_complete_database.json src/data/card_links.json src/data/variants.json src/data/cards.json src/data/cardmarket_prices.json public/data/details/
+          git add src/data/price_sync_meta.json src/data/market_movers.json src/data/optcg_complete_database.json src/data/card_links.json src/data/variants.json src/data/cards.json src/data/cardmarket_prices.json public/data/details/
           if git diff --staged --quiet; then
             echo "Aucune modification de prix détectée."
           else

@@ -654,11 +654,11 @@
 
 .acc-mv ol{gap:2px;margin:0;padding:0;list-style:none;display:grid}
 
-.acc-mv-ligne{min-height:78px;color:inherit;border-radius:12px;grid-template-columns:44px minmax(0,1fr) auto;align-items:center;gap:12px;padding:6px 8px;text-decoration:none;transition:background-color .2s;display:grid}
+.acc-mv-ligne{min-height:78px;color:inherit;border-radius:12px;grid-template-columns:44px minmax(0,1fr) auto;align-items:center;gap:12px;padding:6px 8px;text-decoration:none;transition:background-color .2s;display:grid;background:transparent;border:none;font:inherit;text-align:left;width:100%}
 
-a.acc-mv-ligne:hover{background:#ffffff0b}
+a.acc-mv-ligne:hover, button.acc-mv-ligne:hover{background:#ffffff0e}
 
-a.acc-mv-ligne:focus-visible{outline-offset:2px;outline:2px solid #fff}
+a.acc-mv-ligne:focus-visible, button.acc-mv-ligne:focus-visible{outline-offset:2px;outline:2px solid #fff}
 
 .acc-mv-ligne>img{object-fit:cover;background:#ffffff0f;border-radius:4px;width:44px;height:62px;box-shadow:0 0 0 1px #ffffff1a}
 
@@ -1539,7 +1539,7 @@ html[data-intro] .acc-ciel-prix{animation-delay:1.4s}
 
 .acc-mv-ligne>img{border-radius:5px;width:56px;height:78px;transition:transform .35s cubic-bezier(.2,0,0,1)}
 
-a.acc-mv-ligne:hover>img{transform:rotate(-3deg)scale(1.07)}
+a.acc-mv-ligne:hover>img, button.acc-mv-ligne:hover>img{transform:rotate(-3deg)scale(1.07)}
 
 .acc-mv ol>li:first-child .acc-mv-ligne{background:#ffffff0b;border-radius:18px;grid-template-columns:76px minmax(0,1fr) auto;min-height:124px;margin-bottom:6px;padding:12px 14px}
 

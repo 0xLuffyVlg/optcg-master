@@ -3,7 +3,8 @@ import '../styles/scalpeurs-home.css';
 import { Card } from '../types';
 import { allCards } from '../data/dataProvider';
 import { ActiveTab } from '../components/Navbar';
-import { getCardImageUrl } from '../utils/cardUtils';
+import { getCardImageUrl, handleCardImageError } from '../utils/cardUtils';
+import marketMoversRaw from '../data/market_movers.json';
 import { 
   Camera, 
   FolderHeart, 
@@ -343,6 +344,33 @@ export const HomeView: React.FC<HomeViewProps> = ({
       cancelAnimationFrame(heroAnimRef.current);
     };
   }, []);
+
+  // --- Market Movers State (Hausses & Baisses dynamiques) ---
+  const [moverLang, setMoverLang] = useState<'all' | 'fr' | 'en' | 'jp'>('all');
+
+  const activeMovers = useMemo(() => {
+    const raw = marketMoversRaw as any;
+    if (!raw) return { hausses: [], baisses: [] };
+    const dataset = raw[moverLang] || raw.all;
+    return dataset || { hausses: [], baisses: [] };
+  }, [moverLang]);
+
+  const handleMoverClick = (mover: { card_code: string; name: string; variant_label?: string; language?: string; current_price?: number; image_url?: string }) => {
+    const cleanCode = (mover.card_code || '').toUpperCase().trim();
+    const baseCard = allCards.find(c => (c.card_code || c.id || '').toUpperCase().trim() === cleanCode);
+    if (baseCard) {
+      const cardToOpen: Card = {
+        ...baseCard,
+        variant_label: mover.variant_label || baseCard.variant_label,
+        price_eur: mover.current_price ?? baseCard.price_eur,
+        _defaultImagePath: mover.image_url || baseCard._defaultImagePath,
+        image_fr: mover.language === 'fr' ? mover.image_url : baseCard.image_fr,
+        image_en: mover.language === 'en' ? mover.image_url : baseCard.image_en,
+        image_jp: mover.language === 'jp' ? mover.image_url : baseCard.image_jp
+      };
+      onSelectCard(cardToOpen);
+    }
+  };
 
   // --- Search state ---
   const [searchQuery, setSearchQuery] = useState('');
@@ -785,15 +813,38 @@ export const HomeView: React.FC<HomeViewProps> = ({
 
         <div className="acc-wrap">
           <div className="acc-mv-tete">
-            <p className="acc-direct">
-              <span className="acc-point" aria-hidden="true"></span>
-              Relevé du mardi 20 octobre
-            </p>
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 mb-2">
+              <p className="acc-direct">
+                <span className="acc-point" aria-hidden="true"></span>
+                Relevé du {marketMoversRaw?.date_label || 'jour'} (Cardmarket Near Mint)
+              </p>
+              <div className="inline-flex rounded-xl bg-slate-900/90 p-1 border border-slate-700/60 text-xs self-start sm:self-auto">
+                {[
+                  { id: 'all', label: 'Toutes les versions' },
+                  { id: 'fr', label: '🇫🇷 FR' },
+                  { id: 'en', label: '🇬🇧 EN' },
+                  { id: 'jp', label: '🇯🇵 JP' },
+                ].map(tab => (
+                  <button
+                    key={tab.id}
+                    type="button"
+                    onClick={() => setMoverLang(tab.id as any)}
+                    className={`px-3 py-1 rounded-lg font-medium transition cursor-pointer ${
+                      moverLang === tab.id 
+                        ? 'bg-[#f58223] text-black font-bold shadow-sm' 
+                        : 'text-slate-400 hover:text-white'
+                    }`}
+                  >
+                    {tab.label}
+                  </button>
+                ))}
+              </div>
+            </div>
             <h2 className="acc-h2" id="acc-mv-titre">
               Depuis hier,<br /><em>ces cartes ont bougé.</em>
             </h2>
             <p className="acc-p">
-              Comparé au relevé du 19 octobre. Une carte peut prendre ou perdre des centaines d'euros en une nuit : ici, tu le vois.
+              Comparé aux cours moyens précédents. Une carte peut prendre ou perdre des centaines d'euros en une nuit : clique dessus pour afficher sa fiche complète.
             </p>
           </div>
 
@@ -805,60 +856,40 @@ export const HomeView: React.FC<HomeViewProps> = ({
                 Les plus fortes baisses
               </h3>
               <ol>
-                <li>
-                  <div className="acc-mv-ligne">
-                    <img src="/media/cartes/op05-p147-luffy.webp" alt="Lucy" />
-                    <div className="acc-mv-txt">
-                      <b>Lucy</b>
-                      <small>
-                        <img className="acc-drapeau" src="/media/flag-fr.png" alt="" />
-                        OP15-002
-                      </small>
-                    </div>
-                    <div className="acc-mv-chiffres">
-                      <b>30 000 €</b>
-                      <span className="acc-mv-delta text-rose-400 font-bold text-xs block">
-                        −20 000 € · −40 %
-                      </span>
-                    </div>
-                  </div>
-                </li>
-                <li>
-                  <div className="acc-mv-ligne">
-                    <img src="/media/cartes/op05-p147-luffy.webp" alt="Monkey D. Luffy" />
-                    <div className="acc-mv-txt">
-                      <b>Monkey.D.Luffy</b>
-                      <small>
-                        <img className="acc-drapeau" src="/media/flag-fr.png" alt="" />
-                        OP05-119 · Parallèle
-                      </small>
-                    </div>
-                    <div className="acc-mv-chiffres">
-                      <b>10 000 €</b>
-                      <span className="acc-mv-delta text-rose-400 font-bold text-xs block">
-                        −905 € · −8,3 %
-                      </span>
-                    </div>
-                  </div>
-                </li>
-                <li>
-                  <div className="acc-mv-ligne">
-                    <img src="/media/cartes/op06-p142-zoro.webp" alt="Tony Tony.Chopper" />
-                    <div className="acc-mv-txt">
-                      <b>Tony Tony.Chopper</b>
-                      <small>
-                        <img className="acc-drapeau" src="/media/flag-jp.png" alt="" />
-                        EB01-006 · Manga
-                      </small>
-                    </div>
-                    <div className="acc-mv-chiffres">
-                      <b>3 500 €</b>
-                      <span className="acc-mv-delta text-rose-400 font-bold text-xs block">
-                        −350 € · −9,1 %
-                      </span>
-                    </div>
-                  </div>
-                </li>
+                {activeMovers.baisses && activeMovers.baisses.length > 0 ? (
+                  activeMovers.baisses.map((item: any, idx: number) => (
+                    <li key={item.id || item.card_code + '-' + idx}>
+                      <button
+                        type="button"
+                        onClick={() => handleMoverClick(item)}
+                        className="acc-mv-ligne cursor-pointer w-full text-left transition hover:bg-white/10 active:scale-[0.99] group focus:outline-none focus:ring-1 focus:ring-rose-400/50"
+                        title={`Voir la fiche détaillée de ${item.name} (${item.card_code})`}
+                      >
+                        <img 
+                          src={item.image_url} 
+                          alt={item.name} 
+                          onError={(e) => handleCardImageError(e, { card_code: item.card_code, name: item.name } as any)}
+                          className="group-hover:scale-105 transition-transform duration-200"
+                        />
+                        <div className="acc-mv-txt">
+                          <b className="group-hover:text-amber-300 transition-colors">{item.name}</b>
+                          <small>
+                            <img className="acc-drapeau" src={item.flag_url} alt={item.language} />
+                            <span>{item.subtitle}</span>
+                          </small>
+                        </div>
+                        <div className="acc-mv-chiffres">
+                          <b>{item.current_price.toLocaleString('fr-FR')} €</b>
+                          <span className="acc-mv-delta text-rose-400 font-bold text-xs block">
+                            −{Math.abs(item.diff_eur).toLocaleString('fr-FR')} € · {item.diff_percent.toLocaleString('fr-FR')} %
+                          </span>
+                        </div>
+                      </button>
+                    </li>
+                  ))
+                ) : (
+                  <li className="p-4 text-center text-slate-400 text-sm">Aucune baisse significative détectée.</li>
+                )}
               </ol>
             </div>
 
@@ -869,60 +900,40 @@ export const HomeView: React.FC<HomeViewProps> = ({
                 Les plus fortes hausses
               </h3>
               <ol>
-                <li>
-                  <div className="acc-mv-ligne">
-                    <img src="/media/cartes/op09-p009-shanks.webp" alt="Shirahoshi" />
-                    <div className="acc-mv-txt">
-                      <b>Shirahoshi</b>
-                      <small>
-                        <img className="acc-drapeau" src="/media/flag-en.png" alt="" />
-                        OP03-116
-                      </small>
-                    </div>
-                    <div className="acc-mv-chiffres">
-                      <b>900 €</b>
-                      <span className="acc-mv-delta text-emerald-400 font-bold text-xs block">
-                        +61 € · +7,3 %
-                      </span>
-                    </div>
-                  </div>
-                </li>
-                <li>
-                  <div className="acc-mv-ligne">
-                    <img src="/media/cartes/op13-p160-sabo.webp" alt="Portgas.D.Ace" />
-                    <div className="acc-mv-txt">
-                      <b>Portgas.D.Ace (Error)</b>
-                      <small>
-                        <img className="acc-drapeau" src="/media/flag-en.png" alt="" />
-                        OP13-119 · Parallèle
-                      </small>
-                    </div>
-                    <div className="acc-mv-chiffres">
-                      <b>370 €</b>
-                      <span className="acc-mv-delta text-emerald-400 font-bold text-xs block">
-                        +45 € · +13,8 %
-                      </span>
-                    </div>
-                  </div>
-                </li>
-                <li>
-                  <div className="acc-mv-ligne">
-                    <img src="/media/cartes/op06-p142-zoro.webp" alt="DON!! Card Rosinante" />
-                    <div className="acc-mv-txt">
-                      <b>DON!! Card Rosinante</b>
-                      <small>
-                        <img className="acc-drapeau" src="/media/flag-jp.png" alt="" />
-                        Parallèle
-                      </small>
-                    </div>
-                    <div className="acc-mv-chiffres">
-                      <b>140 €</b>
-                      <span className="acc-mv-delta text-emerald-400 font-bold text-xs block">
-                        +16 € · +12,9 %
-                      </span>
-                    </div>
-                  </div>
-                </li>
+                {activeMovers.hausses && activeMovers.hausses.length > 0 ? (
+                  activeMovers.hausses.map((item: any, idx: number) => (
+                    <li key={item.id || item.card_code + '-' + idx}>
+                      <button
+                        type="button"
+                        onClick={() => handleMoverClick(item)}
+                        className="acc-mv-ligne cursor-pointer w-full text-left transition hover:bg-white/10 active:scale-[0.99] group focus:outline-none focus:ring-1 focus:ring-emerald-400/50"
+                        title={`Voir la fiche détaillée de ${item.name} (${item.card_code})`}
+                      >
+                        <img 
+                          src={item.image_url} 
+                          alt={item.name} 
+                          onError={(e) => handleCardImageError(e, { card_code: item.card_code, name: item.name } as any)}
+                          className="group-hover:scale-105 transition-transform duration-200"
+                        />
+                        <div className="acc-mv-txt">
+                          <b className="group-hover:text-amber-300 transition-colors">{item.name}</b>
+                          <small>
+                            <img className="acc-drapeau" src={item.flag_url} alt={item.language} />
+                            <span>{item.subtitle}</span>
+                          </small>
+                        </div>
+                        <div className="acc-mv-chiffres">
+                          <b>{item.current_price.toLocaleString('fr-FR')} €</b>
+                          <span className="acc-mv-delta text-emerald-400 font-bold text-xs block">
+                            +{item.diff_eur.toLocaleString('fr-FR')} € · +{item.diff_percent.toLocaleString('fr-FR')} %
+                          </span>
+                        </div>
+                      </button>
+                    </li>
+                  ))
+                ) : (
+                  <li className="p-4 text-center text-slate-400 text-sm">Aucune hausse significative détectée.</li>
+                )}
               </ol>
             </div>
           </div>

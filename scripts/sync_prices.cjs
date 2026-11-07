@@ -18,6 +18,7 @@
  */
 
 const fs = require('fs');
+
 const path = require('path');
 const https = require('https');
 
@@ -471,6 +472,15 @@ async function main() {
     JSON.stringify(metaSync, null, 2),
     'utf8'
   );
+
+  // ─── 9. Actualiser les plus fortes hausses et baisses (market_movers.json) ───
+  console.log('\n9. Actualisation des plus fortes hausses et baisses (market_movers.json)...');
+  try {
+    const { generateMarketMovers } = require('./generate_market_movers.cjs');
+    generateMarketMovers();
+  } catch (e) {
+    console.warn('  ⚠ Génération market_movers skip:', e.message);
+  }
 
   console.log('\n===========================================================');
   console.log(`✨ SUCCÈS : ${dbUpdated} cartes + ${varUpdated} variantes actualisées en ${metaSync.execution_time_seconds}s`);
