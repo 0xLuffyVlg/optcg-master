@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T17:14:20.749Z",
-  "date_label": "samedi 7 novembre",
+  "updated_at": "2026-11-08T11:20:37.381Z",
+  "date_label": "dimanche 8 novembre",
   "all": {
     "hausses": [
       {
@@ -108,10 +108,10 @@
         "rarity": "L",
         "language": "fr",
         "flag_url": "/media/flag-fr.png",
-        "current_price": 3200,
+        "current_price": 3100,
         "previous_price": 1943,
-        "diff_eur": 1257,
-        "diff_percent": 64.7,
+        "diff_eur": 1157,
+        "diff_percent": 59.6,
         "image_url": "https://scalpeurs.com/img/cards-fr/eb02-p097.webp"
       },
       {
