@@ -1001,7 +1001,7 @@
   },
   "PRB02-001": {
     "idProduct": 0,
-    "trend_eur": 1.7,
+    "trend_eur": 1.64,
     "low_eur": 2.38,
     "avg_eur": 6.33,
     "foil_trend_eur": 0,
@@ -1929,7 +1929,7 @@
   },
   "OP05-119": {
     "idProduct": 733461,
-    "trend_eur": 2,
+    "trend_eur": 2.7,
     "low_eur": 11.9,
     "avg_eur": 81.38,
     "foil_trend_eur": 0,
@@ -2433,9 +2433,9 @@
   },
   "EB03-024": {
     "idProduct": 858302,
-    "trend_eur": 8,
+    "trend_eur": 10,
     "low_eur": 4.4,
-    "avg_eur": 8,
+    "avg_eur": 10,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Nefeltari-Vivi-EB03-024-V1?language=2"
   },
@@ -2729,7 +2729,7 @@
   },
   "EB03-061": {
     "idProduct": 858354,
-    "trend_eur": 4,
+    "trend_eur": 4.9,
     "low_eur": 4.96,
     "avg_eur": 6.62,
     "foil_trend_eur": 0,
@@ -2737,9 +2737,9 @@
   },
   "EB03-062": {
     "idProduct": 858357,
-    "trend_eur": 7.5,
+    "trend_eur": 7,
     "low_eur": 7.5,
-    "avg_eur": 7.5,
+    "avg_eur": 7,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Heroines-Edition/Trafalgar-Law-EB03-062-V1?language=2"
   },
@@ -4745,7 +4745,7 @@
   },
   "OP17-118": {
     "idProduct": 904145,
-    "trend_eur": 9,
+    "trend_eur": 8,
     "low_eur": 12,
     "avg_eur": 23.82,
     "foil_trend_eur": 0,
@@ -4761,7 +4761,7 @@
   },
   "EB04-007": {
     "idProduct": 870579,
-    "trend_eur": 12,
+    "trend_eur": 11.99,
     "low_eur": 12.98,
     "avg_eur": 12.54,
     "foil_trend_eur": 0,
@@ -4793,7 +4793,7 @@
   },
   "OP16-098": {
     "idProduct": 890492,
-    "trend_eur": 1.5,
+    "trend_eur": 1.9,
     "low_eur": 0.93,
     "avg_eur": 194.86,
     "foil_trend_eur": 0,
@@ -5281,7 +5281,7 @@
   },
   "OP16-056": {
     "idProduct": 890438,
-    "trend_eur": 6.5,
+    "trend_eur": 6.49,
     "low_eur": 4,
     "avg_eur": 4.23,
     "foil_trend_eur": 0,
@@ -5777,7 +5777,7 @@
   },
   "OP16-119": {
     "idProduct": 890517,
-    "trend_eur": 23,
+    "trend_eur": 25,
     "low_eur": 23,
     "avg_eur": 26.74,
     "foil_trend_eur": 0,
@@ -5801,7 +5801,7 @@
   },
   "OP11-067": {
     "idProduct": 817433,
-    "trend_eur": 2.99,
+    "trend_eur": 2,
     "low_eur": 3.5,
     "avg_eur": 72.19,
     "foil_trend_eur": 0,
@@ -6673,7 +6673,7 @@
   },
   "OP15-078": {
     "idProduct": 875085,
-    "trend_eur": 15,
+    "trend_eur": 17,
     "low_eur": 17.9,
     "avg_eur": 18.23,
     "foil_trend_eur": 0,
@@ -6753,7 +6753,7 @@
   },
   "OP15-088": {
     "idProduct": 875097,
-    "trend_eur": 2.5,
+    "trend_eur": 2.7,
     "low_eur": 4,
     "avg_eur": 5.37,
     "foil_trend_eur": 0,
@@ -6953,7 +6953,7 @@
   },
   "OP15-113": {
     "idProduct": 875126,
-    "trend_eur": 3,
+    "trend_eur": 3.5,
     "low_eur": 2.85,
     "avg_eur": 3.51,
     "foil_trend_eur": 0,
@@ -7113,9 +7113,9 @@
   },
   "EB04-018": {
     "idProduct": 865235,
-    "trend_eur": 7.8,
+    "trend_eur": 6.2,
     "low_eur": 0.05,
-    "avg_eur": 7.8,
+    "avg_eur": 6.2,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/The-Azure-Seas-Seven/Megalo-EB04-018-V1?language=2"
   },
@@ -7225,7 +7225,7 @@
   },
   "EB04-032": {
     "idProduct": 865323,
-    "trend_eur": 2.98,
+    "trend_eur": 2.7,
     "low_eur": 2.99,
     "avg_eur": 3.02,
     "foil_trend_eur": 0,
@@ -7545,7 +7545,7 @@
   },
   "OP14-031": {
     "idProduct": 861800,
-    "trend_eur": 4.94,
+    "trend_eur": 4,
     "low_eur": 2,
     "avg_eur": 2.36,
     "foil_trend_eur": 0,
@@ -8057,7 +8057,7 @@
   },
   "OP14-096": {
     "idProduct": 861916,
-    "trend_eur": 5.5,
+    "trend_eur": 6,
     "low_eur": 6,
     "avg_eur": 6.58,
     "foil_trend_eur": 0,
@@ -8121,7 +8121,7 @@
   },
   "OP14-104": {
     "idProduct": 861926,
-    "trend_eur": 7,
+    "trend_eur": 6,
     "low_eur": 3.99,
     "avg_eur": 5.28,
     "foil_trend_eur": 0,
@@ -9201,7 +9201,7 @@
   },
   "OP13-118": {
     "idProduct": 845671,
-    "trend_eur": 9,
+    "trend_eur": 9.95,
     "low_eur": 9,
     "avg_eur": 13.69,
     "foil_trend_eur": 0,
@@ -9217,7 +9217,7 @@
   },
   "OP13-120": {
     "idProduct": 845681,
-    "trend_eur": 1.5,
+    "trend_eur": 3,
     "low_eur": 2.7,
     "avg_eur": 5.57,
     "foil_trend_eur": 0,
@@ -9369,7 +9369,7 @@
   },
   "OP12-015": {
     "idProduct": 830241,
-    "trend_eur": 3.95,
+    "trend_eur": 3.9,
     "low_eur": 4.98,
     "avg_eur": 5.71,
     "foil_trend_eur": 0,
@@ -10177,7 +10177,7 @@
   },
   "OP12-119": {
     "idProduct": 830367,
-    "trend_eur": 8,
+    "trend_eur": 7.99,
     "low_eur": 6.99,
     "avg_eur": 9.93,
     "foil_trend_eur": 0,
@@ -11153,7 +11153,7 @@
   },
   "OP11-118": {
     "idProduct": 817494,
-    "trend_eur": 1.93,
+    "trend_eur": 1.9,
     "low_eur": 2,
     "avg_eur": 1.74,
     "foil_trend_eur": 0,
@@ -19633,9 +19633,9 @@
   },
   "ST27-003": {
     "idProduct": 829169,
-    "trend_eur": 1.5,
+    "trend_eur": 2.5,
     "low_eur": 0.94,
-    "avg_eur": 1.5,
+    "avg_eur": 2.5,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/fr/OnePiece/Products/Singles/Starter-Deck-Black-MarshallDTeach/Kuzan-ST27-003?language=2"
   },
@@ -19745,7 +19745,7 @@
   },
   "ST24-004": {
     "idProduct": 829125,
-    "trend_eur": 2.49,
+    "trend_eur": 2,
     "low_eur": 2.49,
     "avg_eur": 3.74,
     "foil_trend_eur": 0,
@@ -20681,7 +20681,7 @@
   },
   "ST09-001": {
     "idProduct": 727587,
-    "trend_eur": 3,
+    "trend_eur": 2,
     "low_eur": 1.8,
     "avg_eur": 3.48,
     "foil_trend_eur": 0,
@@ -21721,9 +21721,9 @@
   },
   "P-006": {
     "idProduct": 691237,
-    "trend_eur": 99,
+    "trend_eur": 95,
     "low_eur": 115,
-    "avg_eur": 99,
+    "avg_eur": 95,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-006"
   },
@@ -21945,9 +21945,9 @@
   },
   "P-037": {
     "idProduct": 719925,
-    "trend_eur": 4.5,
+    "trend_eur": 6,
     "low_eur": 7.89,
-    "avg_eur": 4.5,
+    "avg_eur": 6,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-037"
   },
@@ -22153,9 +22153,9 @@
   },
   "P-100": {
     "idProduct": 902498,
-    "trend_eur": 3,
+    "trend_eur": 2,
     "low_eur": 3,
-    "avg_eur": 3,
+    "avg_eur": 2,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-100"
   },
@@ -22193,9 +22193,9 @@
   },
   "P-110": {
     "idProduct": 847921,
-    "trend_eur": 3.1,
+    "trend_eur": 3,
     "low_eur": 3.79,
-    "avg_eur": 3.1,
+    "avg_eur": 3,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-110"
   },
@@ -22329,9 +22329,9 @@
   },
   "P-080": {
     "idProduct": 895479,
-    "trend_eur": 26.49,
+    "trend_eur": 25,
     "low_eur": 20,
-    "avg_eur": 26.49,
+    "avg_eur": 25,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-080"
   },
@@ -22361,17 +22361,17 @@
   },
   "P-095": {
     "idProduct": 845732,
-    "trend_eur": 6,
+    "trend_eur": 8,
     "low_eur": 2.82,
-    "avg_eur": 6,
+    "avg_eur": 8,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-095"
   },
   "P-108": {
     "idProduct": 854588,
-    "trend_eur": 5,
+    "trend_eur": 5.5,
     "low_eur": 5.79,
-    "avg_eur": 5,
+    "avg_eur": 5.5,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-108"
   },
@@ -22537,9 +22537,9 @@
   },
   "P-153": {
     "idProduct": 901260,
-    "trend_eur": 3.4,
+    "trend_eur": 3.5,
     "low_eur": 5.97,
-    "avg_eur": 3.4,
+    "avg_eur": 3.5,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-153"
   },
@@ -24609,9 +24609,9 @@
   },
   "P-150": {
     "idProduct": 896332,
-    "trend_eur": 2.5,
+    "trend_eur": 2,
     "low_eur": 2.5,
-    "avg_eur": 2.5,
+    "avg_eur": 2,
     "foil_trend_eur": 0,
     "url": "https://www.cardmarket.com/en/OnePiece/Products/Search?searchString=P-150"
   },

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T11:20:37.381Z",
-  "date_label": "dimanche 8 novembre",
+  "updated_at": "2026-11-09T12:57:40.428Z",
+  "date_label": "lundi 9 novembre",
   "all": {
     "hausses": [
       {
@@ -147,21 +147,6 @@
     ],
     "baisses": [
       {
-        "id": "fr-op11-OP05-119-8-150",
-        "card_code": "OP05-119",
-        "name": "Monkey D. Luffy",
-        "variant_label": "Special Card (SP) ⭐",
-        "subtitle": "OP05-119 · Special Card (SP) ⭐",
-        "rarity": "SEC",
-        "language": "fr",
-        "flag_url": "/media/flag-fr.png",
-        "current_price": 2500,
-        "previous_price": 6752,
-        "diff_eur": -4252,
-        "diff_percent": -63,
-        "image_url": "https://scalpeurs.com/img/cards-fr/op11-p150.webp"
-      },
-      {
         "id": "fr-op17-OP17-118-3-156",
         "card_code": "OP17-118",
         "name": "Rocks D. Xebec",
@@ -177,6 +162,21 @@
         "image_url": "https://scalpeurs.com/img/cards-fr/op17-p156.webp"
       },
       {
+        "id": "fr-op11-OP05-119-8-150",
+        "card_code": "OP05-119",
+        "name": "Monkey D. Luffy",
+        "variant_label": "Special Card (SP) ⭐",
+        "subtitle": "OP05-119 · Special Card (SP) ⭐",
+        "rarity": "SEC",
+        "language": "fr",
+        "flag_url": "/media/flag-fr.png",
+        "current_price": 3500,
+        "previous_price": 6752,
+        "diff_eur": -3252,
+        "diff_percent": -48.2,
+        "image_url": "https://scalpeurs.com/img/cards-fr/op11-p150.webp"
+      },
+      {
         "id": "fr-op13-OP13-118-3-157",
         "card_code": "OP13-118",
         "name": "Monkey D. Luffy",
@@ -185,10 +185,10 @@
         "rarity": "SEC",
         "language": "fr",
         "flag_url": "/media/flag-fr.png",
-        "current_price": 1049,
+        "current_price": 999,
         "previous_price": 3521,
-        "diff_eur": -2472,
-        "diff_percent": -70.2,
+        "diff_eur": -2522,
+        "diff_percent": -71.6,
         "image_url": "https://scalpeurs.com/img/cards-fr/op13-p157.webp"
       }
     ]
@@ -273,19 +273,19 @@
         "image_url": "https://scalpeurs.com/img/cards-en/op05-p146.webp"
       },
       {
-        "id": "en-op13-OP13-119-4-161",
-        "card_code": "OP13-119",
-        "name": "Portgas.D.Ace",
-        "variant_label": "Version 4",
-        "subtitle": "OP13-119 · Version 4",
+        "id": "en-op17-OP17-118-3-156",
+        "card_code": "OP17-118",
+        "name": "Rocks.D.Xebec",
+        "variant_label": "Rocks D. Xebec (Alternate Art)",
+        "subtitle": "OP17-118 · Rocks D. Xebec (Alternate Art)",
         "rarity": "SEC",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 4150,
-        "previous_price": 6171,
-        "diff_eur": -2021,
-        "diff_percent": -32.8,
-        "image_url": "https://scalpeurs.com/img/cards-en/op13-p161.webp"
+        "current_price": 5000,
+        "previous_price": 7430,
+        "diff_eur": -2430,
+        "diff_percent": -32.7,
+        "image_url": "https://scalpeurs.com/img/cards-en/op17-p156.webp"
       }
     ]
   },
@@ -322,19 +322,19 @@
         "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p093.webp"
       },
       {
-        "id": "jp-op16-OP16-073-3-94",
-        "card_code": "OP16-073",
-        "name": "Borsalino",
+        "id": "jp-op16-OP16-063-3-80",
+        "card_code": "OP16-063",
+        "name": "Kuzan",
         "variant_label": "Manga Rare 👑",
-        "subtitle": "OP16-073 · Manga Rare 👑",
+        "subtitle": "OP16-063 · Manga Rare 👑",
         "rarity": "R",
         "language": "jp",
         "flag_url": "/media/flag-jp.png",
-        "current_price": 1200,
-        "previous_price": 822,
-        "diff_eur": 378,
-        "diff_percent": 46,
-        "image_url": "https://scalpeurs.com/img/cards-jp/op16-p094.webp"
+        "current_price": 1199,
+        "previous_price": 762,
+        "diff_eur": 437,
+        "diff_percent": 57.4,
+        "image_url": "https://scalpeurs.com/img/cards-jp/op16-p080.webp"
       }
     ],
     "baisses": [
