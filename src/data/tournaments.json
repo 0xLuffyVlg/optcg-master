@@ -1,5 +1,215 @@
 [
   {
+    "id": "op18-eng-6-mwaq46nv-71ud",
+    "tournament_name": "EGB",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "Belgium",
+    "host": "MagicFranco(17)",
+    "player_name": "Doffy",
+    "deck_name": "YR Bonney",
+    "deck_type": "EB04-001",
+    "placement_str": "1st (4-0)",
+    "placement": 1,
+    "score": {
+      "wins": 4,
+      "losses": 0,
+      "matches": 4,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Yellow",
+    "deck_composition_raw": "1nEB04-001a4nOP07-099a4nOP07-104a4nOP17-109a4nOP12-112a4nEB04-058a4nOP16-108a4nEB04-061a4nEB04-002a4nEB04-007a4nOP09-004a3nOP06-115a4nST29-015a3nEB01-059",
+    "tournament_results": [
+      {
+        "player_name": "Doffy",
+        "deck_type": "EB04-001",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=EB04-001:1,OP07-099:4,OP07-104:4,OP17-109:4,OP12-112:4,EB04-058:4,OP16-108:4,EB04-061:4,EB04-002:4,EB04-007:4,OP09-004:4,OP06-115:3,ST29-015:4,EB01-059:3&type=optcg"
+        ],
+        "country": "Belgium",
+        "host": "MagicFranco(17)",
+        "placement_str": "1st (4-0)",
+        "score": {
+          "wins": 4,
+          "losses": 0,
+          "matches": 4,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-7-mwaq46nv-ijnr",
+    "tournament_name": "EGB",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "USA",
+    "host": "Card House",
+    "player_name": "Ray Bauzon",
+    "deck_name": "BY Nami",
+    "deck_type": "OP11-041",
+    "placement_str": "1st (4-0)",
+    "placement": 1,
+    "score": {
+      "wins": 4,
+      "losses": 0,
+      "matches": 4,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Yellow",
+    "deck_composition_raw": "1nOP11-041a4nOP14-102a2nOP11-106a4nEB05-057a2nOP06-104a2nOP12-112a3nOP14-110a4nOP14-111a2nOP15-113a4nEB03-053a4nEB04-058a4nEB03-055a4nOP14-104a4nOP16-119a4nOP17-046a1nOP13-042a2nOP16-116",
+    "tournament_results": [
+      {
+        "player_name": "Ray Bauzon",
+        "deck_type": "OP11-041",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP11-041:1,OP14-102:4,OP11-106:2,EB05-057:4,OP06-104:2,OP12-112:2,OP14-110:3,OP14-111:4,OP15-113:2,EB03-053:4,EB04-058:4,EB03-055:4,OP14-104:4,OP16-119:4,OP17-046:4,OP13-042:1,OP16-116:2&type=optcg"
+        ],
+        "country": "USA",
+        "host": "Card House",
+        "placement_str": "1st (4-0)",
+        "score": {
+          "wins": 4,
+          "losses": 0,
+          "matches": 4,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-8-mwaq46nv-9fx5",
+    "tournament_name": "HeroinesCup",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "NA",
+    "host": "LGS",
+    "player_name": "AyOPacMan",
+    "deck_name": "Sugar",
+    "deck_type": "OP10-003",
+    "placement_str": "1st (4-0)",
+    "placement": 1,
+    "score": {
+      "wins": 4,
+      "losses": 0,
+      "matches": 4,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Purple",
+    "deck_composition_raw": "1nOP10-003a2nOP15-069a2nOP10-062a2nOP12-063a4nOP10-072a3nOP10-071a3nOP17-065a4nEB05-004a2nEB04-007a3nOP09-004a2nOP13-076a4nOP15-078a4nEB05-040a3nOP10-078a4nOP07-076a4nOP14-078a4nOP10-018",
+    "tournament_results": [
+      {
+        "player_name": "AyOPacMan",
+        "deck_type": "OP10-003",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP10-003:1,OP15-069:2,OP10-062:2,OP12-063:2,OP10-072:4,OP10-071:3,OP17-065:3,EB05-004:4,EB04-007:2,OP09-004:3,OP13-076:2,OP15-078:4,EB05-040:4,OP10-078:3,OP07-076:4,OP14-078:4,OP10-018:4&type=optcg"
+        ],
+        "country": "NA",
+        "host": "LGS",
+        "placement_str": "1st (4-0)",
+        "score": {
+          "wins": 4,
+          "losses": 0,
+          "matches": 4,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-9-mwaq46nv-ajat",
+    "tournament_name": "Regional",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "OCE",
+    "host": "LetsPlayGames",
+    "player_name": "Sirisx",
+    "deck_name": "RG Luffy",
+    "deck_type": "OP13-001",
+    "placement_str": "1st Place",
+    "placement": 1,
+    "score": {
+      "wins": 5,
+      "losses": 0,
+      "matches": 5,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Red",
+    "deck_composition_raw": "1nOP13-001a4nOP13-016a2nST30-004a4nEB05-001a4nOP07-022a3nST32-001a4nOP06-033a4nEB01-013a4nOP14-031a4nOP12-023a4nST32-002a4nOP13-031a3nOP17-022a2nOP01-055a3nOP14-037a1nOP10-040",
+    "tournament_results": [
+      {
+        "player_name": "Sirisx",
+        "deck_type": "OP13-001",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP13-001:1,OP13-016:4,ST30-004:2,EB05-001:4,OP07-022:4,ST32-001:3,OP06-033:4,EB01-013:4,OP14-031:4,OP12-023:4,ST32-002:4,OP13-031:4,OP17-022:3,OP01-055:2,OP14-037:3,OP10-040:1&type=optcg"
+        ],
+        "country": "OCE",
+        "host": "LetsPlayGames",
+        "placement_str": "1st Place",
+        "score": {
+          "wins": 5,
+          "losses": 0,
+          "matches": 5,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-20-mwaq46nv-bfzu",
+    "tournament_name": "Regional",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "NA",
+    "host": "PomonaRegional(1500+)",
+    "player_name": "KStryder_TCG",
+    "deck_name": "Blue Rocks",
+    "deck_type": "OP17-039",
+    "placement_str": "1st (15-1)",
+    "placement": 1,
+    "score": {
+      "wins": 15,
+      "losses": 1,
+      "matches": 16,
+      "winRate": 93.8
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Blue",
+    "deck_composition_raw": "1nOP17-039a2nOP08-051a2nOP17-050a4nOP17-045a4nOP17-052a4nOP17-054a2nEB05-028a4nOP17-042a4nOP17-046a4nOP17-049a4nOP17-040a4nOP17-048a4nOP17-118a4nOP17-055a4nOP17-056",
+    "tournament_results": [
+      {
+        "player_name": "KStryder_TCG",
+        "deck_type": "OP17-039",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP17-039:1,OP08-051:2,OP17-050:2,OP17-045:4,OP17-052:4,OP17-054:4,EB05-028:2,OP17-042:4,OP17-046:4,OP17-049:4,OP17-040:4,OP17-048:4,OP17-118:4,OP17-055:4,OP17-056:4&type=optcg"
+        ],
+        "country": "NA",
+        "host": "PomonaRegional(1500+)",
+        "placement_str": "1st (15-1)",
+        "score": {
+          "wins": 15,
+          "losses": 1,
+          "matches": 16,
+          "winRate": 93.8
+        }
+      }
+    ]
+  },
+  {
     "id": "op18-jp-1-mw9bk5it-3u29",
     "tournament_name": "AreaQualifiers",
     "source_name": "Japan EB05/OP18",
@@ -462,6 +672,90 @@
     ]
   },
   {
+    "id": "op18-eng-10-mwaq46nv-oerb",
+    "tournament_name": "Regional",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "OCE",
+    "host": "LetsPlayGames",
+    "player_name": "Sirius",
+    "deck_name": "RG Luffy",
+    "deck_type": "OP13-001",
+    "placement_str": "2nd Place",
+    "placement": 2,
+    "score": {
+      "wins": 4,
+      "losses": 1,
+      "matches": 5,
+      "winRate": 80
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Red",
+    "deck_composition_raw": "1nOP13-001a4nOP13-016a2nST30-004a4nEB05-001a4nOP07-022a3nST32-001a4nOP06-033a4nEB01-013a4nOP14-031a4nOP12-023a4nST32-002a3nOP13-031a3nOP17-022a1nOP10-018a2nOP01-055a1nOP14-037a1nOP05-040a2nOP10-040",
+    "tournament_results": [
+      {
+        "player_name": "Sirius",
+        "deck_type": "OP13-001",
+        "placement": 2,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP13-001:1,OP13-016:4,ST30-004:2,EB05-001:4,OP07-022:4,ST32-001:3,OP06-033:4,EB01-013:4,OP14-031:4,OP12-023:4,ST32-002:4,OP13-031:3,OP17-022:3,OP10-018:1,OP01-055:2,OP14-037:1,OP05-040:1,OP10-040:2&type=optcg"
+        ],
+        "country": "OCE",
+        "host": "LetsPlayGames",
+        "placement_str": "2nd Place",
+        "score": {
+          "wins": 4,
+          "losses": 1,
+          "matches": 5,
+          "winRate": 80
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-21-mwaq46nv-o47f",
+    "tournament_name": "Regional",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "NA",
+    "host": "PomonaRegional",
+    "player_name": "Justin",
+    "deck_name": "Blue Rocks",
+    "deck_type": "OP17-039",
+    "placement_str": "2nd (13-3)",
+    "placement": 2,
+    "score": {
+      "wins": 13,
+      "losses": 3,
+      "matches": 16,
+      "winRate": 81.3
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Blue",
+    "deck_composition_raw": "1nOP17-039a3nOP08-051a2nOP17-050a4nOP17-045a4nOP17-052a4nOP17-054a1nEB05-028a1nOP17-042a3nOP17-044a4nOP17-046a4nOP17-049a4nOP17-040a4nOP17-048a4nOP17-118a4nOP17-055a4nOP17-056",
+    "tournament_results": [
+      {
+        "player_name": "Justin",
+        "deck_type": "OP17-039",
+        "placement": 2,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP17-039:1,OP08-051:3,OP17-050:2,OP17-045:4,OP17-052:4,OP17-054:4,EB05-028:1,OP17-042:1,OP17-044:3,OP17-046:4,OP17-049:4,OP17-040:4,OP17-048:4,OP17-118:4,OP17-055:4,OP17-056:4&type=optcg"
+        ],
+        "country": "NA",
+        "host": "PomonaRegional",
+        "placement_str": "2nd (13-3)",
+        "score": {
+          "wins": 13,
+          "losses": 3,
+          "matches": 16,
+          "winRate": 81.3
+        }
+      }
+    ]
+  },
+  {
     "id": "op18-jp-2-mw9bk5it-c20u",
     "tournament_name": "AreaQualifiers",
     "source_name": "Japan EB05/OP18",
@@ -546,6 +840,48 @@
     ]
   },
   {
+    "id": "op18-eng-12-mwaq46nv-7ai8",
+    "tournament_name": "Regional",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "OCE",
+    "host": "LetsPlayGames",
+    "player_name": "Currygravy3",
+    "deck_name": "RG Luffy",
+    "deck_type": "OP13-001",
+    "placement_str": "T4",
+    "placement": 4,
+    "score": {
+      "wins": 3,
+      "losses": 1,
+      "matches": 4,
+      "winRate": 75
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Red",
+    "deck_composition_raw": "1nOP13-001a4nOP13-016a4nST30-004a4nEB05-001a4nOP07-022a1nST32-001a4nOP06-033a1nOP06-036a4nEB01-013a4nOP14-031a4nOP12-023a4nST32-002a4nOP13-031a2nOP17-022a2nOP01-055a2nOP14-037a2nOP10-040",
+    "tournament_results": [
+      {
+        "player_name": "Currygravy3",
+        "deck_type": "OP13-001",
+        "placement": 4,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP13-001:1,OP13-016:4,ST30-004:4,EB05-001:4,OP07-022:4,ST32-001:1,OP06-033:4,OP06-036:1,EB01-013:4,OP14-031:4,OP12-023:4,ST32-002:4,OP13-031:4,OP17-022:2,OP01-055:2,OP14-037:2,OP10-040:2&type=optcg"
+        ],
+        "country": "OCE",
+        "host": "LetsPlayGames",
+        "placement_str": "T4",
+        "score": {
+          "wins": 3,
+          "losses": 1,
+          "matches": 4,
+          "winRate": 75
+        }
+      }
+    ]
+  },
+  {
     "id": "op18-jp-3-mw9bk5it-p1p1",
     "tournament_name": "AreaQualifiers",
     "source_name": "Japan EB05/OP18",
@@ -625,6 +961,468 @@
           "losses": 1,
           "matches": 4,
           "winRate": 75
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-2-mwaq46nv-b5yk",
+    "tournament_name": "EGB CS",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "Europe",
+    "host": "VictoryRoad",
+    "player_name": "SkepasG",
+    "deck_name": "RG Law",
+    "deck_type": "OP01-002",
+    "placement_str": "T32 (6-2)",
+    "placement": 8,
+    "score": {
+      "wins": 6,
+      "losses": 2,
+      "matches": 8,
+      "winRate": 75
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Red",
+    "deck_composition_raw": "1nOP01-002a4nOP14-013a4nST30-004a4nEB05-001a4nST32-001a4nOP06-033a4nST24-002a4nOP14-031a3nPRB02-006a3nST02-009a3nEB01-012a2nOP12-118a4nOP12-023a3nOP13-031a1nOP14-037a3nOP04-038",
+    "tournament_results": [
+      {
+        "player_name": "SkepasG",
+        "deck_type": "OP01-002",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP01-002:1,OP14-013:4,ST30-004:4,EB05-001:4,ST32-001:4,OP06-033:4,ST24-002:4,OP14-031:4,PRB02-006:3,ST02-009:3,EB01-012:3,OP12-118:2,OP12-023:4,OP13-031:3,OP14-037:1,OP04-038:3&type=optcg"
+        ],
+        "country": "Europe",
+        "host": "VictoryRoad",
+        "placement_str": "T32 (6-2)",
+        "score": {
+          "wins": 6,
+          "losses": 2,
+          "matches": 8,
+          "winRate": 75
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-3-mwaq46nv-mc7f",
+    "tournament_name": "EGB CS",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "Europe",
+    "host": "VictoryRoad",
+    "player_name": "Lestevej",
+    "deck_name": "Y Enel",
+    "deck_type": "OP05-098",
+    "placement_str": "T64 (6-2)",
+    "placement": 8,
+    "score": {
+      "wins": 6,
+      "losses": 2,
+      "matches": 8,
+      "winRate": 75
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Yellow",
+    "deck_composition_raw": "1nOP05-098a4nOP17-113a4nOP11-106a3nOP04-100a4nOP17-107a4nOP17-109a1nEB05-052a4nOP17-102a4nEB04-058a4nOP17-114a2nOP17-110a3nOP14-104a4nOP16-119a1nEB02-052a4nOP17-112a4nOP06-115",
+    "tournament_results": [
+      {
+        "player_name": "Lestevej",
+        "deck_type": "OP05-098",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP05-098:1,OP17-113:4,OP11-106:4,OP04-100:3,OP17-107:4,OP17-109:4,EB05-052:1,OP17-102:4,EB04-058:4,OP17-114:4,OP17-110:2,OP14-104:3,OP16-119:4,EB02-052:1,OP17-112:4,OP06-115:4&type=optcg"
+        ],
+        "country": "Europe",
+        "host": "VictoryRoad",
+        "placement_str": "T64 (6-2)",
+        "score": {
+          "wins": 6,
+          "losses": 2,
+          "matches": 8,
+          "winRate": 75
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-4-mwaq46nv-aair",
+    "tournament_name": "EGB CS",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "NA",
+    "host": "PomonaEGB",
+    "player_name": "howeirdTCG",
+    "deck_name": "Black Teach",
+    "deck_type": "OP09-081",
+    "placement_str": "3rd Place",
+    "placement": 8,
+    "score": {
+      "wins": 2,
+      "losses": 1,
+      "matches": 3,
+      "winRate": 66.7
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Black",
+    "deck_composition_raw": "1nOP09-081a4nOP09-089a3nOP09-095a4nOP11-083a4nOP09-090a4nOP09-086a4nOP09-083a1nOP09-084a4nOP10-082a2nST27-003a2nST27-005a4nOP09-093a2nST06-015a2nOP02-117a1nOP07-096a3nOP09-096a4nOP09-099a2nOP09-098",
+    "tournament_results": [
+      {
+        "player_name": "howeirdTCG",
+        "deck_type": "OP09-081",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP09-081:1,OP09-089:4,OP09-095:3,OP11-083:4,OP09-090:4,OP09-086:4,OP09-083:4,OP09-084:1,OP10-082:4,ST27-003:2,ST27-005:2,OP09-093:4,ST06-015:2,OP02-117:2,OP07-096:1,OP09-096:3,OP09-099:4,OP09-098:2&type=optcg"
+        ],
+        "country": "NA",
+        "host": "PomonaEGB",
+        "placement_str": "3rd Place",
+        "score": {
+          "wins": 2,
+          "losses": 1,
+          "matches": 3,
+          "winRate": 66.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-5-mwaq46nv-spjk",
+    "tournament_name": "EGB CS",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "NA",
+    "host": "Pomona EGB",
+    "player_name": "David Hu",
+    "deck_name": "Linlin",
+    "deck_type": "OP17-099",
+    "placement_str": "19th Place",
+    "placement": 8,
+    "score": {
+      "wins": 2,
+      "losses": 1,
+      "matches": 3,
+      "winRate": 66.7
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Yellow",
+    "deck_composition_raw": "1nOP17-099a4nOP17-113a3nOP11-106a2nOP04-100a4nOP17-104a3nOP17-107a4nOP17-109a2nOP15-113a4nOP17-102a2nEB04-058a4nOP17-103a4nOP17-114a4nOP14-104a2nOP03-114a4nOP17-112a2nEB05-059a2nEB04-059",
+    "tournament_results": [
+      {
+        "player_name": "David Hu",
+        "deck_type": "OP17-099",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP17-099:1,OP17-113:4,OP11-106:3,OP04-100:2,OP17-104:4,OP17-107:3,OP17-109:4,OP15-113:2,OP17-102:4,EB04-058:2,OP17-103:4,OP17-114:4,OP14-104:4,OP03-114:2,OP17-112:4,EB05-059:2,EB04-059:2&type=optcg"
+        ],
+        "country": "NA",
+        "host": "Pomona EGB",
+        "placement_str": "19th Place",
+        "score": {
+          "wins": 2,
+          "losses": 1,
+          "matches": 3,
+          "winRate": 66.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-14-mwaq46nv-ltk6",
+    "tournament_name": "Regional",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "OCE",
+    "host": "LetsPlayGames",
+    "player_name": "Jeev",
+    "deck_name": "RG Luffy",
+    "deck_type": "OP13-001",
+    "placement_str": "T8",
+    "placement": 8,
+    "score": {
+      "wins": 3,
+      "losses": 2,
+      "matches": 5,
+      "winRate": 60
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Red",
+    "deck_composition_raw": "1nOP13-001a4nOP13-016a4nST30-004a4nEB05-001a4nOP07-022a2nST32-001a4nOP06-033a4nEB01-013a4nOP14-031a4nOP12-023a4nST32-002a4nOP13-031a3nOP17-022a2nOP01-055a2nOP14-037a1nOP10-040",
+    "tournament_results": [
+      {
+        "player_name": "Jeev",
+        "deck_type": "OP13-001",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP13-001:1,OP13-016:4,ST30-004:4,EB05-001:4,OP07-022:4,ST32-001:2,OP06-033:4,EB01-013:4,OP14-031:4,OP12-023:4,ST32-002:4,OP13-031:4,OP17-022:3,OP01-055:2,OP14-037:2,OP10-040:1&type=optcg"
+        ],
+        "country": "OCE",
+        "host": "LetsPlayGames",
+        "placement_str": "T8",
+        "score": {
+          "wins": 3,
+          "losses": 2,
+          "matches": 5,
+          "winRate": 60
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-15-mwaq46nv-fijh",
+    "tournament_name": "Regional",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "OCE",
+    "host": "LetsPlayGames",
+    "player_name": "Laya",
+    "deck_name": "RG Luffy",
+    "deck_type": "OP13-001",
+    "placement_str": "T8",
+    "placement": 8,
+    "score": {
+      "wins": 3,
+      "losses": 2,
+      "matches": 5,
+      "winRate": 60
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Red",
+    "deck_composition_raw": "1nOP13-001a4nOP13-016a4nST30-004a1nPRB02-003a4nEB05-001a3nOP07-022a4nOP06-033a4nEB01-013a4nOP14-031a4nOP12-023a4nST32-002a4nOP13-031a4nOP17-022a2nOP12-018a1nOP01-055a2nOP14-037a1nOP08-036",
+    "tournament_results": [
+      {
+        "player_name": "Laya",
+        "deck_type": "OP13-001",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP13-001:1,OP13-016:4,ST30-004:4,PRB02-003:1,EB05-001:4,OP07-022:3,OP06-033:4,EB01-013:4,OP14-031:4,OP12-023:4,ST32-002:4,OP13-031:4,OP17-022:4,OP12-018:2,OP01-055:1,OP14-037:2,OP08-036:1&type=optcg"
+        ],
+        "country": "OCE",
+        "host": "LetsPlayGames",
+        "placement_str": "T8",
+        "score": {
+          "wins": 3,
+          "losses": 2,
+          "matches": 5,
+          "winRate": 60
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-17-mwaq46nv-j0wf",
+    "tournament_name": "Regional",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "Oceania",
+    "host": "LetsPlayGames",
+    "player_name": "NA",
+    "deck_name": "Purple Kaido",
+    "deck_type": "OP17-058",
+    "placement_str": "T32 (8-2)",
+    "placement": 8,
+    "score": {
+      "wins": 8,
+      "losses": 2,
+      "matches": 10,
+      "winRate": 80
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Purple",
+    "deck_composition_raw": "1nOP17-058a4nEB04-032a4nEB05-037a2nEB05-034a4nOP17-073a4nOP17-074a4nEB04-031a2nEB04-030a2nOP17-061a2nOP17-065a4nST34-004a4nOP17-062a2nOP17-063a4nOP15-078a4nOP07-077a4nOP07-076",
+    "tournament_results": [
+      {
+        "player_name": "NA",
+        "deck_type": "OP17-058",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP17-058:1,EB04-032:4,EB05-037:4,EB05-034:2,OP17-073:4,OP17-074:4,EB04-031:4,EB04-030:2,OP17-061:2,OP17-065:2,ST34-004:4,OP17-062:4,OP17-063:2,OP15-078:4,OP07-077:4,OP07-076:4&type=optcg"
+        ],
+        "country": "Oceania",
+        "host": "LetsPlayGames",
+        "placement_str": "T32 (8-2)",
+        "score": {
+          "wins": 8,
+          "losses": 2,
+          "matches": 10,
+          "winRate": 80
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-18-mwaq46nv-zozy",
+    "tournament_name": "Regional",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "Oceania",
+    "host": "LetsPlayGames",
+    "player_name": "Themi",
+    "deck_name": "Purple Kaido",
+    "deck_type": "OP17-058",
+    "placement_str": "T32 (8-2)",
+    "placement": 8,
+    "score": {
+      "wins": 8,
+      "losses": 2,
+      "matches": 10,
+      "winRate": 80
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Purple",
+    "deck_composition_raw": "1nOP17-058a4nEB04-032a4nEB05-037a4nOP17-073a4nOP17-074a4nEB04-031a1nOP17-060a4nOP17-061a3nOP17-065a1nOP17-069a3nST34-004a3nOP17-062a2nOP17-063a4nOP15-078a2nOP17-076a4nOP07-077a3nOP07-076",
+    "tournament_results": [
+      {
+        "player_name": "Themi",
+        "deck_type": "OP17-058",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP17-058:1,EB04-032:4,EB05-037:4,OP17-073:4,OP17-074:4,EB04-031:4,OP17-060:1,OP17-061:4,OP17-065:3,OP17-069:1,ST34-004:3,OP17-062:3,OP17-063:2,OP15-078:4,OP17-076:2,OP07-077:4,OP07-076:3&type=optcg"
+        ],
+        "country": "Oceania",
+        "host": "LetsPlayGames",
+        "placement_str": "T32 (8-2)",
+        "score": {
+          "wins": 8,
+          "losses": 2,
+          "matches": 10,
+          "winRate": 80
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-19-mwaq46nv-0kw4",
+    "tournament_name": "Regional",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "OCE",
+    "host": "LetsPlayGames",
+    "player_name": "KeyLlua",
+    "deck_name": "Blue Rocks",
+    "deck_type": "OP17-039",
+    "placement_str": "T32",
+    "placement": 8,
+    "score": {
+      "wins": 2,
+      "losses": 1,
+      "matches": 3,
+      "winRate": 66.7
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Blue",
+    "deck_composition_raw": "1nOP17-039a4nOP09-056a4nST25-001a4nST25-002a4nST25-005a2nEB05-028a3nOP16-056a3nOP09-048a2nOP12-049a2nOP16-051a2nP-084a4nST25-003a4nEB05-021a4nOP09-051a4nOP09-057a2nOP09-060a2nOP06-058",
+    "tournament_results": [
+      {
+        "player_name": "KeyLlua",
+        "deck_type": "OP17-039",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP17-039:1,OP09-056:4,ST25-001:4,ST25-002:4,ST25-005:4,EB05-028:2,OP16-056:3,OP09-048:3,OP12-049:2,OP16-051:2,P-084:2,ST25-003:4,EB05-021:4,OP09-051:4,OP09-057:4,OP09-060:2,OP06-058:2&type=optcg"
+        ],
+        "country": "OCE",
+        "host": "LetsPlayGames",
+        "placement_str": "T32",
+        "score": {
+          "wins": 2,
+          "losses": 1,
+          "matches": 3,
+          "winRate": 66.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-23-mwaq46nv-7am3",
+    "tournament_name": "Regional",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "NA",
+    "host": "PomonaRegional",
+    "player_name": "Dangief",
+    "deck_name": "Black Teach",
+    "deck_type": "OP09-081",
+    "placement_str": "T32 (9-3)",
+    "placement": 8,
+    "score": {
+      "wins": 9,
+      "losses": 3,
+      "matches": 12,
+      "winRate": 75
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Black",
+    "deck_composition_raw": "1nOP09-081a4nOP09-089a4nOP09-095a4nOP11-083a4nOP09-090a4nOP09-086a1nPRB02-015a4nOP09-083a4nOP10-082a2nST27-005a3nOP09-093a4nOP07-096a4nOP09-096a4nOP09-099a4nOP09-098",
+    "tournament_results": [
+      {
+        "player_name": "Dangief",
+        "deck_type": "OP09-081",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP09-081:1,OP09-089:4,OP09-095:4,OP11-083:4,OP09-090:4,OP09-086:4,PRB02-015:1,OP09-083:4,OP10-082:4,ST27-005:2,OP09-093:3,OP07-096:4,OP09-096:4,OP09-099:4,OP09-098:4&type=optcg"
+        ],
+        "country": "NA",
+        "host": "PomonaRegional",
+        "placement_str": "T32 (9-3)",
+        "score": {
+          "wins": 9,
+          "losses": 3,
+          "matches": 12,
+          "winRate": 75
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-24-mwaq46nv-jimo",
+    "tournament_name": "Regional",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "NA",
+    "host": "PomonaRegional(1500+)",
+    "player_name": "DominicVain",
+    "deck_name": "Blue Rocks",
+    "deck_type": "OP17-039",
+    "placement_str": "T32 (10-2)",
+    "placement": 8,
+    "score": {
+      "wins": 10,
+      "losses": 2,
+      "matches": 12,
+      "winRate": 83.3
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Blue",
+    "deck_composition_raw": "1nOP17-039a4nOP08-051a4nOP17-045a3nOP17-052a4nOP17-054a1nEB05-028a3nOP17-042a3nOP17-044a4nOP17-046a4nOP17-049a4nOP17-040a4nOP17-048a4nOP17-118a4nOP17-055a4nOP17-056",
+    "tournament_results": [
+      {
+        "player_name": "DominicVain",
+        "deck_type": "OP17-039",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP17-039:1,OP08-051:4,OP17-045:4,OP17-052:3,OP17-054:4,EB05-028:1,OP17-042:3,OP17-044:3,OP17-046:4,OP17-049:4,OP17-040:4,OP17-048:4,OP17-118:4,OP17-055:4,OP17-056:4&type=optcg"
+        ],
+        "country": "NA",
+        "host": "PomonaRegional(1500+)",
+        "placement_str": "T32 (10-2)",
+        "score": {
+          "wins": 10,
+          "losses": 2,
+          "matches": 12,
+          "winRate": 83.3
         }
       }
     ]
@@ -2478,6 +3276,48 @@
     ]
   },
   {
+    "id": "op18-eng-31-mwaq46nv-qtg4",
+    "tournament_name": "Regional",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/7/2026",
+    "country": "Europe",
+    "host": "PortoRegionals",
+    "player_name": "borsaistrash",
+    "deck_name": "Black Teach",
+    "deck_type": "OP09-081",
+    "placement_str": "2nd (11-2)",
+    "placement": 2,
+    "score": {
+      "wins": 11,
+      "losses": 2,
+      "matches": 13,
+      "winRate": 84.6
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Black",
+    "deck_composition_raw": "1nOP09-081a4nOP09-089a4nOP09-095a4nOP11-083a4nOP09-090a3nOP09-086a1nOP10-086a2nEB05-046a4nOP09-083a1nOP09-084a4nOP10-082a2nST27-003a1nST27-005a3nOP09-093a3nOP07-096a3nOP09-096a4nOP09-099a3nOP09-098",
+    "tournament_results": [
+      {
+        "player_name": "borsaistrash",
+        "deck_type": "OP09-081",
+        "placement": 2,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP09-081:1,OP09-089:4,OP09-095:4,OP11-083:4,OP09-090:4,OP09-086:3,OP10-086:1,EB05-046:2,OP09-083:4,OP09-084:1,OP10-082:4,ST27-003:2,ST27-005:1,OP09-093:3,OP07-096:3,OP09-096:3,OP09-099:4,OP09-098:3&type=optcg"
+        ],
+        "country": "Europe",
+        "host": "PortoRegionals",
+        "placement_str": "2nd (11-2)",
+        "score": {
+          "wins": 11,
+          "losses": 2,
+          "matches": 13,
+          "winRate": 84.6
+        }
+      }
+    ]
+  },
+  {
     "id": "op18-jp-4-mw7ry9a8-etws",
     "tournament_name": "5v5",
     "source_name": "Japan EB05/OP18",
@@ -2557,6 +3397,132 @@
           "losses": 1,
           "matches": 8,
           "winRate": 87.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-34-mwaq46nv-21mb",
+    "tournament_name": "EGB CS",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/7/2026",
+    "country": "OCE",
+    "host": "LetsPlayGames",
+    "player_name": "Kam Stephen",
+    "deck_name": "RG Luffy",
+    "deck_type": "OP13-001",
+    "placement_str": "T16 (7-1)",
+    "placement": 8,
+    "score": {
+      "wins": 7,
+      "losses": 1,
+      "matches": 8,
+      "winRate": 87.5
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Red",
+    "deck_composition_raw": "1nOP13-001a4nOP13-016a4nST30-004a4nEB05-001a4nOP07-022a1nST32-001a4nOP06-033a4nEB01-013a4nOP14-031a4nOP12-023a4nST32-002a1nOP13-029a4nOP13-031a3nOP17-022a2nOP01-055a3nOP04-038",
+    "tournament_results": [
+      {
+        "player_name": "Kam Stephen",
+        "deck_type": "OP13-001",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP13-001:1,OP13-016:4,ST30-004:4,EB05-001:4,OP07-022:4,ST32-001:1,OP06-033:4,EB01-013:4,OP14-031:4,OP12-023:4,ST32-002:4,OP13-029:1,OP13-031:4,OP17-022:3,OP01-055:2,OP04-038:3&type=optcg"
+        ],
+        "country": "OCE",
+        "host": "LetsPlayGames",
+        "placement_str": "T16 (7-1)",
+        "score": {
+          "wins": 7,
+          "losses": 1,
+          "matches": 8,
+          "winRate": 87.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-35-mwaq46nv-aeh9",
+    "tournament_name": "EGB CS",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/7/2026",
+    "country": "OCE",
+    "host": "LetsPlayGames",
+    "player_name": "Zhao",
+    "deck_name": "RG Luffy",
+    "deck_type": "OP13-001",
+    "placement_str": "T16 (7-1)",
+    "placement": 8,
+    "score": {
+      "wins": 7,
+      "losses": 1,
+      "matches": 8,
+      "winRate": 87.5
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Red",
+    "deck_composition_raw": "1nOP13-001a4nOP13-016a2nST30-004a4nEB05-001a4nOP07-022a3nST32-001a4nOP06-033a4nEB01-013a4nOP14-031a4nOP12-023a4nST32-002a4nOP13-031a3nOP17-022a2nOP01-055a2nOP14-037a2nOP10-040",
+    "tournament_results": [
+      {
+        "player_name": "Zhao",
+        "deck_type": "OP13-001",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP13-001:1,OP13-016:4,ST30-004:2,EB05-001:4,OP07-022:4,ST32-001:3,OP06-033:4,EB01-013:4,OP14-031:4,OP12-023:4,ST32-002:4,OP13-031:4,OP17-022:3,OP01-055:2,OP14-037:2,OP10-040:2&type=optcg"
+        ],
+        "country": "OCE",
+        "host": "LetsPlayGames",
+        "placement_str": "T16 (7-1)",
+        "score": {
+          "wins": 7,
+          "losses": 1,
+          "matches": 8,
+          "winRate": 87.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-36-mwaq46nv-54ux",
+    "tournament_name": "EGB",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/7/2026",
+    "country": "OCE",
+    "host": "LetsPlayGames",
+    "player_name": "Dom_D_Russ",
+    "deck_name": "Blue Rocks",
+    "deck_type": "OP17-039",
+    "placement_str": "19th (6-2)",
+    "placement": 8,
+    "score": {
+      "wins": 6,
+      "losses": 2,
+      "matches": 8,
+      "winRate": 75
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Blue",
+    "deck_composition_raw": "1nOP17-039a2nOP08-051a3nOP17-050a4nOP17-045a3nOP17-052a4nOP17-054a1nEB05-028a2nOP17-042a2nOP17-044a4nOP17-046a4nOP17-049a4nOP17-040a4nOP17-048a1nOP14-049a4nOP17-118a4nOP17-055a4nOP17-056",
+    "tournament_results": [
+      {
+        "player_name": "Dom_D_Russ",
+        "deck_type": "OP17-039",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP17-039:1,OP08-051:2,OP17-050:3,OP17-045:4,OP17-052:3,OP17-054:4,EB05-028:1,OP17-042:2,OP17-044:2,OP17-046:4,OP17-049:4,OP17-040:4,OP17-048:4,OP14-049:1,OP17-118:4,OP17-055:4,OP17-056:4&type=optcg"
+        ],
+        "country": "OCE",
+        "host": "LetsPlayGames",
+        "placement_str": "19th (6-2)",
+        "score": {
+          "wins": 6,
+          "losses": 2,
+          "matches": 8,
+          "winRate": 75
         }
       }
     ]
