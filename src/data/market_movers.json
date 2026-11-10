@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T12:57:40.428Z",
-  "date_label": "lundi 9 novembre",
+  "updated_at": "2026-11-10T12:44:15.089Z",
+  "date_label": "mardi 10 novembre",
   "all": {
     "hausses": [
       {
@@ -19,6 +19,21 @@
         "image_url": "https://scalpeurs.com/img/cards-en/champ2025-p006.webp"
       },
       {
+        "id": "en-eb02-OP05-060-5-83",
+        "card_code": "OP05-060",
+        "name": "Monkey.D.Luffy",
+        "variant_label": "Version 5",
+        "subtitle": "OP05-060 · Version 5",
+        "rarity": "L",
+        "language": "en",
+        "flag_url": "/media/flag-en.png",
+        "current_price": 7500,
+        "previous_price": 3542,
+        "diff_eur": 3958,
+        "diff_percent": 111.7,
+        "image_url": "https://scalpeurs.com/img/cards-en/eb02-p083.webp"
+      },
+      {
         "id": "en-op11-OP05-119-9-149",
         "card_code": "OP05-119",
         "name": "Monkey.D.Luffy",
@@ -32,21 +47,6 @@
         "diff_eur": 3662,
         "diff_percent": 57.9,
         "image_url": "https://scalpeurs.com/img/cards-en/op11-p149.webp"
-      },
-      {
-        "id": "en-eb02-OP08-001-3-97",
-        "card_code": "OP08-001",
-        "name": "Tony Tony.Chopper",
-        "variant_label": "Special Card (SP) ⭐",
-        "subtitle": "OP08-001 · Special Card (SP) ⭐",
-        "rarity": "L",
-        "language": "en",
-        "flag_url": "/media/flag-en.png",
-        "current_price": 5000,
-        "previous_price": 1943,
-        "diff_eur": 3057,
-        "diff_percent": 157.4,
-        "image_url": "https://scalpeurs.com/img/cards-en/eb02-p097.webp"
       }
     ],
     "baisses": [
@@ -81,19 +81,19 @@
         "image_url": "https://scalpeurs.com/img/cards-jp/op09-p148.webp"
       },
       {
-        "id": "en-op01-OP01-003-2-6",
-        "card_code": "OP01-003",
-        "name": "Monkey.D.Luffy",
-        "variant_label": "Version 2",
-        "subtitle": "OP01-003 · Version 2",
-        "rarity": "L",
+        "id": "en-op17-OP17-118-3-156",
+        "card_code": "OP17-118",
+        "name": "Rocks.D.Xebec",
+        "variant_label": "Rocks D. Xebec (Alternate Art)",
+        "subtitle": "OP17-118 · Rocks D. Xebec (Alternate Art)",
+        "rarity": "SEC",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 1000,
-        "previous_price": 5283,
-        "diff_eur": -4283,
-        "diff_percent": -81.1,
-        "image_url": "https://scalpeurs.com/img/cards-en/op01-p006.webp"
+        "current_price": 2700,
+        "previous_price": 7430,
+        "diff_eur": -4730,
+        "diff_percent": -63.7,
+        "image_url": "https://scalpeurs.com/img/cards-en/op17-p156.webp"
       }
     ]
   },
@@ -108,10 +108,10 @@
         "rarity": "L",
         "language": "fr",
         "flag_url": "/media/flag-fr.png",
-        "current_price": 3100,
+        "current_price": 2999,
         "previous_price": 1943,
-        "diff_eur": 1157,
-        "diff_percent": 59.6,
+        "diff_eur": 1056,
+        "diff_percent": 54.4,
         "image_url": "https://scalpeurs.com/img/cards-fr/eb02-p097.webp"
       },
       {
@@ -147,6 +147,21 @@
     ],
     "baisses": [
       {
+        "id": "fr-op11-OP05-119-8-150",
+        "card_code": "OP05-119",
+        "name": "Monkey D. Luffy",
+        "variant_label": "Special Card (SP) ⭐",
+        "subtitle": "OP05-119 · Special Card (SP) ⭐",
+        "rarity": "SEC",
+        "language": "fr",
+        "flag_url": "/media/flag-fr.png",
+        "current_price": 2500,
+        "previous_price": 6752,
+        "diff_eur": -4252,
+        "diff_percent": -63,
+        "image_url": "https://scalpeurs.com/img/cards-fr/op11-p150.webp"
+      },
+      {
         "id": "fr-op17-OP17-118-3-156",
         "card_code": "OP17-118",
         "name": "Rocks D. Xebec",
@@ -160,21 +175,6 @@
         "diff_eur": -3730,
         "diff_percent": -50.2,
         "image_url": "https://scalpeurs.com/img/cards-fr/op17-p156.webp"
-      },
-      {
-        "id": "fr-op11-OP05-119-8-150",
-        "card_code": "OP05-119",
-        "name": "Monkey D. Luffy",
-        "variant_label": "Special Card (SP) ⭐",
-        "subtitle": "OP05-119 · Special Card (SP) ⭐",
-        "rarity": "SEC",
-        "language": "fr",
-        "flag_url": "/media/flag-fr.png",
-        "current_price": 3500,
-        "previous_price": 6752,
-        "diff_eur": -3252,
-        "diff_percent": -48.2,
-        "image_url": "https://scalpeurs.com/img/cards-fr/op11-p150.webp"
       },
       {
         "id": "fr-op13-OP13-118-3-157",
@@ -211,6 +211,21 @@
         "image_url": "https://scalpeurs.com/img/cards-en/champ2025-p006.webp"
       },
       {
+        "id": "en-eb02-OP05-060-5-83",
+        "card_code": "OP05-060",
+        "name": "Monkey.D.Luffy",
+        "variant_label": "Version 5",
+        "subtitle": "OP05-060 · Version 5",
+        "rarity": "L",
+        "language": "en",
+        "flag_url": "/media/flag-en.png",
+        "current_price": 7500,
+        "previous_price": 3542,
+        "diff_eur": 3958,
+        "diff_percent": 111.7,
+        "image_url": "https://scalpeurs.com/img/cards-en/eb02-p083.webp"
+      },
+      {
         "id": "en-op11-OP05-119-9-149",
         "card_code": "OP05-119",
         "name": "Monkey.D.Luffy",
@@ -224,24 +239,24 @@
         "diff_eur": 3662,
         "diff_percent": 57.9,
         "image_url": "https://scalpeurs.com/img/cards-en/op11-p149.webp"
-      },
-      {
-        "id": "en-eb02-OP08-001-3-97",
-        "card_code": "OP08-001",
-        "name": "Tony Tony.Chopper",
-        "variant_label": "Special Card (SP) ⭐",
-        "subtitle": "OP08-001 · Special Card (SP) ⭐",
-        "rarity": "L",
-        "language": "en",
-        "flag_url": "/media/flag-en.png",
-        "current_price": 5000,
-        "previous_price": 1943,
-        "diff_eur": 3057,
-        "diff_percent": 157.4,
-        "image_url": "https://scalpeurs.com/img/cards-en/eb02-p097.webp"
       }
     ],
     "baisses": [
+      {
+        "id": "en-op17-OP17-118-3-156",
+        "card_code": "OP17-118",
+        "name": "Rocks.D.Xebec",
+        "variant_label": "Rocks D. Xebec (Alternate Art)",
+        "subtitle": "OP17-118 · Rocks D. Xebec (Alternate Art)",
+        "rarity": "SEC",
+        "language": "en",
+        "flag_url": "/media/flag-en.png",
+        "current_price": 2700,
+        "previous_price": 7430,
+        "diff_eur": -4730,
+        "diff_percent": -63.7,
+        "image_url": "https://scalpeurs.com/img/cards-en/op17-p156.webp"
+      },
       {
         "id": "en-op01-OP01-003-2-6",
         "card_code": "OP01-003",
@@ -271,21 +286,6 @@
         "diff_eur": -3004,
         "diff_percent": -29.5,
         "image_url": "https://scalpeurs.com/img/cards-en/op05-p146.webp"
-      },
-      {
-        "id": "en-op17-OP17-118-3-156",
-        "card_code": "OP17-118",
-        "name": "Rocks.D.Xebec",
-        "variant_label": "Rocks D. Xebec (Alternate Art)",
-        "subtitle": "OP17-118 · Rocks D. Xebec (Alternate Art)",
-        "rarity": "SEC",
-        "language": "en",
-        "flag_url": "/media/flag-en.png",
-        "current_price": 5000,
-        "previous_price": 7430,
-        "diff_eur": -2430,
-        "diff_percent": -32.7,
-        "image_url": "https://scalpeurs.com/img/cards-en/op17-p156.webp"
       }
     ]
   },
@@ -307,6 +307,21 @@
         "image_url": "https://scalpeurs.com/img/cards-jp/champ2023-p003.webp"
       },
       {
+        "id": "jp-prb01-EB01-006-reg-1",
+        "card_code": "EB01-006",
+        "name": "Tony Tony.Chopper",
+        "variant_label": "Base",
+        "subtitle": "EB01-006",
+        "rarity": "SR",
+        "language": "jp",
+        "flag_url": "/media/flag-jp.png",
+        "current_price": 2800,
+        "previous_price": 1590,
+        "diff_eur": 1210,
+        "diff_percent": 76.1,
+        "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p001.webp"
+      },
+      {
         "id": "jp-eb02-OP07-038-reg-93",
         "card_code": "OP07-038",
         "name": "Boa Hancock",
@@ -320,21 +335,6 @@
         "diff_eur": 781,
         "diff_percent": 244.8,
         "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p093.webp"
-      },
-      {
-        "id": "jp-op16-OP16-063-3-80",
-        "card_code": "OP16-063",
-        "name": "Kuzan",
-        "variant_label": "Manga Rare 👑",
-        "subtitle": "OP16-063 · Manga Rare 👑",
-        "rarity": "R",
-        "language": "jp",
-        "flag_url": "/media/flag-jp.png",
-        "current_price": 1199,
-        "previous_price": 762,
-        "diff_eur": 437,
-        "diff_percent": 57.4,
-        "image_url": "https://scalpeurs.com/img/cards-jp/op16-p080.webp"
       }
     ],
     "baisses": [
@@ -369,19 +369,19 @@
         "image_url": "https://scalpeurs.com/img/cards-jp/op09-p148.webp"
       },
       {
-        "id": "jp-champ2023-OP01-120-reg-8",
-        "card_code": "OP01-120",
-        "name": "Shanks",
-        "variant_label": "Shanks",
-        "subtitle": "OP01-120 · Shanks",
+        "id": "jp-op17-OP17-118-3-156",
+        "card_code": "OP17-118",
+        "name": "Rocks.D.Xebec",
+        "variant_label": "Rocks D. Xebec (Alternate Art)",
+        "subtitle": "OP17-118 · Rocks D. Xebec (Alternate Art)",
         "rarity": "SEC",
         "language": "jp",
         "flag_url": "/media/flag-jp.png",
-        "current_price": 2500,
-        "previous_price": 6707,
-        "diff_eur": -4207,
-        "diff_percent": -62.7,
-        "image_url": "https://scalpeurs.com/img/cards-jp/champ2023-p008.webp"
+        "current_price": 3200,
+        "previous_price": 7430,
+        "diff_eur": -4230,
+        "diff_percent": -56.9,
+        "image_url": "https://scalpeurs.com/img/cards-jp/op17-p156.webp"
       }
     ]
   }
