@@ -1,5 +1,257 @@
 [
   {
+    "id": "op18-jp-1-mwc3y50d-d4sr",
+    "tournament_name": "FS",
+    "source_name": "Japan EB05/OP18",
+    "start_date": "11/10/2026",
+    "country": "JP",
+    "host": "Corgi",
+    "player_name": "Gimnema",
+    "deck_name": "Pudding",
+    "deck_type": "OP08-058",
+    "placement_str": "1st Place",
+    "placement": 1,
+    "score": {
+      "wins": 5,
+      "losses": 0,
+      "matches": 5,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "Japan EB05/OP18 - OP18",
+    "deck_color": "Purple",
+    "deck_composition_raw": "1nOP08-058a2nST34-003a4nOP08-062a3nOP05-073a4nST34-002a3nOP11-067a4nOP17-104a4nOP17-107a4nOP17-109a4nOP12-112a1nEB04-058a4nOP17-103a4nOP17-114a4nOP17-112a4nOP15-078a1nOP17-076",
+    "tournament_results": [
+      {
+        "player_name": "Gimnema",
+        "deck_type": "OP08-058",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP08-058:1,ST34-003:2,OP08-062:4,OP05-073:3,ST34-002:4,OP11-067:3,OP17-104:4,OP17-107:4,OP17-109:4,OP12-112:4,EB04-058:1,OP17-103:4,OP17-114:4,OP17-112:4,OP15-078:4,OP17-076:1&type=optcg"
+        ],
+        "country": "JP",
+        "host": "Corgi",
+        "placement_str": "1st Place",
+        "score": {
+          "wins": 5,
+          "losses": 0,
+          "matches": 5,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-jp-2-mwc3y50d-0qtr",
+    "tournament_name": "FS",
+    "source_name": "Japan EB05/OP18",
+    "start_date": "11/10/2026",
+    "country": "JP",
+    "host": "C Labo(13)",
+    "player_name": "Kamui",
+    "deck_name": "Sugar",
+    "deck_type": "OP10-003",
+    "placement_str": "1st Place",
+    "placement": 1,
+    "score": {
+      "wins": 5,
+      "losses": 0,
+      "matches": 5,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "Japan EB05/OP18 - OP18",
+    "deck_color": "Purple",
+    "deck_composition_raw": "1nOP10-003a4nOP10-065a4nEB05-034a4nOP10-072a4nOP10-071a4nEB05-004a3nOP09-004a3nOP13-076a4nOP15-078a4nEB05-040a4nOP10-078a4nOP07-076a4nOP14-078a4nOP10-018",
+    "tournament_results": [
+      {
+        "player_name": "Kamui",
+        "deck_type": "OP10-003",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP10-003:1,OP10-065:4,EB05-034:4,OP10-072:4,OP10-071:4,EB05-004:4,OP09-004:3,OP13-076:3,OP15-078:4,EB05-040:4,OP10-078:4,OP07-076:4,OP14-078:4,OP10-018:4&type=optcg"
+        ],
+        "country": "JP",
+        "host": "C Labo(13)",
+        "placement_str": "1st Place",
+        "score": {
+          "wins": 5,
+          "losses": 0,
+          "matches": 5,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-jp-3-mwc3y50d-65qu",
+    "tournament_name": "ShopEvent",
+    "source_name": "Japan EB05/OP18",
+    "start_date": "11/10/2026",
+    "country": "JP",
+    "host": "Zokureko Cup",
+    "player_name": "Hand Cream",
+    "deck_name": "Koala",
+    "deck_type": "OP12-081",
+    "placement_str": "1st Place",
+    "placement": 1,
+    "score": {
+      "wins": 5,
+      "losses": 0,
+      "matches": 5,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "Japan EB05/OP18 - OP18",
+    "deck_color": "Black",
+    "deck_composition_raw": "1nOP12-081a3nOP17-084a4nOP17-086a4nOP17-080a2nOP17-081a4nOP17-082a3nOP17-083a4nOP17-087a4nOP17-095a4nEB05-047a4nOP17-089a1nOP15-088a4nOP17-119a3nOP17-093a4nEB04-058a2nOP17-098",
+    "tournament_results": [
+      {
+        "player_name": "Hand Cream",
+        "deck_type": "OP12-081",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP12-081:1,OP17-084:3,OP17-086:4,OP17-080:4,OP17-081:2,OP17-082:4,OP17-083:3,OP17-087:4,OP17-095:4,EB05-047:4,OP17-089:4,OP15-088:1,OP17-119:4,OP17-093:3,EB04-058:4,OP17-098:2&type=optcg"
+        ],
+        "country": "JP",
+        "host": "Zokureko Cup",
+        "placement_str": "1st Place",
+        "score": {
+          "wins": 5,
+          "losses": 0,
+          "matches": 5,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-jp-4-mwc3y50d-u5qu",
+    "tournament_name": "FS",
+    "source_name": "Japan EB05/OP18",
+    "start_date": "11/10/2026",
+    "country": "JP",
+    "host": "MINT",
+    "player_name": "SirSergioSer",
+    "deck_name": "BR Sabo",
+    "deck_type": "OP13-004",
+    "placement_str": "1st (4-0)",
+    "placement": 1,
+    "score": {
+      "wins": 4,
+      "losses": 0,
+      "matches": 4,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "Japan EB05/OP18 - OP18",
+    "deck_color": "Black",
+    "deck_composition_raw": "1nOP13-004a2nOP17-084a3nOP17-086a4nOP17-080a4nOP17-082a2nOP17-083a4nOP17-087a4nOP17-095a3nEB05-047a4nOP17-089a3nOP15-088a3nOP17-119a3nOP17-093a1nOP01-016a2nOP13-007a2nST01-011a1nEB04-007a1nOP17-096a1nOP17-098a2nOP04-016a1nST21-017",
+    "tournament_results": [
+      {
+        "player_name": "SirSergioSer",
+        "deck_type": "OP13-004",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP13-004:1,OP17-084:2,OP17-086:3,OP17-080:4,OP17-082:4,OP17-083:2,OP17-087:4,OP17-095:4,EB05-047:3,OP17-089:4,OP15-088:3,OP17-119:3,OP17-093:3,OP01-016:1,OP13-007:2,ST01-011:2,EB04-007:1,OP17-096:1,OP17-098:1,OP04-016:2,ST21-017:1&type=optcg"
+        ],
+        "country": "JP",
+        "host": "MINT",
+        "placement_str": "1st (4-0)",
+        "score": {
+          "wins": 4,
+          "losses": 0,
+          "matches": 4,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-jp-5-mwc3y50d-70lh",
+    "tournament_name": "FS",
+    "source_name": "Japan EB05/OP18",
+    "start_date": "11/9/2026",
+    "country": "Malaysia",
+    "host": "Toysbar",
+    "player_name": "Mozuzon",
+    "deck_name": "Sugar",
+    "deck_type": "OP10-003",
+    "placement_str": "1st (5-0)",
+    "placement": 1,
+    "score": {
+      "wins": 5,
+      "losses": 0,
+      "matches": 5,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "Japan EB05/OP18 - OP18",
+    "deck_color": "Purple",
+    "deck_composition_raw": "1nOP10-003a4nOP10-065a2nST18-001a4nOP10-072a1nOP14-061a2nOP14-074a4nOP10-071a4nEB05-004a2nEB04-007a3nOP09-004a3nOP13-076a4nOP15-078a4nEB05-040a2nOP10-078a3nOP07-076a4nOP14-078a1nST10-015a3nOP10-018",
+    "tournament_results": [
+      {
+        "player_name": "Mozuzon",
+        "deck_type": "OP10-003",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP10-003:1,OP10-065:4,ST18-001:2,OP10-072:4,OP14-061:1,OP14-074:2,OP10-071:4,EB05-004:4,EB04-007:2,OP09-004:3,OP13-076:3,OP15-078:4,EB05-040:4,OP10-078:2,OP07-076:3,OP14-078:4,ST10-015:1,OP10-018:3&type=optcg"
+        ],
+        "country": "Malaysia",
+        "host": "Toysbar",
+        "placement_str": "1st (5-0)",
+        "score": {
+          "wins": 5,
+          "losses": 0,
+          "matches": 5,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-jp-6-mwc3y50d-35au",
+    "tournament_name": "FS",
+    "source_name": "Japan EB05/OP18",
+    "start_date": "11/8/2026",
+    "country": "JP",
+    "host": "Cardshop",
+    "player_name": "Kishi",
+    "deck_name": "Koala",
+    "deck_type": "OP12-081",
+    "placement_str": "1st (5-0)",
+    "placement": 1,
+    "score": {
+      "wins": 5,
+      "losses": 0,
+      "matches": 5,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "Japan EB05/OP18 - OP18",
+    "deck_color": "Black",
+    "deck_composition_raw": "1nOP12-081a3nOP17-084a3nOP17-086a4nOP17-080a1nOP17-081a3nOP17-082a2nOP17-083a2nOP17-087a4nOP17-095a1nEB05-046a4nEB05-047a4nOP17-089a2nOP12-087a4nOP17-119a3nOP17-093a4nEB04-058a4nOP14-108a2nOP06-115",
+    "tournament_results": [
+      {
+        "player_name": "Kishi",
+        "deck_type": "OP12-081",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP12-081:1,OP17-084:3,OP17-086:3,OP17-080:4,OP17-081:1,OP17-082:3,OP17-083:2,OP17-087:2,OP17-095:4,EB05-046:1,EB05-047:4,OP17-089:4,OP12-087:2,OP17-119:4,OP17-093:3,EB04-058:4,OP14-108:4,OP06-115:2&type=optcg"
+        ],
+        "country": "JP",
+        "host": "Cardshop",
+        "placement_str": "1st (5-0)",
+        "score": {
+          "wins": 5,
+          "losses": 0,
+          "matches": 5,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
     "id": "op18-eng-6-mwaq46nv-71ud",
     "tournament_name": "EGB",
     "source_name": "English EB05/OP18",
