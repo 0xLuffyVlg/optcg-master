@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T11:56:13.408Z",
-  "date_label": "mercredi 11 novembre",
+  "updated_at": "2026-11-12T12:49:15.391Z",
+  "date_label": "jeudi 12 novembre",
   "all": {
     "hausses": [
       {
@@ -273,19 +273,19 @@
         "image_url": "https://scalpeurs.com/img/cards-en/op05-p146.webp"
       },
       {
-        "id": "en-op17-OP17-118-3-156",
-        "card_code": "OP17-118",
-        "name": "Rocks.D.Xebec",
-        "variant_label": "Rocks D. Xebec (Alternate Art)",
-        "subtitle": "OP17-118 · Rocks D. Xebec (Alternate Art)",
+        "id": "en-op13-OP13-119-4-161",
+        "card_code": "OP13-119",
+        "name": "Portgas.D.Ace",
+        "variant_label": "Version 4",
+        "subtitle": "OP13-119 · Version 4",
         "rarity": "SEC",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 5000,
-        "previous_price": 7430,
-        "diff_eur": -2430,
-        "diff_percent": -32.7,
-        "image_url": "https://scalpeurs.com/img/cards-en/op17-p156.webp"
+        "current_price": 3990,
+        "previous_price": 6171,
+        "diff_eur": -2181,
+        "diff_percent": -35.3,
+        "image_url": "https://scalpeurs.com/img/cards-en/op13-p161.webp"
       }
     ]
   },
@@ -322,19 +322,19 @@
         "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p093.webp"
       },
       {
-        "id": "jp-anniv-cn2-OP07-051-2-12",
-        "card_code": "OP07-051",
-        "name": "Boa Hancock",
-        "variant_label": "Version 2",
-        "subtitle": "OP07-051 · Version 2",
-        "rarity": "SR",
+        "id": "jp-op16-OP16-063-3-80",
+        "card_code": "OP16-063",
+        "name": "Kuzan",
+        "variant_label": "Manga Rare 👑",
+        "subtitle": "OP16-063 · Manga Rare 👑",
+        "rarity": "R",
         "language": "jp",
         "flag_url": "/media/flag-jp.png",
-        "current_price": 339,
-        "previous_price": 134,
-        "diff_eur": 206,
-        "diff_percent": 153.9,
-        "image_url": "https://scalpeurs.com/img/cards-jp/anniv-cn2-p012.webp"
+        "current_price": 1199,
+        "previous_price": 762,
+        "diff_eur": 437,
+        "diff_percent": 57.4,
+        "image_url": "https://scalpeurs.com/img/cards-jp/op16-p080.webp"
       }
     ],
     "baisses": [
