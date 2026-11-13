@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T12:49:15.391Z",
-  "date_label": "jeudi 12 novembre",
+  "updated_at": "2026-11-13T12:18:17.350Z",
+  "date_label": "vendredi 13 novembre",
   "all": {
     "hausses": [
       {
@@ -12,10 +12,10 @@
         "rarity": "SEC",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 8290,
+        "current_price": 7800,
         "previous_price": 3468,
-        "diff_eur": 4822,
-        "diff_percent": 139.1,
+        "diff_eur": 4332,
+        "diff_percent": 124.9,
         "image_url": "https://scalpeurs.com/img/cards-en/champ2025-p006.webp"
       },
       {
@@ -27,26 +27,26 @@
         "rarity": "SEC",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 9990,
+        "current_price": 9000,
         "previous_price": 6328,
-        "diff_eur": 3662,
-        "diff_percent": 57.9,
+        "diff_eur": 2672,
+        "diff_percent": 42.2,
         "image_url": "https://scalpeurs.com/img/cards-en/op11-p149.webp"
       },
       {
-        "id": "en-eb02-OP08-001-3-97",
-        "card_code": "OP08-001",
-        "name": "Tony Tony.Chopper",
-        "variant_label": "Special Card (SP) ⭐",
-        "subtitle": "OP08-001 · Special Card (SP) ⭐",
-        "rarity": "L",
+        "id": "en-pack-championship-ST10-013-2-51",
+        "card_code": "ST10-013",
+        "name": "Eustass\"Captain\"Kid",
+        "variant_label": "Eustass\"Captain\"Kid (CS 2023 Top Players Pack)",
+        "subtitle": "ST10-013 · Eustass\"Captain\"Kid (CS 2023 Top Players Pack)",
+        "rarity": "SR",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 5000,
-        "previous_price": 1943,
-        "diff_eur": 3057,
-        "diff_percent": 157.4,
-        "image_url": "https://scalpeurs.com/img/cards-en/eb02-p097.webp"
+        "current_price": 4000,
+        "previous_price": 1663,
+        "diff_eur": 2337,
+        "diff_percent": 140.5,
+        "image_url": "https://scalpeurs.com/img/cards-en/pack-championship-p051.webp"
       }
     ],
     "baisses": [
@@ -89,10 +89,10 @@
         "rarity": "L",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 1000,
+        "current_price": 897,
         "previous_price": 5283,
-        "diff_eur": -4283,
-        "diff_percent": -81.1,
+        "diff_eur": -4386,
+        "diff_percent": -83,
         "image_url": "https://scalpeurs.com/img/cards-en/op01-p006.webp"
       }
     ]
@@ -204,10 +204,10 @@
         "rarity": "SEC",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 8290,
+        "current_price": 7800,
         "previous_price": 3468,
-        "diff_eur": 4822,
-        "diff_percent": 139.1,
+        "diff_eur": 4332,
+        "diff_percent": 124.9,
         "image_url": "https://scalpeurs.com/img/cards-en/champ2025-p006.webp"
       },
       {
@@ -219,26 +219,26 @@
         "rarity": "SEC",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 9990,
+        "current_price": 9000,
         "previous_price": 6328,
-        "diff_eur": 3662,
-        "diff_percent": 57.9,
+        "diff_eur": 2672,
+        "diff_percent": 42.2,
         "image_url": "https://scalpeurs.com/img/cards-en/op11-p149.webp"
       },
       {
-        "id": "en-eb02-OP08-001-3-97",
-        "card_code": "OP08-001",
-        "name": "Tony Tony.Chopper",
-        "variant_label": "Special Card (SP) ⭐",
-        "subtitle": "OP08-001 · Special Card (SP) ⭐",
-        "rarity": "L",
+        "id": "en-pack-championship-ST10-013-2-51",
+        "card_code": "ST10-013",
+        "name": "Eustass\"Captain\"Kid",
+        "variant_label": "Eustass\"Captain\"Kid (CS 2023 Top Players Pack)",
+        "subtitle": "ST10-013 · Eustass\"Captain\"Kid (CS 2023 Top Players Pack)",
+        "rarity": "SR",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 5000,
-        "previous_price": 1943,
-        "diff_eur": 3057,
-        "diff_percent": 157.4,
-        "image_url": "https://scalpeurs.com/img/cards-en/eb02-p097.webp"
+        "current_price": 4000,
+        "previous_price": 1663,
+        "diff_eur": 2337,
+        "diff_percent": 140.5,
+        "image_url": "https://scalpeurs.com/img/cards-en/pack-championship-p051.webp"
       }
     ],
     "baisses": [
@@ -251,10 +251,10 @@
         "rarity": "L",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 1000,
+        "current_price": 897,
         "previous_price": 5283,
-        "diff_eur": -4283,
-        "diff_percent": -81.1,
+        "diff_eur": -4386,
+        "diff_percent": -83,
         "image_url": "https://scalpeurs.com/img/cards-en/op01-p006.webp"
       },
       {
@@ -307,6 +307,21 @@
         "image_url": "https://scalpeurs.com/img/cards-jp/champ2023-p003.webp"
       },
       {
+        "id": "jp-prb01-EB01-006-reg-1",
+        "card_code": "EB01-006",
+        "name": "Tony Tony.Chopper",
+        "variant_label": "Base",
+        "subtitle": "EB01-006",
+        "rarity": "SR",
+        "language": "jp",
+        "flag_url": "/media/flag-jp.png",
+        "current_price": 2800,
+        "previous_price": 1590,
+        "diff_eur": 1210,
+        "diff_percent": 76.1,
+        "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p001.webp"
+      },
+      {
         "id": "jp-eb02-OP07-038-reg-93",
         "card_code": "OP07-038",
         "name": "Boa Hancock",
@@ -320,21 +335,6 @@
         "diff_eur": 781,
         "diff_percent": 244.8,
         "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p093.webp"
-      },
-      {
-        "id": "jp-op16-OP16-063-3-80",
-        "card_code": "OP16-063",
-        "name": "Kuzan",
-        "variant_label": "Manga Rare 👑",
-        "subtitle": "OP16-063 · Manga Rare 👑",
-        "rarity": "R",
-        "language": "jp",
-        "flag_url": "/media/flag-jp.png",
-        "current_price": 1199,
-        "previous_price": 762,
-        "diff_eur": 437,
-        "diff_percent": 57.4,
-        "image_url": "https://scalpeurs.com/img/cards-jp/op16-p080.webp"
       }
     ],
     "baisses": [
