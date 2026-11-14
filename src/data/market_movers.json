@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T12:18:17.350Z",
-  "date_label": "vendredi 13 novembre",
+  "updated_at": "2026-11-14T11:33:58.923Z",
+  "date_label": "samedi 14 novembre",
   "all": {
     "hausses": [
       {
@@ -19,6 +19,21 @@
         "image_url": "https://scalpeurs.com/img/cards-en/champ2025-p006.webp"
       },
       {
+        "id": "en-champ2024-OP05-091-reg-14",
+        "card_code": "OP05-091",
+        "name": "Rebecca",
+        "variant_label": "Rebecca",
+        "subtitle": "OP05-091 · Rebecca",
+        "rarity": "SR",
+        "language": "en",
+        "flag_url": "/media/flag-en.png",
+        "current_price": 4930,
+        "previous_price": 2043,
+        "diff_eur": 2887,
+        "diff_percent": 141.3,
+        "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
+      },
+      {
         "id": "en-op11-OP05-119-9-149",
         "card_code": "OP05-119",
         "name": "Monkey.D.Luffy",
@@ -32,21 +47,6 @@
         "diff_eur": 2672,
         "diff_percent": 42.2,
         "image_url": "https://scalpeurs.com/img/cards-en/op11-p149.webp"
-      },
-      {
-        "id": "en-pack-championship-ST10-013-2-51",
-        "card_code": "ST10-013",
-        "name": "Eustass\"Captain\"Kid",
-        "variant_label": "Eustass\"Captain\"Kid (CS 2023 Top Players Pack)",
-        "subtitle": "ST10-013 · Eustass\"Captain\"Kid (CS 2023 Top Players Pack)",
-        "rarity": "SR",
-        "language": "en",
-        "flag_url": "/media/flag-en.png",
-        "current_price": 4000,
-        "previous_price": 1663,
-        "diff_eur": 2337,
-        "diff_percent": 140.5,
-        "image_url": "https://scalpeurs.com/img/cards-en/pack-championship-p051.webp"
       }
     ],
     "baisses": [
@@ -100,21 +100,6 @@
   "fr": {
     "hausses": [
       {
-        "id": "fr-eb02-OP08-001-3-97",
-        "card_code": "OP08-001",
-        "name": "Tony-Tony Chopper",
-        "variant_label": "Special Card (SP) ⭐",
-        "subtitle": "OP08-001 · Special Card (SP) ⭐",
-        "rarity": "L",
-        "language": "fr",
-        "flag_url": "/media/flag-fr.png",
-        "current_price": 2999,
-        "previous_price": 1943,
-        "diff_eur": 1056,
-        "diff_percent": 54.4,
-        "image_url": "https://scalpeurs.com/img/cards-fr/eb02-p097.webp"
-      },
-      {
         "id": "fr-eb02-EB01-001-3-103",
         "card_code": "EB01-001",
         "name": "Oden Kozuki",
@@ -130,19 +115,34 @@
         "image_url": "https://scalpeurs.com/img/cards-fr/eb02-p103.webp"
       },
       {
-        "id": "fr-eb02-OP08-058-3-101",
-        "card_code": "OP08-058",
-        "name": "Charlotte Pudding",
+        "id": "fr-prb01-OP05-119-6-197",
+        "card_code": "OP05-119",
+        "name": "Monkey D. Luffy",
+        "variant_label": "Monkey.D.Luffy (OP05-119) (Alternate Art)",
+        "subtitle": "OP05-119 · Monkey.D.Luffy (OP05-119) (Alternate Art)",
+        "rarity": "SEC",
+        "language": "fr",
+        "flag_url": "/media/flag-fr.png",
+        "current_price": 7000,
+        "previous_price": 6121,
+        "diff_eur": 879,
+        "diff_percent": 14.4,
+        "image_url": "https://scalpeurs.com/img/cards-fr/prb01-p197.webp"
+      },
+      {
+        "id": "fr-eb02-OP08-098-3-102",
+        "card_code": "OP08-098",
+        "name": "Calgara",
         "variant_label": "Special Card (SP) ⭐",
-        "subtitle": "OP08-058 · Special Card (SP) ⭐",
+        "subtitle": "OP08-098 · Special Card (SP) ⭐",
         "rarity": "L",
         "language": "fr",
         "flag_url": "/media/flag-fr.png",
-        "current_price": 1800,
-        "previous_price": 1008,
-        "diff_eur": 792,
-        "diff_percent": 78.6,
-        "image_url": "https://scalpeurs.com/img/cards-fr/eb02-p101.webp"
+        "current_price": 1000,
+        "previous_price": 428,
+        "diff_eur": 572,
+        "diff_percent": 133.6,
+        "image_url": "https://scalpeurs.com/img/cards-fr/eb02-p102.webp"
       }
     ],
     "baisses": [
@@ -211,6 +211,21 @@
         "image_url": "https://scalpeurs.com/img/cards-en/champ2025-p006.webp"
       },
       {
+        "id": "en-champ2024-OP05-091-reg-14",
+        "card_code": "OP05-091",
+        "name": "Rebecca",
+        "variant_label": "Rebecca",
+        "subtitle": "OP05-091 · Rebecca",
+        "rarity": "SR",
+        "language": "en",
+        "flag_url": "/media/flag-en.png",
+        "current_price": 4930,
+        "previous_price": 2043,
+        "diff_eur": 2887,
+        "diff_percent": 141.3,
+        "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
+      },
+      {
         "id": "en-op11-OP05-119-9-149",
         "card_code": "OP05-119",
         "name": "Monkey.D.Luffy",
@@ -224,21 +239,6 @@
         "diff_eur": 2672,
         "diff_percent": 42.2,
         "image_url": "https://scalpeurs.com/img/cards-en/op11-p149.webp"
-      },
-      {
-        "id": "en-pack-championship-ST10-013-2-51",
-        "card_code": "ST10-013",
-        "name": "Eustass\"Captain\"Kid",
-        "variant_label": "Eustass\"Captain\"Kid (CS 2023 Top Players Pack)",
-        "subtitle": "ST10-013 · Eustass\"Captain\"Kid (CS 2023 Top Players Pack)",
-        "rarity": "SR",
-        "language": "en",
-        "flag_url": "/media/flag-en.png",
-        "current_price": 4000,
-        "previous_price": 1663,
-        "diff_eur": 2337,
-        "diff_percent": 140.5,
-        "image_url": "https://scalpeurs.com/img/cards-en/pack-championship-p051.webp"
       }
     ],
     "baisses": [
@@ -281,10 +281,10 @@
         "rarity": "SEC",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 3990,
+        "current_price": 4000,
         "previous_price": 6171,
-        "diff_eur": -2181,
-        "diff_percent": -35.3,
+        "diff_eur": -2171,
+        "diff_percent": -35.2,
         "image_url": "https://scalpeurs.com/img/cards-en/op13-p161.webp"
       }
     ]
