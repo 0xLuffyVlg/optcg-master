@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T12:00:06.976Z",
-  "date_label": "dimanche 15 novembre",
+  "updated_at": "2026-11-16T12:50:46.568Z",
+  "date_label": "lundi 16 novembre",
   "all": {
     "hausses": [
       {
@@ -34,19 +34,19 @@
         "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
       },
       {
-        "id": "en-prb01-OP05-119-6-197",
+        "id": "en-op11-OP05-119-9-149",
         "card_code": "OP05-119",
         "name": "Monkey.D.Luffy",
-        "variant_label": "Version 6",
-        "subtitle": "OP05-119 · Version 6",
+        "variant_label": "Version 9",
+        "subtitle": "OP05-119 · Version 9",
         "rarity": "SEC",
         "language": "en",
         "flag_url": "/media/flag-en.png",
         "current_price": 9000,
-        "previous_price": 6121,
-        "diff_eur": 2879,
-        "diff_percent": 47,
-        "image_url": "https://scalpeurs.com/img/cards-en/prb01-p197.webp"
+        "previous_price": 6328,
+        "diff_eur": 2672,
+        "diff_percent": 42.2,
+        "image_url": "https://scalpeurs.com/img/cards-en/op11-p149.webp"
       }
     ],
     "baisses": [
@@ -59,10 +59,10 @@
         "rarity": "SEC",
         "language": "jp",
         "flag_url": "/media/flag-jp.png",
-        "current_price": 4799,
+        "current_price": 4499,
         "previous_price": 10194,
-        "diff_eur": -5395,
-        "diff_percent": -52.9,
+        "diff_eur": -5695,
+        "diff_percent": -55.9,
         "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p197.webp"
       },
       {
@@ -226,19 +226,19 @@
         "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
       },
       {
-        "id": "en-prb01-OP05-119-6-197",
+        "id": "en-op11-OP05-119-9-149",
         "card_code": "OP05-119",
         "name": "Monkey.D.Luffy",
-        "variant_label": "Version 6",
-        "subtitle": "OP05-119 · Version 6",
+        "variant_label": "Version 9",
+        "subtitle": "OP05-119 · Version 9",
         "rarity": "SEC",
         "language": "en",
         "flag_url": "/media/flag-en.png",
         "current_price": 9000,
-        "previous_price": 6121,
-        "diff_eur": 2879,
-        "diff_percent": 47,
-        "image_url": "https://scalpeurs.com/img/cards-en/prb01-p197.webp"
+        "previous_price": 6328,
+        "diff_eur": 2672,
+        "diff_percent": 42.2,
+        "image_url": "https://scalpeurs.com/img/cards-en/op11-p149.webp"
       }
     ],
     "baisses": [
@@ -347,10 +347,10 @@
         "rarity": "SEC",
         "language": "jp",
         "flag_url": "/media/flag-jp.png",
-        "current_price": 4799,
+        "current_price": 4499,
         "previous_price": 10194,
-        "diff_eur": -5395,
-        "diff_percent": -52.9,
+        "diff_eur": -5695,
+        "diff_percent": -55.9,
         "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p197.webp"
       },
       {
