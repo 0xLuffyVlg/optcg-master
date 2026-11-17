@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T12:50:46.568Z",
-  "date_label": "lundi 16 novembre",
+  "updated_at": "2026-11-17T13:32:37.155Z",
+  "date_label": "mardi 17 novembre",
   "all": {
     "hausses": [
       {
@@ -130,19 +130,19 @@
         "image_url": "https://scalpeurs.com/img/cards-fr/eb02-p102.webp"
       },
       {
-        "id": "fr-eb02-OP05-098-3-84",
-        "card_code": "OP05-098",
-        "name": "Ener",
-        "variant_label": "Enel (Sound Loader Vol. 2)",
-        "subtitle": "OP05-098 · Enel (Sound Loader Vol. 2)",
-        "rarity": "L",
+        "id": "fr-op09-OP09-093-3-119",
+        "card_code": "OP09-093",
+        "name": "Marshall.D.Teach",
+        "variant_label": "Special Card (SP) ⭐",
+        "subtitle": "OP09-093 · Special Card (SP) ⭐",
+        "rarity": "SP",
         "language": "fr",
         "flag_url": "/media/flag-fr.png",
-        "current_price": 1200,
-        "previous_price": 643,
-        "diff_eur": 557,
-        "diff_percent": 86.7,
-        "image_url": "https://scalpeurs.com/img/cards-fr/eb02-p084.webp"
+        "current_price": 2400,
+        "previous_price": 1841,
+        "diff_eur": 559,
+        "diff_percent": 30.4,
+        "image_url": "https://scalpeurs.com/img/cards-fr/op09-p119.webp"
       }
     ],
     "baisses": [
