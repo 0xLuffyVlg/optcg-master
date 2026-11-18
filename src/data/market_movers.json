@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T13:32:37.155Z",
-  "date_label": "mardi 17 novembre",
+  "updated_at": "2026-11-18T13:09:22.616Z",
+  "date_label": "mercredi 18 novembre",
   "all": {
     "hausses": [
       {
@@ -12,10 +12,10 @@
         "rarity": "SEC",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 7800,
+        "current_price": 7500,
         "previous_price": 3468,
-        "diff_eur": 4332,
-        "diff_percent": 124.9,
+        "diff_eur": 4032,
+        "diff_percent": 116.3,
         "image_url": "https://scalpeurs.com/img/cards-en/champ2025-p006.webp"
       },
       {
@@ -27,9 +27,9 @@
         "rarity": "SR",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 4937,
+        "current_price": 4938,
         "previous_price": 2043,
-        "diff_eur": 2894,
+        "diff_eur": 2895,
         "diff_percent": 141.7,
         "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
       },
@@ -130,19 +130,19 @@
         "image_url": "https://scalpeurs.com/img/cards-fr/eb02-p102.webp"
       },
       {
-        "id": "fr-op09-OP09-093-3-119",
-        "card_code": "OP09-093",
-        "name": "Marshall.D.Teach",
-        "variant_label": "Special Card (SP) ⭐",
-        "subtitle": "OP09-093 · Special Card (SP) ⭐",
-        "rarity": "SP",
+        "id": "fr-eb02-OP05-098-3-84",
+        "card_code": "OP05-098",
+        "name": "Ener",
+        "variant_label": "Enel (Sound Loader Vol. 2)",
+        "subtitle": "OP05-098 · Enel (Sound Loader Vol. 2)",
+        "rarity": "L",
         "language": "fr",
         "flag_url": "/media/flag-fr.png",
-        "current_price": 2400,
-        "previous_price": 1841,
-        "diff_eur": 559,
-        "diff_percent": 30.4,
-        "image_url": "https://scalpeurs.com/img/cards-fr/op09-p119.webp"
+        "current_price": 1200,
+        "previous_price": 643,
+        "diff_eur": 557,
+        "diff_percent": 86.7,
+        "image_url": "https://scalpeurs.com/img/cards-fr/eb02-p084.webp"
       }
     ],
     "baisses": [
@@ -204,10 +204,10 @@
         "rarity": "SEC",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 7800,
+        "current_price": 7500,
         "previous_price": 3468,
-        "diff_eur": 4332,
-        "diff_percent": 124.9,
+        "diff_eur": 4032,
+        "diff_percent": 116.3,
         "image_url": "https://scalpeurs.com/img/cards-en/champ2025-p006.webp"
       },
       {
@@ -219,9 +219,9 @@
         "rarity": "SR",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 4937,
+        "current_price": 4938,
         "previous_price": 2043,
-        "diff_eur": 2894,
+        "diff_eur": 2895,
         "diff_percent": 141.7,
         "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
       },
