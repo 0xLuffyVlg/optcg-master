@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T13:09:22.616Z",
-  "date_label": "mercredi 18 novembre",
+  "updated_at": "2026-11-19T13:18:53.501Z",
+  "date_label": "jeudi 19 novembre",
   "all": {
     "hausses": [
       {
@@ -19,21 +19,6 @@
         "image_url": "https://scalpeurs.com/img/cards-en/champ2025-p006.webp"
       },
       {
-        "id": "en-champ2024-OP05-091-reg-14",
-        "card_code": "OP05-091",
-        "name": "Rebecca",
-        "variant_label": "Rebecca",
-        "subtitle": "OP05-091 · Rebecca",
-        "rarity": "SR",
-        "language": "en",
-        "flag_url": "/media/flag-en.png",
-        "current_price": 4938,
-        "previous_price": 2043,
-        "diff_eur": 2895,
-        "diff_percent": 141.7,
-        "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
-      },
-      {
         "id": "en-op11-OP05-119-9-149",
         "card_code": "OP05-119",
         "name": "Monkey.D.Luffy",
@@ -42,11 +27,26 @@
         "rarity": "SEC",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 9000,
+        "current_price": 9990,
         "previous_price": 6328,
-        "diff_eur": 2672,
-        "diff_percent": 42.2,
+        "diff_eur": 3662,
+        "diff_percent": 57.9,
         "image_url": "https://scalpeurs.com/img/cards-en/op11-p149.webp"
+      },
+      {
+        "id": "en-champ2024-OP05-091-reg-14",
+        "card_code": "OP05-091",
+        "name": "Rebecca",
+        "variant_label": "Rebecca",
+        "subtitle": "OP05-091 · Rebecca",
+        "rarity": "SR",
+        "language": "en",
+        "flag_url": "/media/flag-en.png",
+        "current_price": 4948,
+        "previous_price": 2043,
+        "diff_eur": 2905,
+        "diff_percent": 142.2,
+        "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
       }
     ],
     "baisses": [
@@ -155,10 +155,10 @@
         "rarity": "SEC",
         "language": "fr",
         "flag_url": "/media/flag-fr.png",
-        "current_price": 2500,
+        "current_price": 2400,
         "previous_price": 6752,
-        "diff_eur": -4252,
-        "diff_percent": -63,
+        "diff_eur": -4352,
+        "diff_percent": -64.5,
         "image_url": "https://scalpeurs.com/img/cards-fr/op11-p150.webp"
       },
       {
@@ -211,21 +211,6 @@
         "image_url": "https://scalpeurs.com/img/cards-en/champ2025-p006.webp"
       },
       {
-        "id": "en-champ2024-OP05-091-reg-14",
-        "card_code": "OP05-091",
-        "name": "Rebecca",
-        "variant_label": "Rebecca",
-        "subtitle": "OP05-091 · Rebecca",
-        "rarity": "SR",
-        "language": "en",
-        "flag_url": "/media/flag-en.png",
-        "current_price": 4938,
-        "previous_price": 2043,
-        "diff_eur": 2895,
-        "diff_percent": 141.7,
-        "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
-      },
-      {
         "id": "en-op11-OP05-119-9-149",
         "card_code": "OP05-119",
         "name": "Monkey.D.Luffy",
@@ -234,11 +219,26 @@
         "rarity": "SEC",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 9000,
+        "current_price": 9990,
         "previous_price": 6328,
-        "diff_eur": 2672,
-        "diff_percent": 42.2,
+        "diff_eur": 3662,
+        "diff_percent": 57.9,
         "image_url": "https://scalpeurs.com/img/cards-en/op11-p149.webp"
+      },
+      {
+        "id": "en-champ2024-OP05-091-reg-14",
+        "card_code": "OP05-091",
+        "name": "Rebecca",
+        "variant_label": "Rebecca",
+        "subtitle": "OP05-091 · Rebecca",
+        "rarity": "SR",
+        "language": "en",
+        "flag_url": "/media/flag-en.png",
+        "current_price": 4948,
+        "previous_price": 2043,
+        "diff_eur": 2905,
+        "diff_percent": 142.2,
+        "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
       }
     ],
     "baisses": [
