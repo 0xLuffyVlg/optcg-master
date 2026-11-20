@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T13:18:53.501Z",
-  "date_label": "jeudi 19 novembre",
+  "updated_at": "2026-11-20T12:59:38.236Z",
+  "date_label": "vendredi 20 novembre",
   "all": {
     "hausses": [
       {
@@ -42,10 +42,10 @@
         "rarity": "SR",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 4948,
+        "current_price": 4934,
         "previous_price": 2043,
-        "diff_eur": 2905,
-        "diff_percent": 142.2,
+        "diff_eur": 2891,
+        "diff_percent": 141.5,
         "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
       }
     ],
@@ -155,10 +155,10 @@
         "rarity": "SEC",
         "language": "fr",
         "flag_url": "/media/flag-fr.png",
-        "current_price": 2400,
+        "current_price": 2059,
         "previous_price": 6752,
-        "diff_eur": -4352,
-        "diff_percent": -64.5,
+        "diff_eur": -4693,
+        "diff_percent": -69.5,
         "image_url": "https://scalpeurs.com/img/cards-fr/op11-p150.webp"
       },
       {
@@ -185,10 +185,10 @@
         "rarity": "SEC",
         "language": "fr",
         "flag_url": "/media/flag-fr.png",
-        "current_price": 999,
+        "current_price": 1050,
         "previous_price": 3521,
-        "diff_eur": -2522,
-        "diff_percent": -71.6,
+        "diff_eur": -2471,
+        "diff_percent": -70.2,
         "image_url": "https://scalpeurs.com/img/cards-fr/op13-p157.webp"
       }
     ]
@@ -234,10 +234,10 @@
         "rarity": "SR",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 4948,
+        "current_price": 4934,
         "previous_price": 2043,
-        "diff_eur": 2905,
-        "diff_percent": 142.2,
+        "diff_eur": 2891,
+        "diff_percent": 141.5,
         "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
       }
     ],
@@ -330,10 +330,10 @@
         "rarity": "L",
         "language": "jp",
         "flag_url": "/media/flag-jp.png",
-        "current_price": 1100,
+        "current_price": 1050,
         "previous_price": 319,
-        "diff_eur": 781,
-        "diff_percent": 244.8,
+        "diff_eur": 731,
+        "diff_percent": 229.2,
         "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p093.webp"
       }
     ],
