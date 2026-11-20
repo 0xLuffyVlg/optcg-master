@@ -902,14 +902,14 @@
     "set_group": "OP18",
     "format": "English EB05/OP18 - OP18",
     "deck_color": "Red",
-    "deck_composition_raw": "1nOP13-001a4nOP13-016a4nST30-004a4nEB05-001a4nOP07-022a1nST32-001a4nOP06-033a4nEB01-013a4nOP14-031a4nOP12-023a4nST32-002a4nOP13-031a3nOP17-022a3nOP01-055a2nOP12-037a1nOP10-040",
+    "deck_composition_raw": "1nOP13-001a4nOP13-016a4nST30-004a4nEB05-001a4nOP07-022a1nST32-001a4nOP06-033a4nEB01-013a4nOP14-031a4nOP12-023a4nST32-002a4nOP13-031a3nOP17-022a3nOP01-055a2nOP14-037a1nOP10-040",
     "tournament_results": [
       {
         "player_name": "Doffy",
         "deck_type": "OP13-001",
         "placement": 1,
         "deck_list_url": [
-          "https://deckbuilder.egmanevents.com/?deck=OP13-001:1,OP13-016:4,ST30-004:4,EB05-001:4,OP07-022:4,ST32-001:1,OP06-033:4,EB01-013:4,OP14-031:4,OP12-023:4,ST32-002:4,OP13-031:4,OP17-022:3,OP01-055:3,OP12-037:2,OP10-040:1&type=optcg"
+          "https://deckbuilder.egmanevents.com/?deck=OP13-001:1,OP13-016:4,ST30-004:4,EB05-001:4,OP07-022:4,ST32-001:1,OP06-033:4,EB01-013:4,OP14-031:4,OP12-023:4,ST32-002:4,OP13-031:4,OP17-022:3,OP01-055:3,OP14-037:2,OP10-040:1&type=optcg"
         ],
         "country": "Belgium",
         "host": "MagicFranco(18)",
