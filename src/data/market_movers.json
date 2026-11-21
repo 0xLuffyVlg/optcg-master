@@ -1,23 +1,8 @@
 {
-  "updated_at": "2026-11-20T12:59:38.236Z",
-  "date_label": "vendredi 20 novembre",
+  "updated_at": "2026-11-21T12:43:43.326Z",
+  "date_label": "samedi 21 novembre",
   "all": {
     "hausses": [
-      {
-        "id": "en-champ2025-OP07-119-reg-6",
-        "card_code": "OP07-119",
-        "name": "Portgas.D.Ace",
-        "variant_label": "Portgas.D.Ace (119)",
-        "subtitle": "OP07-119 · Portgas.D.Ace (119)",
-        "rarity": "SEC",
-        "language": "en",
-        "flag_url": "/media/flag-en.png",
-        "current_price": 7500,
-        "previous_price": 3468,
-        "diff_eur": 4032,
-        "diff_percent": 116.3,
-        "image_url": "https://scalpeurs.com/img/cards-en/champ2025-p006.webp"
-      },
       {
         "id": "en-op11-OP05-119-9-149",
         "card_code": "OP05-119",
@@ -34,6 +19,21 @@
         "image_url": "https://scalpeurs.com/img/cards-en/op11-p149.webp"
       },
       {
+        "id": "en-champ2025-OP07-119-reg-6",
+        "card_code": "OP07-119",
+        "name": "Portgas.D.Ace",
+        "variant_label": "Portgas.D.Ace (119)",
+        "subtitle": "OP07-119 · Portgas.D.Ace (119)",
+        "rarity": "SEC",
+        "language": "en",
+        "flag_url": "/media/flag-en.png",
+        "current_price": 7000,
+        "previous_price": 3468,
+        "diff_eur": 3532,
+        "diff_percent": 101.9,
+        "image_url": "https://scalpeurs.com/img/cards-en/champ2025-p006.webp"
+      },
+      {
         "id": "en-champ2024-OP05-091-reg-14",
         "card_code": "OP05-091",
         "name": "Rebecca",
@@ -42,10 +42,10 @@
         "rarity": "SR",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 4934,
+        "current_price": 4917,
         "previous_price": 2043,
-        "diff_eur": 2891,
-        "diff_percent": 141.5,
+        "diff_eur": 2874,
+        "diff_percent": 140.7,
         "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
       }
     ],
@@ -74,10 +74,10 @@
         "rarity": "SEC",
         "language": "jp",
         "flag_url": "/media/flag-jp.png",
-        "current_price": 4500,
+        "current_price": 4700,
         "previous_price": 9574,
-        "diff_eur": -5074,
-        "diff_percent": -53,
+        "diff_eur": -4874,
+        "diff_percent": -50.9,
         "image_url": "https://scalpeurs.com/img/cards-jp/op09-p148.webp"
       },
       {
@@ -185,31 +185,16 @@
         "rarity": "SEC",
         "language": "fr",
         "flag_url": "/media/flag-fr.png",
-        "current_price": 1050,
+        "current_price": 999,
         "previous_price": 3521,
-        "diff_eur": -2471,
-        "diff_percent": -70.2,
+        "diff_eur": -2522,
+        "diff_percent": -71.6,
         "image_url": "https://scalpeurs.com/img/cards-fr/op13-p157.webp"
       }
     ]
   },
   "en": {
     "hausses": [
-      {
-        "id": "en-champ2025-OP07-119-reg-6",
-        "card_code": "OP07-119",
-        "name": "Portgas.D.Ace",
-        "variant_label": "Portgas.D.Ace (119)",
-        "subtitle": "OP07-119 · Portgas.D.Ace (119)",
-        "rarity": "SEC",
-        "language": "en",
-        "flag_url": "/media/flag-en.png",
-        "current_price": 7500,
-        "previous_price": 3468,
-        "diff_eur": 4032,
-        "diff_percent": 116.3,
-        "image_url": "https://scalpeurs.com/img/cards-en/champ2025-p006.webp"
-      },
       {
         "id": "en-op11-OP05-119-9-149",
         "card_code": "OP05-119",
@@ -226,6 +211,21 @@
         "image_url": "https://scalpeurs.com/img/cards-en/op11-p149.webp"
       },
       {
+        "id": "en-champ2025-OP07-119-reg-6",
+        "card_code": "OP07-119",
+        "name": "Portgas.D.Ace",
+        "variant_label": "Portgas.D.Ace (119)",
+        "subtitle": "OP07-119 · Portgas.D.Ace (119)",
+        "rarity": "SEC",
+        "language": "en",
+        "flag_url": "/media/flag-en.png",
+        "current_price": 7000,
+        "previous_price": 3468,
+        "diff_eur": 3532,
+        "diff_percent": 101.9,
+        "image_url": "https://scalpeurs.com/img/cards-en/champ2025-p006.webp"
+      },
+      {
         "id": "en-champ2024-OP05-091-reg-14",
         "card_code": "OP05-091",
         "name": "Rebecca",
@@ -234,10 +234,10 @@
         "rarity": "SR",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 4934,
+        "current_price": 4917,
         "previous_price": 2043,
-        "diff_eur": 2891,
-        "diff_percent": 141.5,
+        "diff_eur": 2874,
+        "diff_percent": 140.7,
         "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
       }
     ],
@@ -273,19 +273,19 @@
         "image_url": "https://scalpeurs.com/img/cards-en/op05-p146.webp"
       },
       {
-        "id": "en-op13-OP13-119-4-161",
-        "card_code": "OP13-119",
-        "name": "Portgas.D.Ace",
-        "variant_label": "Version 4",
-        "subtitle": "OP13-119 · Version 4",
+        "id": "en-op17-OP17-118-3-156",
+        "card_code": "OP17-118",
+        "name": "Rocks.D.Xebec",
+        "variant_label": "Rocks D. Xebec (Alternate Art)",
+        "subtitle": "OP17-118 · Rocks D. Xebec (Alternate Art)",
         "rarity": "SEC",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 4000,
-        "previous_price": 6171,
-        "diff_eur": -2171,
-        "diff_percent": -35.2,
-        "image_url": "https://scalpeurs.com/img/cards-en/op13-p161.webp"
+        "current_price": 5000,
+        "previous_price": 7430,
+        "diff_eur": -2430,
+        "diff_percent": -32.7,
+        "image_url": "https://scalpeurs.com/img/cards-en/op17-p156.webp"
       }
     ]
   },
@@ -362,10 +362,10 @@
         "rarity": "SEC",
         "language": "jp",
         "flag_url": "/media/flag-jp.png",
-        "current_price": 4500,
+        "current_price": 4700,
         "previous_price": 9574,
-        "diff_eur": -5074,
-        "diff_percent": -53,
+        "diff_eur": -4874,
+        "diff_percent": -50.9,
         "image_url": "https://scalpeurs.com/img/cards-jp/op09-p148.webp"
       },
       {
