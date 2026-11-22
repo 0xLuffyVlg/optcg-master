@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T12:43:43.326Z",
-  "date_label": "samedi 21 novembre",
+  "updated_at": "2026-11-22T12:39:19.708Z",
+  "date_label": "dimanche 22 novembre",
   "all": {
     "hausses": [
       {
@@ -42,10 +42,10 @@
         "rarity": "SR",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 4917,
+        "current_price": 4914,
         "previous_price": 2043,
-        "diff_eur": 2874,
-        "diff_percent": 140.7,
+        "diff_eur": 2871,
+        "diff_percent": 140.5,
         "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
       }
     ],
@@ -155,10 +155,10 @@
         "rarity": "SEC",
         "language": "fr",
         "flag_url": "/media/flag-fr.png",
-        "current_price": 2059,
+        "current_price": 2029,
         "previous_price": 6752,
-        "diff_eur": -4693,
-        "diff_percent": -69.5,
+        "diff_eur": -4723,
+        "diff_percent": -70,
         "image_url": "https://scalpeurs.com/img/cards-fr/op11-p150.webp"
       },
       {
@@ -234,10 +234,10 @@
         "rarity": "SR",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 4917,
+        "current_price": 4914,
         "previous_price": 2043,
-        "diff_eur": 2874,
-        "diff_percent": 140.7,
+        "diff_eur": 2871,
+        "diff_percent": 140.5,
         "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
       }
     ],
