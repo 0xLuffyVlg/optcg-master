@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22T12:39:19.708Z",
-  "date_label": "dimanche 22 novembre",
+  "updated_at": "2026-11-23T14:45:49.577Z",
+  "date_label": "lundi 23 novembre",
   "all": {
     "hausses": [
       {
@@ -377,9 +377,9 @@
         "rarity": "SEC",
         "language": "jp",
         "flag_url": "/media/flag-jp.png",
-        "current_price": 3200,
+        "current_price": 3199,
         "previous_price": 7430,
-        "diff_eur": -4230,
+        "diff_eur": -4231,
         "diff_percent": -56.9,
         "image_url": "https://scalpeurs.com/img/cards-jp/op17-p156.webp"
       }
