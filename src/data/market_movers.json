@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T14:45:49.577Z",
-  "date_label": "lundi 23 novembre",
+  "updated_at": "2026-11-24T14:56:27.584Z",
+  "date_label": "mardi 24 novembre",
   "all": {
     "hausses": [
       {
@@ -42,10 +42,10 @@
         "rarity": "SR",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 4914,
+        "current_price": 4916,
         "previous_price": 2043,
-        "diff_eur": 2871,
-        "diff_percent": 140.5,
+        "diff_eur": 2873,
+        "diff_percent": 140.6,
         "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
       }
     ],
@@ -177,19 +177,19 @@
         "image_url": "https://scalpeurs.com/img/cards-fr/op17-p156.webp"
       },
       {
-        "id": "fr-op13-OP13-118-3-157",
-        "card_code": "OP13-118",
+        "id": "fr-eb02-EB02-061-3-79",
+        "card_code": "EB02-061",
         "name": "Monkey D. Luffy",
-        "variant_label": "Monkey.D.Luffy (118) (Super Alternate Art)",
-        "subtitle": "OP13-118 · Monkey.D.Luffy (118) (Super Alternate Art)",
+        "variant_label": "Manga Rare 👑",
+        "subtitle": "EB02-061 · Manga Rare 👑",
         "rarity": "SEC",
         "language": "fr",
         "flag_url": "/media/flag-fr.png",
-        "current_price": 999,
-        "previous_price": 3521,
-        "diff_eur": -2522,
-        "diff_percent": -71.6,
-        "image_url": "https://scalpeurs.com/img/cards-fr/op13-p157.webp"
+        "current_price": 2100,
+        "previous_price": 4662,
+        "diff_eur": -2562,
+        "diff_percent": -55,
+        "image_url": "https://scalpeurs.com/img/cards-fr/eb02-p079.webp"
       }
     ]
   },
@@ -234,10 +234,10 @@
         "rarity": "SR",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 4914,
+        "current_price": 4916,
         "previous_price": 2043,
-        "diff_eur": 2871,
-        "diff_percent": 140.5,
+        "diff_eur": 2873,
+        "diff_percent": 140.6,
         "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
       }
     ],
@@ -330,10 +330,10 @@
         "rarity": "L",
         "language": "jp",
         "flag_url": "/media/flag-jp.png",
-        "current_price": 1050,
+        "current_price": 1100,
         "previous_price": 319,
-        "diff_eur": 731,
-        "diff_percent": 229.2,
+        "diff_eur": 781,
+        "diff_percent": 244.8,
         "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p093.webp"
       }
     ],
