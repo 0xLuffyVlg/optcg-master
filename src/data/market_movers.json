@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T14:56:27.584Z",
-  "date_label": "mardi 24 novembre",
+  "updated_at": "2026-11-25T14:29:41.266Z",
+  "date_label": "mercredi 25 novembre",
   "all": {
     "hausses": [
       {
@@ -34,19 +34,19 @@
         "image_url": "https://scalpeurs.com/img/cards-en/champ2025-p006.webp"
       },
       {
-        "id": "en-champ2024-OP05-091-reg-14",
-        "card_code": "OP05-091",
-        "name": "Rebecca",
-        "variant_label": "Rebecca",
-        "subtitle": "OP05-091 · Rebecca",
+        "id": "en-pack-championship-ST10-013-2-51",
+        "card_code": "ST10-013",
+        "name": "Eustass\"Captain\"Kid",
+        "variant_label": "Eustass\"Captain\"Kid (CS 2023 Top Players Pack)",
+        "subtitle": "ST10-013 · Eustass\"Captain\"Kid (CS 2023 Top Players Pack)",
         "rarity": "SR",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 4916,
-        "previous_price": 2043,
-        "diff_eur": 2873,
-        "diff_percent": 140.6,
-        "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
+        "current_price": 4000,
+        "previous_price": 1663,
+        "diff_eur": 2337,
+        "diff_percent": 140.5,
+        "image_url": "https://scalpeurs.com/img/cards-en/pack-championship-p051.webp"
       }
     ],
     "baisses": [
@@ -155,10 +155,10 @@
         "rarity": "SEC",
         "language": "fr",
         "flag_url": "/media/flag-fr.png",
-        "current_price": 2029,
+        "current_price": 2000,
         "previous_price": 6752,
-        "diff_eur": -4723,
-        "diff_percent": -70,
+        "diff_eur": -4752,
+        "diff_percent": -70.4,
         "image_url": "https://scalpeurs.com/img/cards-fr/op11-p150.webp"
       },
       {
@@ -226,19 +226,19 @@
         "image_url": "https://scalpeurs.com/img/cards-en/champ2025-p006.webp"
       },
       {
-        "id": "en-champ2024-OP05-091-reg-14",
-        "card_code": "OP05-091",
-        "name": "Rebecca",
-        "variant_label": "Rebecca",
-        "subtitle": "OP05-091 · Rebecca",
+        "id": "en-pack-championship-ST10-013-2-51",
+        "card_code": "ST10-013",
+        "name": "Eustass\"Captain\"Kid",
+        "variant_label": "Eustass\"Captain\"Kid (CS 2023 Top Players Pack)",
+        "subtitle": "ST10-013 · Eustass\"Captain\"Kid (CS 2023 Top Players Pack)",
         "rarity": "SR",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 4916,
-        "previous_price": 2043,
-        "diff_eur": 2873,
-        "diff_percent": 140.6,
-        "image_url": "https://scalpeurs.com/img/cards-en/champ2024-p014.webp"
+        "current_price": 4000,
+        "previous_price": 1663,
+        "diff_eur": 2337,
+        "diff_percent": 140.5,
+        "image_url": "https://scalpeurs.com/img/cards-en/pack-championship-p051.webp"
       }
     ],
     "baisses": [
