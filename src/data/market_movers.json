@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25T14:29:41.266Z",
-  "date_label": "mercredi 25 novembre",
+  "updated_at": "2026-11-26T13:58:12.336Z",
+  "date_label": "jeudi 26 novembre",
   "all": {
     "hausses": [
       {
@@ -170,10 +170,10 @@
         "rarity": "SEC",
         "language": "fr",
         "flag_url": "/media/flag-fr.png",
-        "current_price": 3700,
+        "current_price": 3500,
         "previous_price": 7430,
-        "diff_eur": -3730,
-        "diff_percent": -50.2,
+        "diff_eur": -3930,
+        "diff_percent": -52.9,
         "image_url": "https://scalpeurs.com/img/cards-fr/op17-p156.webp"
       },
       {
@@ -281,10 +281,10 @@
         "rarity": "SEC",
         "language": "en",
         "flag_url": "/media/flag-en.png",
-        "current_price": 5000,
+        "current_price": 4730,
         "previous_price": 7430,
-        "diff_eur": -2430,
-        "diff_percent": -32.7,
+        "diff_eur": -2700,
+        "diff_percent": -36.3,
         "image_url": "https://scalpeurs.com/img/cards-en/op17-p156.webp"
       }
     ]
