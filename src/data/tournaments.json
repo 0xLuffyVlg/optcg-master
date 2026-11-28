@@ -1,5 +1,425 @@
 [
   {
+    "id": "op18-eng-1-mx0hjdy5-tc1q",
+    "tournament_name": "SB",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/26/2026",
+    "country": "Europe",
+    "host": "GereGaming(28)",
+    "player_name": "Dagista",
+    "deck_name": "Blue Rocks",
+    "deck_type": "OP17-039",
+    "placement_str": "1st (5-0)",
+    "placement": 1,
+    "score": {
+      "wins": 5,
+      "losses": 0,
+      "matches": 5,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Blue",
+    "deck_composition_raw": "1nOP17-039a3nOP08-051a3nOP17-050a4nOP17-045a3nOP17-052a4nOP17-054a2nOP17-042a3nOP17-044a4nOP17-046a4nOP17-049a4nOP17-040a4nOP17-048a4nOP17-118a4nOP17-055a4nOP17-056",
+    "tournament_results": [
+      {
+        "player_name": "Dagista",
+        "deck_type": "OP17-039",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP17-039:1,OP08-051:3,OP17-050:3,OP17-045:4,OP17-052:3,OP17-054:4,OP17-042:2,OP17-044:3,OP17-046:4,OP17-049:4,OP17-040:4,OP17-048:4,OP17-118:4,OP17-055:4,OP17-056:4&type=optcg"
+        ],
+        "country": "Europe",
+        "host": "GereGaming(28)",
+        "placement_str": "1st (5-0)",
+        "score": {
+          "wins": 5,
+          "losses": 0,
+          "matches": 5,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-2-mx0hjdy5-dhgj",
+    "tournament_name": "ShopEvent",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/25/2026",
+    "country": "Europe",
+    "host": "LGS",
+    "player_name": "MichaelLang90",
+    "deck_name": "Saint gunko",
+    "deck_type": "OP18-060",
+    "placement_str": "1st (5-0)",
+    "placement": 1,
+    "score": {
+      "wins": 5,
+      "losses": 0,
+      "matches": 5,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Black",
+    "deck_composition_raw": "1nOP18-060a4nOP18-084a4nOP18-085a2nOP17-095a4nOP18-083a2nOP13-091a3nOP18-088a4nOP18-119a4nOP18-093a2nOP02-121a4nOP18-064a3nST34-004a2nOP18-065a4nOP18-095a4nOP18-096a4nOP18-097",
+    "tournament_results": [
+      {
+        "player_name": "MichaelLang90",
+        "deck_type": "OP18-060",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP18-060:1,OP18-084:4,OP18-085:4,OP17-095:2,OP18-083:4,OP13-091:2,OP18-088:3,OP18-119:4,OP18-093:4,OP02-121:2,OP18-064:4,ST34-004:3,OP18-065:2,OP18-095:4,OP18-096:4,OP18-097:4&type=optcg"
+        ],
+        "country": "Europe",
+        "host": "LGS",
+        "placement_str": "1st (5-0)",
+        "score": {
+          "wins": 5,
+          "losses": 0,
+          "matches": 5,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-3-mx0hjdy5-mvtn",
+    "tournament_name": "sim(postban)",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/25/2026",
+    "country": "Europe",
+    "host": "ChinoizeCup(78)",
+    "player_name": "Moses1234",
+    "deck_name": "Saint gunko",
+    "deck_type": "OP18-060",
+    "placement_str": "1st (6-0)",
+    "placement": 1,
+    "score": {
+      "wins": 6,
+      "losses": 0,
+      "matches": 6,
+      "winRate": 100
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Black",
+    "deck_composition_raw": "1nOP18-060a4nOP18-084a4nOP18-085a2nEB05-047a4nOP18-083a1nOP13-091a3nOP18-088a4nOP18-119a4nOP18-093a1nOP18-093a2nEB05-034a4nOP18-064a2nOP18-065a4nOP18-095a4nOP18-096a3nOP15-078a4nOP18-097",
+    "tournament_results": [
+      {
+        "player_name": "Moses1234",
+        "deck_type": "OP18-060",
+        "placement": 1,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP18-060:1,OP18-084:4,OP18-085:4,EB05-047:2,OP18-083:4,OP13-091:1,OP18-088:3,OP18-119:4,OP18-093:4,OP18-093:1,EB05-034:2,OP18-064:4,OP18-065:2,OP18-095:4,OP18-096:4,OP15-078:3,OP18-097:4&type=optcg"
+        ],
+        "country": "Europe",
+        "host": "ChinoizeCup(78)",
+        "placement_str": "1st (6-0)",
+        "score": {
+          "wins": 6,
+          "losses": 0,
+          "matches": 6,
+          "winRate": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-4-mx0hjdy5-fosn",
+    "tournament_name": "sim",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/25/2026",
+    "country": "Europe",
+    "host": "ChinoizeCup(78)",
+    "player_name": "zockerdima",
+    "deck_name": "Franky",
+    "deck_type": "OP18-021",
+    "placement_str": "2nd Place",
+    "placement": 2,
+    "score": {
+      "wins": 4,
+      "losses": 1,
+      "matches": 5,
+      "winRate": 80
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Purple",
+    "deck_composition_raw": "1nOP18-021a2nOP18-070a4nOP18-061a4nOP08-067a4nOP18-072a4nEB02-017a2nOP18-031a4nOP18-034a4nOP18-118a4nOP17-022a2nOP09-078a4nOP18-075a4nOP18-076a4nOP18-077a4nOP18-078",
+    "tournament_results": [
+      {
+        "player_name": "zockerdima",
+        "deck_type": "OP18-021",
+        "placement": 2,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP18-021:1,OP18-070:2,OP18-061:4,OP08-067:4,OP18-072:4,EB02-017:4,OP18-031:2,OP18-034:4,OP18-118:4,OP17-022:4,OP09-078:2,OP18-075:4,OP18-076:4,OP18-077:4,OP18-078:4&type=optcg"
+        ],
+        "country": "Europe",
+        "host": "ChinoizeCup(78)",
+        "placement_str": "2nd Place",
+        "score": {
+          "wins": 4,
+          "losses": 1,
+          "matches": 5,
+          "winRate": 80
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-5-mx0hjdy5-pykr",
+    "tournament_name": "sim",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/25/2026",
+    "country": "Europe",
+    "host": "ChinoizeCup(78)",
+    "player_name": "Dude Neo",
+    "deck_name": "P Enel",
+    "deck_type": "OP15-058",
+    "placement_str": "T4",
+    "placement": 4,
+    "score": {
+      "wins": 3,
+      "losses": 1,
+      "matches": 4,
+      "winRate": 75
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Purple",
+    "deck_composition_raw": "1nOP15-058a4nOP12-071a4nOP15-061a3nOP15-066a4nOP15-067a3nOP15-071a2nST10-010a1nOP09-072a2nOP10-067a4nOP15-118a1nOP13-076a3nOP15-074a4nOP15-075a4nOP15-076a4nOP15-077a4nOP15-078a3nOP05-077",
+    "tournament_results": [
+      {
+        "player_name": "Dude Neo",
+        "deck_type": "OP15-058",
+        "placement": 4,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP15-058:1,OP12-071:4,OP15-061:4,OP15-066:3,OP15-067:4,OP15-071:3,ST10-010:2,OP09-072:1,OP10-067:2,OP15-118:4,OP13-076:1,OP15-074:3,OP15-075:4,OP15-076:4,OP15-077:4,OP15-078:4,OP05-077:3&type=optcg"
+        ],
+        "country": "Europe",
+        "host": "ChinoizeCup(78)",
+        "placement_str": "T4",
+        "score": {
+          "wins": 3,
+          "losses": 1,
+          "matches": 4,
+          "winRate": 75
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-6-mx0hjdy5-109a",
+    "tournament_name": "sim",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/25/2026",
+    "country": "Europe",
+    "host": "ChinoizeCup(78)",
+    "player_name": "Kevnoa",
+    "deck_name": "Blue Buggy",
+    "deck_type": "OP09-042",
+    "placement_str": "T4",
+    "placement": 4,
+    "score": {
+      "wins": 3,
+      "losses": 1,
+      "matches": 4,
+      "winRate": 75
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Blue",
+    "deck_composition_raw": "1nOP09-042a4nOP09-056a2nOP18-047a2nOP18-051a2nST25-001a4nST25-002a4nST25-005a4nOP16-056a4nOP09-048a2nOP12-049a2nP-084a4nST25-003a4nEB05-021a4nOP09-051a2nOP18-059a4nOP09-057a2nOP16-058",
+    "tournament_results": [
+      {
+        "player_name": "Kevnoa",
+        "deck_type": "OP09-042",
+        "placement": 4,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP09-042:1,OP09-056:4,OP18-047:2,OP18-051:2,ST25-001:2,ST25-002:4,ST25-005:4,OP16-056:4,OP09-048:4,OP12-049:2,P-084:2,ST25-003:4,EB05-021:4,OP09-051:4,OP18-059:2,OP09-057:4,OP16-058:2&type=optcg"
+        ],
+        "country": "Europe",
+        "host": "ChinoizeCup(78)",
+        "placement_str": "T4",
+        "score": {
+          "wins": 3,
+          "losses": 1,
+          "matches": 4,
+          "winRate": 75
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-7-mx0hjdy5-333k",
+    "tournament_name": "sim",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/25/2026",
+    "country": "Europe",
+    "host": "ChinoizeCup(78)",
+    "player_name": "RubenTR",
+    "deck_name": "Red Purple Luffy",
+    "deck_type": "ST10-002",
+    "placement_str": "T8 (5-1)",
+    "placement": 8,
+    "score": {
+      "wins": 5,
+      "losses": 1,
+      "matches": 6,
+      "winRate": 83.3
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Purple",
+    "deck_composition_raw": "1nST10-002a4nEB05-033a3nOP05-067a3nST18-001a4nOP17-074a4nEB01-061a3nP-107a4nOP05-119a4nOP01-016a4nEB04-002a2nST21-003a4nEB04-007a4nOP15-078a3nOP09-078a4nST31-005",
+    "tournament_results": [
+      {
+        "player_name": "RubenTR",
+        "deck_type": "ST10-002",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=ST10-002:1,EB05-033:4,OP05-067:3,ST18-001:3,OP17-074:4,EB01-061:4,P-107:3,OP05-119:4,OP01-016:4,EB04-002:4,ST21-003:2,EB04-007:4,OP15-078:4,OP09-078:3,ST31-005:4&type=optcg"
+        ],
+        "country": "Europe",
+        "host": "ChinoizeCup(78)",
+        "placement_str": "T8 (5-1)",
+        "score": {
+          "wins": 5,
+          "losses": 1,
+          "matches": 6,
+          "winRate": 83.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-8-mx0hjdy5-s6cv",
+    "tournament_name": "sim",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/25/2026",
+    "country": "Europe",
+    "host": "ChinoizeCup(78)",
+    "player_name": "TTP Fuat",
+    "deck_name": "Blue Rocks",
+    "deck_type": "OP17-039",
+    "placement_str": "T8 (5-1)",
+    "placement": 8,
+    "score": {
+      "wins": 5,
+      "losses": 1,
+      "matches": 6,
+      "winRate": 83.3
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Blue",
+    "deck_composition_raw": "1nOP17-039a4nOP08-051a4nOP17-050a4nOP17-045a1nOP17-052a4nOP17-054a2nOP17-042a2nOP17-044a4nOP17-046a4nOP17-049a1nOP12-049a4nOP17-040a4nOP17-048a4nOP17-118a4nOP17-055a4nOP17-056",
+    "tournament_results": [
+      {
+        "player_name": "TTP Fuat",
+        "deck_type": "OP17-039",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP17-039:1,OP08-051:4,OP17-050:4,OP17-045:4,OP17-052:1,OP17-054:4,OP17-042:2,OP17-044:2,OP17-046:4,OP17-049:4,OP12-049:1,OP17-040:4,OP17-048:4,OP17-118:4,OP17-055:4,OP17-056:4&type=optcg"
+        ],
+        "country": "Europe",
+        "host": "ChinoizeCup(78)",
+        "placement_str": "T8 (5-1)",
+        "score": {
+          "wins": 5,
+          "losses": 1,
+          "matches": 6,
+          "winRate": 83.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-9-mx0hjdy5-gvqf",
+    "tournament_name": "sim",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/25/2026",
+    "country": "Europe",
+    "host": "ChinoizeCup(78)",
+    "player_name": "Solmyr",
+    "deck_name": "Blue Buggy",
+    "deck_type": "OP09-042",
+    "placement_str": "T8 (5-1)",
+    "placement": 8,
+    "score": {
+      "wins": 5,
+      "losses": 1,
+      "matches": 6,
+      "winRate": 83.3
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Blue",
+    "deck_composition_raw": "1nOP09-042a4nOP09-056a3nST25-001a4nST25-002a4nST25-004a4nST25-005a4nOP16-056a4nOP09-048a2nOP12-049a3nOP16-051a1nP-084a4nST25-003a4nEB05-021a4nOP09-051a4nOP09-057a1nEB02-031",
+    "tournament_results": [
+      {
+        "player_name": "Solmyr",
+        "deck_type": "OP09-042",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP09-042:1,OP09-056:4,ST25-001:3,ST25-002:4,ST25-004:4,ST25-005:4,OP16-056:4,OP09-048:4,OP12-049:2,OP16-051:3,P-084:1,ST25-003:4,EB05-021:4,OP09-051:4,OP09-057:4,EB02-031:1&type=optcg"
+        ],
+        "country": "Europe",
+        "host": "ChinoizeCup(78)",
+        "placement_str": "T8 (5-1)",
+        "score": {
+          "wins": 5,
+          "losses": 1,
+          "matches": 6,
+          "winRate": 83.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "op18-eng-10-mx0hjdy5-qhgo",
+    "tournament_name": "sim",
+    "source_name": "English EB05/OP18",
+    "start_date": "11/25/2026",
+    "country": "Europe",
+    "host": "ChinoizeCup(78)",
+    "player_name": "vladtiv",
+    "deck_name": "Blue Rocks",
+    "deck_type": "OP17-039",
+    "placement_str": "T8 (5-1)",
+    "placement": 8,
+    "score": {
+      "wins": 5,
+      "losses": 1,
+      "matches": 6,
+      "winRate": 83.3
+    },
+    "set_group": "OP18",
+    "format": "English EB05/OP18 - OP18",
+    "deck_color": "Blue",
+    "deck_composition_raw": "1nOP17-039a3nOP08-051a2nOP17-050a4nOP17-045a4nOP17-052a4nOP17-054a3nOP17-042a2nOP17-044a4nOP17-046a4nOP17-049a4nOP17-040a4nOP17-048a4nOP17-118a4nOP17-055a4nOP17-056",
+    "tournament_results": [
+      {
+        "player_name": "vladtiv",
+        "deck_type": "OP17-039",
+        "placement": 8,
+        "deck_list_url": [
+          "https://deckbuilder.egmanevents.com/?deck=OP17-039:1,OP08-051:3,OP17-050:2,OP17-045:4,OP17-052:4,OP17-054:4,OP17-042:3,OP17-044:2,OP17-046:4,OP17-049:4,OP17-040:4,OP17-048:4,OP17-118:4,OP17-055:4,OP17-056:4&type=optcg"
+        ],
+        "country": "Europe",
+        "host": "ChinoizeCup(78)",
+        "placement_str": "T8 (5-1)",
+        "score": {
+          "wins": 5,
+          "losses": 1,
+          "matches": 6,
+          "winRate": 83.3
+        }
+      }
+    ]
+  },
+  {
     "id": "op18-jp-1-mwwa7sug-bh8a",
     "tournament_name": "SB",
     "source_name": "Japan EB05/OP18",
