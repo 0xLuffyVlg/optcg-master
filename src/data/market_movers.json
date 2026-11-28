@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T13:56:30.528Z",
-  "date_label": "vendredi 27 novembre",
+  "updated_at": "2026-11-28T13:06:18.641Z",
+  "date_label": "samedi 28 novembre",
   "all": {
     "hausses": [
       {
@@ -170,10 +170,10 @@
         "rarity": "SEC",
         "language": "fr",
         "flag_url": "/media/flag-fr.png",
-        "current_price": 3500,
+        "current_price": 3400,
         "previous_price": 7430,
-        "diff_eur": -3930,
-        "diff_percent": -52.9,
+        "diff_eur": -4030,
+        "diff_percent": -54.2,
         "image_url": "https://scalpeurs.com/img/cards-fr/op17-p156.webp"
       },
       {
@@ -292,36 +292,6 @@
   "jp": {
     "hausses": [
       {
-        "id": "jp-champ2023-OP01-025-reg-3",
-        "card_code": "OP01-025",
-        "name": "Roronoa Zoro",
-        "variant_label": "Roronoa Zoro (025)",
-        "subtitle": "OP01-025 · Roronoa Zoro (025)",
-        "rarity": "SR",
-        "language": "jp",
-        "flag_url": "/media/flag-jp.png",
-        "current_price": 2050,
-        "previous_price": 723,
-        "diff_eur": 1327,
-        "diff_percent": 183.7,
-        "image_url": "https://scalpeurs.com/img/cards-jp/champ2023-p003.webp"
-      },
-      {
-        "id": "jp-prb01-EB01-006-reg-1",
-        "card_code": "EB01-006",
-        "name": "Tony Tony.Chopper",
-        "variant_label": "Base",
-        "subtitle": "EB01-006",
-        "rarity": "SR",
-        "language": "jp",
-        "flag_url": "/media/flag-jp.png",
-        "current_price": 2800,
-        "previous_price": 1590,
-        "diff_eur": 1210,
-        "diff_percent": 76.1,
-        "image_url": "https://scalpeurs.com/img/cards-jp/prb01-p001.webp"
-      },
-      {
         "id": "jp-eb02-OP07-038-reg-93",
         "card_code": "OP07-038",
         "name": "Boa Hancock",
@@ -335,6 +305,36 @@
         "diff_eur": 781,
         "diff_percent": 244.8,
         "image_url": "https://scalpeurs.com/img/cards-jp/eb02-p093.webp"
+      },
+      {
+        "id": "jp-champ2023-OP01-025-reg-3",
+        "card_code": "OP01-025",
+        "name": "Roronoa Zoro",
+        "variant_label": "Roronoa Zoro (025)",
+        "subtitle": "OP01-025 · Roronoa Zoro (025)",
+        "rarity": "SR",
+        "language": "jp",
+        "flag_url": "/media/flag-jp.png",
+        "current_price": 1500,
+        "previous_price": 723,
+        "diff_eur": 777,
+        "diff_percent": 107.6,
+        "image_url": "https://scalpeurs.com/img/cards-jp/champ2023-p003.webp"
+      },
+      {
+        "id": "jp-promo-lecafig-OP01-001-reg-2",
+        "card_code": "OP01-001",
+        "name": "Roronoa Zoro",
+        "variant_label": "Base",
+        "subtitle": "OP01-001",
+        "rarity": "L",
+        "language": "jp",
+        "flag_url": "/media/flag-jp.png",
+        "current_price": 250,
+        "previous_price": 75,
+        "diff_eur": 175,
+        "diff_percent": 233.6,
+        "image_url": "https://scalpeurs.com/img/cards-jp/promo-lecafig-p002.webp"
       }
     ],
     "baisses": [
@@ -377,10 +377,10 @@
         "rarity": "SEC",
         "language": "jp",
         "flag_url": "/media/flag-jp.png",
-        "current_price": 3199,
+        "current_price": 3195,
         "previous_price": 7430,
-        "diff_eur": -4231,
-        "diff_percent": -56.9,
+        "diff_eur": -4235,
+        "diff_percent": -57,
         "image_url": "https://scalpeurs.com/img/cards-jp/op17-p156.webp"
       }
     ]
